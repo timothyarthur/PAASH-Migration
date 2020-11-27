@@ -12,8 +12,6 @@ Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 
 Congregationalists, Finnish [German, etc.]
 
-Driving under the influence
-
 Elections (Federal, [date])
 
 Elections (Local, [date])
@@ -24,35 +22,15 @@ Folk dancing, [Ukrainian, French, German, etc.]
 
 Funeral rites and ceremonies, [Class of persons or Ethnic group]
 
-Garden ornaments and furniture
-
 Legislation (Name of Act as titled in the Statutes of Alberta)
 
 Lutherans, Danish [Swedish, etc.]
-
-Names, Geographical
-
-Names, Personal
-
-Place-names
-
-Street names
-
-Underpasses
-
-Undertakers and undertaking
-
-Vietnamese
-
-Vietnamese Canadians
-
-Water, Underground
 
 Accidents
 	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
 
 Accounting
-	RT subdivision Accounting under topics, e.g., Dairying--Accounting and under names of individual corporate bodies
+	RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies
 
 Agriculture, Department of
 	RT names of Divisions and Branches, e.g., Agriculture, Department of.  Home Economics Branch.
@@ -64,37 +42,10 @@ Airlines
 	RT names of airlines
 
 Alberta
-	Relations (General) with [Name of foreign country]
+	NT Relations (General) with [Name of foreign country]
 
 Alberta
-	Relations (Military) with [Name of foreign country]
-
-Alberta Advantage Party
-	See NT under Alberta -- Political parties
-
-Alberta Alliance
-	See NT under Alberta -- Political parties
-
-Alberta First
-	See NT under Alberta -- Political parties
-
-Alberta Independence Party
-	See NT under Alberta -- Political parties
-
-Alberta Party
-	See NT under Alberta -- Political parties
-
-Alberta Reform Movement
-	See NT under Alberta -- Political parties
-
-Alberta Liberal Party
-	See NT under Alberta -- Political parties
-
-Alberta New Democratic Party
-	See NT under Alberta -- Political parties
-
-Alberta Social Credit Party
-	See NT under Alberta -- Political parties
+	NT Relations (Military) with [Name of foreign country]
 
 Aldermen
 	USE City Councillors under names of cities
@@ -112,13 +63,13 @@ Archives
 	RT subdivision Archives under subjects, e.g., Universities and colleges -- Archives
 
 Assiniboine Nation
-	For NT use pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Associations, institutions, etc.
 	RT specific names of associations.
 
 Athabasca University
-	[Academic department names]
+	NT [Academic department names]
 
 Baptism
 	USE as NT under specific religion
@@ -133,16 +84,7 @@ Berries
 	RT names of particular berries
 
 Birth control
-	Religious aspects [Baptist Church, Catholic Church, etc.]
-
-Bishops
-	Where possible use the subdivision Bishops under the specific denomination.
-
-Boards of trade
-	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
-
-Boats and boating
-	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
+	NT Religious aspects [Baptist Church, Catholic Church, etc.]
 
 Boundaries
 	USE NT Boundaries under place names.
@@ -172,43 +114,43 @@ By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
 
 Cabinet ministers
-	Canada [Alberta, etc.]
+	NT Canada [Alberta, etc.]
 
 Calgary
-	Blizzard, [date]
+	NT Blizzard, [date]
 
 Calgary
-	Census, [date]
+	NT Census, [date]
 
 Calgary
-	Earthquake, [date]
+	NT Earthquake, [date]
 
 Calgary
-	Explosion, [date]
+	NT Explosion, [date]
 
 Calgary
-	Fire, [date]
+	NT Fire, [date]
 
 Calgary
-	Flood, [date]
+	NT Flood, [date]
 
 Calgary
-	General strike, [date]
+	NT General strike, [date]
 
 Calgary
-	Landslide, [date]
+	NT Landslide, [date]
 
 Calgary
-	Riot, [date]
+	NT Riot, [date]
 
 Calgary
-	Storm, [date]
+	NT Storm, [date]
 
 Calgary
-	Tornado, [date]
+	NT Tornado, [date]
 
 Canada
-	Commerce--[United States, etc.]
+	NT Commerce--[United States, etc.]
 
 Canada.  Army (use up to 1968)
 	For subdivisions use NT under Canada. Canadian Armed Forces
@@ -243,20 +185,11 @@ City councils
 City councils
 	RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council
 
-Civil service
-	For specific departments USE [Name of department] -- Officials and employees
-
 Colleges
 	RT Names of specific colleges, universities
 
 Commissions (of inquiry)
 	USE Names of specific commissions
-
-Committees
-	For individual committees USE name of committee.
-
-Communist Party -- Alberta
-	See NT under Alberta -- Political parties
 
 Consulates
 	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
@@ -264,53 +197,38 @@ Consulates
 Convents
 	USE as NT under specific sect or religion.
 
-Cooperative Commonwealth Federation
-	See NT under Alberta -- Political parties
-
 Cornerstone laying
 	RT subdivision Laying of cornerstone under names of specific buildings
 
-Counties
-	For names of particular counties use the following format:  Parkland, County of
-
 Cree Nation
-	When possible use name of specific nation
-
-Cree Nation
-	For subdivisions USE pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Cree Nation, Plains
-	For subdivisions USE pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Cree Nation, Woodlands
-	For subdivisions USE pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Creeks
 	USE name of creek
 
-Cremation
-	RT Undertakers and undertaking
-
-Crematoriums
-	RT Undertakers and undertaking
-
 Dane-zaa Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Dene Suline Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Dene Tha' Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+
+Disasters
+	RT specific types of disasters, e.g., Floods, Fires
 
 Disasters
 	RT names of specific disasters
 
 Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
-
-Dominion Labor Party
-	See NT under Alberta -- Political parties
 
 Drinking and traffic accidents
 	USE Driving under the influence
@@ -319,46 +237,43 @@ Drunk driving
 	USE Driving under the influence
 
 Edmonton
-	Blizzard, [date]
+	NT Blizzard, [date]
 
 Edmonton
-	Census, [date]
+	NT Census, [date]
 
 Edmonton
-	Earthquake, [date]
+	NT Earthquake, [date]
 
 Edmonton
-	Explosion, [date]
+	NT Explosion, [date]
 
 Edmonton
-	Fire, [date]
+	NT Fire, [date]
 
 Edmonton
-	Flood, [date]
+	NT Flood, [date]
 
 Edmonton
-	General strike, [date]
+	NT General strike, [date]
 
 Edmonton
-	Landslide, [date]
+	NT Landslide, [date]
 
 Edmonton
-	Riot, [date]
+	NT Riot, [date]
 
 Edmonton
-	Storm, [date]
+	NT Storm, [date]
 
 Edmonton
-	Tornado, [date]
+	NT Tornado, [date]
 
 Election districts (Cities)
 	USE subdivisions Wards under names of cities
 
-Election districts (Federal)
-	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
-
-Election districts (Provincial)
-	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
+Entertainment
+	USE specific form of entertainment
 
 Entertainment
 	USE Amusements subdivision under names of communities
@@ -388,10 +303,10 @@ Fire prevention
 	RT subdivision Fires and fire prevention under communities
 
 First Nations
-	For NT see subdivisions under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Floods
-	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River--Floods
+	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods
 
 Food
 	RT subdivision Food under subjects, e.g., Birds -- Foods,
@@ -402,17 +317,8 @@ Football
 Football
 	RT subdivision Football under names of schools, colleges, etc.
 
-Forts and trading posts
-	RT subdivision Forts under Royal Canadian Mounted Police
-
 Fraternal benefit societies
 	USE Names of particular clubs
-
-Freedom Conservative Party of Alberta
-	See NT under Alberta -- Political parties
-
-Funeral homes
-	USE Undertakers and undertaking
 
 Game and game birds
 	RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc.
@@ -428,9 +334,6 @@ Government departments (Other provinces)
 
 Government employees
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
-
-Green Party of Alberta
-	See NT under Alberta -- Political parties
 
 Halls
 	RT subdivision Auditoriums, convention facilities, etc. under names of communities
@@ -448,25 +351,19 @@ Hymns
 	USE as NT under specific denomination
 
 Indigenous peoples
-	Use specific nation where possible.  The following subdivisions can be added to specific nation names.
-
-Indigenous peoples
-	Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Inuit
-	For NT use subdivisions under Indigenous peoples
-
-Investments, Foreign
-	Use specific name of country where possible.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Judicial districts
 	For names of particular districts use the following format: Lethbridge, Judicial District of
 
 Kainai Nation
-	For subdivisions, use format under Indigenous peoples.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Kutenai Nation
-	For subdivisions, use format under Indigenous peoples.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Laboratories
 	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
@@ -475,19 +372,16 @@ Legislation
 	RT Legislation (Name of Act as titled in the Statutes of Alberta)
 
 Lieutenant-Governors
-	Alberta [Saskatchewan, Ontario, etc.]
+	NT Alberta [Saskatchewan, Ontario, etc.]
 
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
-
-Local Improvement Districts
-	For names of particular L.I.D.s, use the following format:
 
 Mayors
 	RT subdivision Mayors under names of communities
 
 Métis Nation
-	For subdivisions, use pattern under Indigenous peoples.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Ministerial papers
 	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
@@ -495,20 +389,20 @@ Ministerial papers
 Ministers of Religion
 	USE Clergy subdivision under specific denomination
 
-Municipal Districts
-	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
-
 Nakawe Nation
-	For subdivisions, use pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Nakoda Nation
-	For subdivisions, use pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Niitsitapi
-	For subdivisions, use format under Indigenous peoples.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+
+Numbered treaties
+	RT specific treaties
 
 Ojibwa Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Olympics
 	RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)
@@ -519,8 +413,14 @@ Orchestra
 Orthodox Catholic Church
 	USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches
 
+Pavement
+	NT Contracts and specifications
+
+Pests
+	RT specific types of pests, e.g. Rats
+
 Piikani Nation
-	For subdivisions USE pattern under Indigenous peoples
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
@@ -528,20 +428,11 @@ Residential schools
 Residential schools
 	RT Residential schools NT under Indigenous peoples
 
-Sarcee Nation
-	For subdivisions use pattern under Indigenous peoples
-
-Ships
-	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
-
 Siksika Nation
-	For subdivisions, use format under Indigenous peoples.
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Sioux Nation
-	For subdivisions USE pattern under Indigenous peoples
-
-Socialist Party of Alberta
-	See NT under Alberta -- Political parties
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Speeches, addresses, etc.
 	RT subdivision Addresses, essays, lectures, with names of organizations or persons.
@@ -567,41 +458,26 @@ Truth and Reconciliation Commission
 Truth and Reconciliation Commission
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
-United Conservative Party
-	See NT under Alberta -- Political parties
-
-United Farmers of Alberta (political party)
-	See NT under Alberta -- Political parties
+Tsuu T'ina Nation
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 University of Alberta
-	For subdivisions USE pattern under Athabasca University
+	NT [Academic department names]
 
 Vocational colleges
 	RT names of particular institutions
 
 Waste products
-	RT subdivision By-products under specific industries, e.g. Gas manufacture and works--By-products
+	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products
 
 Waste products
 	RT subdivision Waste disposal under plants, industries, etc.,
 
-Western Canada Concept
-	See NT under Alberta -- Political parties
-
-Western Independence Party
-	See NT under Alberta -- Political parties
-
 Wheels
 	RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels
 
-Wildrose Party
-	See NT under Alberta -- Political parties
-
 Alberta -- Executive departments
 	RT names of specific departments, e.g., Agriculture, Department of
-
-Alberta -- Political parties
-	USE name of specific party when known
 
 Anglican Church of Canada -- Dioceses
 	RT names of dioceses, e.g., Athabasca (Diocese)
@@ -609,15 +485,75 @@ Anglican Church of Canada -- Dioceses
 Anglican Church of Canada -- History
 	RT subdivision History under names of Dioceses
 
+Assiniboine Nation -- Languages
+	RT name of language
+
 Canada -- Departments
 	USE Canada.  Department of [the Interior, etc.]
 
 Commonwealth Games (11th : 1978 : Edmonton, Alberta) -- Sports
 	USE specific name of sport
 
+Cree Nation -- Languages
+	RT name of language
+
+Cree Nation, Plains -- Languages
+	RT name of language
+
+Cree Nation, Woodlands -- Languages
+	RT name of language
+
+Dane-zaa Nation -- Languages
+	RT name of language
+
+Dene Suline Nation -- Languages
+	RT name of language
+
+Dene Tha' Nation -- Languages
+	RT name of language
+
+First Nations -- Languages
+	RT name of language
+
 Indigenous peoples -- Languages
 	RT name of language, e.g., Cree language
 
+Inuit -- Languages
+	RT name of language
+
+Kainai Nation -- Languages
+	RT name of language
+
+Kutenai Nation -- Languages
+	RT name of language
+
 Legislative Assembly -- Committees
 	RT Name of specific committee (AACRII rule 24.21B)
+
+Métis Nation -- Languages
+	RT name of language
+
+Nakawe Nation -- Languages
+	RT name of language
+
+Nakoda Nation -- Languages
+	RT name of language
+
+Niitsitapi -- Languages
+	RT name of language
+
+Ojibwa Nation -- Languages
+	RT name of language
+
+Piikani Nation -- Languages
+	RT name of language
+
+Siksika Nation -- Languages
+	RT name of language
+
+Sioux Nation -- Languages
+	RT name of language
+
+Tsuu T'ina Nation -- Languages
+	RT name of language
 

@@ -1,5 +1,5 @@
 #Fork of PAASH
-#~ prefix on lines forces use of line even if it contains a flag
+#~ in lines forces addition of line to the graph even if it contains a review flag
 
 Abattoirs
 	USE Slaughtering and slaughter-houses
@@ -33,7 +33,7 @@ Accidents
 Accountants     
 
 Accounting     
-	RT subdivision Accounting under topics, e.g., Dairying--Accounting and under names of individual corporate bodies
+	RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies
 
 Acid precipitation
 	USE Weather -- Acid rain 
@@ -240,7 +240,7 @@ Alberta
 		USE Alberta -- Civil service
 	NT Politics and government
 	NT Political parties
-		USE name of specific party when known
+		Use name of specific party when known~
 		NT Conventions
 		NT Election campaigns
 		NT Finance
@@ -271,7 +271,7 @@ Alberta Provincial Police
 	NT Officers
 	NT Pensions
 	NT Personnel records
-		USE Alberta Provincial Police--Appointments, promotions, salaries, etc.
+		USE Alberta Provincial Police -- Appointments, promotions, salaries, etc.
 	NT Portraits
 	NT Prisoners
 		Refers to the transportation and disposition of prisoners
@@ -283,33 +283,69 @@ Alberta Provincial Police
 	NT Veterans
 
 Alberta Advantage Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta Alliance
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta First
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 	RT Canada, Western -- Autonomy and independence movement
 
 Alberta Independence Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 	RT Canada, Western -- Autonomy and independence movement
 
 Alberta Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta Reform Movement
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta Liberal Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta New Democratic Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alberta Social Credit Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Alcohol 	
 	NT Law and legislation     
@@ -593,7 +629,89 @@ Assessors
 Assignments     
 
 Assiniboine Nation     
-	For NT use pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Assiniboine Nation -- Folklore
+		USE Assiniboine Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Associations, institutions, etc.     
 	RT specific names of associations.
@@ -998,7 +1116,7 @@ Biscuits
 	NT Trade and manufacture
 
 Bishops     
-	Where possible use the subdivision Bishops under the specific denomination.
+	Where possible use the subdivision Bishops under the specific denomination.~
 
 Bisexuality
 
@@ -1047,14 +1165,14 @@ Blood Nation
 Boarding houses	
 
 Boards of trade     
-	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
+	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade~
 
 Boatbuilding     
 
 Boathouses     
 
 Boats and boating     
-	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
+	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).~
 
 Bobcats
 
@@ -1066,7 +1184,7 @@ Boer War, 1899-1902
 	USE South African War, 1899-1902
 
 Boilers
-	RT Steam-boilers
+	RT Steam boilers
 
 Bomb shelters
 	USE Air raid shelters
@@ -1158,7 +1276,7 @@ Brickmaking
 Bricks     
 
 Bridge construction
-	USE Bridges--Design and construction
+	USE Bridges -- Design and construction
 
 Bridges     
 	NT Cantilever
@@ -1678,11 +1796,11 @@ Cargo ships
 
 Caribbean Canadians
 	UF West Indian Canadians
-	USE specific nation when possible.
+	Use specific nation when possible.
 
 Caribbeans
 	UF West Indians
-	USE specific nation when possible.
+	Use specific nation when possible.
 
 Caribou     
 
@@ -1847,7 +1965,7 @@ Child abuse
 Child care workers     
 
 Child welfare     
-	RT Children--Legal status, laws, etc.
+	RT Children -- Legal status, laws, etc.
 
 Childbirth     
 	NT Home birth
@@ -1978,7 +2096,7 @@ Civil rights
 	RT Human Rights
 
 Civil service     
-	For specific departments USE [Name of department] -- Officials and employees
+	For specific departments USE [Name of department] -- Officials and employees~
 	NT Alberta
 	NT Canada
 
@@ -2124,10 +2242,10 @@ Commissions (of inquiry)
 
 Committees    
 	Use only for collections containing material on several committees.
-	For individual committees USE name of committee.
+	For individual committees USE name of committee.~
 
 Committees of the Legislature
-	USE Legislative Assembly--Committees
+	USE Legislative Assembly -- Committees
 
 Commonwealth Games (11th : 1978 : Edmonton, Alberta)
 	NT Closing ceremonies
@@ -2155,7 +2273,11 @@ Communism
 Communist parties
 
 Communist Party -- Alberta
-	See NT under Alberta -- Political parties     
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Community art centres
 	USE Art centres
@@ -2298,7 +2420,11 @@ Coolie labour
 	USE Railroads -- Construction workers
 
 Cooperative Commonwealth Federation
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Cooperative societies     
 
@@ -2364,7 +2490,7 @@ Counterfeits and counterfeiting
 Counties
 	RT Local government
 	Municipal Affairs, Department of
-	For names of particular counties use the following format:  Parkland, County of
+	For names of particular counties use the following format:  Parkland, County of~
 
 Country clubs     
 
@@ -2410,14 +2536,260 @@ Credit unions
 	RT Cooperative societies
 
 Cree Nation
-	When possible use name of specific nation 
-	For subdivisions USE pattern under Indigenous peoples
+	When possible use name of specific nation~
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Cree Nation -- Folklore
+		USE Cree Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Cree Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Cree Nation, Plains
-	For subdivisions USE pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Cree Nation, Plains -- Folklore
+		USE Cree Nation, Plains -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Cree Nation, Plains -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Cree Nation, Woodlands
-	For subdivisions USE pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Cree Nation, Woodlands -- Folklore
+		USE Cree Nation, Woodlands -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Cree Nation, Woodlands -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Creeks
 	USE name of creek
@@ -2425,11 +2797,11 @@ Creeks
 
 Cremation     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking
+	RT Undertakers and undertaking~
 
 Crematoriums     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking
+	RT Undertakers and undertaking~
 
 Cribs (Children's furniture)     
 	RT Children's furniture
@@ -2572,7 +2944,89 @@ Dancing
 
 Dane-zaa Nation
 	UF Beaver Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Dane-zaa Nation -- Folklore
+		USE Dane-zaa Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Dane-zaa Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Danes
 
@@ -2639,11 +3093,175 @@ Demurrage
 
 Dene Suline Nation
 	UF Chipewyan Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Dene Suline Nation -- Folklore
+		USE Dene Suline Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Dene Suline Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Dene Tha' Nation
 	UF Slavey Nation     
-	For NT see subdivisions under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Dene Tha' Nation -- Folklore
+		USE Dene Tha' Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Dene Tha' Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Dentistry
 	NT Clinics
@@ -2728,7 +3346,7 @@ Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
 
 Diseases     
-	USE specific disease when possible.
+	Use specific disease when possible.
 
 Dispensaries     
 	RT Stores, Retail -- Drugstores
@@ -2820,7 +3438,11 @@ Dominion Day
 	USE Canada Day
 
 Dominion Labor Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Donkeys   
 	RT Mules  
@@ -2872,7 +3494,7 @@ Drinking customs
 
 Drive-in theatres
 
-Driving under the influence
+Driving under the influence~
 
 Drop-in centres
 USE Community centres
@@ -2895,7 +3517,7 @@ Druggists
 Drugs     
 
 Drugstores  
-	USE stores, Retail -- Drugstores
+	USE Stores, Retail -- Drugstores
 
 Drum  
 
@@ -3186,10 +3808,10 @@ Election districts (Cities)
 	USE subdivisions Wards under names of cities
 
 Election districts (Federal)     
-	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
+	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)~
 
 Election districts (Provincial)     
-	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
+	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)~
 
 Elections (Federal, [date])     
 	NT Contested
@@ -3424,7 +4046,7 @@ Explorers
 Explosions     
 
 Explosives
-	RT Coal mines and mining--Explosives
+	RT Coal mines and mining -- Explosives
 	RT Dynamite
 
 Export marketing     
@@ -3657,7 +4279,89 @@ First aid training
 	USE Safety education
 
 First Nations
-	For NT see subdivisions under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE First Nations -- Folklore
+		USE First Nations -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE First Nations -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Fish
 
@@ -3704,7 +4408,7 @@ Floodgates
 	USE Sluice gates
 
 Floods     
-	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River--Floods
+	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods
 
 Floor hockey
 	USE Ball hockey
@@ -3827,7 +4531,7 @@ Forgery
 Forms (Law)     
 
 Forts and trading posts     
-	RT subdivision Forts under Royal Canadian Mounted Police
+	RT Royal Canadian Mounted Police -- Forts
 
 Fossils     
 
@@ -3867,7 +4571,11 @@ Free trade
 	RT Neoliberalism
 
 Freedom Conservative Party of Alberta
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Freedom of information     
 
@@ -3878,7 +4586,7 @@ Freemen-on-the-land
 Freight and freightage     
 
 Freight cars
-	USE Railroads--Freight cars
+	USE Railroads -- Freight cars
 
 Freighters
 	USE Cargo ships
@@ -3903,7 +4611,7 @@ Fruit trade
 Fund raising     
 
 Funeral homes 	
-	USE Undertakers and undertaking
+	USE Undertakers and undertaking~
 
 Funeral rites and ceremonies     
 
@@ -3978,7 +4686,7 @@ Garage sales
 
 Garages     
 
-Garden ornaments and furniture     
+Garden ornaments and furniture~
 
 Garden tools     
 
@@ -4190,7 +4898,7 @@ Government trust funds
 	USE Discretionary trusts
 
 Governmental investigations     
-	USE Royal Commission title when appropriate.
+	Use Royal Commission title when appropriate.
 
 Governors General
 
@@ -4272,7 +4980,11 @@ Greek Orthodox Church
 Greeks     
 
 Green Party of Alberta
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Greenhouses     
 
@@ -4834,7 +5546,7 @@ Indian agents
 Indian passes   
 
 Indigenous peoples     
-	Use specific nation where possible.  The following subdivisions can be added to specific nation names.
+	Use specific nation where possible.  Subdivisions can be added to specific nation names.~
 	NT Agriculture    
 	NT Architecture
 	NT Arms and armour
@@ -4883,8 +5595,8 @@ Indigenous peoples
 		RT name of language, e.g., Cree language
 	NT Legal status, laws, etc.   
 	NT Legends
-		USE NT Folklore
-		USE NT Mythology
+		USE Indigenous peoples -- Folklore
+		USE Indigenous peoples -- Mythology
 	NT Medicine
 	NT Military service
 	NT Missions	  
@@ -4907,7 +5619,7 @@ Indigenous peoples
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 	NT Study and teaching     
 	NT Teepees
-		USE Dwellings
+		USE Indigenous Peoples -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
@@ -5066,8 +5778,90 @@ Interprovincial relations
 
 Intersex and intersexuality
 
-Inuit		
-	For NT use subdivisions under Indigenous peoples
+Inuit
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Inuit -- Folklore
+		USE Inuit -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Inuit -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Inventions     
 
@@ -5081,7 +5875,7 @@ Investment of public funds
 Investments     
 
 Investments, Foreign     
-	Use specific name of country where possible.
+	Use specific name of country where possible.~
 
 Iranian Canadians
 
@@ -5214,7 +6008,89 @@ Juvenile detention homes
 Kainai Nation
 	UF Blood Nation
 	RT Niitsitapi
-	For subdivisions, use format under Indigenous peoples.
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Kainai Nation -- Folklore
+		USE Kainai Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Kainai Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Kangaroos     
 
@@ -5275,8 +6151,89 @@ Kurds
 
 Kutenai Nation
 	UF Kootenay Nation
-	For subdivisions, use format under Indigenous peoples.   
-
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Kutenai Nation -- Folklore
+		USE Kutenai Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Kutenai Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Laboratories     
 	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
@@ -5604,8 +6561,7 @@ Local government
 Local Improvement Districts
 	RT Local government
 	RT Municipal Affairs, Department of
-	For names of particular L.I.D.s, use the following format:
-	Local Improvement District No.  1   
+	For names of particular L.I.D.s, use the following format: Local Improvement District No.  1~
 
 Local taxation   
 	USE Local government -- Taxation  
@@ -5898,9 +6854,91 @@ Methodist Church
 	NT Societies, etc.
 	NT Sunday schools
 
-Métis Nation	
-	For subdivisions, use pattern under Indigenous peoples.
+Métis Nation
 	RT Red River Colony
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Métis Nation -- Folklore
+		USE Métis Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Métis Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Métis Settlements
 
@@ -6103,7 +7141,7 @@ Municipal charters
 Municipal Districts
 	RT Local government
 	RT Municipal Affairs, Department of
-	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
+	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81~
 
 Municipal finance     
 
@@ -6163,15 +7201,179 @@ Mutual telephone companies
 
 Nakawe Nation
 	UF Saulteaux Nation
-	For subdivisions, use pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Nakawe Nation -- Folklore
+		USE Nakawe Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Nakawe Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Nakoda Nation
 	UF Stoney Nation
-	For subdivisions, use pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Nakoda Nation -- Folklore
+		USE Nakoda Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Nakoda Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
-Names, Geographical     
+Names, Geographical~
 
-Names, Personal     
+Names, Personal~
 
 Naphtha
 
@@ -6239,7 +7441,89 @@ Niitsitapi
 	RT Kainai Nation
 	RT Piikani Nation
 	RT Siksika Nation
-	For subdivisions, use format under Indigenous peoples.
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Niitsitapi -- Folklore
+		USE Niitsitapi -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Niitsitapi -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Normal schools
 	USE Teachers colleges
@@ -6275,7 +7559,7 @@ Northwest Resistance, 1885
 	RT Red River Resistance
 
 Northwest Territories
-Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
+	Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
 
 North Saskatchewan River
 
@@ -6431,7 +7715,89 @@ Oil workers
 	RT Petroleum workers
 
 Ojibwa Nation
-	For NT see subdivisions under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Ojibwa Nation -- Folklore
+		USE Ojibwa Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Ojibwa Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Old age assistance     
 
@@ -6461,7 +7827,7 @@ Ophthalmologists
 Ophthalmology     
 
 Opposition
-	USE Legislative Assembly--Official Opposition
+	USE Legislative Assembly -- Official Opposition
 
 Optometry and optometrists 
 	NT Eyeglasses
@@ -6559,7 +7925,7 @@ Panhandling and panhandlers
 Pansexuality
 
 Paper industry     
-	RT Wood-pulp industry
+	RT Wood pulp industry
 
 Paper recycling
 	USE Waste paper
@@ -6692,7 +8058,7 @@ Pesticides
 Pests
 	NT Control   
 	RT specific types of pests, e.g. Rats
-	RT Insects--Control
+	RT Insects -- Control
 	RT Pesticides
 
 Pet shops		
@@ -6840,8 +8206,90 @@ Pigeons
 Pigs
 
 Piikani Nation
-	UF Peigan Nation
-	For subdivisions USE pattern under Indigenous peoples
+	UF Peigan Nation	
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Piikani Nation -- Folklore
+		USE Piikani Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Piikani Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Pile drivers
 
@@ -6874,8 +8322,8 @@ Pistols
 
 Pitch
 
-Place-names
-	USE Names, Geographical
+Place-names~
+	USE Names, Geographical~
 
 Planetariums    
 
@@ -7276,7 +8724,7 @@ Pulmonary fibrosis
 
 Pulp and paper industry
 	USE Paper industry
-	USE Wood-pulp industry
+	USE Wood pulp industry
 
 Pulpits     
 
@@ -7325,7 +8773,7 @@ R.C.M.P.
 	USE Royal Canadian Mounted Police
 
 R.N.W.M.P.
-	USE North West Mounted Police
+	USE North-West Mounted Police
 
 Rabbis     
 
@@ -7343,7 +8791,7 @@ Racial minorities
 Racing
 	USE Automobile racing
 	USE Foot racing
-	USE Horse racing
+	USE Horse-racing
 	USE Motor-boat racing
 
 Racism     
@@ -7624,7 +9072,7 @@ Restitution for victims of crime
 Retirement     
 
 Retirement homes 
-	RT Assisted living facilities
+	RT Assisted-living facilities
 
 Retirement income     
 	RT Pensions, Old age pensions
@@ -7859,7 +9307,6 @@ Sanitation
 
 Sarcee Nation
 	USE Tsuu T'ina Nation
-	For subdivisions use pattern under Indigenous peoples
 
 Saskatoon berry     
 
@@ -8075,7 +9522,7 @@ Sheriffs
 Shipping     
 
 Ships     
-	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
+	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)~
 	NT Cargo
 	NT Passenger lists
 
@@ -8123,7 +9570,89 @@ Sikhism
 Siksika Nation
 	UF Blackfoot Nation
 	RT Niitsitapi
-	For subdivisions, use format under Indigenous peoples.
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Siksika Nation -- Folklore
+		USE Siksika Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Siksika Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Silica     
 
@@ -8140,7 +9669,89 @@ Singers
 Single parents     
 
 Sioux Nation
-	For subdivisions USE pattern under Indigenous peoples
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Sioux Nation -- Folklore
+		USE Sioux Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Sioux Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
 
 Skateboarding     
 
@@ -8242,7 +9853,11 @@ Social workers
 Socialism
 
 Socialist Party of Alberta
-	See NT under Alberta -- Political parties    
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Societies
 
@@ -8515,7 +10130,7 @@ Street cars
 
 Street cleaning     
 
-Street names     
+Street names~     
 
 Street railways     
 	NT Design and Construction
@@ -8622,7 +10237,7 @@ Surety and fidelity insurance
 	USE Insurance, Surety and fidelity
 
 Surface rights
-	USE Land tenure--Law and legislation
+	USE Land tenure -- Law and legislation
 
 Surgeons     
 
@@ -9050,6 +10665,91 @@ Truth and Reconciliation Commission
 	RT Residential schools NT under Indigenous peoples
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
+Tsuu T'ina Nation
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE Tsuu T'ina Nation -- Folklore
+		USE Tsuu T'ina Nation -- Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Tsuu T'ina Nation -- Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
+
 Tuberculosis     
 	NT Hospitals     
 
@@ -9092,9 +10792,9 @@ Ukrainians
 	RT Galicians
 	RT Ruthenians
 
-Underpasses     
+Underpasses~
 
-Undertakers and undertaking     
+Undertakers and undertaking~
 
 Undocumented immigrants
 	UF Aliens, Illegal
@@ -9138,12 +10838,20 @@ United Church of Canada
 	NT Religious education
 
 United Conservative Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 United Farmers of Alberta (agricultural supply cooperative)
 
 United Farmers of Alberta (political party)
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 United States of America
 	NT Relations (general) with Alberta
@@ -9176,7 +10884,28 @@ Universities and colleges
 	NT Taxation    
 
 University of Alberta
-	For subdivisions USE pattern under Athabasca University
+	NT [Academic department names]
+	NT Administration
+	NT Admission
+	NT Affiliations
+	NT Alumni
+	NT Board of Governors
+	NT Buildings
+	NT Ceremonies, honours and salutes
+	NT Convocations
+	NT Curricula
+	NT Degrees
+	NT Degrees (Honourary)
+	NT Departmental chair
+	NT Employees
+	NT Faculty
+	NT Finance
+	NT Funds and scholarships
+	NT Libraries
+	NT Sports
+	NT Students
+	NT Student unions
+	NT Taxation
 
 Unmarried mothers
 	USE Single parents     
@@ -9266,9 +10995,9 @@ Video tape recorders and recording
 Video tape/disc rentals
 	USE Stores, Retail -- Videotape/disc
 
-Vietnamese     
+Vietnamese~
 
-Vietnamese Canadians     
+Vietnamese Canadians~
 
 Vietnam War, 1961-1975     
 
@@ -9323,7 +11052,7 @@ Volunteerism and volunteers
 
 Voters lists
 	USE Election districts (Federal) -- Census
-	USE Election districts (Provincial)--Census
+	USE Election districts (Provincial) -- Census
 
 Voting     
 	RT Elections (Federal)
@@ -9381,7 +11110,7 @@ Waste Disposal
 Waste disposal sites     
 
 Waste products     
-	RT subdivision By-products under specific industries, e.g. Gas manufacture and works--By-products
+	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products
 	RT subdivision Waste disposal under plants, industries, etc.,
 
 Watches
@@ -9401,7 +11130,7 @@ Water
 	NT Supply
 	NT Towers
 
-Water, Underground     
+Water, Underground~
 
 Water polo     
 
@@ -9453,18 +11182,22 @@ Welsh
 Welsh Canadians     
 
 West Indian Canadians  
-	USE specific nation when possible.
+	Use specific nation when possible.
 	USE Caribbean Canadians   
 
 West Indians 
-	USE specific nation when possible.
+	Use specific nation when possible.
 	USE Caribbeans   
 
 Western Canada
 	USE Canada, Western
 
 Western Canada Concept
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Western Canada separatism
 	USE Canada, Western -- Autonomy and independence movement
@@ -9475,7 +11208,11 @@ Western Diversification
 	USE Diversification in industry
 
 Western Independence Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Wetlands
 	UF Marshes
@@ -9524,7 +11261,11 @@ Wildlife conservation
 Wildlife management     
 
 Wildrose Party
-	See NT under Alberta -- Political parties
+	NT Conventions
+	NT Election campaigns
+	NT Finance
+	NT History
+	NT Membership
 
 Wills     
 

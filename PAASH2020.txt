@@ -6272,7 +6272,7 @@ Northwest Resistance, 1885
 	RT Red River Resistance
 
 Northwest Territories
-Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
+	Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
 
 North Saskatchewan River
 

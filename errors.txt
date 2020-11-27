@@ -1,0 +1,6 @@
+#URI generator currently assigns the same URI for both
+French Canadians
+	Use for recent immigrants to Canada from France.     
+French-Canadians 
+	Use for Canadians descended from French colonial settlers.    
+	RT Franco-Albertans
