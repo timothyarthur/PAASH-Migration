@@ -1,0 +1,299 @@
+import rdflib
+from rdflib import Graph, Literal, RDF, Namespace, URIRef
+from rdflib.namespace import SKOS
+import re
+
+#These lines will not be used to generate terms
+#Rather, they will be written from this list to review.txt for manual review
+#Will be filtered based on flags defined below
+lines_to_review = []
+
+#Generating graph and defining namespace
+g = Graph()
+g.bind('skos', SKOS)
+n = Namespace("http://example.org/")
+
+#Returns a URI generated based on label
+#REPLACE WITH NAMESPACE FUNCTIONALITY
+def gen_uri(label):
+	uri = label.replace(' ', '-').replace('----','--')
+	uri = URIRef(f"http://example.org/{uri}")
+	return uri
+
+#Generating SKOS Concept Scheme as root node of graph
+scheme_label = 'Provincial Archives of Alberta Subject Headings'
+scheme_uri = gen_uri(scheme_label)
+g.add((scheme_uri, RDF.type, SKOS.ConceptScheme))
+g.add((scheme_uri, SKOS.prefLabel, Literal(scheme_label, lang='en')))
+
+# Returns the preferred label for URIs already in the graph
+def get_label(uri):
+	label = g.preferredLabel(uri)[0][1]
+	return label
+
+# Formats and appends line to review list
+def add_review(item_label, parent_label=None):
+	if parent_label == None:
+		lines_to_review.append(f'{item_label}\n\n')
+	else:
+		lines_to_review.append(f'{parent_label}\n\t{item_label}\n\n')
+
+#Removes relational prefix from label
+def clean_label(label):
+	if label.startswith('USE'):
+		label = label.replace('USE ', '')
+	elif label.startswith('NT'):
+		label = label.replace('NT ', '')
+	elif label.startswith('RT'):
+		label = label.replace('RT ', '')
+	elif label.startswith('UF'):
+		label = label.replace('UF ', '')
+	return label
+
+# Constructs heading nodes and adds to graph
+# Assigns basic properties possessed by all headings:
+# i.e. type, preferred label and membership in the overall PAASH scheme
+def construct_heading_node(uri, label):
+	g.add((uri, RDF.type, SKOS.Concept))
+	g.add((uri, SKOS.prefLabel, Literal(label, lang='en')))
+	g.add((uri, SKOS.inScheme, scheme_uri))
+
+# Constructs subheading and adds to graph, by calling the constructor appropriate given its relation to its parent
+def construct_subheading(item, parent):
+	if item.startswith('USE'):
+		uri = construct_use(item, parent)
+	elif item.startswith('NT'):
+		uri = construct_nt(item, parent)
+	elif item.startswith('RT'):
+		uri = construct_rt(item, parent)
+	elif item.startswith('UF'):
+		uri = construct_uf(item, parent)
+	else:
+		uri = construct_note(item, parent)
+	return uri
+
+# Constructs subheadings with the USE relation
+# When a subheading has a USE statement, it indicates that its parent is a non-preferred heading
+# We add the parent's label as an alternative label so that the subheading specified by the USE statement can be accessed by those seeking the non-preferred version
+# Non-preferred headings are kept in the graph to maintain relational integrity while generating new nodes, but we will later remove them
+def construct_use(item, parent):
+	item_uri = None
+
+	review_flags = ['[', 'subdivision', 'under', 'name', 'NT', 'RT']
+
+	parent_label = get_label(parent)
+	if not any(substring in item.lower() for substring in review_flags):
+		item = clean_label(item)
+		#Figure out how to use namespace
+		item_uri = gen_uri(item)
+
+		construct_heading_node(item_uri, item)
+		g.add((item_uri, SKOS.altLabel, Literal(parent_label, lang='en')))
+	else:
+		add_review(item, parent_label)
+
+	return item_uri
+
+# Constructs subheadings with the RT relation
+# Applies the relation to and from the item and 'parent'
+# (The usage of 'parent' here indicates only the hierarchy specified in the input, the item and 'parent' need not be related hierarchically in the data structure as such)
+def construct_rt(item, parent):
+	item_uri = None
+	parent_label = get_label(parent)
+
+	review_flags = ['[', 'subdivision', 'under', 'name', 'NT', 'USE']
+
+	if not any(substring in item.lower() for substring in review_flags):
+		item = clean_label(item)
+		item_uri = gen_uri(item)
+		#Adds RTs that do not exist except as subheadings
+		construct_heading_node(item_uri, item)
+
+		g.add((item_uri, SKOS.related, parent))
+		g.add((parent, SKOS.related, item_uri))
+	else:
+		add_review(item, parent_label)
+
+	return item_uri
+
+# Constructs subheadings with the NT relation
+# Also applies the inverse, BT relation
+def construct_nt(item, parent):
+	item_uri = None
+	parent_label = get_label(parent)
+	item = clean_label(item)
+	item_label = parent_label + ' -- ' + item
+
+	review_flags = ['[', 'subdivision', 'under', 'name', 'RT', 'USE']
+
+	if not any(substring in item.lower() for substring in review_flags):
+		item_uri = gen_uri(item_label)
+
+		construct_heading_node(item_uri, item_label)
+
+		g.add((parent, SKOS.narrower, item_uri))
+		g.add((item_uri, SKOS.broader, parent))
+	else:
+		add_review(item, parent_label)
+
+	return item_uri
+
+# Constructs subheadings with the UF relation
+# As the inverse of USE, UF effectively designates the item as a non-preferred alternative label for the parent
+# This way the preferred term can be accessed via the non-preferred term
+def construct_uf(item, parent):
+	parent_label = get_label(parent)
+
+	review_flags = ['[', 'subdivision', 'under', 'name', 'RT', 'NT']
+
+	if not any(substring in item.lower() for substring in review_flags):
+		item = clean_label(item)
+		g.add((parent, SKOS.altLabel, Literal(item, lang='en')))
+	else:
+		add_review(item, parent_label)
+
+# Constructs notes
+# All subheadings without a valid prefix are assumed to be notes
+def construct_note(item, parent):
+	#Detect type of note?
+
+	parent_label = get_label(parent)
+
+	review_flags = ['[', 'subdivision', 'under', 'name']
+
+	if not any(substring in item.lower() for substring in review_flags):
+		g.add((parent, SKOS.note, Literal(item, lang='en')))
+	else:
+		add_review(item, parent_label)
+
+#Loading and parsing plaintext input, then storing terms a nested dictionary data structure
+#End result is a dictionary of dictionaries of lists
+file_name = 'PAASH2020.txt'
+# file_name = 'PAASH2020-test.txt'
+
+with open(file_name, 'r') as file:
+	text = file.read()
+
+lines = [line for line in text.split('\n')]
+
+#Generates a dictionary of dictionaries of lists as an intermediate hierarchical representation of the vocabulary, to be used to generate the graph
+#Strings for first order headings are keys for the below dictionary, whose values are a subdictionary whose keys are the second-order headings below them
+#Finally, the values for this subdicitonary are a list of third-order headings under the second-order headings
+struct = {}
+
+n = 0
+
+while n < len(lines):
+	key = ''
+	line = lines[n].strip()
+	if len(line)>0:
+		key = line
+		dic = {}
+		n+=1
+		while n < len(lines) - 1 and lines[n].startswith('\t'):
+			vals = []
+			key_2 = lines[n].strip()
+			if lines[n+1].startswith('\t\t'):
+				while n < len(lines) and lines[n+1].startswith('\t\t'):
+					vals.append(lines[n+1].strip())
+					n+=1
+			dic[key_2] = vals
+			n+=1
+		struct[key] = dic
+	n+=1
+
+#Iterating through data structure to generate URIs and construct the graph
+#To maintain the data structure during this process, will generate nodes for non-preferred headings as well as preferred
+#These will be removed in a later step
+#Subheadings are assigned to a new dictionary for storage, using the newly-generated URIs for the parent headings as keys
+uri_dict = {}
+try:
+	# This loop generates the first level of headings, i.e. those not preceded by tabs in the input file
+	for key in struct:
+		##Figure out how to use namespace
+		key_uri = gen_uri(key)
+		#Headings containing these flags as substrings will not be used to generate nodes
+		#Rather, they will be written to review.txt for manual review
+		review_flags = ['[', 'subdivision', 'under', 'name']
+		if any(substring in key.lower() for substring in review_flags) and not key.startswith('~'):
+			add_review(key)
+		else:
+			key = key.replace('~', '')
+			construct_heading_node(key_uri, key)
+
+			#Storing subheadings under the newly-generated URI
+			sub_dict = {}
+			for item in struct[key]:
+				sub_vals = []
+				for sub_item in struct[key][item]:
+					sub_vals.append(sub_item)
+				sub_dict[item] = sub_vals
+			uri_dict[key_uri] = sub_dict
+
+# This loop generates the second level of headings, i.e. those preceded by one tab in the input file
+# Once again, dictionary keys for these headings are replaced with their newly generated URIs
+# Their own subheadings are stored in a list under this new key
+	for key in uri_dict:
+		sub_uri_dict = {}
+		for sub_key in uri_dict[key]:
+			values = uri_dict[key][sub_key]
+
+			item = sub_key
+			parent = key
+
+			sub_uri = construct_subheading(item, parent)
+
+			sub_uri_dict[sub_uri] = values
+		uri_dict[key] = sub_uri_dict
+
+# Finally, generating the third level of headings
+# These are not stored under their URIs, as all nodes have now been generated, and the purpose of the intermediate dictionary is served
+	for key in uri_dict:
+		sub_uri_dict = {}
+		for sub_key in uri_dict[key]:
+			for value in uri_dict[key][sub_key]:
+				item = value
+				parent = sub_key
+				sub_uri = construct_subheading(item, parent)
+except Exception as e:
+	print(e)
+	print(f'Failed to generate:\n{get_label(parent)}\n\t{item}')
+
+
+#SPARQL query to select all top concepts, i.e. concepts with no broader concepts
+#These are then specified in the graph as top concepts of the scheme
+top_concepts = g.query("""SELECT DISTINCT ?s
+	WHERE{
+		?s rdf:type skos:Concept .
+			FILTER (
+				!EXISTS {
+					?s skos:broader ?o .
+			}
+		)
+	}
+	""")
+
+for row in top_concepts:
+	uri = row[0]
+	g.add((uri, SKOS.topConceptOf, scheme_uri))
+	g.add((scheme_uri, SKOS.hasTopConcept, uri))
+
+#Remove non-preferred headings from graph
+#Uncomment after ensuring that flags are comprehensive
+# to_remove = g.query("""SELECT DISTINCT ?target
+# 	WHERE{
+# 	?target skos:prefLabel ?targetLabel .
+# 	?pref skos:altLabel ?targetLabel
+# 	}""")
+
+# for row in to_remove:
+# 	uri = row[0]
+# 	g.remove((uri, None, None))
+
+#Writing the output to the indicated file, in the indicated RDF serialization format
+g.serialize(destination='PAASH.ttl', format='turtle')
+
+#Writing lines for review to the indicated file in human-readable format
+review_file = open('review.txt', 'w')
+review_file.writelines(lines_to_review)
+review_file.close()

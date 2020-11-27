@@ -1,0 +1,262 @@
+Abattoirs
+	USE Slaughtering and slaughter-houses
+
+Abduction     
+
+Ableism
+
+Abnormalities, Human
+	USE Congenital defects
+
+Abortion     
+
+Abused women     
+	USE Domestic violence -- Women
+
+Academic Degrees
+	USE Degrees, Academic
+
+Accident Insurance
+	USE Insurance, Accident
+
+Accident Investigation 
+
+Accidents     
+	RT Traffic accidents
+	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
+	NT Investigation
+	NT Prevention
+
+Accountants     
+
+Accounting     
+	RT subdivision Accounting under topics, e.g., Dairying--Accounting and under names of individual corporate bodies
+
+Acid precipitation
+	USE Weather -- Acid rain 
+
+Acquired immunodeficiency syndrome (AIDS)
+	NT Social aspects
+
+Acrobatics     
+
+Acrobats     
+
+Actions and defenses     
+
+Activated carbons
+	USE Carbon, Activated
+
+Activism and activists
+
+Actors     
+
+Actresses	
+	USE Actors
+
+Acts, Government  
+	USE Legislation
+
+Administration of estates     
+
+Administrative agencies     
+	NT Reorganization
+
+Administrative Services
+	NT Reorganization    
+
+Adoption     
+
+Adult education     
+	USE Continuing education
+
+Advertising     
+
+Advertising, Government
+	USE Government -- Advertising
+
+Advertising agencies     
+
+Advisory opinions     
+
+Aerial photography
+
+Aeronautics  
+	USE Aviation   
+
+Affirmative action programmes
+	USE Employment equity
+
+Afghan War, 2001-    
+
+Aged
+	USE Seniors    
+
+Agoraphobia
+	USE Mental health -- Phobias
+
+Agricultural insurance
+	USE Insurance -- Agriculture
+
+Agricultural service board
+
+Agriculture
+	NT Awards
+	NT Chemicals
+		RT Pesticides
+	NT Colleges
+	NT Colonies
+		RT Doukhobors
+		RT Hutterite Brethren
+		RT Mennonites
+	NT Competitions
+	NT Conferences
+	NT Credit
+	NT Education
+	NT Exhibitions
+	NT Experiment stations
+	NT Organic
+	NT Implements
+	NT Industries
+	NT Machinery
+	NT Processing
+	NT Publishing
+	NT Research
+	NT Workers
+	RT Farmers
+
+Agriculture, Department of
+	NT Appropriations and expenditures
+	NT Charts and diagrams
+	NT Officials and employees
+	NT Portraits, etc.
+	NT Reorganization
+	RT names of Divisions and Branches, e.g., Agriculture, Department of.  Home Economics Branch.
+	RT names of Boards, Corporations, etc., e.g., Hail and Crop
+
+Agriculture, Minister of
+
+Agriculturists     
+
+Air
+	NT Pollution    
+		RT Pollutants
+	NT Quality
+
+Air bases     
+	USE Canada. Royal Canadian Air Force (up to 1968) -- Installations
+	USE Canada. Armed Forces (after 1968) -- Installations 
+
+Air Cadets     
+	RT Army Cadets
+	RT Sea Cadets
+
+Air mail service     
+
+Air pilots   
+	USE Aviation -- Pilots  
+
+Air quality
+	USE Air -- Quality    
+
+Air raid shelters     
+
+Air-ships
+	USE Airships
+
+Air shows     
+
+Air strips
+USE Airports -- Runways
+
+Air traffic control
+	USE Airports -- Air traffic control     
+
+Air transport
+	USE Airlines -- Cargo
+
+Air transportation industry
+	USE Airlines -- Passenger
+
+Air travel
+	USE Airlines -- Passenger	
+
+Aircraft
+	NT Accidents
+	NT Equipment and supplies
+	NT Maintenance and repair
+	NT Models
+	NT Refuelling  
+
+Aircraft ambulances     
+
+Aircraft industry     
+
+Airlines     
+	NT Cargo
+	NT Passenger
+	RT Flight attendants
+	RT names of airlines
+
+Airplane industry
+	USE Aircraft industry
+
+Airplanes
+	NT Biplanes 	
+
+Airplanes, Military     
+
+Airports     
+	NT Air traffic control
+	NT Baggage handling  
+	NT Buildings
+	NT Runways
+
+Airports, Floating
+
+Airships
+
+Airstrips
+	USE Airports -- Runways
+
+Alberta
+	NT Anniversaries, etc.
+	NT Anniversaries, etc. (Golden Jubilee)
+	NT Anniversaries, etc. (Seventy-fifth)
+	NT Appropriations and expenditures
+	NT Boundaries     
+	NT Centennial celebrations, etc.
+	NT Civil service
+	NT Description and travel
+	NT Executive departments
+		Use only when dealing with government departments in general.
+		RT names of specific departments, e.g., Agriculture, Department of
+	NT Foreign relations     
+	NT Inaugural ceremonies     
+	NT Officials and employees
+		USE Alberta -- Civil service
+	NT Politics and government
+	NT Political parties
+		USE name of specific party when known
+		NT Conventions
+		NT Election campaigns
+		NT Finance
+		NT History
+		NT Membership
+	NT Study and teaching (Internship)
+	NT Relations (General) with [Name of foreign country]
+	NT Relations (Military) with [Name of foreign country]
+
+Hearing
+	NT Ability testing
+	NT Testing
+		USE Audiometry
+
+Hearing disorders
+	NT Diagnosis
+
+Hearing impaired
+	UF Deaf
+	NT Education     
+	NT Employment     
+	NT Institutional care     

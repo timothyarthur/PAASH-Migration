@@ -1,0 +1,9654 @@
+Abattoirs
+	USE Slaughtering and slaughter-houses
+
+Abduction     
+
+Ableism
+
+Abnormalities, Human
+	USE Congenital defects
+
+Abortion     
+
+Abused women     
+	USE Domestic violence -- Women
+
+Academic Degrees
+	USE Degrees, Academic
+
+Accident Insurance
+	USE Insurance, Accident
+
+Accident Investigation 
+
+Accidents     
+	RT Traffic accidents
+	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
+	NT Investigation
+	NT Prevention
+
+Accountants     
+
+Accounting     
+	RT subdivision Accounting under topics, e.g., Dairying--Accounting and under names of individual corporate bodies
+
+Acid precipitation
+	USE Weather -- Acid rain 
+
+Acquired immunodeficiency syndrome (AIDS)
+	NT Social aspects
+
+Acrobatics     
+
+Acrobats     
+
+Actions and defenses     
+
+Activated carbons
+	USE Carbon, Activated
+
+Activism and activists
+
+Actors     
+
+Actresses	
+	USE Actors
+
+Acts, Government  
+	USE Legislation
+
+Administration of estates     
+
+Administrative agencies     
+	NT Reorganization
+
+Administrative Services
+	NT Reorganization    
+
+Adoption     
+
+Adult education     
+	USE Continuing education
+
+Advertising     
+
+Advertising, Government
+	USE Government -- Advertising
+
+Advertising agencies     
+
+Advisory opinions     
+
+Aerial photography
+
+Aeronautics  
+	USE Aviation   
+
+Affirmative action programmes
+	USE Employment equity
+
+Afghan War, 2001-    
+
+Aged
+	USE Seniors    
+
+Agoraphobia
+	USE Mental health -- Phobias
+
+Agricultural insurance
+	USE Insurance -- Agriculture
+
+Agricultural service board
+
+Agriculture
+	NT Awards
+	NT Chemicals
+		RT Pesticides
+	NT Colleges
+	NT Colonies
+		RT Doukhobors
+		RT Hutterite Brethren
+		RT Mennonites
+	NT Competitions
+	NT Conferences
+	NT Credit
+	NT Education
+	NT Exhibitions
+	NT Experiment stations
+	NT Organic
+	NT Implements
+	NT Industries
+	NT Machinery
+	NT Processing
+	NT Publishing
+	NT Research
+	NT Workers
+	RT Farmers
+
+Agriculture, Department of
+	NT Appropriations and expenditures
+	NT Charts and diagrams
+	NT Officials and employees
+	NT Portraits, etc.
+	NT Reorganization
+	RT names of Divisions and Branches, e.g., Agriculture, Department of.  Home Economics Branch.
+	RT names of Boards, Corporations, etc., e.g., Hail and Crop
+
+Agriculture, Minister of
+
+Agriculturists     
+
+Air
+	NT Pollution    
+		RT Pollutants
+	NT Quality
+
+Air bases     
+	USE Canada. Royal Canadian Air Force (up to 1968) -- Installations
+	USE Canada. Armed Forces (after 1968) -- Installations 
+
+Air Cadets     
+	RT Army Cadets
+	RT Sea Cadets
+
+Air mail service     
+
+Air pilots   
+	USE Aviation -- Pilots  
+
+Air quality
+	USE Air -- Quality    
+
+Air raid shelters     
+
+Air-ships
+	USE Airships
+
+Air shows     
+
+Air strips
+USE Airports -- Runways
+
+Air traffic control
+	USE Airports -- Air traffic control     
+
+Air transport
+	USE Airlines -- Cargo
+
+Air transportation industry
+	USE Airlines -- Passenger
+
+Air travel
+	USE Airlines -- Passenger	
+
+Aircraft
+	NT Accidents
+	NT Equipment and supplies
+	NT Maintenance and repair
+	NT Models
+	NT Refuelling  
+
+Aircraft ambulances     
+
+Aircraft industry     
+
+Airlines     
+	NT Cargo
+	NT Passenger
+	RT Flight attendants
+	RT names of airlines
+
+Airplane industry
+	USE Aircraft industry
+
+Airplanes
+	NT Biplanes 	
+
+Airplanes, Military     
+
+Airports     
+	NT Air traffic control
+	NT Baggage handling  
+	NT Buildings
+	NT Runways
+
+Airports, Floating
+
+Airships
+
+Airstrips
+	USE Airports -- Runways
+
+Alberta
+	NT Anniversaries, etc.
+	NT Anniversaries, etc. (Golden Jubilee)
+	NT Anniversaries, etc. (Seventy-fifth)
+	NT Appropriations and expenditures
+	NT Boundaries     
+	NT Centennial celebrations, etc.
+	NT Civil service
+	NT Description and travel
+	NT Executive departments
+		Use only when dealing with government departments in general.
+		RT names of specific departments, e.g., Agriculture, Department of
+	NT Foreign relations     
+	NT Inaugural ceremonies     
+	NT Officials and employees
+		USE Alberta -- Civil service
+	NT Politics and government
+	NT Political parties
+		USE name of specific party when known
+		NT Conventions
+		NT Election campaigns
+		NT Finance
+		NT History
+		NT Membership
+	NT Study and teaching (Internship)
+	NT Relations (General) with [Name of foreign country]
+	NT Relations (Military) with [Name of foreign country]
+
+Alberta Bill of Rights
+
+Alberta Highway Patrol
+	USE Traffic police
+
+Alberta, Northern
+
+Alberta Provincial Police
+	NT Appointments, promotions, salaries, etc.
+	NT Buildings
+	NT Charts, diagrams, etc.
+	NT Complaints against
+	NT Dogs
+	NT Equipment and supplies
+	NT Finance
+	NT Firearms
+	NT Handbooks, manuals, etc.
+	NT Insignia
+	NT Officers
+	NT Pensions
+	NT Personnel records
+		USE Alberta Provincial Police--Appointments, promotions, salaries, etc.
+	NT Portraits
+	NT Prisoners
+		Refers to the transportation and disposition of prisoners
+	NT Reports
+		Use for annual reports, criminal investigation case reports, strike reports, etc.
+	NT Statistics
+	NT Transportation
+	NT Uniforms
+	NT Veterans
+
+Alberta Advantage Party
+	See NT under Alberta -- Political parties
+
+Alberta Alliance
+	See NT under Alberta -- Political parties
+
+Alberta First
+	See NT under Alberta -- Political parties
+	RT Canada, Western -- Autonomy and independence movement
+
+Alberta Independence Party
+	See NT under Alberta -- Political parties
+	RT Canada, Western -- Autonomy and independence movement
+
+Alberta Party
+	See NT under Alberta -- Political parties
+
+Alberta Reform Movement
+	See NT under Alberta -- Political parties
+
+Alberta Liberal Party
+	See NT under Alberta -- Political parties
+
+Alberta New Democratic Party
+	See NT under Alberta -- Political parties
+
+Alberta Social Credit Party
+	See NT under Alberta -- Political parties
+
+Alcohol 	
+	NT Law and legislation     
+	NT Taxation 
+	RT Liquor traffic for general works on the liquor industry    
+
+Alcoholism
+	USE Substance Use Disorder     
+
+Aldermen
+	USE City Councillors under names of cities 
+
+Alfalfa     
+
+Aliens, Illegal
+	USE Undocumented immigrants
+
+Alimony 
+
+Alkali soil     
+
+All-terrain vehicles     
+
+Almanacs
+
+Altars
+	USE Name of religion -- Buildings -- Altars  
+
+Alternative religious movements
+	UF Cults   
+
+Amateur radio stations     
+	UF Ham radio
+	USE Radio -- Amateur radio stations
+
+Ambrotype 
+	USE Photography -- Ambrotype
+
+Ambulance attendants
+	USE Emergency medical personnel
+
+Ambulances     
+	RT Aircraft ambulances
+
+American Canadians     
+
+Americans     
+
+Ammonia
+	UF Anhydrous ammonia
+
+Ammonia industry     
+
+Ammunition
+
+Amusement parks
+
+Anarchism
+
+Androgyny
+
+Androphilia
+	RT Gynephilia
+
+Anesthesiology 
+
+Anglican Church of Canada     
+	NT Baptism
+	NT Buildings
+	NT Clergy
+	NT Conventions
+	NT Customs and practices
+	NT Dioceses
+		RT names of dioceses, e.g., Athabasca (Diocese)
+	NT Finance
+	NT History
+		RT subdivision History under names of Dioceses
+	NT Members
+	NT Missions and missionaries
+	NT Residences
+	NT Residential schools
+		RT Residential schools
+		RT Truth and Reconciliation Commission
+	NT Sermons
+	NT Societies, etc.
+	NT Sunday schools
+	NT Synods
+		USE Anglican Church of Canada -- Conventions
+	NT Theology
+	NT Universities and colleges
+
+Anhydrous ammonia
+	USE Ammonia
+
+Animal diseases
+	USE Animals -- Diseases
+	RT Veterinary medicine
+
+Animal shelters
+	UF Dog pounds
+	UF Pounds
+
+Animal traps 	
+	USE Trapping and trappers
+
+Animals
+	NT Diseases	
+	RT Veterinary medicine
+	RT subdivision Diseases under individual animals and groups of animals
+
+Animals, Domestic
+	USE Domestic animals
+
+Animism and Animists
+
+Annexation (Municipal Government)     
+
+Anniversaries
+
+Antelopes     
+
+Antennas (Electronics)
+
+Anthropology, Cultural
+
+Anthropology, Physical
+
+Antique and classic cars     
+	USE Automobiles -- Antique and classic cars
+
+Antique dealers     
+
+Antisemitism    
+	RT Racism
+	RT White supremacy
+
+Antiwar movements
+	USE Peace movements
+
+Apartments     
+	RT subdivision Apartments under names of communities
+
+Apiculture
+	UF Bee culture
+	RT Bees
+	RT Honey
+
+Appeals in forma pauperis  
+	USE Legal proceedings -- Appellate procedure
+
+Appliance stores
+	USE Stores, Retail -- Electric apparatus and appliances
+
+Appliances
+	USE Electric apparatus and appliances
+
+Appraisers    
+
+Apprentices     
+
+Aquatic herbicides    
+	RT Herbicides
+
+Aqueducts     
+
+Arab Canadians     
+	Use specific nationality when possible, e.g. Syrian Canadians
+
+Arabs     
+	Use specific nationality when possible, e.g. Syrians
+
+Arbitration, Labour    
+	USE Labour relations -- Arbitration
+
+Arcades     
+
+Archaeological excavations
+	USE Archaeology -- Excavations
+
+Archaeology   
+	NT Excavations  
+
+Archery     
+
+Arches     
+
+Architects     
+	RT Architectural firms
+
+Architectural firms     
+
+Architectural models     
+
+Architecture     
+
+Archives     
+	RT subdivision Archives under subjects, e.g., Universities and colleges -- Archives
+
+Archivists     
+
+Arctic regions
+
+Arenas
+	USE Sports facilities
+
+Armistice Day
+	Use for commemoration of the end of the First World War on 11 November from 1918 to 1930. 	
+	RT Remembrance Day
+
+Armour	
+
+Armoured vehicles     
+
+Armouries     
+
+Arms and armour
+	USE Armour
+	USE Firearms
+	USE Weapons
+
+Arms of Alberta
+
+Arms control 	
+
+Army Cadets
+	RT Air Cadets
+	RT Sea Cadets
+
+Armyworms	
+
+Arrowheads     
+
+Arson     
+
+Art     
+	Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc. 
+	NT Catalogues
+	NT Education
+	NT Galleries
+	NT Private collections
+	NT Studios    
+
+Art centres     
+
+Art schools     
+
+Artesian wells     
+
+Artifacts
+
+Artificial limbs
+
+Artillery     
+
+Artists
+
+Artistic Swimming 
+	UF Synchronised Swimming 
+
+Asbestos     
+
+Asexuality
+
+Asian Canadians  
+	Use specific country when possible, e.g. Japanese Canadians   
+
+Asians 
+	Use specific country when possible, e.g. Japanese    
+
+Assault and battery     
+
+Asses	    
+	USE Donkeys
+
+Assessment     
+	USE Taxes and taxation -- Assessment
+
+Assessors
+	USE Appraisers
+
+Assignments     
+
+Assiniboine Nation     
+	For NT use pattern under Indigenous peoples
+
+Associations, institutions, etc.     
+	RT specific names of associations.
+	RT Clubs
+
+Astronauts     
+
+Astrology
+
+Astronomy    
+
+Athabasca Tar Sands
+	USE Oil sands
+
+Athabasca Tribal Council
+
+Athabasca University
+	NT [Academic department names]
+	NT Administration
+	NT Admission
+	NT Affiliations
+	NT Alumni
+	NT Board of Governors
+	NT Buildings
+	NT Ceremonies, honours and salutes
+	NT Convocations
+	NT Curricula
+	NT Degrees
+	NT Degrees (Honourary)
+	NT Departmental chair
+	NT Employees
+	NT Faculty
+	NT Finance
+	NT Funds and scholarships
+	NT Libraries
+	NT Sports
+	NT Students
+	NT Student unions
+	NT Taxation
+
+Athletes     
+
+Athletics	
+	USE Sports
+
+Atmospheric pollution
+	USE Air -- Pollution
+
+Atomic bomb   
+	USE Nuclear warfare and weaponry  
+
+Atomic bomb shelters
+	USE Nuclear warfare and weaponry -- Shelters
+
+Atomic energy
+	USE Nuclear energy
+
+Atomic warfare
+	USE Nuclear warfare and weaponry
+
+Attachment and garnishment     
+
+Auctions and auctioneers        
+
+Audiometry
+
+Audiovisual media     
+
+Auditing and auditors	
+
+Auditoriums     
+
+Augustana Lutheran Church
+	USE Lutheran Church
+
+Aurora borealis
+
+Austerity
+	RT Deregulation
+	RT Neoliberalism
+
+Austrian Canadians     
+
+Austrians     
+
+Authors
+
+Autism spectrum   
+
+Autographs     
+
+Automation     
+
+Automobiles     
+	NT Antique and classic cars
+	NT Conservation and restoration
+	NT Dealers
+	NT Decoration
+	NT Driving and drivers
+	NT Driving education   
+	NT Environmental aspects
+	NT Industry and trade 
+	NT Inspection   
+	NT Insurance
+		USE Insurance -- Automobile
+	NT Law and legislation     
+	NT Licensing    
+	NT License plates
+	NT Lighting   
+	NT Maintenance and repair
+	NT Mechanics
+	NT Parts
+	NT Racing
+	NT Registration and transfer 
+	NT Rental
+	NT Safety    
+	NT Service stations
+		USE Service stations
+	NT Social aspects    
+	NT Societies, etc.
+	NT Taxation     
+	NT Tires
+	NT Repairing
+	NT Used parts industry
+
+Autopsy     
+
+Avalanches     
+
+Aviation
+	UF Aeronautics
+	NT Hijacking of aircraft
+	NT History
+	NT Mechanics
+	NT Pilots
+
+Aviation insurance
+	USE Insurance, Aviation
+
+Axes     
+
+Babysitters     
+	USE Childcare
+
+Badges     
+
+Badminton  
+
+Bagpipes
+
+Baha'i
+	NT Buildings
+	NT Ceremonies
+	NT Education
+	NT Theology
+
+Bailiffs     
+
+Baked goods
+
+Bakers and bakeries     
+
+Ball hockey
+	UF Floor hockey
+	RT Field hockey
+	RT Hockey
+
+Ballet
+	USE Dance -- Ballet     
+
+Ballet companies     
+
+Balloons	
+	RT Hot air balloons
+
+Ballot    
+
+Ballroom dancing
+	USE Dance -- Ballroom     
+
+Baltic Canadians
+	When possible specify the nation, e.g. Lithuanian Canadian.
+
+Balts     
+	When possible specify the nation, e.g. Lithuanian Canadian.
+
+Bands (Music)     
+
+Bank loans     
+
+Bankruptcy     
+
+Banks and banking     
+	RT Credit Unions
+	RT Treasury Department.  Treasury Branches
+
+Banquets
+	USE Dinners and dining
+
+Baptism
+	USE as NT under specific religion
+
+Baptist Church 
+	NT Baptism
+	NT Buildings
+	NT Clergy
+	NT Conventions
+	NT Customs and practices
+	NT Finance
+	NT History
+	NT Members
+	NT Missions and missionaries
+	NT Residences
+	NT Sermons
+	NT Societies, etc.
+	NT Sunday schools
+	NT Theology
+	NT Universities and colleges    
+
+Barbecues
+
+Barbers     
+
+Barbershop quartets
+
+Barbershops     
+
+Barges     
+
+Barley     
+
+Barns     
+
+Barracks
+	RT subdivision Barracks and quarters under armies, etc.
+
+Barrels
+
+Bars (Drinking establishments)  
+
+Bartenders
+
+Barter     
+
+Baseball     
+
+Basketball     
+
+Bathing suits
+
+Baths		
+
+Batik    
+
+Baton twirling 	
+
+Battered women
+	USE Domestic violence -- Women
+
+Battles     
+	RT names of individual battles
+
+Bazaars
+
+Beaches     
+
+Beadwork     
+
+Beans     
+
+Bears     
+
+Beauty contests     
+
+Beauty culture     
+	USE Beauty industry
+	USE Fashion industry
+
+Beauty industry
+
+Beauty shops     
+	USE Salons
+
+Beauticians
+
+Beaver Nation
+	USE Dane-zaa Nation
+
+Beavers
+
+Bedding industry     
+
+Bedroom furniture
+
+Beds     
+
+Bee culture     
+	USE Apiculture
+
+Beef industry     
+
+Beefalo     
+
+Beer     
+	NT Social aspects
+	NT Taxation  
+
+Bees     
+
+Beet sugar 	
+
+Beet sugar industry     
+
+Beets     
+
+Beggars 
+	USE Panhandling and panhandlers    
+
+Belgian Canadians     
+
+Belgians     
+
+Bells     
+
+Belt conveyors
+
+Berries     
+	RT names of particular berries
+	NT Harvesting   
+
+Bertha armyworm
+	USE Army-worms
+
+Beverage processing plants     
+	RT Breweries
+	RT Distilleries
+	RT Wine and wine making
+	RT Wineries
+
+Beverages
+
+Bible
+	USE Christianity -- Bible
+
+Bibliography     
+
+Biculturalism
+	RT Polyculturalism     
+
+Bicycles     
+
+Bigamy     
+	RT Polygamy
+
+Bilingualism     
+
+Billiard halls     
+
+Billiards
+
+Bills, Legislative     
+	USE Legislative Assembly -- Bills
+
+Bills, Private     
+	USE Legislative Assembly -- Private bills
+
+Binder twine
+	USE Twine
+
+Binders
+
+Bingo     
+
+Biography
+
+Biologists     
+
+Biology     
+
+Biplanes
+	USE Airplanes -- Biplanes 	
+
+Birds     
+	NT Banding
+	NT Birdwatching
+	NT Conservation
+	NT Migration
+	NT Sanctuaries
+
+Birth certificates     
+
+Birth control     
+	NT Religious aspects [Baptist Church, Catholic Church, etc.]
+	RT Contraception 
+
+Birth defects
+	USE Congenital defects
+
+Birthdays
+
+Biscuits
+	NT Trade and manufacture
+
+Bishops     
+	Where possible use the subdivision Bishops under the specific denomination.
+
+Bisexuality
+
+Bison
+	UF Buffalo
+	NT American
+	NT Conservation
+	NT Hunting
+	NT Plains
+	NT Wood
+
+Bituminous sand
+	USE Oil sands
+
+Black Canadians     
+
+Blackflies
+
+Blackfoot Confederacy
+	USE Niitsitapi
+	RT Kainai Nation
+	RT Piikani Nation
+	RT Siksika Nation
+
+Blackfoot Nation
+	USE Siksika Nation
+	RT Niitsitapi
+
+Blacksmiths     
+
+Blind 
+	USE Visually impaired    
+
+Blindness   
+	USE Visual impairment  
+
+Blizzards     
+
+Blood
+	NT Donation
+	NT Examination
+
+Blood Nation
+	USE Kainai Nation
+
+Boarding houses	
+
+Boards of trade     
+	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
+
+Boatbuilding     
+
+Boathouses     
+
+Boats and boating     
+	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
+
+Bobcats
+
+Bobsledding     
+
+Bodybuilding     
+
+Boer War, 1899-1902
+	USE South African War, 1899-1902
+
+Boilers
+	RT Steam-boilers
+
+Bomb shelters
+	USE Air raid shelters
+	USE Nuclear warfare and weaponry -- Shelters
+
+Bombings     
+
+Bonding of employees
+	USE Insurance -- Surety and fidelity
+
+Bonds     
+
+Bones
+
+Bookbinding     
+
+Book plates
+
+Books     
+
+Bookstores
+	USE Stores, Retail -- Bookstores
+
+Boots     
+	USE Footwear
+
+Boring     
+
+Botany     
+
+Bottles     
+
+Boulders     
+
+Boundaries
+	USE NT Boundaries under place names.
+
+Bounties     
+
+Bowling     
+
+Bowling alleys     
+
+Bowling on the green
+	USE Lawn Bowling
+
+Box making     
+
+Boxing     
+	NT Injuries
+
+Boys 
+	NT Education		
+	NT Societies and clubs
+
+Branding of cattle
+	USE Livestock -- Brands and branding
+
+Brands
+	USE Livestock -- Brands and branding
+
+Bread     
+
+Breath tests
+	USE Law enforcement -- Field sobriety tests     
+
+Breathing apparatus
+	USE Respirators
+
+Breeding 
+	USE as NT under BT, e.g. Livestock -- Breeding    
+
+Breweries 
+	NT Workers 
+	RT Beverage processing plants   
+
+Brewing industry     
+	NT Law and legislation     
+	RT Beer -- Taxation
+
+Bribery     
+
+Brick trade     
+
+Bricklayers     
+
+Brickmaking     
+
+Bricks     
+
+Bridge construction
+	USE Bridges--Design and construction
+
+Bridges     
+	NT Cantilever
+	NT Concrete
+	NT Design and construction
+	NT Iron and steel
+	NT Stone
+	NT Wooden
+	RT subdivision Bridges under names of rivers, communities, etc.
+	RT names of individual bridges
+
+British  
+	When possible use English, Scottish, Welsh, or Northern Irish.
+
+British Canadians     
+	When possible use English Canadians, Scottish Canadians, Welsh Canadians, or Northern Irish Canadians.
+
+British Commonwealth countries/nations
+	USE Commonwealth of Nations
+
+Broad jump     
+
+Broadcast journalism
+	USE Journalists and journalism -- Broadcast     
+
+Brokers     
+
+Broom and brush industry     
+
+Broomball
+
+Brothels
+	USE Prostitution
+
+Buddhism 
+	NT Buildings
+	NT Ceremonies
+	NT Clergy
+	NT Theology
+
+Buddhists  
+
+Budget     
+	RT Appropriations and expenditures under names of governmental jurisdictions, associations, etc.
+
+Budget speech
+
+Buffalo
+	USE Bison
+
+Buffalo, American
+	USE Bison -- American
+
+Buffalo, Wood
+	USE Bison -- Wood
+
+Buffalo bones
+	USE Bones
+
+Buffalo jump     
+
+Buggies
+	USE Carriages and carts
+
+Building     
+	USE Construction industry
+
+Buildings
+	NT Prefabricated
+	NT Wooden     
+	RT names of particular types of buildings, e.g., Archive buildings
+	RT subdivision Buildings under names of communities and institutions.
+
+Bulldozers
+
+Bulletin boards   
+
+Bulls     
+	USE Cattle
+
+Burial     
+	RT Funeral rites and ceremonies
+
+Burns and scalds     
+
+Bus terminals     
+
+Buses     
+	RT Transit systems
+
+Bush flying     
+
+Bush pilots     
+
+Business
+	NT Education
+	NT Enterprises	
+
+Butchery and butchers
+	RT Slaughtering and slaughter-houses     
+
+Butter
+
+Butter, Artificial
+	USE Margarine
+
+By-elections
+	Use Elections [jurisdiction, date]
+
+By-laws     
+	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
+
+By-Laws, Municipals
+	USE Ordinances, Municipal
+
+Cabbage     
+
+Cabinet
+	USE Executive Council
+
+Cabinet ministers
+	NT Canada [Alberta, etc.]
+
+Cabins
+	USE Log cabins
+	USE Vacation homes
+
+Cable cars     
+
+Cabooses (Railroads)
+
+Cadavers
+	UF Corpses
+
+Cadets, Military
+	USE Air Cadets
+	USE Army Cadets
+	USE Sea Cadets
+
+Cafes
+	USE Bars (Drinking establishments)
+	USE Restaurants, coffeehouses
+
+Cafeterias
+
+Cairns     
+	RT Historical markers
+
+Cake     
+
+Calendars
+
+Calgary
+	NT Airports
+	NT Ambulance service
+	NT Animal shelters
+	NT Annexation
+	NT Appropriations and expenditures
+	NT Archive buildings
+	NT Armouries
+	NT Art galleries, Commercial
+	NT Art museums
+	NT Auditoriums, convention facilities, etc.
+	NT Bakers and bakeries
+	NT Banks and banking
+	NT Barbershops
+	NT Bars, saloons, etc.
+	NT Bath houses
+	NT Blizzard, [date]
+	NT Boards of Trade
+	NT Boats and boating
+	NT Boundaries
+	NT Breweries
+	NT Bridges
+	NT Buildings
+	NT Buildings -- Conservation and restoration
+	NT Bus terminals
+	NT By-laws
+	NT Carnival
+	NT Census
+	NT Census, [date]
+	NT Cemeteries
+	NT Centennial celebrations, etc.
+	NT Ceremonies
+	NT Charities
+	NT Charters, grants, privileges
+	NT Choirs (Music)
+	NT Churches
+	NT City Hall
+	NT City Council
+	NT City Councillors
+	NT City planning
+	NT Civic improvement
+	NT Civil defence
+	NT Climate
+	NT Commerce
+	NT Conservatories of music
+	NT Construction industry
+	NT Convention centres
+	NT Conventions
+	NT Convents
+	NT Correctional institutions
+	NT Court houses
+	NT Crime and criminals
+	NT Dairy plants
+	NT Demonstrations
+	NT Description
+	NT Directories
+	NT Docks, wharves, etc.
+	NT Drama
+	NT Earthquake, [date]
+	NT Economic conditions
+	NT Elections
+	NT Grain elevators
+	NT Entertaining and entertainment
+	NT Executive departments
+	NT Exhibitions
+	NT Explosion, [date]
+	NT Ferries
+	NT Festivals
+	NT Fire, [date]
+	NT Fire stations
+	NT Fires and fire prevention
+	NT Flood, [date]
+	NT Floods
+	NT Fortifications, military installations, etc.
+	NT Fountains
+	NT Funeral rites and ceremonies
+	NT Gardens
+	NT General strike, [date]
+	NT Greenhouses
+	NT Historical geography
+	NT History
+		NT Memoirs
+		NT Oral
+	NT Hospitals
+	NT Hotels, motels, etc.
+	NT Housing
+	NT Humane societies
+	NT Ice industry
+	NT Images
+	NT Industries
+	NT Intellectual life
+	NT Landslide, [date]
+	NT Landslides
+	NT Law firms
+	NT Libraries
+	NT Lighting
+	NT Lumber-yards
+	NT Machine shops
+	NT Manufactures
+	NT Markets
+	NT Mayors
+	NT Meat industry and trade
+	NT Mills and millwork
+	NT Monasteries
+	NT Monuments
+	NT Morgues
+	NT Mosques
+	NT Museums
+	NT Nightclubs, dance halls, etc.
+	NT Long-term care facilities
+	NT Office buildings
+	NT Officials and employees
+	NT Orchestras and bands
+	NT Packing houses
+	NT Parades
+	NT Parks
+	NT Periodicals
+	NT Personalities
+	NT Petroleum industry
+	NT Physicians
+	NT Playgrounds
+	NT Poetry
+	NT Police
+	NT Population
+	NT Poultry industry
+	NT Poverty
+	NT Power supply
+	NT Public buildings
+	NT Public restrooms
+	NT Railways
+	NT Real estate business
+	NT Recreational facilities
+	NT Restaurants
+	NT Riot, [date]
+	NT Riots
+	NT Sanitation
+	NT Schools
+	NT Seal
+	NT Service stations
+	NT Sewer system
+	NT Sexual behaviour
+	NT Shrines
+	NT Slaughterhouses
+	NT Societies, etc.
+	NT Sports
+	NT Sports facilities
+	NT Stables
+	NT Statues
+	NT Stockyards
+	NT Storage and moving trade
+	NT Stores, shopping centres, etc.
+	NT Storm, [date]
+	NT Storms
+	NT Street-cleaning
+	NT Streets
+	NT Synagogues
+	NT Taxation
+	NT Telephone companies
+	NT Temples
+	NT Theatres
+	NT Tornado, [date]
+	NT Tornadoes
+	NT Tourist information centres
+	NT Transit systems
+	NT Wards
+	NT Water
+	NT Zoos
+
+Camels     
+
+Camera stores
+	USE Stores, Retail -- Photographic equipment
+
+Cameras     
+
+Camp sites, facilities, etc.     
+
+Camping     
+
+Camps     
+	NT Outfits, supplies, etc.
+
+Camps (Military)
+	USE Canada. Armed Forces -- Installations
+	USE Military bases
+
+Campus police     
+	USE Universities and colleges -- Security
+
+Canada
+	NT Anniversaries, etc.
+	NT Boundaries     
+	NT Centennial celebrations, etc.
+	NT Climate   
+	NT Commerce--[United States, etc.]
+	NT Constitutional law
+	NT Amendments
+	NT Departments
+		USE Canada.  Department of [the Interior, etc.]
+	NT Description and travel
+	NT Economic conditions
+	NT Government publications
+	NT History
+	NT Confederation, 1867
+	NT Militia
+		USE Canada. Canadian Armed Forces -- Reserves (after 1968)
+		USE Canada. Army -- Reserves (up to 1968)
+		USE Canada. Royal Canadian Air Force -- Reserves (up to 1968)
+		USE Canada. Royal Canadian Navy -- Reserves (up to 1968)
+	NT Population
+
+Canada. Canadian Armed Forces
+	Use for all the services from 1968 to the present.
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
+
+Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)
+
+Canada.  Army (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada. Army. Canadian Expeditionary Force
+	Established Aug. 1914 and ceased to exist November, 1918
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
+
+Canada. Constitution Act 1982
+	RT Canada -- Constitutional law -- Amendments
+	NT Constitutional conventions
+
+Canada.  Department of [the Interior, etc.]
+
+Canada.  Laws
+	USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act
+
+Canada.  Navy
+	USE Canada.  Royal Canadian Navy.
+
+Canada.  Northern
+
+Canada.  Parliament
+	NT Committees
+
+Canada.  Parliament.  House of Commons
+	NT Membership
+	NT Television broadcasting of proceedings
+
+Canada. Parliament. Senate
+	NT Members
+
+Canada.  Royal Canadian Air Force (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada.  Royal Canadian Navy. (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
+Canada, Western
+	NT Autonomy and independence movement
+	NT History
+
+Canada Day
+
+Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
+	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
+
+Canals
+	USE Irrigation canals and flumes
+
+Cancer     
+	NT Complications      
+	NT Diagnosis      
+	NT Hospitals     
+	NT Law and legislation     
+	NT Mortality
+	NT Nursing     
+	NT Prevention
+	NT Reporting     
+	NT Research     
+	NT Social aspects     
+	NT Surgery     
+	NT Treatment     
+
+Cancer clinics
+	USE Cancer -- Hospitals
+
+Candles
+
+Candlesticks     
+
+Candy     
+
+Candy industry     
+
+Candy stores
+	USE Stores, Retail -- Confectionary
+
+Cannabis
+	UF Marijuana
+
+Canneries     
+
+Cannery workers     
+
+Canning and preserving
+
+Canoes and canoeing     
+
+Canola     
+	RT Rape (Plant)
+
+Canyons     
+
+Capital punishment
+	NT Abolition     
+
+Capitalism
+
+Car washes     
+
+Carbon, Activated
+
+Cardiology
+	RT Heart Diseases
+
+Cards
+	USE Playing cards 
+	USE Greeting cards
+
+Career education     
+	RT Vocational guidance
+
+Cargo ships
+	USE Ships -- Cargo     
+
+Caribbean Canadians
+	UF West Indian Canadians
+	USE specific nation when possible.
+
+Caribbeans
+	UF West Indians
+	USE specific nation when possible.
+
+Caribou     
+
+Caricatures and cartoons
+	UF Cartoons     
+
+Carillons     
+
+Carnival     
+
+Carpenters     
+
+Carpentry     
+
+Carpets     
+
+Carriages and carts     
+
+Cars
+	USE Automobiles
+
+Cartography     
+
+Cartoonists     
+
+Cartoons
+	USE Caricatures and cartoons
+
+Casinos     
+	RT Gambling
+
+Cast-iron pipe 	
+
+Catalogues
+	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
+
+Catering and caterers     
+
+Caterpillars
+
+Catholic Church
+	NT Buildings
+	NT Clergy
+	NT Congregations and Orders
+	NT Customs and practices
+	NT Dioceses   
+	NT Education     
+	NT Finance
+	NT History
+	NT Missions     
+	NT Residential schools
+	NT Sermons
+	NT Societies, etc.
+
+Cats     
+
+Cattle     
+	NT Brands
+		USE Cattle brands
+	NT Breeding
+	NT Breeds
+	NT Diseases  
+	NT Feeding and feeds
+	NT Grading   
+	NT Marketing
+	NT Rustling
+	NT Transportation
+
+Cavalry     
+
+Caves     
+
+Celebrations, anniversaries, etc.
+	USE Anniversaries
+
+Celebrities     
+
+Cement industries     
+
+Cement kilns
+
+Cement mixers
+	USE Concrete mixers
+
+Cemeteries     
+	RT names of individual cemeteries
+
+Cenotaphs
+	USE War memorials
+
+Censorship     
+	RT subdivision Censorship under specific topics
+
+Census
+
+Centennial celebrations
+	USE Alberta -- Centennial celebrations, etc.
+	USE Canada -- Centennial celebrations, etc.
+
+Ceramic industries     
+
+Cerebral palsy     
+
+Cerebrovascular disease     
+
+Ceremonial maces     
+	RT Provincial Mace
+
+Ceremonies
+	USE Rites and ceremonies
+
+Chairs
+
+Chalices
+	USE Liturgical objects
+
+Chamber orchestra
+
+Chambers of Commerce
+	USE Boards of Trade
+	USE name of individual Chamber of Commerce
+
+Chapels     
+
+Chaplains
+
+Charities     
+
+Charters
+
+Chattel mortgages     
+
+Chautauquas 
+
+Cheerleading     
+
+Cheers
+
+Cheese     
+
+Cheese factories     
+
+Chefs
+
+Chemical apparatus
+
+Chemical industry     
+
+Chemistry     
+
+Chess     
+
+Chests     
+
+Chickens     
+	NT Eggs
+	NT Hatcheries  
+	NT Housing     
+
+Child abuse     
+
+Child care workers     
+
+Child welfare     
+	RT Children--Legal status, laws, etc.
+
+Childbirth     
+	NT Home birth
+	NT Midwifery and midwives
+	NT Study and teaching     
+
+Childcare
+	UF Babysitting
+
+Children     
+	NT Art
+	NT Biography
+	NT Clothing
+	NT Diseases     
+	NT Employment     
+	NT Health 
+	NT Hospitals     
+	NT Institutional care     
+	NT Legal status, laws, etc.
+	NT Music
+	NT Nutrition
+	NT Societies and clubs
+
+Children's literature   
+
+Chilean Canadians     
+
+Chileans
+
+Chimneys     
+
+Chinaware
+	USE Porcelain
+	USE Pottery
+
+Chinese     
+
+Chinese Canadians     
+
+Chinese languages
+	NT Cantonese
+	NT Mandarin     
+
+Chipewyan Nation
+	USE Dene Suline Nation
+
+Chipmunks     
+
+Chiropractors     
+
+Choirs     
+
+Chopping wood
+	USE Firewood
+
+Christian colleges
+	USE Universities and colleges -- Religious
+
+Christianity
+	NT Bible
+	NT Ceremonies
+	NT Holidays
+	NT Missions and missionaries
+	NT Pilgrims and pilgrimages
+	NT Sects
+	NT Theology
+
+Christians
+
+Christmas    
+	NT Decorations, etc.
+	NT Greeting cards 
+
+Chuckwagon racing     
+
+Church buildings
+
+Church lands     
+
+Church of Jesus Christ of the Latter Day Saints
+	UF Mormons
+	NT Buildings
+	NT Clergy
+	NT Missions and missionaries
+	NT Theology
+
+Cigar industry     
+
+Cinematography
+
+Circus     
+
+Circus animals 
+
+Cisgender
+
+Cisnormativity   
+
+Cities and towns
+	RT Municipal government
+
+Cities and towns, Ruined, extinct, etc.     
+	USE Ghost towns
+
+Citizenship     
+
+Citizens' protection organizations
+	USE Crime prevention -- Citizen participation
+
+City Council members   
+
+City councils   
+	USE names of specific City councils, e.g., Edmonton. City Council
+	RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council
+
+City planning     
+
+Civil court cases
+	USE Civil law -- Cases
+
+Civil defence     
+	NT Distant Early Warning Line
+
+Civil law     
+	NT Cases
+
+Civil rights     
+	RT Human Rights
+
+Civil service     
+	For specific departments USE [Name of department] -- Officials and employees
+	NT Alberta
+	NT Canada
+
+Class and classism
+
+Clay industries     
+
+Cleaning
+
+Clearing of land     
+
+Clergy     
+	When possible use specific sect, e.g. Catholic Church -- Clergy
+
+Clerks     
+
+Clerks of court     
+
+Climate
+
+Climate change
+
+Clinics     
+	USE Medical clinics
+
+Clocks and watch making     
+
+Clocks and watches     
+
+Clothing and dress
+	RT Children's clothing
+	RT Men's clothing
+	RT Women's clothing
+
+Clothing stores
+	USE Stores, Retail -- Clothing
+
+Clothing trade     
+	USE Garment industry
+
+Clothing workers     
+	USE Garment industry -- Workers
+
+Clouds     
+
+Clowns     
+
+Clubs      
+
+Coaches
+	USE Carriages and carts
+
+Coaches (Athletics)     
+
+Coal     
+	NT Carbonization
+	NT Gasification
+	NT Industry
+	NT Liquefaction
+	NT Miners
+	NT Mines and mining
+		NT Accidents
+		NT Machinery
+		NT Rescue
+	NT Power
+	NT Slurry
+	NT Storage
+	NT Transportation
+
+Coal companies     
+
+Coal leases     
+	RT Mining leases
+
+Coats of arms
+	USE Heraldry
+	USE Arms of Alberta
+
+Coffee    
+
+Coffee houses     
+
+Coffins     
+
+Coinage   
+	USE Money
+	USE Numismatics
+
+Coke industry     
+
+Cold storage
+
+Cold War, 1945-1991     
+
+Collection agencies     
+
+Collective agreements
+	USE Labour relations -- Collective bargaining agreements
+
+Collective bargaining     
+	USE Labour relations -- Collective bargaining agreements
+
+College buildings
+	USE Universities and colleges -- Buildings    
+
+College sports
+	USE Universities and colleges -- Sports     
+
+College students  
+	USE Universities and colleges -- Students   
+
+College teachers     
+	USE Universities and colleges -- Faculty
+
+Colleges
+	USE Universities and colleges
+	RT Names of specific colleges, universities
+
+Colon (Anatomy)
+
+Colonialism
+
+Combines (Agricultural machinery)     
+
+Comedy programs     
+
+Comic books, strips, etc.     
+
+Commercial catalogues   
+
+Commercial credit     
+
+Commercial travellers
+	USE Travelling sales personnel
+
+Commissionaires
+
+Commissioners for Oaths
+
+Commissions (of inquiry)
+	USE Governmental investigations
+	USE Names of specific commissions
+
+Committees    
+	Use only for collections containing material on several committees.
+	For individual committees USE name of committee.
+
+Committees of the Legislature
+	USE Legislative Assembly--Committees
+
+Commonwealth Games (11th : 1978 : Edmonton, Alberta)
+	NT Closing ceremonies
+	NT Cultural events
+	NT Opening ceremonies
+	NT Sports
+		USE specific name of sport
+
+Commonwealth of Nations
+	UF British Commonwealth countries/nations
+
+Communal living    
+
+Communes
+	USE Communal living
+
+Communicable diseases     
+
+Communication     
+
+Communication in education     
+
+Communism     
+
+Communist parties
+
+Communist Party -- Alberta
+	See NT under Alberta -- Political parties     
+
+Community art centres
+	USE Art centres
+
+Community centres     
+
+Community correctional centres
+	USE Correctional institutions
+
+Community development     
+
+Community halls
+	USE Community centres
+
+Community leagues   
+
+Community pastures
+	USE Pastures
+
+Companies
+	USE Business enterprises
+
+Compensation for victims of crime
+	USE Reparation
+
+Compensation (Law)     
+
+Composers     
+
+Computers
+	NT Programs
+	NT Security measures
+	RT Electronic data processing
+	RT Information storage and retrieval systems
+
+Concert programs   
+
+Concerts     
+	RT Music -- Performance
+
+Concrete
+
+Concrete mixers
+
+Conditional sales
+	USE Sales, conditional
+
+Condominiums     
+
+Confederacy of Treaty Six First Nations
+
+Confederation 1867
+	USE Canada -- History -- Confederation, 1867
+
+Confederation Day
+	USE Canada Day
+
+Conferences and conventions
+
+Congenital defects
+	UF Abnormalities, Human
+	UF Birth defects
+
+Congregationalists, Finnish [German, etc.] 
+
+Congress
+	USE Conferences and conventions
+
+Conscription, Military
+	USE Military service, Compulsory
+
+Conservation
+	USE Energy conservation
+	USE Water conservation
+	USE Wildlife conservation
+
+Conservatories   
+	USE Greenhouses
+
+Conservatories of music     
+	RT Music -- Instruction and study
+
+Constituencies
+	USE Election districts (Federal)
+
+Constitutional conventions     
+	RT Canada. Constitution Act 1982
+
+Construction equipment     
+
+Construction equipment industry     
+
+Construction industry
+	NT Codes     
+	NT Materials
+	NT Permits
+
+Construction workers     
+
+Consulates
+	USE Diplomatic and consular service
+	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
+
+Consultants    
+
+Consumer associations
+
+Consumer credit     
+
+Consumer protection    
+
+Containerization   
+
+Contested elections  
+	USE Elections -- Contested
+
+Continuing education     
+
+Contraception
+	RT Birth Control
+
+Contractors     
+
+Conventions     
+	USE Conferences and conventions
+
+Convents  
+	USE as NT under specific sect or religion.
+
+Conveyor belts  
+	RT Belt conveyors
+
+Cookery     
+
+Cookies   
+
+Cooks     
+
+Coolie labour
+	USE Railroads -- Construction workers
+
+Cooperative Commonwealth Federation
+	See NT under Alberta -- Political parties
+
+Cooperative societies     
+
+Cooperatives
+	USE Cooperative societies
+
+Co-ops
+	USE Cooperative societies
+
+Copper mines and mining     
+
+Copyright 
+
+Corn     
+
+Cornerstone laying     
+	RT subdivision Laying of cornerstone under names of specific buildings
+
+Coronations     
+
+Coroners     
+
+Corporation law     
+	USE Law -- Corporate
+
+Corporations     
+	NT Finance
+	NT Taxation     
+
+Corporations, Foreign     
+
+Corporations, Government     
+
+Corpses
+	USE Cadavers
+
+Corrals    
+	USE Stockyards
+
+Correctional institutions     
+	NT Halfway houses
+	NT Inmates
+	NT Juvenile detention homes
+	NT Reformatories
+	NT Remand centres
+
+Correctional personnel     
+
+Cosmetics     
+
+Costume     
+	RT Traditional dress
+
+Cottages     
+
+Cotton fabrics     
+
+Cougars
+	USE Mountain Lions 
+
+Counterfeits and counterfeiting     
+
+Counties
+	RT Local government
+	Municipal Affairs, Department of
+	For names of particular counties use the following format:  Parkland, County of
+
+Country clubs     
+
+Country music     
+
+Courier service
+	USE Express service
+
+Courthouses     
+
+Court reporters     
+
+Courts 
+
+Covered wagons
+	USE Wagons
+
+Cowboys     
+
+Cowgirls     
+
+Coyotes     
+
+Cranes (Birds)  
+
+Cranes, derricks, etc.     
+	RT Construction equipment
+
+Creameries     
+	RT Dairying
+	RT Dairy plants
+
+Creationism
+
+Creative writing
+
+Creches (Nativity scenes)    
+
+Credit cards     
+
+Credit unions     
+	RT Banks and banking
+	RT Cooperative societies
+
+Cree Nation
+	When possible use name of specific nation 
+	For subdivisions USE pattern under Indigenous peoples
+
+Cree Nation, Plains
+	For subdivisions USE pattern under Indigenous peoples
+
+Cree Nation, Woodlands
+	For subdivisions USE pattern under Indigenous peoples
+
+Creeks
+	USE name of creek
+	USE Rivers
+
+Cremation     
+	RT Funeral rites and ceremonies
+	RT Undertakers and undertaking
+
+Crematoriums     
+	RT Funeral rites and ceremonies
+	RT Undertakers and undertaking
+
+Cribs (Children's furniture)     
+	RT Children's furniture
+
+Cricket         
+
+Crime and criminals     
+	NT Victims
+
+Crime, Compensation for
+	USE Reparation
+
+Crime prevention     
+NT Citizen participation
+
+Criminal investigation     
+
+Criminal law     
+	USE Law -- Criminal
+
+Crippled
+	USE Physically disabled 
+
+Crisis centres
+	USE Crisis intervention (Psychiatry)
+
+Crisis intervention (Psychiatry)    
+
+Crisis lines
+	USE Crisis intervention (Psychiatry)
+
+Crops  
+	USE Field crops
+
+Croquet     
+
+Crosses     
+	USE Liturgical objects
+
+Crown lands   
+	USE Public lands
+
+Crown Prosecutors
+
+Crows  
+
+Crucifixes
+	USE Liturgical objects
+
+Crude oil
+	USE Petroleum
+
+Cruise missiles
+
+Crushing machinery  
+
+Cuban Canadians     
+
+Cubans     
+
+Cultivators   
+	RT Agricultural machinery
+
+Cults
+	USE Alternative religious movements
+	USE Fanaticism     
+
+Culverts     
+
+Cupboards     
+
+Cups (Trophies)
+	USE Sports -- Awards
+
+Curling     
+
+Curling rinks     
+
+Currency
+	USE Money
+
+Custody of children     
+
+Customs (Tariff)
+	USE Tariffs
+
+Customs administration     
+
+Cutlery     
+
+Cutting machines  
+
+Cycling     
+
+Cyclones
+	USE Tornadoes
+
+Cystic fibrosis     
+
+Czech Canadians     
+
+Czechs     
+
+Daguerreotype
+	USE Photography -- Daguerreotype     
+
+Dairies
+	USE Dairy plants
+	RT Dairy farming
+
+Dairy farming
+	NT Cooperative
+	NT Equipment and supplies
+	NT Exhibitions 
+
+Dairy plants     
+
+Dairy products     
+	NT Marketing
+	RT Cheese products
+
+Dams     
+
+Dance  
+	NT Ballet
+	NT Ballroom
+	NT Folk
+	NT Hip hop
+	NT Jazz
+	NT Modern
+	NT Square
+	NT Swing
+	NT Tap
+	NT Urban
+
+Dance parties
+
+Dancing     
+	USE Dance
+
+Dane-zaa Nation
+	UF Beaver Nation
+	For NT see subdivisions under Indigenous peoples
+
+Danes
+
+Dangerous goods routes
+	USE Hazardous substances -- Transportation
+
+Danish Canadians     
+
+Darts (Game)     
+
+Data processing
+	USE Electronic data processing
+	USE Information storage and retrieval systems
+
+Data protection     
+
+Dating (Social customs)   
+
+Day care centres     
+	USE Child care
+
+Day nurseries
+	USE Child care
+
+Daylight saving     
+
+Deaf     
+	USE Hearing impaired
+
+Death     
+	NT Causes
+
+Debentures
+	USE Bonds
+
+Debt     
+
+Decentralization 
+
+Decorations of honour     
+	RT Canada.  Armed Forces -- Medals, badges, decorations, etc.
+
+Deeds     
+
+Deer     
+
+Defectors     
+
+Degrees, Academic     
+
+Dehorning  
+
+Delivery wagons
+	USE Wagons
+
+Demographic surveys     
+
+Demolition
+	USE Wrecking
+
+Demonstrations     
+
+Demurrage
+
+Dene Suline Nation
+	UF Chipewyan Nation
+	For NT see subdivisions under Indigenous peoples
+
+Dene Tha' Nation
+	UF Slavey Nation     
+	For NT see subdivisions under Indigenous peoples
+
+Dentistry
+	NT Clinics
+	NT Fees
+	NT Instruments and apparatus
+	NT Technicians     
+
+Dentists     
+
+Department stores  
+	USE Stores, Retail -- Department stores
+
+Deportation     
+
+Depression
+	USE Mental health -- Depression
+
+Depressions (economic)
+	RT Great Depression, 1929-1939   
+
+Deregulation
+	RT Austerity   
+	RT Neoliberalism
+
+Derricks
+	USE Cranes, derricks, etc.
+	USE Oil well drilling rigs
+
+Design, Industrial     
+
+Desks     
+
+Detectives   
+
+Developing countries
+
+DEW Line
+	USE Civil defence -- Distant Early Warning Line
+
+Diabetes     
+
+Diesel fuels  
+
+Dining rooms     
+
+Dinners and dining 
+
+Dinosaurs     
+
+Diphtheria     
+
+Diplomatic and consular service     
+
+Direct broadcast satellite television     
+	USE Television -- Satellite
+
+Dirigible balloons
+	USE Airships
+
+Disabled
+	USE Mentally disabled
+	USE Physically disabled
+	RT Ableism 
+
+Disallowance of legislation     
+	USE Legislation -- Repeal
+
+Disaster planning
+	USE Emergency management
+
+Disasters     
+	RT specific types of disasters, e.g., Floods, Fires
+	RT names of specific disasters
+
+Discer (Agricultural implement)
+
+Discount, Cash (Income tax)     
+
+Discretionary trusts     
+
+Discrimination     
+	RT subdivision Discrimination under specific racial or ethnic groups.
+
+Diseases     
+	USE specific disease when possible.
+
+Dispensaries     
+	RT Stores, Retail -- Drugstores
+
+Displays
+	USE Exhibitions
+
+Dissection
+
+Distance education     
+
+Distant early warning system
+	USE Civil Defence -- Distant Early Warning Line
+
+Distilleries  
+	RT Beverage processing plants      
+
+Distress (Law)  
+
+Distress warrants
+	USE Distress (Law)
+
+District Agriculturalists
+	USE Agriculturalists
+
+Districts
+	USE Election districts (Federal)
+	USE Election districts (Local)
+	USE Election districts (Provincial)
+	USE Health districts
+	USE Health units
+	USE Hospitals Districts
+	USE Improvement Districts
+	USE Industrial districts
+	USE Irrigation districts
+	USE Judicial districts
+	USE Local government
+	USE Local Improvement Districts
+	USE Municipal Districts
+	USE Municipal government
+	USE Municipal Nursing Services Districts
+	USE Registration Districts
+	USE School Districts
+	USE School Divisions
+	USE Special areas
+
+Ditches  
+
+Diversification in Industry  
+
+Diving  
+
+Divorce     
+
+Docks     
+
+Doctors
+	USE Physicians
+
+Dog pounds
+	USE Animal shelters
+
+Dog racing     
+
+Dog shows     
+
+Dogs     
+	NT Breeding   
+	NT Training   
+	NT Transportation
+
+Dogsledding     
+
+Dolls     
+
+Domestic animals     
+	UF Animals, Domestic
+
+Domestic relations 
+
+Domestic violence
+	NT Children
+	NT Men
+	NT Women 
+		UF Abused women
+		UF Battered women     
+
+Dominion Day
+	USE Canada Day
+
+Dominion Labor Party
+	See NT under Alberta -- Political parties
+
+Donkeys   
+	RT Mules  
+
+Dormitories     
+
+Doukhobors
+	RT Agriculture -- Colonies
+
+Doulas
+	RT Death
+	RT Midwifery
+
+Doves
+	RT Pigeons
+
+Draft
+	NT Resistance   
+
+Drainage     
+	RT Ditches
+
+Drainage districts     
+
+Drama
+
+Drama festivals     
+
+Dramatists
+
+Drays
+	USE Wagons
+
+Dreams
+
+Dredges   
+
+Dredging     
+
+Dried Meat  
+	UF Meat, dried
+
+Drill (Agricultural implement)
+
+Drinking and traffic accidents
+	USE Driving under the influence
+
+Drinking customs     
+
+Drive-in theatres
+
+Driving under the influence
+
+Drop-in centres
+USE Community centres
+
+Droughts     
+
+Drowning     
+
+Drug abuse     
+	RT Alcoholism
+	RT Narcotics
+
+Drug trade
+	USE Illegal drug trade
+	USE Pharmaceutical industry
+
+Druggists
+	USE Pharmacists
+
+Drugs     
+
+Drugstores  
+	USE stores, Retail -- Drugstores
+
+Drum  
+
+Drunk driving     
+	USE Driving under the influence
+
+Drunkenness (Criminal law)     
+
+Dry cleaning   
+
+Dry farming     
+
+Dry-goods     
+	RT Textile fabrics
+
+Drying apparatus   
+
+Ducks     
+
+Dumps
+	USE Refuse and refuse disposal
+
+Dust Bowl
+
+Dust storms     
+
+Dutch     
+
+Dutch Canadians     
+
+Dwarfs
+	USE Little People    
+
+Dwellings     
+
+Dyes and dyeing   
+
+Dynamite   
+	RT Explosives
+
+Dynamos
+	USE Generators, Electric
+
+Eagles 	
+
+Early childhood education     
+	RT Education, Preschool
+	RT Kindergarten
+
+Earthmoving machinery     
+	RT Bulldozers
+	RT Construction equipment
+	RT Excavating machinery
+	RT Graders (Earthmoving machinery)
+	RT Road machinery
+
+Earthquakes     
+	RT Fracking
+
+Easements
+	USE Servitudes
+
+East Indian Canadians
+	USE Indian Canadians     
+
+East Indians
+	USE Indians     
+
+Easter
+
+Eastern Orthodox Church
+	USE Orthodox Catholic Church     
+
+Eclipses, Lunar
+
+Eclipses, Solar
+
+Ecology     
+	RT Environmental policy
+
+Economic conditions
+
+Economics
+	NT Development
+	NT Diversification
+	NT Indicators
+	NT Policy
+	NT Research		
+
+Edmonton
+	NT Airports
+	NT Ambulance service
+	NT Animal shelters
+	NT Annexation
+	NT Appropriations and expenditures
+	NT Archive buildings
+	NT Armouries
+	NT Art galleries, Commercial
+	NT Art museums
+	NT Auditoriums, convention facilities, etc.
+	NT Bakers and bakeries
+	NT Banks and banking
+	NT Barbershops
+	NT Bars, saloons, etc.
+	NT Bath houses
+	NT Blizzard, [date]
+	NT Boards of Trade
+	NT Boats and boating
+	NT Boundaries
+	NT Breweries
+	NT Bridges
+	NT Buildings
+	NT Buildings -- Conservation and restoration
+	NT Bus terminals
+	NT By-laws
+	NT Carnival
+	NT Census
+	NT Census, [date]
+	NT Cemeteries
+	NT Centennial celebrations, etc.
+	NT Ceremonies
+	NT Charities
+	NT Charters, grants, privileges
+	NT Choirs (Music)
+	NT Churches
+	NT City Hall
+	NT City Council
+	NT City Councillors
+	NT City planning
+	NT Civic improvement
+	NT Civil defence
+	NT Climate
+	NT Commerce
+	NT Conservatories of music
+	NT Construction industry
+	NT Convention centres
+	NT Conventions
+	NT Convents
+	NT Correctional institutions
+	NT Court houses
+	NT Crime and criminals
+	NT Dairy plants
+	NT Demonstrations
+	NT Description
+	NT Directories
+	NT Docks, wharves, etc.
+	NT Drama
+	NT Earthquake, [date]
+	NT Economic conditions
+	NT Elections
+	NT Grain elevators
+	NT Entertaining and entertainment
+	NT Executive departments
+	NT Exhibitions
+	NT Explosion, [date]
+	NT Ferries
+	NT Festivals
+	NT Fire, [date]
+	NT Fire stations
+	NT Fires and fire prevention
+	NT Flood, [date]
+	NT Floods
+	NT Fortifications, military installations, etc.
+	NT Fountains
+	NT Funeral rites and ceremonies
+	NT Gardens
+	NT General strike, [date]
+	NT Greenhouses
+	NT Historical geography
+	NT History
+		NT Memoirs
+		NT Oral
+	NT Hospitals
+	NT Hotels, motels, etc.
+	NT Housing
+	NT Humane societies
+	NT Ice industry
+	NT Images
+	NT Industries
+	NT Intellectual life
+	NT Landslide, [date]
+	NT Landslides
+	NT Law firms
+	NT Libraries
+	NT Lighting
+	NT Lumber-yards
+	NT Machine shops
+	NT Manufactures
+	NT Markets
+	NT Mayors
+	NT Meat industry and trade
+	NT Mills and millwork
+	NT Monasteries
+	NT Monuments
+	NT Morgues
+	NT Mosques
+	NT Museums
+	NT Nightclubs, dance halls, etc.
+	NT Long-term care facilities
+	NT Office buildings
+	NT Officials and employees
+	NT Orchestras and bands
+	NT Packing houses
+	NT Parades
+	NT Parks
+	NT Periodicals
+	NT Personalities
+	NT Petroleum industry
+	NT Physicians
+	NT Playgrounds
+	NT Poetry
+	NT Police
+	NT Population
+	NT Poultry industry
+	NT Poverty
+	NT Power supply
+	NT Public buildings
+	NT Public restrooms
+	NT Railways
+	NT Real estate business
+	NT Recreational facilities
+	NT Restaurants
+	NT Riot, [date]
+	NT Riots
+	NT Sanitation
+	NT Schools
+	NT Seal
+	NT Service stations
+	NT Sewer system
+	NT Sexual behaviour
+	NT Shrines
+	NT Slaughterhouses
+	NT Societies, etc.
+	NT Sports
+	NT Sports facilities
+	NT Stables
+	NT Statues
+	NT Stockyards
+	NT Storage and moving trade
+	NT Stores, shopping centres, etc.
+	NT Storm, [date]
+	NT Storms
+	NT Street-cleaning
+	NT Streets
+	NT Synagogues
+	NT Taxation
+	NT Telephone companies
+	NT Temples
+	NT Theatres
+	NT Tornado, [date]
+	NT Tornadoes
+	NT Tourist information centres
+	NT Transit systems
+	NT Wards
+	NT Water
+	NT Zoos
+
+Edmonton Incline Railroad
+	USE Funicular railways
+
+Education     
+	NT Curricula
+	NT Finance
+	NT Research 
+	RT Continuing education
+	RT Vocational education    
+
+Education, Elementary     
+
+Education, Postsecondary     
+
+Education, Preschool     
+	RT Early childhood education
+	RT Kindergartens
+
+Education, Rural     
+
+Education, Secondary     
+
+Educational broadcasting     
+	RT Distance education
+
+Educational exchanges     
+
+Eggs     
+
+Election districts (Cities)  
+	USE subdivisions Wards under names of cities
+
+Election districts (Federal)     
+	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
+
+Election districts (Provincial)     
+	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
+
+Elections (Federal, [date])     
+	NT Contested
+	NT Finance
+
+Elections (Local, [date])     
+	NT Contested
+	NT Finance
+
+Elections (Provincial, [date])     
+	NT Contested
+	NT Finance
+
+Electric apparatus and appliances     
+
+Electric contracting     
+
+Electric fuses
+
+Electric industries     
+
+Electric lighting     
+
+Electric lines     
+	RT Telephone lines
+
+Electric motors
+
+Electric power     
+
+Electric power failures     
+
+Electric power plants     
+
+Electrical supply stores
+	USE Stores, Retail -- Electric apparatus and appliances
+
+Electric transformers
+
+Electricians     
+
+Electricity
+
+Electrification, Rural
+	USE Rural electrification
+
+Electronic apparatus and appliances     
+
+Electronic data processing     
+	RT Computers
+	RT Information storage and retrieval systems
+
+Electronic industries     
+
+Electronics     
+
+Elevators     
+
+Elevators, Grain
+	USE Grain elevators
+
+Elk     
+
+Embankments     
+
+Embargo
+
+Embezzlement     
+
+Emblems     
+	RT Arms of Alberta
+
+Emblems, Provincial     
+
+Embroidery     
+
+Emergency measures
+	USE Emergency planning
+
+Emergency medical personnel     
+
+Emergency medical services     
+
+Emergency planning     
+
+Emigration and emigrants
+	RT Immigration and immigrants
+
+Eminent domain     
+
+Employees 		
+
+Employment
+
+Employment agencies    
+
+Employment equity
+	UF Affirmative action programmes 
+
+Employment references     
+
+Employment stabilization     
+
+Energy conservation     
+	RT Gas, Natural -- Conservation
+
+Energy industries     
+
+Energy policy     
+
+Engineering     
+
+Engineers     
+	For railway engineers USE Locomotive engineers
+	RT Steam engineers
+
+Engines
+
+English as a second language
+	USE English language -- Study and teaching
+
+English language           
+	NT Study and teaching
+
+Engraving     
+
+Entertainers     
+
+Entertaining     
+
+Entertainment
+	USE specific form of entertainment
+	USE Amusements subdivision under names of communities
+
+Entrepreneurship   
+
+Environment
+	USE Ecology
+
+Environmental engineers   
+
+Environmental impact analysis     
+
+Environmental law     
+
+Environmental policy     
+	NT Research   
+
+Environmental research
+	USE Environmental policy -- Research
+
+Epidemics     
+	RT names of specific diseases, e.g. Diphtheria
+
+Epidemiology     
+
+Epilepsy     
+
+Erosion     
+
+Escheat     
+
+Eskimos     
+	USE Inuit
+
+Estate administration
+	USE Administration of estates
+	RT Probate law and practise
+
+Estheticians
+
+Ethnic cleansing
+
+Ethnic minorities
+	USE Minorities
+
+Ethylene industry     
+
+Etiquette
+
+Eugenics
+
+Eurasian water milfoil 
+
+European Canadians
+	When possible use specific country, e.g. German Canadians
+
+Europeans   
+	When possible use specific country, e.g. Germans 
+
+Euthanasia     
+
+Evangelists
+	USE Missionaries
+	USE Missionaries subdivision under specific religion or sect     
+
+Excavating machinery     
+
+Excavation
+	RT Archaeology -- Excavations      
+
+Excise stamps
+	USE Revenue stamps
+
+Executive advisory bodies     
+
+Executors and administrators     
+	RT Administration of estates
+
+Exercise    
+	USE Physical fitness
+
+Exhibition buildings     
+
+Exhibition grounds     
+
+Exhibitions     
+	RT names of exhibitions
+	RT subdivisions Exhibitions under names of countries, communities, etc.
+
+Exhibits
+	USE Exhibitions
+
+Expenditures, Public    
+	RT subdivision Appropriations and expenditures under names of communities.
+
+Experimental farms
+	USE Agricultural experimental stations
+
+Explorers     
+
+Explosions     
+
+Explosives
+	RT Coal mines and mining--Explosives
+	RT Dynamite
+
+Export marketing     
+	RT Marketing
+	RT Marketing subdivision under types of commodities or products
+
+Exports		
+
+Express service     
+
+Expropriation
+	USE Eminent domain
+
+Extended care facilities
+	USE Hospitals -- Extended care units
+	USE Long-term care facilities
+
+Extinct Cities	
+	USE Ghost towns	
+
+Extortion     
+
+Extradition     
+
+Extrasensory perception   
+
+Eyeglasses   
+
+Fabric shops
+	USE Stores, Retail -- Fabric
+
+Fabrics
+	USE Textile fabrics
+
+Factories     
+	NT Equipment and supplies
+	NT Laws and legislation
+
+Factory and trade waste     
+	USE Industrial waste
+
+Fairs	
+	USE Exhibitions
+
+Falcons	
+
+Fall
+	USE Autumn
+
+Fallout shelters    
+	USE Nuclear warfare and weaponry -- Shelters
+
+Fallowing     
+
+Families
+	USE Family
+
+Family     
+
+Family allowances     
+
+Family planning
+	USE Birth control
+
+Family violence     
+	USE Domestic violence
+
+Famines   
+
+Fanaticism
+	UF Cults  
+
+Farm buildings     
+
+Farm equipment     
+	RT Agricultural machinery
+
+Farm loans
+	USE Agricultural credit
+
+Farm machinery
+	USE Agricultural machinery
+
+Farm management     
+
+Farm mechanization     
+
+Farm produce     
+
+Farm tenancy     
+
+Farmers     
+	RT Agricultural labourers
+
+Farmers markets     
+
+Farmhouses     
+
+Farms     
+	NT Safety measures
+
+Farms, Abandoned     
+
+Fascism
+
+Fashion industry
+	UF Beauty culture
+
+Fast food restaurants     
+
+Faults (Geology)     
+
+Federal-local relations
+
+Federal-provincial conferences
+	RT Constitutional conventions
+
+Federal-provincial fiscal relations
+	USE Transfer payments
+
+Federal-provincial relations
+
+Federal-provincial tax relations
+	USE Intergovernmental tax relations
+
+Feed additives
+
+Feedlots     
+
+Feeds     
+
+Femininity
+
+Feminism
+
+Fences     
+
+Fencing     
+
+Ferries     
+	NT Employees
+	RT subdivision Ferries under names of communities
+
+Ferrotype
+	USE Photography -- Tintype
+
+Ferry operators
+	USE Ferries -- Employees
+
+Fertilizer industry     
+
+Fertilizers     
+
+Festivals     
+
+Fibreglass industry
+
+Fiddle
+	USE Violin
+
+Field crops     
+
+Field days     
+
+Field hockey     
+	RT Ball hockey
+	RT Hockey
+
+Figure skating     
+
+Filipino Canadians     
+
+Filipinos
+
+Film industry 
+	USE Motion picture industry
+
+Finance     
+
+Finance, Personal     
+
+Finance, Public     
+
+Fines and recoveries     
+
+Fingerprints
+
+Finnish Canadians     
+
+Finns     
+
+Fire alarms     
+
+Firearms     
+	NT Law and legislation
+
+Fire engines     
+
+Fire escapes     
+
+Firefighters and firefighting   
+	UF Firemen  
+
+Fire insurance
+	USE Insurance, Fire
+
+Fire prevention     
+	RT subdivision Fires and fire prevention under communities
+
+Fire stations
+
+Firemen
+	USE Firefighters and firefighting
+
+Fireplaces     
+
+Fires     
+	RT Grassland fires
+
+Fire towers
+	USE Forest fires -- Prevention and control
+
+Firewood     
+
+Fireworks     
+
+First aid
+
+First aid training
+	USE Safety education
+
+First Nations
+	For NT see subdivisions under Indigenous peoples
+
+Fish
+
+Fish and game licenses   
+
+Fish hatcheries     
+
+Fish, Dried
+
+Fish, Smoked
+
+Fish stores
+	USE Stores, Retail -- Fish
+
+Fisheries     
+
+Fishers     
+
+Fishing     
+
+Fishing guides     
+	RT Hunting guides
+
+Fishing licenses
+	USE Fish and game licenses
+
+Fishing nets     
+
+Flags     
+
+Flax     
+
+Flight attendants   
+
+Flint implements
+	USE Stone implements
+
+Floats (Parades)     
+	USE Parade floats
+
+Flood control     
+
+Floodgates
+	USE Sluice gates
+
+Floods     
+	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River--Floods
+
+Floor hockey
+	USE Ball hockey
+
+Florists 	
+	USE Stores, Retail -- Florists
+
+Flour
+
+Flour and feed trade     
+
+Flour mills     
+
+Flower shops
+	USE Stores, Retail -- Florists
+
+Flower shows     
+
+Flowers     
+
+Fluoridation of water
+	USE Water -- Fluoridation
+
+Flying saucers
+	USE Unidentified flying objects
+
+Folk art     
+
+Folk dancing     
+
+Folk dancing, [Ukrainian, French, German, etc.]     
+
+Folk festivals   
+
+Folk medicine     
+	USE Traditional medicine
+
+Folk music  
+
+Folklore   
+
+Food
+	NT Law and legislation
+	NT Safety
+	RT subdivision Food under subjects, e.g., Birds -- Foods,
+
+Food banks
+
+Food industry and trade     
+
+Football     
+	RT Football, American
+	RT Rugby football
+	RT names of leagues and teams
+	RT subdivision Football under names of schools, colleges, etc.
+
+Football, American
+
+Footwear 
+
+Footwear industry     
+
+Forage plants     
+
+Foreclosure     
+
+Foreign aid program
+	USE Economic Assistance, Foreign
+	USE Military Assistance, Foreign
+	USE Technical Assistance, Foreign
+
+Foreign corporations
+	USE Corporations, Foreign
+
+Foreign ownership of land
+	USE Real estate -- Foreign ownership
+
+Foreign relations
+	USE International relations
+
+Foreign trade     
+	USE International trade
+
+Foreign trade promotion     
+
+Forensic pathology     
+	NT Laboratories
+
+Forest fires     
+	NT Prevention and control
+
+Forest nurseries     
+
+Forest products     
+
+Forest products industry     
+
+Forest rangers     
+	NT Housing     
+	NT Training
+	RT Park rangers
+
+Forest reserves     
+	RT National parks and reserves
+	RT Provincial parks and reserves
+
+Forest spraying
+	USE Spraying and dusting in forests
+
+Forests and forestry 
+	NT Law and legislation    
+
+Forge shops     
+
+Forges
+	USE Forge shops
+
+Forgery     
+
+Forms (Law)     
+
+Forts and trading posts     
+	RT subdivision Forts under Royal Canadian Mounted Police
+
+Fossils     
+
+Foster home care     
+
+Foundries     
+
+Fountains     
+
+Fowl
+	USE Poultry
+
+Fowl, Game
+
+Foxes
+
+Fracking
+	RT Earthquakes
+	RT Petroleum
+
+Franchises (Retail trade)
+
+Franco-Albertans
+	RT French-Canadians     
+
+Fraternal benefit societies
+	USE Men -- Societies and clubs
+	USE Names of particular clubs
+	USE Friendly Societies
+
+Fraternities
+	RT Sororities
+
+Fraud     
+
+Free trade
+	RT Neoliberalism
+
+Freedom Conservative Party of Alberta
+	See NT under Alberta -- Political parties
+
+Freedom of information     
+
+Freemasonry     
+
+Freemen-on-the-land
+
+Freight and freightage     
+
+Freight cars
+	USE Railroads--Freight cars
+
+Freighters
+	USE Cargo ships
+
+French
+
+French Canadians
+	Use for recent immigrants to Canada from France.     
+
+French-Canadians 
+	Use for Canadians descended from French colonial settlers.    
+	RT Franco-Albertans
+
+French language
+
+Frogs     
+
+Fruit     
+
+Fruit trade     
+
+Fund raising     
+
+Funeral homes 	
+	USE Undertakers and undertaking
+
+Funeral rites and ceremonies     
+
+Funeral rites and ceremonies, [Class of persons or Ethnic group]
+
+Funerals
+	USE Funeral rites and ceremonies
+
+Fungiculture
+	UF Mushroom culture
+
+Funicular railways
+
+Fur
+	RT Hides and skins
+
+Fur farming     
+
+Fur garments     
+
+Fur presses
+
+Fur trade
+	RT Trapping and trappers     
+
+Fur traders     
+	RT Voyageurs
+
+Furnaces
+
+Furniture     
+
+Furniture industry and trade     
+
+Furniture stores
+	USE Stores, Retail -- Furniture
+
+Furriers
+	USE Stores, Retail -- Furriers
+
+Fuses, Electric
+	USE Electric fuses
+
+Galicia
+
+Galicians     
+
+Gambling     
+	RT Casinos
+
+Game and game birds     
+	RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc.
+
+Game farms     
+
+Game fowl     
+
+Game laws     
+
+Game preserves     
+	Use Game reserves  
+
+Game wardens     
+
+Games     
+
+Gaols
+	USE Correctional institutions
+	USE Remand Centres
+
+Garage sales     
+
+Garages     
+
+Garden ornaments and furniture     
+
+Garden tools     
+
+Gardening     
+	RT Horticulture
+
+Gardens 
+
+Garment industry  
+	UF Clothing trade
+	NT Workers  
+
+Garnishees
+	USE Attachment and garnishment
+
+Gas companies    
+
+Gas distribution   
+
+Gas, Natural     
+	USE Natural gas
+
+Gas conservation
+	USE Gas, Natural -- Conservation
+
+Gas wells     
+	USE Natural gas -- Conservation
+	NT Taxation
+
+Gasoline     
+	NT Law and legislation     
+	NT Prices     
+	NT Storage
+	NT Taxation     
+
+Geese     
+
+Gender
+
+Gender constructs
+
+Gender variance
+
+Gender dysphoria
+
+Gender binarism
+
+Genealogy
+
+General stores 	
+	USE Stores, Retail -- General stores
+
+Generators, Electric
+
+Generators, Steam
+
+Genocide
+
+Gentrification
+
+Geography     
+
+Geological surveys    
+	RT Surveys
+	RT Surveyors
+
+Geologists
+
+Geology     
+
+Geophysical exploration
+
+Geophysicists     
+
+Geothermal resources
+	USE Renewable energy -- Geothermal     
+
+Geriatrics     
+
+German Canadians     
+
+German language     
+
+German measles
+	USE Rubella
+
+Germans     
+
+Ghost towns	
+	UF Cities and towns, Ruined, extinct, etc.
+	UF Extinct cities     
+
+Girls     
+	NT Societies and clubs     
+
+Glacial landforms     
+
+Glaciers     
+
+Gladiolus     
+
+Glass fibre industry 
+	USE Fibreglass industry    
+
+Glass manufacture     
+
+Glass stores
+	USE Stores, Retail -- Glass
+
+Glass trade     
+
+Glassware     
+	NT Repairing
+
+Gliders (Aeronautics)   
+	RT Hang-gliding
+
+Glue
+
+Goats
+
+Goat industry     
+
+Goitre     
+
+Gold     
+
+Gold dredging     
+
+Gold miners     
+
+Gold mines and mining     
+
+Goldsmiths     
+
+Golf     
+
+Golf courses     
+
+Gondolas
+	USE Cable cars
+
+Gophers
+	USE Ground squirrels
+
+Government, Resistance to     
+
+Government 
+	NT Advertising   
+
+Government and business
+	USE Industry and state
+
+Government buildings
+	USE Public buildings
+
+Government departments
+	USE Alberta -- Executive departments
+	USE [name of department], Department of (e.g., Agriculture, Department of)
+
+Government departments (Federal)
+	USE Canada. Department of [     ]
+
+Government departments (Other provinces)
+	USE e.g., Saskatchewan. Department of [     ]
+
+Government employees
+	USE Civil service
+	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
+
+Government expenditures
+	USE Expenditures, Public
+
+Government grants
+	USE Grants, Government
+
+Government information     
+
+Government investments
+	USE Public investments
+
+Government lending     
+
+Government liability     
+
+Government loans
+	USE Government lending     
+
+Government property   
+	USE Public property
+
+Government publications   
+
+Government publicity     
+	USE Government advertising
+
+Government records
+
+Government reorganization
+
+Government spending policy     
+	RT Budget
+	RT Expenditures, Public
+
+Government surplus
+	USE Surplus government property
+
+Government trust funds
+	USE Discretionary trusts
+
+Governmental investigations     
+	USE Royal Commission title when appropriate.
+
+Governors General
+
+Graders (Earthmoving machinery)   
+
+Grading and marking (Students)     
+
+Graffiti     
+
+Grain     
+	NT Cleaning
+	NT Cooperative marketing  
+	NT Diseases and pests     
+	NT Drying   
+	NT Exhibitions
+	NT Grading   
+	NT Marketing
+	NT Storage
+	NT Tariffs
+	NT Taxation
+	NT Transportation
+	NT Varieties   
+
+Grain as feed   
+
+Grain elevators     
+
+Grain trade     
+
+Gramophone records
+	USE Sound recordings -- Phonograph records
+
+Granaries     
+
+Grants, Federal
+
+Grants, Government
+
+Grants, Land
+
+Grants, Provincial
+	USE Grants, Government
+
+Graphic arts     
+
+Grasses     
+
+Grasshoppers   
+
+Grassland fires     
+	RT Fires
+
+Gravel     
+
+Gravel crushers
+	USE Crushing machinery
+
+Gravel industry
+	USE Sand and gravel industry
+
+Gravel roads
+	USE Roads, Gravel
+
+Graves
+	USE Cemeteries
+
+Grazing     
+	RT Rangelands
+
+Grazing lands
+
+Great Depression, 1929-1939
+
+Greek Canadians     
+
+Greek Orthodox Church
+	USE Orthodox Catholic Church, Greece
+
+Greeks     
+
+Green Party of Alberta
+	See NT under Alberta -- Political parties
+
+Greenhouses     
+
+Greeting cards     
+	RT Christmas cards
+	RT Valentine cards
+
+Greeting card stores
+	USE Stores, Retail -- Greeting cards
+
+Groceries     
+
+Grocers 	
+
+Grocery stores
+	USE Stores, Retail -- Grocery
+
+Grocery trade     
+
+Grottoes
+	USE Shrines
+
+Ground squirrels   
+
+Grounds maintenance     
+	RT Landscape gardening
+
+Group Insurance
+	USE Insurance, Group
+
+Grouse 	
+
+Guardian and ward     
+
+Guards
+	USE Correctional personnel
+	USE Security personnel
+
+Guidance counselling     
+
+Guides
+	USE Fishing guides
+	USE Hunting guides
+	USE Scouts and scouting
+	USE Tour guides (Persons)
+
+Gulls
+
+Gun clubs
+	USE Shooting
+
+Gun stores
+	USE Stores, Retail -- Sporting goods
+
+Guns
+	USE Firearms
+
+Gymnasiums     
+	RT Schools
+
+Gymnastics     
+
+Gynephilia
+	RT Androphilia
+
+Gypsum     
+
+Gypsum industry     
+
+Hail     
+
+Hail insurance
+	USE Insurance, Hail
+
+Hairdressers
+	USE Beauticians 
+
+Hairdressing     
+
+Halfway houses     
+	USE Correctional institutions -- Halfway houses
+
+Halloween     
+
+Halls     
+	RT subdivision Auditoriums, convention facilities, etc. under names of communities
+
+Ham radio
+	USE Amateur radio stations
+
+Hamlets     
+	RT Municipal Affairs, Department of Municipal government
+
+Hand pumps
+	USE Pumping machinery
+
+Handball     
+
+Handcars
+
+Handicapped     
+	USE Disabled
+
+Handicraft     
+
+Handwriting
+	USE Penmanship
+
+Hang-gliding
+
+Hangars
+
+Hanging
+	USE Capital punishment
+
+Hansard
+	USE Legislative Assembly -- Proceedings
+
+Harbours     
+
+Hardware     
+
+Hardware stores	  
+	USE Stores, Retail -- Hardware
+
+Harness     
+
+Harness making and trade     
+
+Harness racing     
+	RT Horse-racing
+
+Harpsichord
+
+Harrows
+
+Harvesting     
+
+Harvesting machinery     
+
+Hashish	
+	USE Cannabis
+
+Hate mail
+
+Hay     
+	NT Harvesting  
+	NT Marketing
+
+Hay lands
+
+Haystacks
+
+Hazardous substances     
+
+Hazardous waste treatment facilities     
+
+Health care
+
+Health Care Insurance Plan
+
+Health districts
+
+Health education     
+
+Health foods
+	USE Natural foods industry
+
+Health Insurance
+	USE Insurance, Health
+	USE Health Care Insurance Plan
+
+Health occupations     
+
+Health resorts    
+	RT Hot springs
+
+Health spas
+	USE Health resorts
+
+Health units
+	RT Health districts
+
+Hearing
+	NT Ability testing
+	NT Testing
+		USE Audiometry
+
+Hearing disorders
+	NT Diagnosis
+
+Hearing impaired
+	UF Deaf
+	NT Education     
+	NT Employment     
+	NT Institutional care     
+
+Hearses
+
+Heart diseases
+	RT Cardiology
+
+Heating
+	RT Furnaces
+
+Hebrew language     
+	NT Study and teaching
+
+Hedges     
+
+Helicopters   
+
+Helium industry     
+
+Hemodialysis     
+
+Hemophilia     
+
+Hens
+	USE Chickens
+	RT Poultry
+
+Heraldry     
+	RT Arms of Alberta
+
+Herbs     
+	NT Culinary use
+	NT Therapeutic use 
+
+Herbicides    
+	RT Aquatic herbicides
+
+Heritage Day
+
+Heteronormativity
+
+Heterosexuality
+
+Hides and skins     
+
+High jumping
+	USE Jumping
+
+High schools, private
+	RT subdivision Schools under names of communities.
+
+High schools, public
+	RT subdivision Schools under names of communities.
+
+High technology industries     
+
+Highway patrol
+
+Highways
+	NT Construction
+	NT Safety
+	NT Signs and signals
+
+Hijacking of aircraft     
+	USE Aviation -- Hijacking of aircraft
+
+Hiking     
+
+Hinduism
+	NT Buildings
+	NT Clergy
+	NT Customs and practices
+	NT Members
+	NT Theology
+
+Hindus
+
+Historic buildings     
+	NT Preservation
+
+Historic sites 
+	NT Preservation    
+
+Historical markers     
+	RT Cairns
+
+History
+
+Hitchhiking     
+
+Hobby stores
+	USE Stores, Retail -- Hobbies
+
+Hockey
+	NT Coaches
+	NT Players
+	RT Ball hockey
+	RT Field hockey
+
+Hogs
+	USE Swine
+
+Holidays     
+	Use specific headings whenever possible, e.g., Thanksgiving Day, Christmas, etc.
+
+Holocaust, 1941-1945
+	NT Memorials
+	NT Remembrance Day
+	NT Survivors
+
+Holodomor, 1932-1933
+	NT Memorials
+	NT Survivors
+
+Holography		
+	USE Laser recording
+
+Home care services     
+
+Home economics     
+
+Homeless and homelessness
+	UF Vagrancy
+
+Homes
+	USE Dwellings
+
+Homesteads and homesteaders
+
+Homicide
+	UF Murder
+
+Homophobia
+
+Homosexuality     
+
+Honey     
+	RT Apiculture
+
+Honourary degrees
+	USE [name of university] -- Degrees (Honourary)
+	RT Degrees, Academic
+
+Hoodoos
+
+Hops     
+
+Hormones in animal nutrition
+	USE Food -- Additives
+
+Horses     
+	NT Breeding
+	NT Diseases     
+	NT Feeding and feeds
+	NT Racing
+	NT Riding
+	NT Riding clubs  
+	NT Training   
+	NT Transportation
+
+Horseshoe pitching     
+
+Horseshoeing
+
+Horticulture     
+	NT Societies, etc.
+	RT Gardening
+
+Hospitalization insurance
+	USE Insurance, Hospitalization
+
+Hospitals     
+	NT Accounting
+	NT Administration
+	NT Children
+	NT Disaster planning
+	NT Districts
+	NT Finance
+	NT Food service
+	NT Furniture, equipment, etc.
+	NT Military
+	NT Patients
+	NT Psychiatric
+	NT Radiological services
+	NT Staff
+
+Hostages     
+
+Hostels
+	NT Youth
+
+Hot air balloons
+
+Hot springs     
+	RT Health resorts
+
+Hotels
+
+Houseboats     
+
+Household moving
+	USE Moving, Household
+
+Housekeeping
+	USE Home economics
+
+Houses, Log
+	USE Log buildings
+	USE Log cabins
+
+Houses, Sod
+	USE Sod houses
+
+Houses, Thatched
+	USE Thatched roofs
+
+Housing     
+	NT Development
+	NT Policy
+	NT Social aspects
+	RT Homeless and homelessness
+
+Hudson's Bay Company
+	NT Employees
+	NT Flags, insignia, etc.
+	NT Forts and trading posts
+	NT Records and correspondence
+	NT Transportation
+
+Hudson's Bay Company stores     
+
+Human immunodeficiency virus
+
+Human resources 
+	USE Personnel management
+
+Human rights
+	RT Civil rights
+
+Humanities     
+
+Hungarian Canadians     
+
+Hungarians     
+
+Hunger strikes     
+
+Hunting and hunters    
+	NT Guides 
+	NT Trophies
+
+Hunting licenses
+	USE Fish and game licenses
+
+Hurdle-racing  
+	USE Track and field athletics and athletes
+
+Hutterite Brethren     
+	RT Agriculture -- Colonies
+
+Hydrants  
+
+Hydraulic mining     
+
+Hydraulic presses
+
+Hydroelectric power plants     
+	RT Electric power plants
+	RT Renewable energy
+
+Hydrology     
+
+Hygiene, Public
+	USE Public health
+
+Hymns    
+	USE as NT under specific denomination 
+
+Hypnotism
+
+Ice     
+	NT Storms
+
+Ice boats	
+
+Ice-breaking vessels   
+
+Ice carving
+
+Ice cream, ices, etc.    
+
+Ice fishing     
+	USE Fishing
+
+Ice industry     
+
+Ice on rivers, lakes, etc.     
+
+Ice palaces     
+
+Ice sculpture
+	USE Ice carving
+
+Ice skating
+	USE Skating
+
+Icelanders     
+
+Icelandic Canadians     
+
+Identification cards   
+
+Idle rich
+	RT Unemployment  
+
+Igloos
+
+Illegal aliens
+	USE Undocumented immigrants
+
+Illegal drug trade
+	UF Drug trade	  
+
+Illiteracy
+	USE Literacy
+
+Imports   
+
+Immigration and immigrants		
+	RT Emigration and emigrants
+	RT Refugees
+
+Immunization     
+
+Impaired driving
+
+Improvement Districts
+	RT Local government
+	RT Municipal Affairs, Department of
+
+Incest     
+
+Incinerators     
+
+Income     
+
+Income tax     
+
+Indecent assault     
+	USE Sexual assault
+
+Indentures
+	USE Deeds
+	USE Trust indentures
+
+Indian Canadians
+	UF East Indian Canadians
+
+Indians
+	UF East Indians
+
+Indian agents  
+
+Indian passes   
+
+Indigenous peoples     
+	Use specific nation where possible.  The following subdivisions can be added to specific nation names.
+	NT Agriculture    
+	NT Architecture
+	NT Arms and armour
+	NT Art
+	NT Basket making
+	NT Beadwork
+	NT Biography
+	NT Blankets
+	NT Boats
+	NT Camps
+	NT Chiefs
+	NT Children
+	NT Clothing
+	NT Costume 	  
+	NT Councils
+	NT Customs
+	NT Dances
+	NT Day schools
+	NT Drama
+	NT Dwellings
+	NT Economic conditions
+	NT Education     
+	NT Embroidery
+	NT Employment   
+	NT Fishing 	   
+	NT Folklore
+	NT Food
+	NT Friendship centres
+		USE Native friendship centres
+	NT Funeral customs and rites   
+	NT Games
+	NT Gifts
+	NT Government relations
+	NT Health and hygiene    
+	NT History
+	NT Hospitals       
+	NT Housing
+	NT Hunting 	  
+		RT Buffalo jump
+	NT Implements
+	NT Industries
+	NT Land claims
+	NT Land tenure    
+	NT Land transfers   
+	NT Languages
+		RT name of language, e.g., Cree language
+	NT Legal status, laws, etc.   
+	NT Legends
+		USE NT Folklore
+		USE NT Mythology
+	NT Medicine
+	NT Military service
+	NT Missions	  
+	NT Museums   
+	NT Music
+	NT Mythology
+	NT Picture-writing
+	NT Portraits
+	NT Pottery
+	NT Property
+	NT Quarries
+	NT Religion
+	NT Reservations
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Sanatoriums
+	NT Schools
+	NT Social conditions
+	NT Social life and customs
+	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Study and teaching     
+	NT Teepees
+		USE Dwellings
+	NT Tobacco pipes
+	NT Transportation
+	NT Trapping and traplines
+	NT Treaties 
+	NT Warfare
+	NT Weaving
+	NT Women
+	NT Wood-carving
+	NT Writing
+	NT Youth
+
+Indonesian Canadians     
+
+Indonesians     
+
+Industrial accidents     
+
+Industrial arts     
+	NT Study and teaching   
+
+Industrial design
+	USE Design, Industrial
+
+Industrial diseases
+	USE Occupational diseases
+
+Industrial districts     
+
+Industrial laws and legislation     
+
+Industrial parks
+	USE Industrial districts
+
+Industrial policy    
+
+Industrial promotion     
+
+Industrial relations     
+	USE Labour relations
+
+Industrial safety
+
+Industrial waste     
+
+Industries   
+
+Industry
+	USE Industries
+
+Industry and state
+	USE Industrial policy
+
+Inflation (Finance)     
+
+Influenza 
+	NT Vaccines    
+
+Influenza, 1918-1919
+
+Information services     
+
+Information storage and retrieval systems
+	NT Security measures
+	RT Computers
+	RT Electronic data processing
+
+Inheritance and succession     
+
+Inheritance and transfer tax     
+
+Inquests
+	RT Coroners
+
+Inquiries
+	USE Governmental investigations
+
+Insects
+	NT Control
+
+Institutional care     
+
+Insulating materials industry     
+
+Insulin
+
+Insurance     
+	NT Accounting
+	NT Adjustment of claims   
+	NT Agents
+	NT Agriculture
+	NT Policies
+	NT Rates and tables
+	NT Statistics
+	NT Surety and fidelity     
+
+Insurance, Accident     
+
+Insurance, Agricultural     
+
+Insurance, Automobile     
+
+Insurance, Aviation     
+
+Insurance, Business     
+
+Insurance, Fire     
+
+Insurance, Government risks     
+
+Insurance, Group     
+
+Insurance, Hail     
+
+Insurance, Health     
+
+Insurance, Hospitalization     
+
+Insurance, Liability     
+
+Insurance, Life     
+
+Insurance, Nuclear hazards     
+
+Insurance, Property     
+
+Insurance, Unemployment     
+
+Insurance, Uninsured motorist     
+
+Insurance companies     
+
+Interest     
+
+International law     
+
+International relations
+
+International relief     
+
+International trade
+
+Internet
+
+Internment camps
+
+Interns     
+
+Internship programmes     
+
+Interpleader
+	USE Actions and defenses
+
+Interprovincial conferences     
+
+Interprovincial relations
+
+Intersex and intersexuality
+
+Inuit		
+	For NT use subdivisions under Indigenous peoples
+
+Inventions     
+
+Inventors     
+
+Investigations
+
+Investment of public funds   
+	USE Public investments
+
+Investments     
+
+Investments, Foreign     
+	Use specific name of country where possible.
+
+Iranian Canadians
+
+Iranians
+
+Iraqi Canadians
+
+Iraqis
+
+Irish     
+
+Irish Canadians     
+
+Iron
+
+Iron and steel workers     
+
+Iron industry and trade     
+
+Iron lung
+	RT Poliomitis
+
+Iron mines and mining
+	USE Mines and mining, Iron
+
+Ironing
+	USE Laundry
+
+Ironwork     
+
+Irrigation     
+	NT Canals and flumes
+	NT Districts
+	NT Engineering
+	NT Farming
+	NT Laws
+	NT Research     
+
+Islam
+	NT Adherents
+	NT Buildings
+	NT Clergy
+	NT Education
+	NT Rites and Ceremonies
+
+Islam, Shia
+
+Islam, Sunni
+
+Israelis
+
+Israeli Canadians
+
+Israel-Arab conflicts     
+
+Italian Canadians     
+
+Italians     
+
+Jails
+	USE Correctional institutions
+
+Jainism
+
+Janitors     
+
+Japanese     
+
+Japanese Canadians     
+	NT Internment, 1942-45
+
+Jazz      
+
+Jehovah's Witnesses     
+	NT Buildings
+	NT Ceremonies and practices
+	NT Clergy
+	NT Missions and missionaries
+	NT Theology
+
+Jewellers     
+
+Jewellery     
+
+Jewellery stores   
+	USE Stores, Retail -- Jewellery
+
+Jewellery trade     
+
+Job sharing     
+
+Jogging     
+	RT Running
+
+Journalists and journalism
+	NT Broadcast
+	NT Internet
+	NT Print
+
+Judaism
+	NT Buildings
+	NT Ceremonies and practices
+	NT Clergy
+	NT Education
+	NT Theology
+
+Judges     
+
+Judicial districts     
+	For names of particular districts use the following format: Lethbridge, Judicial District of
+
+Judicial statistics     
+
+Jumping	  
+
+Justice, Administration of     
+
+Justices of the peace     
+
+Juvenile courts     
+
+Juvenile delinquency 
+	USE Young Offenders    
+
+Juvenile delinquents
+	USE Young Offenders     
+
+Juvenile detention homes     
+
+Kainai Nation
+	UF Blood Nation
+	RT Niitsitapi
+	For subdivisions, use format under Indigenous peoples.
+
+Kangaroos     
+
+Karate		
+
+Kayaks and kayaking
+
+Kee Tas Kee Now Tribal Council	
+
+Kennels     
+
+Keys
+	USE Locks and keys
+
+Kidnapping 		
+	USE Abduction
+
+Kidney dialysis
+	USE Hemodialysis
+
+Kilns     
+
+Kindergartens
+
+King's Counsellors
+	RT Queen's Counsellors
+
+Kitchen utensils     
+
+Kitchens     
+
+Kites     
+
+Klondike Days 
+	USE Edmonton - Exhibitions
+
+Klondike gold rush
+	NT Klondike Trail
+
+Knitting     
+
+Knives     
+
+Kootenay Nation
+	USE Kutenai Nation
+
+Korean Canadians
+
+Korean War, 1950-1953
+
+Koreans
+
+Ku Klux Klan
+
+Kurdish Canadians
+
+Kurds
+
+Kutenai Nation
+	UF Kootenay Nation
+	For subdivisions, use format under Indigenous peoples.   
+
+
+Laboratories     
+	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
+
+Laboratory animals     
+
+Laboratory technicians     
+
+Labour agreements
+	USE Labour relations -- Collective bargaining agreements
+
+Labour camps     
+	USE Internment camp
+	USE Relief camp
+	USE Work camp
+
+Labour Day     
+
+Labour disputes     
+	RT Strikes and lockouts
+
+Labour laws and legislation     
+
+Labour organizations
+	USE Labour unions
+
+Labour relations
+	NT Arbitration
+	NT Collective bargaining agreements
+
+Labour unions
+
+Labour supply     
+
+Lacrosse     
+
+Lakes     
+
+Lamb     
+
+Lamps     
+
+Land clearing
+
+Land companies     
+
+Land grants     
+
+Land reclamation
+
+Land sales
+	USE Real estate business
+
+Land settlement
+
+Land surveys
+	USE Surveying
+
+Land tax
+	USE Land value taxation
+
+Land tenure     
+
+Land titles     
+
+Land use     
+
+Land value taxation     
+
+Landlord and tenant     
+
+Landscape architecture     
+
+Landscape gardening     
+	RT Grounds maintenance
+
+Landslides     
+	RT Avalanches
+	RT Rockslides
+
+Language and languages
+	NT Study and teaching     
+
+Lanterns		
+	USE Lamps
+
+Lantern slides
+
+Laotian Canadians     
+
+Laotians     
+
+Laser recording
+
+Lasers     
+
+Latin language 	  
+
+Latter-Day Saints
+	USE Church of Jesus Christ of Latter-Day Saints
+
+Laundries 
+	NT Machinery
+	NT Self-service laundries
+	NT Workers		
+
+Law
+	NT Cases
+	NT Civil
+	NT Corporate 
+	NT Criminal    
+	RT Actions and defenses
+
+Law enforcement   
+	NT Field sobriety tests  
+
+Law firms     
+
+Law offices     
+
+Law reports
+
+Law schools     
+
+Law stamps
+	USE Revenue stamps
+
+Law students     
+
+Lawn bowling
+
+Lawn mowers   
+
+Lawsuits
+	USE Law -- Actions and defenses
+	USE Civil law
+
+Lawyers     
+	NT Ethics
+
+Leader of the Opposition
+	USE Legislative Assembly. Official Opposition
+
+Learning disabilities     
+
+Lease and rental services     
+
+Leather
+
+Leather industry and trade     
+
+Legal aid     
+
+Legal opinions 	  
+
+Legal proceedings
+	NT Appellate procedure     
+
+Legal services     
+
+Legends     
+
+Legislation
+	NT Repeal     
+	RT Legislation (Name of Act as titled in the Statutes of Alberta)
+	RT Legislative Assembly -- Bills
+
+Legislation (Name of Act as titled in the Statutes of Alberta)
+	NT Repeal
+	RT Legislation
+
+Legislative Assembly
+	NT Bills
+	NT Committees
+		RT Name of specific committee (AACRII rule 24.21B)
+	NT Membership
+	NT Opening ceremonies
+	NT Private bills
+	NT Proceedings
+	NT Rules and practice
+	NT Television broadcasting of proceedings
+
+Legislative Assembly.  Official Opposition
+
+Legislative bodies     
+	NT Reform
+
+Legislative buildings     
+	NT Design and construction
+	NT Grounds
+	NT Interiors
+	NT Laying of cornerstone
+
+Legislative Chamber
+	USE Legislative buildings -- Interiors
+
+Legislative interns
+	USE Alberta -- Politics and government -- Study and teaching (Internship)
+
+Lesbians
+
+Lesser Slave Lake Indian Regional Council
+
+Liability insurance
+	USE Insurance, Liability
+
+Libel and slander     
+
+Librarians     
+
+Libraries     
+
+Library science     
+
+Licenses     
+	NT Driving
+	NT Liquor
+	NT Marriage
+
+Liens     
+
+Lieutenant-Governors
+	NT Alberta [Saskatchewan, Ontario, etc.]
+
+Life Insurance
+	USE Insurance, Life
+
+Life-saving     
+
+Light rapid transit     
+
+Lighthouses     
+
+Lighting     
+
+Lightning     
+
+Lime industry     
+
+Lime kilns
+	USE Lime industry
+
+Limestone     
+
+Liquid air industry     
+
+Liquor
+	USE Alcohol
+
+Liquor duties
+	USE Alcohol -- Taxation
+
+Liquor industry
+	USE Alcohol -- Industry
+
+Liquor laws     
+	USE Alcohol -- Laws and legislation
+
+Liquor licenses
+	USE Licenses -- Liquor
+
+Liquor problem
+	USE Substance Use Disorder
+
+Liquor stores
+	USE Stores, Retail -- Alcohol
+
+Liquor traffic
+	USE Alcohol -- Industry
+
+Liquor trafficking
+	USE Alcohol -- Laws and legislation
+
+Literature
+
+Literature, Comparative
+
+Litigation
+	USE Law -- Actions and defenses
+	USE Law -- Civil
+
+Litter
+
+Little People
+	UF Dwarfs    
+
+Liturgical objects
+	NT Crosses
+	NT Crucifixes     
+
+Livestock   
+	NT Brands and branding  
+	NT Breeding  
+	NT Judging   
+	NT Marketing
+	NT Societies, etc.
+
+Livestock associations
+	USE Livestock -- Societies, etc.
+
+Livestock brands     
+	USE Livestock -- Brands and branding
+
+Livestock breeds     
+	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
+
+Livestock exhibitions     
+
+Loans     
+
+Loans, Farm
+	USE Agricultural credit
+
+Lobsters     
+
+Lobbying
+
+Local finance     
+
+Local government     
+	NT Law and legislation     
+	NT Taxation
+	RT Municipal Affairs, Department of
+
+Local Improvement Districts
+	RT Local government
+	RT Municipal Affairs, Department of
+	For names of particular L.I.D.s, use the following format:
+	Local Improvement District No.  1   
+
+Local taxation   
+	USE Local government -- Taxation  
+
+Local transit     
+
+Locks and keys     
+
+Locomotive engineers     
+
+Locomotives     
+
+Locusts
+
+Log buildings     
+
+Log transportation     
+
+Logging and loggers    
+
+Long-term care facilities
+	NT Residents     
+
+Lotteries 
+
+Loyal Orange Institution
+	UF Orange Order
+
+Lubricating oils
+
+Luge     
+
+Lumber
+	NT Grading
+	NT Storage
+	NT Transportation
+
+Lumber camps     
+
+Lumber industry and trade
+
+Lumber mills
+	USE Sawmills
+
+Lumberjacks
+	USE Logging and loggers
+
+Lumber yards     
+
+Lunar Eclipses
+	Subdivided by date, e.g. Lunar Eclipses -- 1866
+
+Lunatic asylums
+	USE Psychiatric hospitals
+
+Lunatics
+	USE Mentally ill
+
+Lunch rooms
+	USE Restaurants, lunch rooms, etc.
+
+Lungs
+	NT Diseases     
+	RT Pulmonary fibrosis
+
+Lutheran Church     
+	NT Buildings
+	NT Ceremonies and practices
+	NT Clergy
+	NT Education   
+	NT Finance
+	NT Government
+	NT History
+	NT Membership
+	NT Missions and missionaries    
+	NT Sermons
+	NT Societies, etc.
+	NT Sunday schools
+	NT Synod
+
+Lutherans, Danish [Swedish, etc.]     
+
+Lynx     
+
+Macaroni products
+	USE Pasta products
+
+Maces, Ceremonial
+	USE Ceremonial maces
+	USE Provincial mace
+
+Machine shops     
+
+Machinery
+
+Machine tools
+
+Magicians     
+
+Magistrates
+	USE Judges
+	USE Justices of the peace
+	USE Police magistrates
+
+Magnetic recorders and recording
+
+Magpies		
+
+Mail service
+	USE Postal service
+
+Malaysian Canadians     
+
+Malaysians
+
+Malnutrition     
+
+Manpower 		
+	USE Labour supply
+
+Manpower policy     
+	USE Labour policy
+
+Manufacturers
+
+Manufactures
+
+Manure     
+
+Maps
+
+Marbles (Game)
+
+Margarine     
+
+Marijuana
+	USE Cannabis     
+
+Marine biology     
+
+Marketing     
+
+Marketing research     
+
+Markets     
+
+Marriage     
+
+Marriage counselling     
+
+Marriage licenses     
+	USE Licences -- Marriage
+
+Marshes     
+	USE Wetlands
+
+Martial arts     
+
+Masculinity
+
+Masonry     
+
+Masons (Fraternal Order)
+	USE Freemasonry
+
+Masons (Trade)
+	USE Bricklayers
+	USE Stonemasons
+
+Mass media     
+	USE Media
+
+Mathematicians     
+
+Mathematics     
+
+Mayors     
+	RT subdivision Mayors under names of communities
+
+Measles     
+	RT Rubella
+
+Meat
+	NT Preparation
+
+Meat industry and trade     
+
+Mechanics
+	NT Automobiles
+	NT Aviation
+	NT Machinery
+
+Medals     
+
+Media
+	UF Mass media
+
+Medical care     
+
+Medical clinics
+	UF Clinics
+
+Medical colleges     
+	USE Medical schools
+
+Medical education     
+
+Medical electronics       
+
+Medical examiners
+
+Medical laboratories     
+
+Medical laws and legislation     
+
+Medical records     
+
+Medical research
+
+Medical schools
+
+Medicare
+
+Medicine
+
+Meetings
+	USE Conventions
+	USE Congresses and conventions
+
+Melons     
+
+Memoirs
+	USE Biography
+
+Men     
+	NT Education
+	NT Employment
+	NT Health
+	NT Societies and clubs
+
+Mental illness
+	USE Mental health
+
+Mennonites     
+	RT Agriculture -- Colonies 
+
+Men's clothing     
+
+Mental health  
+	NT Anxiety
+	NT Depression
+	NT Phobias
+	NT Policy
+	NT Treatment
+   
+Mental hospitals
+	USE Psychiatric hospitals
+
+Mentally disabled 
+	RT Physically disabled
+
+Mentally ill  
+	USE Mental health   
+
+Menus
+
+Merchants     
+
+Metal trade     
+
+Metalworkers and metalworking     
+
+Meteorites     
+
+Meteorology     
+
+Methanol fuel industry     
+
+Methodist Church     
+	RT United Church of Canada
+	NT Anniversaries, etc.
+	NT Buildings
+	NT Clergy
+	NT Conferences
+	NT Conventions
+	NT Education
+	NT Missions    
+	NT Rites and ceremonies
+	NT Sermons
+	NT Societies, etc.
+	NT Sunday schools
+
+Métis Nation	
+	For subdivisions, use pattern under Indigenous peoples.
+	RT Red River Colony
+
+Métis Settlements
+
+Métis Settlements General Council     
+
+Metric system     
+
+Micrographics     
+
+Microwave ovens
+
+Midwives and midwifery    
+
+Migrant labour   
+	RT Temporary foreign workers
+
+Migration, Internal     
+
+Military
+	NT Bases
+	NT Ceremonies, honours, and salutes
+	NT Discharge
+	NT Hospitals
+	NT Pensions
+	NT Service
+	NT Uniforms
+
+Milk
+	RT Dairy
+
+Milk industry
+	USE Dairy industry
+
+Millinery     
+
+Millinery stores
+	USE Stores, Retail -- Millinery
+
+Milling machinery   
+
+Mills and millwork     
+
+Millwrights     
+
+Mineral exploration
+	USE Prospecting
+
+Mineral resources
+
+Mineral rights     
+
+Mineral water   
+
+Miners 
+	RT Mines and mining -- Employees    
+
+Mines and mining
+	NT Accidents
+	NT Dust
+	NT Employees
+	NT Equipment and supplies
+	NT Explosions
+	NT Fires and fire prevention
+	NT Horses
+	NT Inspections
+	NT Leases
+	NT Laws and legislation
+	NT Railroads
+	NT Rescue work
+	NT Safety
+	NT Sanitation
+	NT Taxation 	    
+	NT Transportation
+	NT Ventilation
+
+Ministerial Orders
+	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
+
+Ministerial papers
+	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
+
+Ministers of Religion
+	USE Clergy subdivision under specific denomination
+
+Mink farming     
+
+Minorities
+
+Mints     
+	Use for coin-making enterprises
+
+Missing persons     
+
+Missions and missionaries   
+	When possible, use specific denomination.  
+
+Mobile home industry     
+
+Mobile home parks     
+
+Moccasins      
+
+Models, Fashion      
+
+Models and modelmaking     
+
+Monasteries     
+
+Monetary policy     
+
+Monetary reform   
+
+Money     
+
+Monuments     
+
+Moon
+
+Moose     
+
+Moose hunting     
+
+Moravian Church    
+	NT Buildings
+	NT Clergy
+	NT Rites and ceremonies 
+
+Moravians     
+
+Morgues     
+
+Mormons
+	USE Church of Jesus Christ of Latter-Day Saints     
+
+Mortgage brokers
+
+Mortgages     
+
+Mosques  
+	RT Islam -- Buildings   
+
+Mosquitoes     
+	NT Control
+	NT Disease
+
+Motels     
+
+Motion pictures     
+	NT Industry
+	NT Production and direction
+	NT Projection and projectionists
+	NT Theatres
+
+Motor scooters	    
+
+Motorboats     
+	NT Safety regulations
+	NT Racing
+
+Motorcycle gangs     
+
+Motorcycles 
+	NT Racing    
+
+Mountain lions
+	UF Cougars
+	UF Pumas
+
+Mountain passes     
+
+Mountain roads     
+
+Mountain sheep	    
+
+Mountaineering and mountaineers     
+
+Mountains     
+
+Moving, Household   
+	RT Storage and moving trade
+
+Moving and storage
+	USE Storage and moving trade
+	Moving, Household
+	Moving of buildings, bridges, etc.
+
+Mules   
+	RT Donkeys  
+
+Multiculturalism     
+
+Multiple sclerosis     
+
+Mumps     
+
+Municipal buildings     
+
+Municipal charters     
+
+Municipal Districts
+	RT Local government
+	RT Municipal Affairs, Department of
+	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
+
+Municipal finance     
+
+Municipal government     
+
+Municipal incorporation     
+
+Municipal Nursing Services Districts
+
+Mural painting and decoration     
+
+Murder     
+	USE Homicide
+
+Museums     
+
+Mushroom culture     
+	USE Fungiculture
+
+Mushrooms
+
+Music     
+	NT Handbooks, manuals, etc.
+	NT Instruction and study    
+	NT Instruments
+	NT Performance
+	NT Teachers
+	NT Text books
+
+Music halls   
+
+Music in education  
+
+Music schools
+	USE Conservatories of music
+
+Music stores
+	USE Stores, Retail -- Music
+
+Musical groups
+
+Musical theatre
+
+Musical revues
+	RT Variety shows (Television programs)
+
+Musicians     
+
+Muskeg     
+
+Muskox 	
+
+Muslims     
+
+Mutual telephone companies
+	USE Telephone companies
+
+Nakawe Nation
+	UF Saulteaux Nation
+	For subdivisions, use pattern under Indigenous peoples
+
+Nakoda Nation
+	UF Stoney Nation
+	For subdivisions, use pattern under Indigenous peoples
+
+Names, Geographical     
+
+Names, Personal     
+
+Naphtha
+
+Narcotics     
+
+National parks and reserves     
+
+Nationalism     
+
+Native Friendship Centres     
+
+Nativity scenes
+	USE Creches (Nativity scenes)
+
+Natural foods industry     
+
+Natural gas    
+	NT Conservation
+	NT Geology     
+	NT Law and legislation     
+	NT Leases
+	NT Pipe lines
+	NT Reserves
+	NT Storage
+	NT Taxation     
+
+Natural history     
+
+Natural resources     
+
+Naturalization     
+
+Nature
+
+Naturopathy and naturopaths
+	UF Vitamin therapy     
+
+Naval Cadets
+	USE Sea Cadets
+
+Neoliberalism
+	RT Austerity
+	RT Deregulation
+
+Neuroanatomy   
+
+New Year     
+
+News agencies     
+
+Newspapers
+	NT Carriers
+	NT Employees
+	NT Publishing
+	NT Vendors
+
+Newsprint     
+
+Nickel industry     
+
+Nickel mines and mining     
+
+Niitsitapi
+	UF Blackfoot Confederacy
+	RT Kainai Nation
+	RT Piikani Nation
+	RT Siksika Nation
+	For subdivisions, use format under Indigenous peoples.
+
+Normal schools
+	USE Teachers colleges
+
+North Peace Tribal Council
+
+Northern Alberta
+	USE Alberta, Northern
+
+North-West Mounted Police
+	NT Expedition, 1874
+	RT Royal Canadian Mounted Police
+
+North-West Rebellion, 1885
+	USE Northwest Resistance, 1885
+
+Northwest Resistance, 1885
+	UF North-West Rebellion, 1885
+	NT Anniversaries, etc.
+	NT Battles
+	NT Camps
+	NT Casualties (Statistics, etc.)
+	NT Cree
+	NT Historic Sites
+	NT Leaders
+	NT Métis
+	NT Militia
+	NT Prisoners and prisons
+	NT Refugees
+	NT Scrip
+	NT Transportation
+	NT Veterans 
+	RT Red River Resistance
+
+Northwest Territories
+Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
+
+North Saskatchewan River
+
+Norwegian Canadians     
+
+Norwegians     
+
+Notaries     
+
+Nuclear bomb shelters
+	USE Nuclear warfare and weaponry -- Shelters
+
+Nuclear disarmament     
+
+Nuclear energy     
+
+Nuclear medicine     
+
+Nuclear physics
+
+Nuclear reactors     
+
+Nuclear warfare and weaponry
+	NT Shelters
+	RT Civil defence
+	RT Nuclear disarmament
+
+Nudity
+
+Nuisance grounds
+	USE Refuse and refuse disposal
+
+Numbered treaties
+	RT specific treaties
+
+Numismatics     
+	UF Coins
+	RT Money
+
+Nuns
+	When possible use specific sect or religion, e.g. Catholic Church -- Nuns     
+
+Nurseries     
+	RT Day care centres
+
+Nurseries (Horticulture)     
+
+Nurses     
+	RT Public health nurses
+
+Nurses' aides     
+
+Nursing     
+
+Nursing homes
+	USE Long-term care facilities     
+
+Nursing orderlies
+
+Nursing schools     
+
+Nutrition     
+
+Oaths     
+
+Oats     
+
+Observatories   
+
+Occupational diseases     
+
+Occupational health and safety
+	RT Industrial safety
+
+Occupational health services     
+
+Occupational therapists     
+
+Occupational therapy     
+
+Oceanography    
+
+Office buildings     
+
+Offices 
+	NT Equipment and supplies
+	NT Procedures  
+
+Official Guardian     
+
+Oil
+	RT Gas, Natural
+	RT Petroleum
+
+Oil and gas leases     
+	RT Mining leases
+
+Oil burners   
+
+Oil derricks
+	USE Oil wells -- Drilling rigs
+
+Oil drums
+	USE Drums (containers)
+
+Oil exploration
+
+Oil fields     
+	NT Equipment and supplies
+	NT Taxation
+	NT Valuation   
+
+Oil fires
+	USE Petroleum industry and trade -- Fires and fire prevention
+
+Oil industry and trade
+	RT Petroleum industry and trade
+
+Oil pipe lines
+	RT Petroleum -- Pipe lines
+
+Oil refineries
+
+Oil sands
+	UF Athabasca Tar Sands
+	UF Bituminous sands
+	UF Tar sands     
+
+Oil sands extraction plants     
+
+Oil sands industry     
+
+Oil spills     
+	NT Prevention
+	NT Remediation
+
+Oil storage tanks   
+
+Oil well drilling     
+
+Oil well drilling, Submarine     
+
+Oil well logging     
+
+Oil wells     
+	NT Drilling rigs
+	NT Equipment and supplies
+	NT Maintenance and repair
+	NT Taxation
+	NT Valuation
+
+Oil workers
+	RT Petroleum workers
+
+Ojibwa Nation
+	For NT see subdivisions under Indigenous peoples
+
+Old age assistance     
+
+Old-age homes     
+	USE Retirement homes
+	RT Assisted-living facilities
+
+Old age pensions     
+
+Olympics
+	RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)
+
+Ombudsman     
+
+Onions     
+
+Opening ceremonies
+
+Opera     
+
+Operating rooms    
+
+Operetta     
+
+Ophthalmologists     
+
+Ophthalmology     
+
+Opposition
+	USE Legislative Assembly--Official Opposition
+
+Optometry and optometrists 
+	NT Eyeglasses
+	NT Contact lenses    
+
+ Orange Order
+	USE Loyal Orange Institution     
+
+Orchestra
+	RT subdivision Orchestras and bands under names of colleges and universities, communities, etc.
+
+Orders in Council
+
+Ordinances, Municipal     
+
+Ordinances, Territorial
+
+Ores     
+
+Organ transplants
+	USE Transplantation of organs, tissues, etc.
+
+Organization charts
+
+Organs     
+
+Ornithology     
+
+Orphans     
+	NT Law and legislation
+	RT Child welfare
+
+Orphanages     
+
+Orthodox Catholic Church     
+	UF Eastern Orthodox Church
+	USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches
+	NT Buildings
+	NT Clergy
+	NT Education
+	NT Rites and ceremonies
+
+Outfitters
+	USE Fishing guides
+	USE Hunting guides
+
+Outhouses     
+
+Ovens
+	RT Microwave ovens
+	RT Stoves
+
+Oxen     
+
+Pack transportation     
+
+Packaging     
+
+Packhorse camping     
+
+Packing houses     
+	RT Meat industry and trade
+
+Paddle steamers     
+
+Paint industry and trade     
+	RT Stores, Retail -- Paint
+
+Paint shops     
+
+Paint stores
+	USE Stores, Retail -- Paint
+
+Painting and painters   
+
+Painting, Industrial and painters, industrial 
+
+Paintings
+	USE Painting
+
+Pakistani Canadians     
+
+Pakistanis     
+
+Paleontology     
+	RT Fossils
+
+Pandas
+
+Pandemics
+
+Panhandling and panhandlers    
+	UF Beggars
+
+Pansexuality
+
+Paper industry     
+	RT Wood-pulp industry
+
+Paper recycling
+	USE Waste paper
+	USE Recycling
+
+Parachutes
+
+Parachuting     
+
+Parades  
+	NT Floats   
+
+Parcel post     
+
+Parenting     
+
+Parkades 
+	UF Parking garages
+
+Park rangers     
+	NT Housing
+	NT Stations
+	RT Forest rangers
+
+Parking garages     
+	USE Parkades
+
+Parking lots     
+
+Parking meters    
+
+Parks     
+	RT National parks and reserves
+	RT Provincial parks and reserves
+
+Parliament Buildings (Ottawa, Ont.)
+
+Parliamentary practice     
+
+Parole     
+
+Partition, Territorial
+	Use for division of the North-West Territories into provinces.
+
+Partnership     
+
+Partridges		
+
+Passenger lists
+	USE Railroads -- Passenger lists
+	USE Ships -- Passenger lists
+
+Pasta 
+
+Pastures     
+
+Patents     
+
+Pathology, Experimental   
+
+Patronage, Political     
+
+Pavement     
+	NT Contracts and specifications
+	NT Equipment and machinery
+	NT Frost damage  
+	NT Maintenance and repair
+	RT Concrete
+
+Paving
+	USE Pavement
+
+Pawnbroking and pawnbrokers
+
+Peace movements     
+	UF Antiwar movements
+	RT Nuclear disarmament
+
+Peace treaties
+
+Peacekeeping
+
+Peat industry     
+
+Pedestrians     
+
+Pelts
+	USE Fur
+	USE Hides and skins
+
+Pemmican
+
+Penitentiaries
+	USE Correctional institutions
+
+Penmanship
+
+Pensions  
+	RT Seniors   
+
+Pensions, Military     
+	USE Military pensions
+
+Pentecostal Church
+	NT Buildings
+	NT Clergy
+	NT Rites and Ceremonies     
+
+Performing arts     
+
+Performing arts festivals     
+
+Periodicals
+
+Perjury     
+
+Personal growth and development
+	USE Self-help industry
+
+Personality disorders
+	USE Mental health
+
+Personnel management     
+	UF Human resources
+
+Pesticides     
+	NT Environmental aspects
+	RT Agriculture -- Chemicals  
+
+Pests
+	NT Control   
+	RT specific types of pests, e.g. Rats
+	RT Insects--Control
+	RT Pesticides
+
+Pet shops		
+	USE Stores, Retail -- Pet shops
+
+Petition, Right of     
+
+Petrochemical industry
+	USE Petroleum chemicals industry
+
+Petroglyphs     
+
+Petroleum     
+	NT Geology     
+	NT Law and legislation
+	NT Leases
+	NT Pipelines
+	NT Products
+	NT Pumping stations
+	NT Refineries
+	NT Reserves
+	NT Royalties
+	NT Storage
+	NT Taxation     
+
+Petroleum, Synthetic
+	RT Oil sands
+
+Petroleum chemicals
+
+Petroleum chemicals industry     
+
+Petroleum conservation     
+
+Petroleum industry and trade     
+	NT Equipment and supplies
+	NT Fires and fire prevention   
+	NT Workers
+
+Pharmaceuticals
+
+Pharmaceutical industry     
+
+Pharmacies
+	USE Stores, Retail -- Pharmacies
+
+Pharmacists     
+
+Pharmacy     
+
+Pheasants
+
+Philately
+	RT Postal service
+
+Phillipine Canadians
+	USE Filipino Canadians
+
+Philosophy     
+
+Phonograph
+	USE Sound recordings -- Players
+
+Phonograph records
+	USE Sound recordings
+
+Phono records
+	USE Sound recordings
+
+Phonotapes
+	USE Sound recordings
+
+Phosphate rock     
+
+Photo radar
+	USE Radar, Photo
+
+Photocopying processes
+
+Photogrammetry    
+
+Photographers     
+
+Photography     
+	NT Ambrotype
+	NT Apparatus and supplies
+	NT Daguerreotype
+	NT Equipment
+	NT Studios and dark rooms
+	NT Tintype
+
+Photography, Aerial
+	USE Aerial Photography
+
+Photography, Legal
+	USE Legal Photography
+
+Photography, Panoramic
+
+Photovoltaic panels
+	RT Renewable energy -- Solar
+
+Physical education and training     
+
+Physical fitness     
+
+Physical fitness centres     
+
+Physical therapists     
+
+Physical therapy     
+
+Physically disabled
+	UF Crippled
+	UF Handicapped
+	RT Mentally disabled
+
+Physicians
+	NT Accreditation
+	NT Education
+	NT Regulation     
+
+Physics     
+	Use only for the discipline of physics as taught in schools and universities.
+
+Physiotherapists
+	USE Physical therapists
+
+Piano		
+
+Pickaxes
+
+Picnic grounds     
+
+Picnicking 		
+
+Piegan Nation	  
+	USE Piikani Nation
+
+Piers		
+	USE Docks
+
+Pigeons		
+
+Pigs
+
+Piikani Nation
+	UF Peigan Nation
+	For subdivisions USE pattern under Indigenous peoples
+
+Pile drivers
+
+Pilgrims and pilgrimages  
+
+Pilots (Aeronautics)
+	USE Aviation -- Pilots
+
+Pilots and pilotage     
+	Refers only to navigation on water
+
+Pinball machines     
+
+Pioneers     
+	RT Homesteading and homesteaders
+
+Pipe, Cast-iron
+
+Pipe, Concrete
+
+Pipe, Plastic
+
+Pipe, Steel
+
+Pipe industry     
+
+Pipelines
+
+Pistols     
+
+Pitch
+
+Place-names
+	USE Names, Geographical
+
+Planetariums    
+
+Planning, City
+	USE City planning
+
+Plants
+	RT Horticulture
+
+Plaques 
+
+Plastics industry and trade     
+
+Playgrounds     
+
+Playhouses, Children's
+	USE Children's Playhouses
+
+Playing Cards	
+
+Plays
+	USE Theatre
+	USE Drama
+
+Plebiscite     
+
+Plowing     
+
+Plows     
+
+Plumbers     
+
+Plumbing
+
+Plumbing fixtures     
+
+Poaching     
+
+Podiatry     
+
+Poetry and poets
+	RT Literature
+
+Poisons
+
+Pole-vaulting
+	USE Vaulting
+
+Poles     
+	RT Galicians
+
+Police     
+	NT Complaints against 
+	NT Magistrates
+	NT Stations 
+
+Police photographers
+	USE Photography, Legal
+
+Police, Provincial
+	USE Alberta Provincial Police
+
+Poliomyelitis     
+
+Polish Canadians     
+
+Political parties     
+
+Politics
+	USE Alberta -- Politics and government
+	USE Political parties
+
+Polls
+	USE Elections (Federal)
+	USE Elections (Local)
+	USE Elections (Provincial)
+	USE Voting
+
+Pollutants 
+	RT Air -- Pollution    
+
+Pollution     
+	RT Environmental policy
+
+Pollution control     
+
+Polyamory
+
+Polyandry
+
+Polyculturalism
+	RT Biculturalism
+
+Polygamy     
+	RT Bigamy
+
+Polo     
+
+Ponies     
+
+Pool (Game) 		
+	USE Billiards
+
+Pool halls
+	USE Billiard halls
+
+Poor     
+	USE Poverty
+
+Porcelain     
+
+Porcupines     
+
+Pork
+
+Pornography     
+
+Portages     
+
+Ports
+USE Harbours
+
+Post offices
+	USE Postal service -- Buildings
+
+Postal service     
+	NT Buildings
+	NT Employees
+	NT Equipment and supplies
+	NT International cooperation
+	NT Letter carriers
+	NT Postmasters
+	NT Rates
+	NT Stamps
+
+Posters     
+
+Post-secondary education   
+
+Potash industry and trade     
+
+Potatoes     
+	NT Cultivation
+	NT Marketing
+	NT Storage
+	NT Transportation
+
+Pottery     
+
+Poultry     
+	NT Breeding   
+	NT Diseases     
+	NT Feeding and feeds  
+	NT Hatcheries     
+	NT Housing 	
+	NT Marketing
+	NT Research     
+
+Poultry industry     
+
+Pounds     
+	USE Animal shelters
+
+Poverty
+	UF Poor
+
+Power plants, Electric
+
+Power plants, Hydraulic
+
+Power presses 	
+
+Prairie chickens   
+
+Prairie fires
+	USE Grassland fires
+
+Prairie Provinces
+	NT Description and travel
+	NT Economic conditions
+	NT History
+	NT Politics and government
+
+Prairies     
+
+Prayer books
+
+Prayer breakfasts     
+
+Prayers
+
+Precious stones     
+
+Precipitation (Meteorology)     
+
+Predatory animals     
+	NT Control     
+	RT Pests -- Control
+	RT Insects -- Control
+
+Pregnancy     
+
+Premenstrual syndrome     
+
+Premiers     
+
+Premiums (Retail trade)     
+
+Presbyterian Church     
+	NT Buildings
+	NT Clergy
+	NT Education    
+	NT Finance
+	NT Missions and missionaries
+	NT Rites and ceremonies
+	NT Societies, etc.
+	NT Sunday schools
+
+Press conferences    
+
+Press releases
+
+Presses
+
+Price cutting     
+
+Price regulation     
+
+Priests 
+
+Prime Ministers     
+
+Printing     
+
+Printing plants     
+
+Printing press 	     
+
+Printmaking
+
+Prints     
+
+Priority Employment Program
+	USE Employment stabilization
+
+Prisoners
+	USE Correctional institutions -- Inmates     
+
+Prisoners of war     
+	NT Camps
+
+Prisons
+	USE Correctional institutions    
+
+Privacy, Right of     
+
+Private investigators   
+
+Private schools     
+
+Privies
+	USE Outhouses
+
+Prizes     
+
+Pro-Life Alberta Political Association
+
+Probate law and practice     
+	RT Administration of estates
+
+Probation     
+
+Probation officers     
+
+Process issuers
+
+Processions
+	RT Parades
+
+Prohibition (Alberta), 1916-1923     
+
+Prohibition (United States), 1920-1933
+
+Progressive Conservative Association of Alberta
+
+Projection, Moving picture
+	USE Motion pictures -- Projection and projectionists
+
+Propane     
+
+Property     
+	RT Public property
+
+Property insurance
+	USE Insurance, Property
+
+Property management
+
+Property tax     
+
+Prospecting     
+
+Prosperity Certificates
+
+Prostitution
+	Use for criminal charge.
+	RT Sex work and sex workers     
+
+Protestant Reformation
+	UF Reformation
+	NT Anniversaries, etc.
+
+Protestantism
+
+Protests
+	USE Demonstrations
+
+Provincial flags
+	USE Flags
+
+Provincial Courts
+
+Provincial flowers     
+
+Provincial grants
+	USE Grants, Government
+
+Provincial-local fiscal relations     
+
+Provincial-local relations     
+
+Provincial-local tax relations     
+
+Provincial mace     
+
+Provincial parks and reserves     
+
+Psychiatric hospitals     
+
+Psychiatric nursing     
+
+Psychiatric patients
+	RT Mentally ill
+
+Psychiatrists     
+
+Psychics     
+
+Psychologists     
+
+Psychology 
+
+Public Administration   
+
+Public buildings     
+
+Public expenditures
+	USE Expenditures, Public
+
+Public finance
+	USE Finance, Public
+
+Public health     
+
+Public health laws     
+
+Public health nursing and nurses     
+
+Public investments     
+
+Public lands
+
+Public opinion polls
+
+Public property
+	UF Government property
+
+Public records     
+
+Public relations     
+
+Public utilities     
+
+Public welfare 
+	USE Social assistance    
+	RT Child welfare
+
+Public works 	
+
+Publicity
+
+Publishers and publishing     
+
+Pulleys		
+
+Pulmonary fibrosis     
+	RT Lungs -- Diseases
+
+Pulp and paper industry
+	USE Paper industry
+	USE Wood-pulp industry
+
+Pulpits     
+
+Pumas
+	USE Mountain lions		
+
+Pumping machinery   
+
+Pumping stations     
+
+Pumpkins
+
+Pumps
+	USE Pumping machinery
+
+Punched card systems     
+
+Punk culture     
+
+Puppetry
+
+Quakers     
+	USE Society of Friends
+
+Quarantine     
+
+Quarries and quarrying     
+
+Quartz     
+
+Quebec
+	NT Autonomy and independence movements
+	NT Quebec-Alberta Student Exchange Program
+
+Queen's Counsellors
+	RT King's Counsellors
+
+Queer
+
+Quilting and quilts
+
+Quoits
+	USE Horseshoe pitching
+
+R.C.M.P.
+	USE Royal Canadian Mounted Police
+
+R.N.W.M.P.
+	USE North West Mounted Police
+
+Rabbis     
+
+Rabbits     
+
+Rabies     
+
+Racetracks (Automobile racing)     
+
+Racetracks (Horse-racing)     
+
+Racial minorities
+	USE Minorities
+
+Racing
+	USE Automobile racing
+	USE Foot racing
+	USE Horse racing
+	USE Motor-boat racing
+
+Racism     
+	RT Antisemitism
+	RT White supremacy
+
+Racquetball     
+
+Radar     
+
+Radar, Photo 
+	UF Photo radar
+
+Radiation
+
+Radio 
+	NT Amateur radio stations 
+	NT Broadcasters
+	NT Broadcasting
+	NT Education
+	NT Operators
+	NT Programs
+	NT Stations   
+
+Radiologic technologists     
+
+Radiologists     
+
+Radiology, Medical     
+
+Radium
+
+Rafting (Sports)     
+
+Railroads
+	USE Railways     
+
+Railways
+	UF Railroads
+	NT Abandonment  
+	NT Accidents    
+	NT Bridges
+	NT Buildings and structures
+	NT Cars
+	NT Construction workers
+	NT Crossings
+	NT Design and construction
+	NT Employees
+	NT Equipment and supplies
+	NT Fares
+	NT Finance
+	NT Freight
+	NT Freight cars
+	NT Grades
+	NT Handcars
+	NT Livestock transportation
+	NT Locomotives
+	NT Maintenance and repair
+	NT Passenger lists
+	NT Passenger traffic
+	NT Passes
+	NT Pensions
+	NT Rates
+	NT Right of way   
+	NT Roundhouses
+	NT Salaries, allowances, etc.
+	NT Snow protection and removal   
+	NT Societies, etc.
+	NT Stations
+	NT Statistics
+	NT Surveying
+	NT Switching
+	NT Taxation     
+	NT Ties
+	NT Timetables
+	NT Track
+	NT Tracklaying machinery
+	NT Traffic
+	NT Trains
+	NT Turn-tables
+	NT Wage tables
+	NT Water supply
+	NT Yards
+
+Rain and rainfall     
+
+Rakes
+
+Ranchers     
+
+Ranches     
+
+Rangelands     
+
+Ranger stations
+	USE Forest rangers -- Housing
+	USE Park rangers -- Housing
+
+Rape
+	USE Sexual assault     
+
+Rape (Plant)     
+	RT Canola
+
+Rapid transit
+	USE Light rapid transit
+	USE Local transit
+
+Rastafarianism
+
+Rationing     
+
+Rats     
+	NT Control     
+
+Reading     
+
+Real estate agents     
+
+Real estate business     
+
+Real property	  
+
+Reapers
+	USE Harvesting machinery
+
+Recessions     
+
+Recipes
+	USE Cookery
+
+Reclamation of land     
+
+Record players
+	USE Sound recordings -- Players
+
+Record stores
+	USE Stores, Retail -- Sound recordings
+
+Records, Phonograph
+	USE Sound recordings
+
+Records management     
+	USE Records -- Management
+
+Recreation     
+
+Recreation centres     
+
+Recycling (Waste, etc.)     
+
+Red River cart
+	RT Métis
+
+Red River Colony 
+	RT Métis
+
+Red River Resistance, 1869-1870
+	RT Métis
+
+Redemptorists     
+	USE Catholic Church -- Congregations and Orders
+
+Referendums     
+
+Refineries
+	USE Petroleum refineries
+
+Reform Party of Alberta
+
+Reformation     
+	USE Protestant Reformation
+
+Reformatories     
+	USE Correctional institutions
+
+Refrigeration and refrigerating machinery     
+
+Refrigerators   
+
+Refugees 
+	RT Immigration and immigrants    
+
+Refuse and refuse disposal     
+
+Regional planning commissions     
+
+Registrar of deeds
+
+Registration clerks     
+
+Registration districts
+
+Regulations
+
+Rehabilitation centres     
+	RT Halfway houses
+
+Rehabilitation counselling   
+
+Reindeer     
+
+Relief (Aid)
+	USE Social assistance
+
+Relief camps
+
+Religion
+	Use specific denominations when possible.
+
+Religious ceremonies
+	USE Rites and ceremonies
+
+Religious education     
+
+Remembrance Day
+	Use for commemoration of the end of the First World War on 11 November from 1931 to present.
+	RT Armistice Day
+
+Rendering industry 
+
+Renewable energy
+	NT Bioenergy
+	NT Geothermal
+	NT Hydroelectricity
+	NT Solar
+		RT Photovoltaic panels
+	NT Wind 
+		RT Wind turbines   
+
+Repair shops
+	USE Stores, Retail -- Repair shops
+
+Reparation     
+
+Report cards		
+	USE Grading and marking (Students)
+
+Reporters and reporting     
+	USE Journalism
+
+Representative government and representation  
+
+Reptiles     
+
+Rescue operations
+	USE Search and rescue operations
+
+Research     
+
+Reservation systems
+	USE Indigenous peoples -- Reservations 
+	RT Numbered treaties    
+
+Reservoirs     
+
+Residence halls
+	USE Dormitories
+
+Residential schools
+	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
+	RT Residential schools NT under Indigenous peoples
+	RT Truth and Reconciliation Commission
+
+Resistance to government
+	USE Government, Resistance to
+
+Respirators
+
+Respiratory organs
+	NT Diseases     
+
+Restaurants     
+
+Restitution for victims of crime
+	USE Reparation
+
+Retirement     
+
+Retirement homes 
+	RT Assisted living facilities
+
+Retirement income     
+	RT Pensions, Old age pensions
+
+Retreats     
+
+Revenue     
+
+Revenue stamps     
+
+Revolutions and revolutionaries   
+
+Reward (Law)     
+
+Rheumatic fever     
+
+Rheumatoid arthritis     
+
+Riding
+	USE Horsemanship
+
+Riding clubs     
+
+Ridings
+	USE Election districts (Federal)
+
+Riel Rebellion, 1869-1870
+	USE Red River Resistance, 1869-1870
+
+Riel Rebellion, 1885
+	USE Northwest Resistance, 1885
+
+Right of entry arbitration
+	RT Surface Rights Board
+	RT Land tenure -- law and legislation
+
+Ringette (game)   
+
+Riots     
+
+Rites and ceremonies     
+
+Rivers     
+
+Road machinery    
+
+Roads     
+	NT Design and construction
+	NT Location
+	NT Maintenance and repair
+	NT Signs
+	NT Surveying
+
+Roads, Concrete    
+
+Roads, Gravel	   
+
+Roads, Mountain
+	USE Mountain roads
+
+Robotics     
+
+Rock-drills 		
+
+Rockets (Aeronautics)
+
+Rocks     
+
+Rocks, Igneous     
+
+Rocks, Metamorphic
+
+Rocks, Sedimentary     
+
+Rockslides     
+
+Rodeos     
+
+Roller-skating     
+
+Roman Catholic Church
+	USE Catholic Church
+
+Romanians     
+
+Romanian Canadians     
+
+Romanian Orthodox Church
+	USE Orthodox Catholic Church, Romanian       
+
+Roofs and roofers
+
+Rope
+
+Round-ups     
+
+Roundhouses (railroads)   
+	USE Railways -- Roundhouses
+
+Rowing     
+
+Royal Canadian Mounted Police
+	NT Anniversaries, etc.
+	NT Barracks and quarters
+	NT Camps
+	NT Cemeteries
+	NT Ceremonies, honours, and salutes
+	NT Detachments
+	NT Dogs
+	NT Drills
+	NT Equipment and supplies
+	NT Expedition, 1874
+		USE North-West Mounted Police -- Expedition, 1874
+	NT Families
+	NT Firearms
+	NT Forts
+	NT Funerals
+	NT Guard duty
+	NT History
+	NT Horses
+	NT Insignia
+	NT Mess halls
+	NT Monuments, etc.
+	NT Musical Ride
+	NT Officers
+	NT Orchestras and bands
+	NT Parades
+	NT Portraits
+	NT Prisons
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Veterans
+	RT North-West Mounted Police
+
+Royal Commissions
+
+Royal family
+
+Royal visits
+	USE Visits of state
+
+Rubella   
+	RT Measles
+
+Rugby football     
+
+Rummage sales     
+	RT Thrift shops
+
+Running     
+	RT Jogging
+
+Running races     
+
+Runways (Aviation)     
+
+Rural conditions
+
+Rural development     
+
+Rural electrification     
+
+Rural Municipalities
+	RT Local government
+	RT Municipal Affairs, Department of
+
+Russian Orthodox Church
+	USE Orthodox Catholic Church, Russia
+
+Rustling
+	USE Cattle rustling
+	USE Horse rustling
+
+Ruthenians
+
+Ruthenian Canadians     
+
+Rye     
+
+Saddlery     
+	RT Harness making and trade
+
+Safes
+
+Safety education     
+
+Safety equipment  
+
+Sailboats     
+
+Sailors		
+
+Saint Patrick's Day     
+
+Salaries, allowances, etc.
+
+Sales
+
+Sales, Conditional     
+
+Sales personnel     
+
+Sales tax     
+	NT Rates and tables
+
+Salesmen
+	USE Sales personnel
+
+Salons
+	UF Beauty shop
+
+Saloons
+	USE Bars (drinking establishments)
+
+Salt
+
+Salt industry and trade    
+
+Salteaux Nation
+	USE Nakawe Nation 
+
+Sanatoriums     
+
+Sand     
+
+Sand and gravel industry     
+
+Sandstone     
+
+Sanitation     
+
+Sarcee Nation
+	USE Tsuu T'ina Nation
+	For subdivisions use pattern under Indigenous peoples
+
+Saskatoon berry     
+
+Sasquatch   
+	USE Folklore
+
+Satellite television
+	USE Television -- Satellite
+
+Satellites
+
+Saunas     
+
+Saving and investment     
+
+Sawflies   
+
+Sawmills     
+
+Saws     
+
+Scales (Weighing instruments)     
+
+Scandinavian Canadians
+	RT Danish Canadians
+	RT Icelandic Canadians
+	RT Norwegian Canadians
+	RT Swedish Canadians     
+
+Scandinavians     
+	RT Danes
+	RT Icelanders
+	RT Norwegians
+	RT Swedes
+
+Scarlatina     
+
+Scarlet fever
+	USE Scarlatina
+
+Scholarships     
+
+School lands     
+
+Schools     
+	NT Athletics
+	NT Boards
+	NT Buildings
+	NT Districts
+	NT Divisions
+	NT Furniture, equipment, etc.
+	NT Libraries
+	NT Management and organization
+	NT Principals
+	NT Safety
+	NT Shops
+	NT Superintendents
+
+Science     
+
+Scientology     
+	RT Alternative religious movements
+
+Scissors and shears
+
+Scots     
+
+Scottish Canadians     
+
+Scouts and scouting     
+
+Scows    
+
+Scrap metals     
+
+Scrapbooks     
+
+Sculptors     
+
+Sculpture     
+
+Sea Cadets
+	RT Air Cadets
+	RT Army Cadets
+
+Seagulls
+	USE Gulls
+
+Seals (Animals)     
+
+Seals (Numismatics)     
+
+Seamen
+	USE Sailors
+
+Seaplane bases     
+
+Seaplanes     
+
+Search and rescue operations     
+
+Search Warrants
+	USE Warrants (Law)
+
+Searches and seizures     
+
+Seashells
+	USE Shells
+
+Seat belts, Automobile
+	USE Automobiles -- Seat belts
+
+Second language acquisition
+
+Secretaries     
+
+Sects     
+
+Security personnel     
+
+Security systems     
+
+Sedition     
+
+Seed industry and trade     
+
+Seeding
+	USE Sowing
+
+Seeds     
+	NT Certification     
+	NT Cleaning
+	NT Cultivation
+
+Seepage		
+
+Seismic prospecting camps     
+
+Seizures (Law)
+	USE Searches and seizures
+
+Self-defense 	
+
+Self-help industry
+
+Self-service laundries     
+
+Semaphore
+	USE Signals and signalling
+
+Seminaries
+	USE Theological seminaries
+
+Senate
+	USE Canada. Parliament. Senate
+	RT Legislative bodies
+
+Seniors
+	UF Aged
+	UF Elderly
+	UF Senior Citizens
+	RT Long-term care facilities
+	RT Pensions
+
+Senior citizens
+	USE Seniors
+
+Separatism
+	RT Canada, Western -- Autonomy and independence movement
+
+Service industries     
+
+Service stations       
+
+Servitudes     
+
+Sessional Papers
+
+Seventh Day Adventists   
+
+Sewers
+
+Sewing
+
+Sewing machines
+
+Sex education     
+
+Sex-oriented businesses     
+
+Sex work and sex workers
+
+Sexual assault
+	UF Indecent assault
+
+Sexuality
+
+Sexually transmitted infections     
+	NT Prevention
+	NT Study and teaching   
+
+Sharp-tailed grouse       
+
+Shears
+	USE Scissors and shears
+
+Sheep     
+
+Shells     
+
+Sheriffs     
+
+Shipping     
+
+Ships     
+	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
+	NT Cargo
+	NT Passenger lists
+
+Shipwrecks     
+
+Shipyards     
+
+Shoe stores
+	USE Stores, Retail -- Boots and shoes
+
+Shoes     
+	USE Footwear
+	RT Footwear industry
+
+Shooting     
+
+Shoplifting     
+
+Shopping     
+
+Shopping centres     
+
+Shot putting
+
+Shovels	         
+
+Show windows     
+
+Showers 
+
+Shrines     
+
+Shrubs     
+
+Sidewalks
+
+Sign language
+
+Signals and signalling   
+
+Signs and sign boards     
+
+Sikhism     
+
+Siksika Nation
+	UF Blackfoot Nation
+	RT Niitsitapi
+	For subdivisions, use format under Indigenous peoples.
+
+Silica     
+
+Silicosis     
+
+Silos     
+
+Silver     
+
+Silverwork     
+
+Singers     
+
+Single parents     
+
+Sioux Nation
+	For subdivisions USE pattern under Indigenous peoples
+
+Skateboarding     
+
+Skating     
+	RT Figure skating
+
+Skating rinks     
+
+Ski jumps and jumping     
+
+Skins
+	USE Hides and skins
+
+Skis and skiing     
+	RT Water skiing
+
+Sky tram
+	USE Cable cars
+
+Slander, (Law)
+	USE Libel and slander
+
+Slaughtering and slaughter-houses    
+
+Slavey Nation
+	USE Dene Tha' Nation 
+
+Sleep
+
+Sleighs and sledges     
+
+Slides (Recreation)     
+
+Sloughs
+	USE Wetlands
+
+Sluice gates     
+
+Small claims courts     
+
+Smallpox     
+
+Smoked meat   
+
+Smokestacks
+	USE Chimneys
+
+Smoking     
+
+Snakes     
+
+Snooker 		
+	USE Billiards
+
+Snow     
+
+Snow fences     
+
+Snowblowers
+
+Snowmobiles     
+
+Snowplanes     
+
+Snow plows 
+
+Snow removal     
+
+Snowsheds 
+
+Snowshoes and snowshoeing     
+
+Soap
+
+Soccer  
+
+Social assistance
+	UF Public welfare
+	UF Welfare   
+
+Social credit     
+
+Social media
+	RT Internet
+
+Social sciences     
+
+Social services     
+
+Social studies
+
+Social work
+	USE Social services
+
+Social work education     
+
+Social workers     
+
+Socialism
+
+Socialist Party of Alberta
+	See NT under Alberta -- Political parties    
+
+Societies
+
+Society of Friends     
+	UF Quakers
+
+Sod houses     
+
+Sodium sulphate
+
+Soft drink industry     
+
+Soil     
+	NT Conservation
+	NT Erosion
+	NT Research
+	NT Surveys     
+
+Solar Eclipses
+	USE Eclipses, Solar
+
+Solar energy 
+	USE Renewable energy -- Solar    
+
+Soldiers     
+	RT Canada.  Armed Forces
+	RT Canada.  Army
+
+Songbooks
+
+Sororities
+	RT Fraternities
+
+Sound recordings
+
+Sour gas
+	USE Natural gas
+
+South African War, 1899-1902     
+	UF Boer War, 1899-1902
+
+Souvenirs   
+
+Soviet Union
+	USE Union of Soviet Socialist Republics
+
+Sowing     
+
+Space stations
+
+Space vehicles
+
+Spanish
+
+Spanish Canadians
+
+Spanish language
+
+Spanish flu
+	USE Influenza, 1918-1919
+
+Spas
+	USE Health resorts
+	USE Physical fitness centres
+
+Special Areas
+	RT Local government
+	RT Municipal Affairs, Department of
+
+Speech
+
+Speech from the Throne
+
+Speeches, addresses, etc.
+	RT subdivision Addresses, essays, lectures, with names of organizations or persons.
+	RT Speech from the Throne
+
+Spelling
+	USE Language and languages
+	USE Orthography and spelling
+
+Spelunkers & spelunking     
+
+Spina bifida     
+
+Spinning
+
+Spinning wheel   
+
+Sporting goods	  
+
+Sporting goods stores
+	USE Stores, Retail -- Sporting goods
+
+Sports
+	NT Journalism
+	NT Officiating
+	NT Uniforms     
+
+Sports facilities     
+	UF Arenas
+	UF Stadiums
+	RT subdivision Sports facilities under names of communities.
+
+Spraying and dusting in agriculture     
+
+Spraying and dusting in forests     
+
+Spring breakup
+	USE Ice on rivers, lakes, etc.
+
+Square dancing    
+	USE Dance -- Square 
+
+Squirrels     
+
+Stables     
+
+Stadiums		
+	USE Sports facilities
+	RT subdivision Sports facilities under names of communities.
+
+Stagecoaches
+	USE Carriages and carts
+
+Staircases     
+
+Stamp collecting and collectors
+	USE Philately   
+
+Stampedes
+
+Starch industry     
+
+Statistics     
+
+Statues     
+
+Statutes 	
+	USE Legislation (Name of Act as titled in Statutes of Alberta)
+
+Stealing
+	USE Theft
+
+Steam boilers     
+	RT Boilers
+
+Steam engineers     
+
+Steam engines     
+
+Steam power plants     
+
+Steam rollers
+	USE Road-rollers
+
+Steam shovels	   
+
+Steamboats     
+
+Steel industry and trade     
+
+Steelworkers
+	USE Iron and steel workers
+
+Sterilization, Eugenic     
+	RT Eugenics
+
+Sternwheelers
+	USE Paddle steamers
+
+Stewardesses, Airline
+	USE Flight attendants
+
+Stills
+	USE Distilleries
+
+Stock breeders
+	USE Livestock Breeders
+
+Stock brokers	   
+	USE Brokers
+
+Stock certificates     
+
+Stock exchange     
+
+Stock judging
+	USE Livestock -- Judging
+
+Stock ranges
+	USE Rangelands
+
+Stockyards  
+
+Stokers, Mechanical
+	RT Steam boilers
+
+Stone cutters  
+	USE Stonemasons   
+
+Stone implements     
+
+Stone industry and trade     
+
+Stony Nation
+	USE Nakoda Nation
+
+Stonemasons     
+	RT Bricklayers
+
+Stookers     
+
+Stopping houses
+	USE Hotels, taverns, etc.
+
+Storage and moving trade     
+	RT Moving, Household
+
+Stores, Resale
+	USE Pawnbroking
+	USE Rummage sales
+	USE Thrift shops
+
+Stores, Retail     
+	NT Bookstores
+	NT Boots and shoes
+	NT Carpet
+	NT Clothing
+	NT Confectionary
+	NT Department stores
+	NT Drugstores
+	NT Electric apparatus and appliances
+	NT Eyeglasses
+	NT Fabric
+	NT Fish
+	NT Florists
+	NT Furniture
+	NT Furriers
+	NT General stores
+	NT Glass
+	NT Greeting cards
+	NT Grocery
+	NT Hardware
+	NT Hobbies
+	NT Jewellery
+	NT Liquor
+	NT Millinery
+	NT Music
+	NT Paint
+	NT Pet shops
+	NT Photographic equipment
+	NT Repair shops
+	NT Sound recordings
+	NT Sporting goods
+	NT Tires
+	NT Wallpaper
+
+Stores, Wholesale
+	USE Wholesale trade
+
+Storms     
+
+Stoves     
+
+Street cars
+	USE Street railways
+	USE Cable Cars
+	USE Electric railroads
+
+Street cleaning     
+
+Street names     
+
+Street railways     
+	NT Design and Construction
+	NT Employees
+
+Street signs     
+
+Street vendors     
+
+Streets     
+
+Strikes and lockouts     
+	RT Labour disputes
+
+Strip mining     
+
+Striptease  
+
+Stroke
+	USE Cerebrovascular disease
+
+Student Temporary Employment Program
+	USE Employment stabilization
+
+Students  
+	NT Activities
+	NT Aid
+	NT Loan funds
+	NT Unions   
+
+Students, Foreign     
+
+Students' songs     
+
+Stunt cycling   
+
+Stunt driving  
+
+Stunt flying   
+
+Stunt performers   
+
+Subsidies   
+
+Substance Use Disorder
+	NT Treatment  
+
+Succession duties
+	USE Inheritance and transfer tax
+
+Suffrage     
+
+Sugar
+	NT Growing
+	NT Manufacture and refining  
+	NT Substitutes
+	NT Trade   
+	NT Workers
+
+Sugar beets     
+	NT Harvesting      
+	NT Machinery       
+
+Sugar beet industry     
+
+Suicide     
+	RT Mental health
+
+Sulphur
+
+Sulphur industry     
+
+Sulphur mines and mining
+	NT Miners     
+
+Sulphur springs     
+
+Summer camps
+	USE Camps
+
+Summer homes
+	USE Vacation homes
+
+Sumo     
+
+Sumo wrestling
+	USE Sumo
+
+Sun
+
+Sun dance
+	RT Indigenous peoples -- Rites and ceremonies		
+
+Sunday legislation     
+
+Sunday Schools
+	USE Religious education
+
+Sundials     
+
+Sunflowers     
+
+Surety and fidelity insurance
+	USE Insurance, Surety and fidelity
+
+Surface rights
+	USE Land tenure--Law and legislation
+
+Surgeons     
+
+Surgery     
+
+Surplus government property     
+
+Surveying and surveyors     
+	NT Camps
+	NT Instruments
+
+Surveys
+	RT Geological surveys
+
+Survival
+	USE Wilderness survival
+
+Swamps
+	USE Wetlands
+
+Swedes     
+
+Swedish Canadians     
+
+Sweeping and dusting
+
+Swimming and swimmers     
+
+Swimming pools     
+
+Swimsuits
+	USE Bathing suits
+
+Swine industry
+
+Swords     
+
+Synagogues     
+	RT subdivision Synagogues under names of communities
+
+Synchronized Swimming
+	USE Artistic Swimming
+
+Syrian Orthodox Church
+	USE Orthodox Catholic Church, Syrian
+
+Syrian Canadians     
+
+Syrians
+
+Table setting and decoration   
+
+Tables     
+
+Tableware
+
+Tailoring and tailors
+
+Taiwanese
+
+Taiwanese Canadians
+
+Tank cars
+
+Tank trucks     
+
+Tanks 
+	Use for armoured military vehicle.
+
+Tanning     
+
+Tape recordings (Sound reproductions)
+	USE Sound recordings
+
+Tar
+
+Tar sand
+	USE Oil sands
+
+Targets (Shooting)     
+
+Tariff     
+
+Tattoos and tattooing     
+
+Taverns (Inns)   
+
+Taxes and taxation
+	NT Assessment
+	NT Avoidance
+	NT Collection
+	NT Evasion
+	NT Remission
+
+Taxicabs     
+
+Taxidermy
+
+Tea
+
+Teachers     
+	NT Certification     
+	NT Salaries, etc.     
+	NT Selection and appointment  
+	NT Substitute
+
+Teachers colleges     
+
+Technical colleges
+	USE Colleges of applied arts and technology
+
+Technology
+
+Teenagers
+	NT Pregnancy
+
+Teepees
+	USE Indigenous peoples -- Dwellings
+	USE Tipis
+
+Teeth
+
+Telecommunication     
+
+Teleconferencing     
+
+Telegraph     
+	NT Equipment and supplies
+	NT Apparatus and supplies
+	NT Employees
+	NT Equipment and supplies
+	NT Lines
+	NT Rates
+	NT Stations
+
+Telephone     
+	NT Apparatus and supplies
+	NT Cables
+	NT Cellular
+	NT Companies
+		NT Employees
+	NT Equipment and Supplies
+	NT Directories
+	NT Emergency reporting systems
+	NT Lines
+	NT Rates
+	NT Switchboards
+
+Telephone sales     
+
+Telescope     
+
+Television 
+	NT Advertising
+	NT Broadcasting
+	NT Programs
+	NT Satellite 
+	NT Stations
+		NT Employees
+
+Temperance     
+
+Temples
+
+Temporary Foreign Workers     
+
+Tenants
+	USE Landlord and tenant
+
+Tennis     
+
+Tents     
+
+Terminals (Transportation)     
+
+Terrorism     
+
+Textbooks     
+
+Text processing (Computer science)  
+
+Textile fabrics     
+
+Textile industry     
+
+Thanksgiving Day
+
+Thatched roofs     
+
+Theatre     
+
+Theatres     
+
+Theft
+
+Theological seminaries     
+
+Thieves     
+
+Threshing     
+
+Threshing machines     
+
+Thrift shops     
+
+Throne Speech
+	USE Speech from the Throne
+
+Tibetan Canadians     
+
+Tibetans     
+
+Tigers     
+
+Tiles     
+
+Timber     
+
+Timber lands     
+
+Time capsules     
+
+Time management     
+
+Tintype
+	USE Photography -- Tintype
+
+Tipis		
+
+Tires, Rubber
+
+Tire stores
+	USE Stores, Retail -- Tires
+
+Tobacco     
+
+Tobacco industry     
+
+Tobacconists
+
+Toboggans and tobogganing      
+
+Toilets
+	USE Plumbing fixtures
+
+Tokens     
+
+Tomatoes     
+
+Tombs     
+
+Tombstones
+
+Tools     
+
+Tornadoes     
+
+Totem poles     
+
+Tour guides 
+
+Tourism and tourists
+
+Tourist information centres     
+
+Town councils
+	USE City council
+
+Town planning
+	USE City planning
+
+Towns
+	USE Cities and towns
+	RT Municipal Affairs, Department of
+	RT Municipal government
+
+Toxicology     
+
+Toys     
+
+Track and field athletics and athletes
+
+Tracking and trailing     
+
+Tractors     
+
+Trade fairs
+	USE Exhibitions
+	USE Trade shows
+
+Trade missions
+	RT Foreign trade promotion
+
+Trade schools     
+	USE Colleges of applied arts and technology
+
+Trade Shows	
+
+Trade unions     
+	USE Labour unions
+
+Trading posts 	
+	USE Forts and trading posts
+
+Traditional dress
+
+Traditional medicine   
+
+Traffic
+	NT Accidents
+	NT Police
+	NT Regulations
+	NT Safety
+	NT Signs and signals
+	NT Surveys
+
+Trail riding     
+
+Trailer camps     
+
+Trailers
+
+Trails     
+
+Trains
+	USE Railways -- Trains
+
+Trams
+	USE Cable cars
+
+Tramways, aerial
+	USE Aerial tramways
+
+Transcendental Meditation
+
+Transfer payments
+	UF Federal-provincial fiscal relations
+
+Transgender
+	RT Transsexual
+
+Transient labour
+	USE Itinerant labour
+	RT Migrant labour
+	RT Migration, internal
+
+Transit systems
+	USE Local transit
+
+Transplantation of organs, tissues, etc.   
+
+Transport companies
+	USE Trucking
+
+Transportation  
+
+Transsexual
+	RT Transgender   
+
+Trappers and trapping 
+	UF Animals traps
+	RT Fur trade
+	RT Hunting   
+
+Traplines
+
+Travel agents and agencies    
+
+Travelling sales personnel     
+
+Travois
+	RT Indigenous peoples -- Transportation
+
+Treasury Department.  Treasury Branches
+	RT Banks and banking
+
+Treaties
+	RT Numbered treaties
+
+Treaty 4
+
+Treaty 6
+
+Treaty 7
+
+Treaty 8
+
+Treaty 10
+
+Treaty 8 First Nations of Alberta
+
+Treaty 8 Tribal Associations
+
+Tree planting     
+
+Trees     
+
+Trials     
+
+Tribes
+	USE name of specific Nation or Band     
+
+Tricycles     
+
+Trolley buses     
+
+Trophies, Hunting
+	USE Hunting trophies
+
+Trophies, Sports
+	USE Sports -- Awards
+
+Trucks and trucking
+	NT Drivers
+	NT Terminals     
+	NT Routes   
+
+Trust and Trustees  
+	NT Companies
+	NT Funds
+	NT Indentures 
+
+Truth and Reconciliation Commission
+	RT Residential schools
+	RT Residential schools NT under Indigenous peoples
+	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
+
+Tuberculosis     
+	NT Hospitals     
+
+Tugboats     
+
+Tunnels     
+
+Turbines
+
+Turkeys     
+	RT Poultry
+
+Turkish Canadians
+
+Turks
+
+Tutors and tutoring     
+
+Twine
+
+Two-spirit
+
+Typesetting
+
+Typewriters
+
+Typewriting
+
+Typhoid fever     
+
+Ukrainian Canadians     
+	RT Galician Canadians
+
+Ukrainian language     
+
+Ukrainian Orthodox Church
+	USE Orthodox Catholic Church, Ukrainian
+
+Ukrainians     
+	RT Galicians
+	RT Ruthenians
+
+Underpasses     
+
+Undertakers and undertaking     
+
+Undocumented immigrants
+	UF Aliens, Illegal
+	UF Illegal aliens
+
+Unemployment 
+	NT Seasonal
+	RT Idle rich    
+
+Unemployment insurance
+	USE Insurance, Unemployment
+
+Unidentified flying objects
+
+Uniforms, Military
+	USE Military uniforms
+
+Uniforms, Sports
+	USE Sports uniforms
+
+Union of Soviet Socialist Republics
+	UF Soviet Union
+
+Unions, trade
+	USE Labour unions
+
+Unitarian Universalist churches     
+
+United Church of Canada     
+	NT Buildings
+	NT Customs and practices
+	NT Clergy
+	NT Conferences
+	NT Finance
+	NT Government
+	NT History
+	NT Missions
+	NT Residential schools
+	NT Rites and ceremonies
+	NT Societies, etc.
+	NT Religious education
+
+United Conservative Party
+	See NT under Alberta -- Political parties
+
+United Farmers of Alberta (agricultural supply cooperative)
+
+United Farmers of Alberta (political party)
+	See NT under Alberta -- Political parties
+
+United States of America
+	NT Relations (general) with Alberta
+	NT Relations (military) with Alberta
+
+United States of America.  Air Force
+
+United States of America.  Army
+
+United States of America.  Marine Corps
+
+United States of America.  Navy
+
+Universities and colleges     
+	NT Administration
+	NT Buildings
+	NT Curricula
+	NT Employees
+	NT Entrance requirements
+	NT Examinations
+	NT Faculty
+	NT Finance
+	NT History
+	NT Law and legislation     
+	NT Planning
+	NT Religious schools
+	NT Security
+	NT Sports
+	NT Students
+	NT Taxation    
+
+University of Alberta
+	For subdivisions USE pattern under Athabasca University
+
+Unmarried mothers
+	USE Single parents     
+
+Uranium
+
+Uranium industry     
+
+Uranium mines and mining     
+
+Urban development
+
+Urban planning
+
+Urban renewal     
+
+Urban transportation     
+
+Urbanization     
+
+Usury     
+
+Utilities
+	USE Public utilities
+
+Vacation homes     
+
+Vaccination
+	USE Immunization
+
+Vacuum cleaners	     
+
+Vagrancy
+	USE Homeless and homelessness     
+
+Valentine cards
+
+Valleys     
+
+Vandalism     
+
+Variety shows (Television programs)
+
+Variety shows (Theatre)
+	USE Music halls (variety theatres, cabarets, etc).  
+
+Vaulting
+	USE Gymnastics
+	USE Track and field athletics and athletes
+
+Vegetable trade     
+
+Vegetables     
+	NT Exhibitions
+	NT Marketing
+
+Vending machines     
+
+Venereal disease education
+	USE Sexually transmitted infections -- Study and teaching
+
+Venereal diseases
+	USE Sexually transmitted infections
+
+Venture capital     
+
+Veterans     
+
+Veterinarians     
+
+Veterinary medicine 
+	RT Animals -- Diseases    
+
+Victoria Day
+
+Video games		
+
+Video recording     
+	NT Production and direction
+	NT Recorders
+
+Video tape recorders and recording     
+	USE Video recording
+	USE Video tape recorders	    
+	USE Videocassette recorders   
+
+Video tape/disc rentals
+	USE Stores, Retail -- Videotape/disc
+
+Vietnamese     
+
+Vietnamese Canadians     
+
+Vietnam War, 1961-1975     
+
+Village councils
+	USE City councils
+
+Villages     
+	RT Municipal Affairs, Department of
+	RT Municipal government
+
+Vintners     
+	RT Wine and winemaking
+
+Violin
+
+Visits of state     
+
+Visual arts
+	USE Art
+
+Visual impairment
+	UF Blindness
+
+Visually impaired
+	UF Blind     
+
+Vital statistics
+
+Vitamin therapy
+	USE Naturopathy
+
+Vocational centres     
+
+Vocational colleges
+	USE Colleges of applied arts and technology
+	RT names of particular institutions
+
+Vocational counselling
+	USE Career education
+
+Vocational education     
+
+Vocational guidance     
+
+Vocational rehabilitation     
+
+Volcanic ash, tuff, etc.     
+
+Volleyball     
+
+Volunteerism and volunteers
+
+Voters lists
+	USE Election districts (Federal) -- Census
+	USE Election districts (Provincial)--Census
+
+Voting     
+	RT Elections (Federal)
+	RT Elections (Local)
+	RT Elections (Provincial)
+
+Voyages and travel
+
+Voyageurs
+	RT Fur traders
+
+Wages
+	USE Salaries, allowances, etc.
+
+Wagons     
+
+Waiters
+	USE Restaurants -- Servers
+
+Wallpaper     
+
+Wallpaper stores
+	USE Stores, Retail -- Wallpaper
+
+Walls     
+
+Walruses 	
+
+War bonds
+	USE Bonds
+	USE Savings bonds
+
+War memorials     
+
+Warble flies     
+
+Warehouses     
+
+Warrants, Law     
+
+Washing
+	USE Laundry
+
+Washing machines   
+
+Washstands
+
+Waste Disposal
+	USE Factory and trade waste
+	USE Refuse and refuse disposal
+	USE Sewage disposal
+	USE Waste paper
+	USE Waste products
+
+Waste disposal sites     
+
+Waste products     
+	RT subdivision By-products under specific industries, e.g. Gas manufacture and works--By-products
+	RT subdivision Waste disposal under plants, industries, etc.,
+
+Watches
+	USE Clocks and watches
+
+Water     
+	NT Conservation
+	NT Divining and diviners
+	NT Fluoridation     
+	NT Law and legislation  
+	NT Pipes   
+	NT Pollution     
+	NT Purification
+	NT Reuse
+	NT Rights    
+	NT Storage
+	NT Supply
+	NT Towers
+
+Water, Underground     
+
+Water polo     
+
+Water quality     
+
+Water resources development     
+
+Water sports     
+	USE Aquatic sports
+
+Waterfalls     
+
+Watermelons     
+
+Watershed management     
+
+Weapons
+	UF Arms and armour
+	RT Firearms
+
+Weather
+	NT Acid precipitation
+	NT Control
+	NT Forecasting
+
+Weaving     
+
+Weddings     
+
+Weeds     
+	NT Control     
+
+Weight lifting     
+	RT Bodybuilding
+
+Welders and welding 
+
+Welfare
+	USE Charities
+	USE Social assistance
+
+Well drillers     
+
+
+Wells
+
+Welsh     
+
+Welsh Canadians     
+
+West Indian Canadians  
+	USE specific nation when possible.
+	USE Caribbean Canadians   
+
+West Indians 
+	USE specific nation when possible.
+	USE Caribbeans   
+
+Western Canada
+	USE Canada, Western
+
+Western Canada Concept
+	See NT under Alberta -- Political parties
+
+Western Canada separatism
+	USE Canada, Western -- Autonomy and independence movement
+
+Western Cree Tribal Council
+
+Western Diversification
+	USE Diversification in industry
+
+Western Independence Party
+	See NT under Alberta -- Political parties
+
+Wetlands
+	UF Marshes
+	UF Sloughs
+	UF Swamps
+
+Whales
+
+Wheat     
+	NT Cooperative marketing   
+	NT Marketing
+
+Wheat pools
+	USE Wheat -- Cooperative marketing
+
+Wheelchairs     
+
+Wheels  
+	RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels
+
+White supremacy
+	RT Antisemitism
+	RT Racism
+
+Wholesale trade     
+
+Whooping cough     
+
+Whooping crane     
+
+Widows and widowers    
+
+Wigwams 		
+	USE Indigenous peoples -- Dwellings
+
+Wildcats
+	USE Bobcats
+	USE Lynx
+	USE Mountain lions
+
+
+Wilderness survival     
+
+Wildlife conservation     
+
+Wildlife management     
+
+Wildrose Party
+	See NT under Alberta -- Political parties
+
+Wills     
+
+Winches
+	RT Windlasses
+
+Wind erosion     
+
+Windlasses
+
+Windmills     
+
+Windows     
+
+Wind turbines
+	RT Renewable energy -- Wind
+
+Wine and wine making     
+	RT Vintners
+
+Winter     
+
+Winter sports     
+
+Winter works projects
+	USE Employment stabilization
+
+Wolves     
+
+Women   
+	NT Education     
+	NT Employment     
+	NT Legal status, laws, etc.     
+	NT Residences
+	NT Rights
+	NT Societies and clubs
+	NT Suffrage     
+	NT Religious life
+
+
+Women's clothing     
+	USE Clothing and dress
+	USE Costume
+
+Wood     
+
+Wood pulp     
+
+Wood pulp industry     
+
+Woodworkers     
+
+Woodworking industries     
+
+Woodworking machinery    
+
+Wool     
+
+Wool industry     
+
+Woollen and worsted manufacture     
+
+Work camps
+
+Work environment     
+
+Work experience
+	USE Apprentices
+
+Workers' compensation     
+
+Workmen's compensation
+	USE Workers' compensation
+
+World War, 1914-1918     
+
+World War, 1939-1945     
+
+Worms     
+
+Wrecking
+
+Wrestling     
+	RT Sumo
+
+Writers
+	USE Authors
+
+Writs of execution
+
+Written communication     
+
+X-rays
+	NT Equipment and supplies
+	NT Safety measures
+
+Yak     
+
+Yearbooks
+
+Yellowhead Tribal Development Foundation
+
+Yoga 
+	NT Therapeutic use
+
+Young Offenders    
+	UF Juvenile delinquency
+	UF Juvenile delinquents
+
+Youth     
+	NT Dwellings 
+	NT Emergency shelters   
+	NT Employment     
+	NT Societies and clubs
+
+Youth courts
+	USE Juvenile courts
+
+Youth hostels     
+
+Zeppelins
+	USE Airships
+
+Zinc industry and trade     
+
+Zinc mines and mining     
+
+Zoology     
+
+Zoos
