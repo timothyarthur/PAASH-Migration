@@ -152,20 +152,8 @@ Calgary
 Canada
 	NT Commerce--[United States, etc.]
 
-Canada.  Army (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
-
-Canada. Army. Canadian Expeditionary Force
-	For subdivisions use NT under Canada. Canadian Armed Forces
-
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act
-
-Canada.  Royal Canadian Air Force (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
-
-Canada.  Royal Canadian Navy. (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
 
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
@@ -229,9 +217,6 @@ Disasters
 
 Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
-
-Drinking and traffic accidents
-	USE Driving under the influence
 
 Drunk driving
 	USE Driving under the influence
@@ -412,9 +397,6 @@ Orchestra
 
 Orthodox Catholic Church
 	USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches
-
-Pavement
-	NT Contracts and specifications
 
 Pests
 	RT specific types of pests, e.g. Rats

@@ -657,7 +657,7 @@ Assiniboine Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -905,7 +905,7 @@ Bank loans
 Bankruptcy     
 
 Banks and banking     
-	RT Credit Unions
+	RT Credit unions
 	RT Treasury Department.  Treasury Branches
 
 Banquets
@@ -1043,7 +1043,7 @@ Berries
 	NT Harvesting   
 
 Bertha armyworm
-	USE Army-worms
+	USE Armyworms
 
 Beverage processing plants     
 	RT Breweries
@@ -1229,7 +1229,7 @@ Bowling
 Bowling alleys     
 
 Bowling on the green
-	USE Lawn Bowling
+	USE Lawn bowling
 
 Box making     
 
@@ -1446,7 +1446,7 @@ Calgary
 	NT Bars, saloons, etc.
 	NT Bath houses
 	NT Blizzard, [date]
-	NT Boards of Trade
+	NT Boards of trade
 	NT Boats and boating
 	NT Boundaries
 	NT Breweries
@@ -1672,11 +1672,61 @@ Canada. Canadian Armed Forces
 Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)
 
 Canada.  Army (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada. Army. Canadian Expeditionary Force
 	Established Aug. 1914 and ceased to exist November, 1918
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
 	For subdivisions use NT under Canada. Canadian Armed Forces
@@ -1708,13 +1758,88 @@ Canada. Parliament. Senate
 	NT Members
 
 Canada.  Royal Canadian Air Force (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada.  Royal Canadian Navy. (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada, Western
 	NT Autonomy and independence movement
@@ -1782,7 +1907,7 @@ Car washes
 Carbon, Activated
 
 Cardiology
-	RT Heart Diseases
+	RT Heart diseases
 
 Cards
 	USE Playing cards 
@@ -1907,7 +2032,7 @@ Cerebral palsy
 Cerebrovascular disease     
 
 Ceremonial maces     
-	RT Provincial Mace
+	RT Provincial mace
 
 Ceremonies
 	USE Rites and ceremonies
@@ -1920,7 +2045,7 @@ Chalices
 Chamber orchestra
 
 Chambers of Commerce
-	USE Boards of Trade
+	USE Boards of trade
 	USE name of individual Chamber of Commerce
 
 Chapels     
@@ -2093,7 +2218,7 @@ Civil law
 	NT Cases
 
 Civil rights     
-	RT Human Rights
+	RT Human rights
 
 Civil service     
 	For specific departments USE [Name of department] -- Officials and employees~
@@ -2397,7 +2522,7 @@ Contested elections
 Continuing education     
 
 Contraception
-	RT Birth Control
+	RT Birth control
 
 Contractors     
 
@@ -2483,7 +2608,7 @@ Cottages
 Cotton fabrics     
 
 Cougars
-	USE Mountain Lions 
+	USE Mountain lions 
 
 Counterfeits and counterfeiting     
 
@@ -2565,7 +2690,7 @@ Cree Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -2650,7 +2775,7 @@ Cree Nation, Plains
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -2735,7 +2860,7 @@ Cree Nation, Woodlands
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -2972,7 +3097,7 @@ Dane-zaa Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -3121,7 +3246,7 @@ Dene Suline Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -3207,7 +3332,7 @@ Dene Tha' Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -3359,7 +3484,7 @@ Dissection
 Distance education     
 
 Distant early warning system
-	USE Civil Defence -- Distant Early Warning Line
+	USE Civil defence -- Distant Early Warning Line
 
 Distilleries  
 	RT Beverage processing plants      
@@ -3388,14 +3513,14 @@ Districts
 	USE Municipal Districts
 	USE Municipal government
 	USE Municipal Nursing Services Districts
-	USE Registration Districts
+	USE Registration districts
 	USE School Districts
 	USE School Divisions
-	USE Special areas
+	USE Special Areas
 
 Ditches  
 
-Diversification in Industry  
+Diversification in industry  
 
 Diving  
 
@@ -3488,7 +3613,7 @@ Dried Meat
 Drill (Agricultural implement)
 
 Drinking and traffic accidents
-	USE Driving under the influence
+	USE Driving under the influence~
 
 Drinking customs     
 
@@ -3565,7 +3690,7 @@ Eagles
 
 Early childhood education     
 	RT Education, Preschool
-	RT Kindergarten
+	RT Kindergartens
 
 Earthmoving machinery     
 	RT Bulldozers
@@ -3624,7 +3749,7 @@ Edmonton
 	NT Bars, saloons, etc.
 	NT Bath houses
 	NT Blizzard, [date]
-	NT Boards of Trade
+	NT Boards of trade
 	NT Boats and boating
 	NT Boundaries
 	NT Breweries
@@ -3979,7 +4104,7 @@ Eskimos
 
 Estate administration
 	USE Administration of estates
-	RT Probate law and practise
+	RT Probate law and practice
 
 Estheticians
 
@@ -4064,8 +4189,8 @@ Extended care facilities
 	USE Hospitals -- Extended care units
 	USE Long-term care facilities
 
-Extinct Cities	
-	USE Ghost towns	
+Extinct cities	
+	USE Ghost towns
 
 Extortion     
 
@@ -4307,7 +4432,7 @@ First Nations
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -5575,7 +5700,7 @@ Indigenous peoples
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -5619,7 +5744,7 @@ Indigenous peoples
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 	NT Study and teaching     
 	NT Teepees
-		USE Indigenous Peoples -- Dwellings
+		USE Indigenous peoples -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
@@ -5763,8 +5888,6 @@ International trade
 
 Internet
 
-Internment camps
-
 Interns     
 
 Internship programmes     
@@ -5807,7 +5930,7 @@ Inuit
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -6036,7 +6159,7 @@ Kainai Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -6125,7 +6248,7 @@ Kitchens
 Kites     
 
 Klondike Days 
-	USE Edmonton - Exhibitions
+	USE Edmonton -- Exhibitions
 
 Klondike gold rush
 	NT Klondike Trail
@@ -6179,7 +6302,7 @@ Kutenai Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -6246,9 +6369,9 @@ Labour agreements
 	USE Labour relations -- Collective bargaining agreements
 
 Labour camps     
-	USE Internment camp
-	USE Relief camp
-	USE Work camp
+	USE Internment camps
+	USE Relief camps
+	USE Work camps
 
 Labour Day     
 
@@ -6375,7 +6498,7 @@ Lawyers
 	NT Ethics
 
 Leader of the Opposition
-	USE Legislative Assembly. Official Opposition
+	USE Legislative Assembly.  Official Opposition
 
 Learning disabilities     
 
@@ -6713,7 +6836,7 @@ Marriage
 Marriage counselling     
 
 Marriage licenses     
-	USE Licences -- Marriage
+	USE Licenses -- Marriage
 
 Marshes     
 	USE Wetlands
@@ -6884,7 +7007,7 @@ Métis Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -6953,7 +7076,7 @@ Microwave ovens
 Midwives and midwifery    
 
 Migrant labour   
-	RT Temporary foreign workers
+	RT Temporary Foreign Workers
 
 Migration, Internal     
 
@@ -7229,7 +7352,7 @@ Nakawe Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -7315,7 +7438,7 @@ Nakoda Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -7469,7 +7592,7 @@ Niitsitapi
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -7743,7 +7866,7 @@ Ojibwa Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -7989,7 +8112,7 @@ Pathology, Experimental
 Patronage, Political     
 
 Pavement     
-	NT Contracts and specifications
+	NT Contracts and specifications~
 	NT Equipment and machinery
 	NT Frost damage  
 	NT Maintenance and repair
@@ -8151,10 +8274,10 @@ Photography
 	NT Tintype
 
 Photography, Aerial
-	USE Aerial Photography
+	USE Aerial photography
 
 Photography, Legal
-	USE Legal Photography
+	USE Legal photography
 
 Photography, Panoramic
 
@@ -8235,7 +8358,7 @@ Piikani Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -8342,7 +8465,7 @@ Playgrounds
 Playhouses, Children's
 	USE Children's Playhouses
 
-Playing Cards	
+Playing cards	
 
 Plays
 	USE Theatre
@@ -9107,7 +9230,7 @@ Riel Rebellion, 1885
 
 Right of entry arbitration
 	RT Surface Rights Board
-	RT Land tenure -- law and legislation
+	RT Land tenure -- Law and legislation
 
 Ringette (game)   
 
@@ -9286,7 +9409,7 @@ Salons
 	UF Beauty shop
 
 Saloons
-	USE Bars (drinking establishments)
+	USE Bars (Drinking establishments)
 
 Salt
 
@@ -9467,7 +9590,7 @@ Senate
 Seniors
 	UF Aged
 	UF Elderly
-	UF Senior Citizens
+	UF Senior citizens
 	RT Long-term care facilities
 	RT Pensions
 
@@ -9598,7 +9721,7 @@ Siksika Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -9697,7 +9820,7 @@ Sioux Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts
@@ -10125,7 +10248,7 @@ Stoves
 
 Street cars
 	USE Street railways
-	USE Cable Cars
+	USE Cable cars
 	USE Electric railroads
 
 Street cleaning     
@@ -10504,7 +10627,7 @@ Tourism and tourists
 Tourist information centres     
 
 Town councils
-	USE City council
+	USE City councils
 
 Town planning
 	USE City planning
@@ -10534,7 +10657,7 @@ Trade missions
 Trade schools     
 	USE Colleges of applied arts and technology
 
-Trade Shows	
+Trade shows	
 
 Trade unions     
 	USE Labour unions
@@ -10582,7 +10705,7 @@ Transgender
 Transient labour
 	USE Itinerant labour
 	RT Migrant labour
-	RT Migration, internal
+	RT Migration, Internal
 
 Transit systems
 	USE Local transit
@@ -10694,7 +10817,7 @@ Tsuu T'ina Nation
 	NT Folklore
 	NT Food
 	NT Friendship centres
-		USE Native friendship centres
+		USE Native Friendship Centres
 	NT Funeral customs and rites   
 	NT Games
 	NT Gifts

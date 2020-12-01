@@ -164,6 +164,7 @@ def construct_uf(item, parent):
 def construct_note(item, parent):
 	#Detect type of note?
 	parent_label = get_label(parent)
+	item = clean_label(item)
 	g.add((parent, SKOS.note, Literal(item, lang='en')))
 
 #Loading and parsing plaintext input, then storing terms a nested dictionary data structure
@@ -276,22 +277,22 @@ top_concepts = g.query("""SELECT DISTINCT ?s
 	}
 	""")
 
-for row in top_concepts:
-	uri = row[0]
+for item in [row[0] for row in top_concepts if not '--' in row[0]]:
+	uri = item
 	g.add((uri, SKOS.topConceptOf, scheme_uri))
 	g.add((scheme_uri, SKOS.hasTopConcept, uri))
 
 #Remove non-preferred headings from graph
 #Uncomment after ensuring that flags are comprehensive
-# to_remove = g.query("""SELECT DISTINCT ?target
-# 	WHERE{
-# 	?target skos:prefLabel ?targetLabel .
-# 	?pref skos:altLabel ?targetLabel
-# 	}""")
+to_remove = g.query("""SELECT DISTINCT ?target
+	WHERE{
+	?target skos:prefLabel ?targetLabel .
+	?pref skos:altLabel ?targetLabel .
+	}""")
 
-# for row in to_remove:
-# 	uri = row[0]
-# 	g.remove((uri, None, None))
+for row in to_remove:
+	uri = row[0]
+	g.remove((uri, None, None))
 
 #Writing the output to the indicated file, in the indicated RDF serialization format
 g.serialize(destination='PAASH.ttl', format='turtle')
