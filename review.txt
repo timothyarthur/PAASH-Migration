@@ -362,11 +362,17 @@ Lieutenant-Governors
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
 
+Lunar Eclipses
+	Subdivided by date, e.g. Lunar Eclipses -- 1866
+
 Mayors
 	RT subdivision Mayors under names of communities
 
 Métis Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+
+Ministerial Orders
+	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
 
 Ministerial papers
 	USE [Name of Department], Minister of, e.g., Agriculture, Minister of

@@ -4041,7 +4041,7 @@ Employment references
 Employment stabilization     
 
 Energy conservation     
-	RT Gas, Natural -- Conservation
+	RT Natural gas -- Conservation
 
 Energy industries     
 
@@ -4835,7 +4835,7 @@ Gas, Natural
 	USE Natural gas
 
 Gas conservation
-	USE Gas, Natural -- Conservation
+	USE Natural gas -- Conservation
 
 Gas wells     
 	USE Natural gas -- Conservation
@@ -7774,7 +7774,7 @@ Offices
 Official Guardian     
 
 Oil
-	RT Gas, Natural
+	RT Natural gas
 	RT Petroleum
 
 Oil and gas leases     
