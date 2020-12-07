@@ -12,13 +12,15 @@ lines_to_review = []
 #Generating graph and defining namespace
 g = Graph()
 g.bind('skos', SKOS)
-paash = Namespace("paash#")
+paash = Namespace("https://example.com/paash#")
 
 #Generating SKOS Concept Scheme as root node of graph
 scheme_label = 'Provincial Archives of Alberta Subject Headings'
 scheme_uri = paash['paash']
 g.add((scheme_uri, RDF.type, SKOS.ConceptScheme))
 g.add((scheme_uri, SKOS.prefLabel, Literal(scheme_label, lang='en')))
+
+count = 0
 
 def get_uri(label):
 	uri = g.value(None, SKOS.prefLabel, Literal(label, lang='en'), any=False)
@@ -30,6 +32,12 @@ def gen_uri(label):
 	if not uri:
 		uri = label.replace(' ', '_').lower()
 		uri = paash[uri]
+	return uri
+
+def gen_num_uri(uri):
+	global count
+	count += 1
+	uri = paash[f'sh{count:06d}']
 	return uri
 
 # Returns the preferred label for URIs already in the graph
@@ -136,7 +144,6 @@ def construct_precoordinated(coord_label):
 
 		g.add((broader_uri, SKOS.narrower, narrower_uri))
 		g.add((narrower_uri, SKOS.broader, broader_uri))
-		print(broader_uri, narrower_uri)
 
 # Constructs subheadings with the USE relation
 # When a subheading has a USE statement, it indicates that its parent is a non-preferred heading
@@ -317,14 +324,32 @@ for item in [row[0] for row in top_concepts]:
 	g.add((uri, SKOS.topConceptOf, scheme_uri))
 	g.add((scheme_uri, SKOS.hasTopConcept, uri))
 
+#Remap to numerical URIs
+numerical = Graph()
+numerical.bind('skos', SKOS)
+
+num_uri = {}
+for s, p, o in g.triples((None, RDF.type, SKOS.Concept)):
+	num_uri[s] = gen_num_uri(s)
+
+for s, p, o in g:
+	s = num_uri.get(s, s)
+	o = num_uri.get(o, o)
+	numerical.add((s, p, o))
 
 #Writing the output to the indicated file, in the indicated RDF serialization format
 if test:
-	rdf_file = 'test.ttl'
+	rdf_file = 'paash_test.ttl'
+	num_rdf_file = 'paash_num_test.ttl'
+
 else:
-	rdf_file = 'PAASH.ttl'
+	rdf_file = 'paash.ttl'
+	num_rdf_file = 'paash_num.ttl'
+
 
 g.serialize(destination=rdf_file, format='turtle')
+numerical.serialize(destination=num_rdf_file, format='turtle')
+
 
 #Writing lines for review to the indicated file in human-readable format
 if test:
