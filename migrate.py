@@ -49,7 +49,8 @@ def get_label(uri):
 	return label
 
 def flag_for_review(item, flags):
-	return any(substring in item.lower() for substring in flags)
+	return any(substring in item.lower() for substring in flags) and not '~f' in item
+
 # Formats and appends line to review list
 def add_review(item_label, parent_label=None):
 	if parent_label == None:
@@ -96,6 +97,7 @@ def construct_subheading(item, parent, check_flags = True):
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
+			print(parent, item)
 		else:
 			uri = construct_use (item, parent)
 
@@ -200,6 +202,7 @@ def construct_note(item, parent):
 	#Detect type of note?
 	parent_label = get_label(parent)
 	g.add((parent, SKOS.note, Literal(item, lang='en')))
+	print((parent, SKOS.note, Literal(item, lang='en')))
 
 #Loading and parsing plaintext input, then storing terms a nested dictionary data structure
 #End result is a dictionary of dictionaries of lists
@@ -354,6 +357,7 @@ g.serialize(destination=rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file_xml, format='xml')
 
+print(f'Graph containing {count} nodes successfully written to {num_rdf_file}')
 
 #Writing lines for review to the indicated file in human-readable format
 if test:

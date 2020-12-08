@@ -246,9 +246,6 @@ Creeks
 Cremation
 	RT Undertakers and undertaking
 
-Crematoriums
-	RT Undertakers and undertaking
-
 Dane-zaa Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 

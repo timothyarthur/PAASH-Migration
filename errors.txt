@@ -1,6 +1,17 @@
-#URI generator currently assigns the same URI for both
-French Canadians
-	Use for recent immigrants to Canada from France.     
-French-Canadians 
-	Use for Canadians descended from French colonial settlers.    
-	RT Franco-Albertans
+<https://example.com/paash#sh004809> a skos:Concept ;
+    skos:altLabel "Creeks"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Rivers"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+Creeks
+	USE name of creek
+	USE Rivers
+
+<https://example.com/paash#sh000407> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:note "RT Residential schools NT under Indigenous peoples"@en,
+        "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
+    skos:prefLabel "Residential schools"@en ;
+    skos:related <https://example.com/paash#sh001055>,
+        <https://example.com/paash#sh002860> ;
+    skos:topConceptOf <https://example.com/paash#paash> .

@@ -27160,13 +27160,6 @@
     skos:related <https://example.com/paash#funeral_rites_and_ceremonies> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#crematoriums> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Undertakers and undertaking"@en ;
-    skos:prefLabel "Crematoriums"@en ;
-    skos:related <https://example.com/paash#funeral_rites_and_ceremonies> ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
 <https://example.com/paash#cribs_(children's_furniture)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Cribs (Children's furniture)"@en ;
@@ -29082,6 +29075,12 @@
     skos:related <https://example.com/paash#galician_canadians> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#undertakers_and_undertaking_~f> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Undertakers and undertaking ~f"@en ;
+    skos:related <https://example.com/paash#crematoriums> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#valentine_cards> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Valentine cards"@en ;
@@ -29434,6 +29433,13 @@
     skos:prefLabel "Credit unions"@en ;
     skos:related <https://example.com/paash#banks_and_banking>,
         <https://example.com/paash#cooperative_societies> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#crematoriums> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Crematoriums"@en ;
+    skos:related <https://example.com/paash#funeral_rites_and_ceremonies>,
+        <https://example.com/paash#undertakers_and_undertaking_~f> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dairy_products> a skos:Concept ;
@@ -36859,6 +36865,7 @@
         <https://example.com/paash#ukrainian_canadians>,
         <https://example.com/paash#ukrainian_language>,
         <https://example.com/paash#ukrainians>,
+        <https://example.com/paash#undertakers_and_undertaking_~f>,
         <https://example.com/paash#undocumented_immigrants>,
         <https://example.com/paash#unemployment>,
         <https://example.com/paash#unidentified_flying_objects>,
