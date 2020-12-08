@@ -38,8 +38,8 @@
 
 <https://example.com/paash#accounting> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies"@en ;
     skos:prefLabel "Accounting"@en ;
+    skos:scopeNote "RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#acquired_immunodeficiency_syndrome_(aids)_--_social_aspects> a skos:Concept ;
@@ -423,9 +423,9 @@
     skos:altLabel "Government departments"@en ;
     skos:broader <https://example.com/paash#alberta> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of specific departments, e.g., Agriculture, Department of"@en,
-        "Use only when dealing with government departments in general."@en ;
-    skos:prefLabel "Alberta -- Executive departments"@en .
+    skos:prefLabel "Alberta -- Executive departments"@en ;
+    skos:scopeNote "RT names of specific departments, e.g., Agriculture, Department of"@en,
+        "Use only when dealing with government departments in general."@en .
 
 <https://example.com/paash#alberta_--_foreign_relations> a skos:Concept ;
     skos:broader <https://example.com/paash#alberta> ;
@@ -722,14 +722,14 @@
 <https://example.com/paash#alberta_provincial_police_--_prisoners> a skos:Concept ;
     skos:broader <https://example.com/paash#alberta_provincial_police> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Refers to the transportation and disposition of prisoners"@en ;
-    skos:prefLabel "Alberta Provincial Police -- Prisoners"@en .
+    skos:prefLabel "Alberta Provincial Police -- Prisoners"@en ;
+    skos:scopeNote "Refers to the transportation and disposition of prisoners"@en .
 
 <https://example.com/paash#alberta_provincial_police_--_reports> a skos:Concept ;
     skos:broader <https://example.com/paash#alberta_provincial_police> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for annual reports, criminal investigation case reports, strike reports, etc."@en ;
-    skos:prefLabel "Alberta Provincial Police -- Reports"@en .
+    skos:prefLabel "Alberta Provincial Police -- Reports"@en ;
+    skos:scopeNote "Use for annual reports, criminal investigation case reports, strike reports, etc."@en .
 
 <https://example.com/paash#alberta_provincial_police_--_statistics> a skos:Concept ;
     skos:broader <https://example.com/paash#alberta_provincial_police> ;
@@ -828,8 +828,8 @@
 
 <https://example.com/paash#aldermen> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE City Councillors under names of cities"@en ;
     skos:prefLabel "Aldermen"@en ;
+    skos:scopeNote "USE City Councillors under names of cities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#alfalfa> a skos:Concept ;
@@ -859,8 +859,8 @@
 
 <https://example.com/paash#altars> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Name of religion -- Buildings -- Altars"@en ;
     skos:prefLabel "Altars"@en ;
+    skos:scopeNote "USE Name of religion -- Buildings -- Altars"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#american_canadians> a skos:Concept ;
@@ -938,8 +938,8 @@
 <https://example.com/paash#anglican_church_of_canada_--_dioceses> a skos:Concept ;
     skos:broader <https://example.com/paash#anglican_church_of_canada> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of dioceses, e.g., Athabasca (Diocese)"@en ;
-    skos:prefLabel "Anglican Church of Canada -- Dioceses"@en .
+    skos:prefLabel "Anglican Church of Canada -- Dioceses"@en ;
+    skos:scopeNote "RT names of dioceses, e.g., Athabasca (Diocese)"@en .
 
 <https://example.com/paash#anglican_church_of_canada_--_finance> a skos:Concept ;
     skos:broader <https://example.com/paash#anglican_church_of_canada> ;
@@ -949,8 +949,8 @@
 <https://example.com/paash#anglican_church_of_canada_--_history> a skos:Concept ;
     skos:broader <https://example.com/paash#anglican_church_of_canada> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision History under names of Dioceses"@en ;
-    skos:prefLabel "Anglican Church of Canada -- History"@en .
+    skos:prefLabel "Anglican Church of Canada -- History"@en ;
+    skos:scopeNote "RT subdivision History under names of Dioceses"@en .
 
 <https://example.com/paash#anglican_church_of_canada_--_members> a skos:Concept ;
     skos:broader <https://example.com/paash#anglican_church_of_canada> ;
@@ -1042,8 +1042,8 @@
 
 <https://example.com/paash#apartments> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Apartments under names of communities"@en ;
     skos:prefLabel "Apartments"@en ;
+    skos:scopeNote "RT subdivision Apartments under names of communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#appraisers> a skos:Concept ;
@@ -1071,14 +1071,14 @@
 
 <https://example.com/paash#arab_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific nationality when possible, e.g. Syrian Canadians"@en ;
     skos:prefLabel "Arab Canadians"@en ;
+    skos:scopeNote "Use specific nationality when possible, e.g. Syrian Canadians"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#arabs> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific nationality when possible, e.g. Syrians"@en ;
     skos:prefLabel "Arabs"@en ;
+    skos:scopeNote "Use specific nationality when possible, e.g. Syrians"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#arcades> a skos:Concept ;
@@ -1108,8 +1108,8 @@
 
 <https://example.com/paash#archives> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Archives under subjects, e.g., Universities and colleges -- Archives"@en ;
     skos:prefLabel "Archives"@en ;
+    skos:scopeNote "RT subdivision Archives under subjects, e.g., Universities and colleges -- Archives"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#archivists> a skos:Concept ;
@@ -1239,14 +1239,14 @@
 
 <https://example.com/paash#asian_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific country when possible, e.g. Japanese Canadians"@en ;
     skos:prefLabel "Asian Canadians"@en ;
+    skos:scopeNote "Use specific country when possible, e.g. Japanese Canadians"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#asians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific country when possible, e.g. Japanese"@en ;
     skos:prefLabel "Asians"@en ;
+    skos:scopeNote "Use specific country when possible, e.g. Japanese"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#assault_and_battery> a skos:Concept ;
@@ -1463,8 +1463,8 @@
 <https://example.com/paash#assiniboine_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#assiniboine_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Assiniboine Nation -- Languages"@en .
+    skos:prefLabel "Assiniboine Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#assiniboine_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#assiniboine_nation> ;
@@ -2064,14 +2064,14 @@
 
 <https://example.com/paash#baltic_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible specify the nation, e.g. Lithuanian Canadian."@en ;
     skos:prefLabel "Baltic Canadians"@en ;
+    skos:scopeNote "When possible specify the nation, e.g. Lithuanian Canadian."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#balts> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible specify the nation, e.g. Lithuanian Canadian."@en ;
     skos:prefLabel "Balts"@en ;
+    skos:scopeNote "When possible specify the nation, e.g. Lithuanian Canadian."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bands_(music)> a skos:Concept ;
@@ -2091,8 +2091,8 @@
 
 <https://example.com/paash#baptism> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE as NT under specific religion"@en ;
     skos:prefLabel "Baptism"@en ;
+    skos:scopeNote "USE as NT under specific religion"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#baptist_church_--_baptism> a skos:Concept ;
@@ -2207,8 +2207,8 @@
 
 <https://example.com/paash#barracks> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Barracks and quarters under armies, etc."@en ;
     skos:prefLabel "Barracks"@en ;
+    skos:scopeNote "RT subdivision Barracks and quarters under armies, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#barrels> a skos:Concept ;
@@ -2266,8 +2266,8 @@
 
 <https://example.com/paash#battles> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of individual battles"@en ;
     skos:prefLabel "Battles"@en ;
+    skos:scopeNote "RT names of individual battles"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bazaars> a skos:Concept ;
@@ -2488,8 +2488,8 @@
 
 <https://example.com/paash#bishops> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Where possible use the subdivision Bishops under the specific denomination."@en ;
     skos:prefLabel "Bishops"@en ;
+    skos:scopeNote "Where possible use the subdivision Bishops under the specific denomination."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bison_--_american> a skos:Concept ;
@@ -2557,8 +2557,8 @@
 <https://example.com/paash#boards_of_trade> a skos:Concept ;
     skos:altLabel "Chambers of Commerce"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade"@en ;
     skos:prefLabel "Boards of trade"@en ;
+    skos:scopeNote "When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#boatbuilding> a skos:Concept ;
@@ -2573,8 +2573,8 @@
 
 <https://example.com/paash#boats_and_boating> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship)."@en ;
     skos:prefLabel "Boats and boating"@en ;
+    skos:scopeNote "For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship)."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bobcats> a skos:Concept ;
@@ -2643,8 +2643,8 @@
 
 <https://example.com/paash#boundaries> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE NT Boundaries under place names."@en ;
     skos:prefLabel "Boundaries"@en ;
+    skos:scopeNote "USE NT Boundaries under place names."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bounties> a skos:Concept ;
@@ -2689,8 +2689,8 @@
 
 <https://example.com/paash#breeding> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE as NT under BT, e.g. Livestock -- Breeding"@en ;
     skos:prefLabel "Breeding"@en ;
+    skos:scopeNote "USE as NT under BT, e.g. Livestock -- Breeding"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#breweries_--_workers> a skos:Concept ;
@@ -2756,14 +2756,14 @@
 
 <https://example.com/paash#british> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use English, Scottish, Welsh, or Northern Irish."@en ;
     skos:prefLabel "British"@en ;
+    skos:scopeNote "When possible use English, Scottish, Welsh, or Northern Irish."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#british_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use English Canadians, Scottish Canadians, Welsh Canadians, or Northern Irish Canadians."@en ;
     skos:prefLabel "British Canadians"@en ;
+    skos:scopeNote "When possible use English Canadians, Scottish Canadians, Welsh Canadians, or Northern Irish Canadians."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#broad_jump> a skos:Concept ;
@@ -2885,14 +2885,14 @@
 
 <https://example.com/paash#by-elections> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use Elections [jurisdiction, date]"@en ;
     skos:prefLabel "By-elections"@en ;
+    skos:scopeNote "Use Elections [jurisdiction, date]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#by-laws> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies."@en ;
     skos:prefLabel "By-laws"@en ;
+    skos:scopeNote "RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cabbage> a skos:Concept ;
@@ -2902,8 +2902,8 @@
 
 <https://example.com/paash#cabinet_ministers> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "NT Canada [Alberta, etc.]"@en ;
     skos:prefLabel "Cabinet ministers"@en ;
+    skos:scopeNote "NT Canada [Alberta, etc.]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cable_cars> a skos:Concept ;
@@ -3863,8 +3863,8 @@
 
 <https://example.com/paash#canada.__laws> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act"@en ;
     skos:prefLabel "Canada.  Laws"@en ;
+    skos:scopeNote "USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada.__northern> a skos:Concept ;
@@ -4459,8 +4459,8 @@
 <https://example.com/paash#canada_--_departments> a skos:Concept ;
     skos:broader <https://example.com/paash#canada> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Canada.  Department of [the Interior, etc.]"@en ;
-    skos:prefLabel "Canada -- Departments"@en .
+    skos:prefLabel "Canada -- Departments"@en ;
+    skos:scopeNote "USE Canada.  Department of [the Interior, etc.]"@en .
 
 <https://example.com/paash#canada_--_description_and_travel> a skos:Concept ;
     skos:broader <https://example.com/paash#canada> ;
@@ -4632,15 +4632,15 @@
 <https://example.com/paash#caribbean_canadians> a skos:Concept ;
     skos:altLabel "West Indian Canadians"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific nation when possible."@en ;
     skos:prefLabel "Caribbean Canadians"@en ;
+    skos:scopeNote "Use specific nation when possible."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#caribbeans> a skos:Concept ;
     skos:altLabel "West Indians"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific nation when possible."@en ;
     skos:prefLabel "Caribbeans"@en ;
+    skos:scopeNote "Use specific nation when possible."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#caribou> a skos:Concept ;
@@ -4704,8 +4704,8 @@
 
 <https://example.com/paash#catalogues> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues"@en ;
     skos:prefLabel "Catalogues"@en ;
+    skos:scopeNote "USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#catering_and_caterers> a skos:Concept ;
@@ -4864,14 +4864,14 @@
 <https://example.com/paash#cemeteries> a skos:Concept ;
     skos:altLabel "Graves"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of individual cemeteries"@en ;
     skos:prefLabel "Cemeteries"@en ;
+    skos:scopeNote "RT names of individual cemeteries"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#censorship> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Censorship under specific topics"@en ;
     skos:prefLabel "Censorship"@en ;
+    skos:scopeNote "RT subdivision Censorship under specific topics"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#census> a skos:Concept ;
@@ -4903,6 +4903,12 @@
 <https://example.com/paash#chamber_orchestra> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Chamber orchestra"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#chambers_of_commerce> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Chambers of Commerce"@en ;
+    skos:scopeNote "USE name of individual Chamber of Commerce"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#chapels> a skos:Concept ;
@@ -5294,9 +5300,9 @@
     skos:altLabel "Town councils"@en,
         "Village councils"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council"@en,
-        "USE names of specific City councils, e.g., Edmonton. City Council"@en ;
     skos:prefLabel "City councils"@en ;
+    skos:scopeNote "RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council"@en,
+        "USE names of specific City councils, e.g., Edmonton. City Council"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#city_planning> a skos:Concept ;
@@ -5351,8 +5357,8 @@
 
 <https://example.com/paash#clergy> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use specific sect, e.g. Catholic Church -- Clergy"@en ;
     skos:prefLabel "Clergy"@en ;
+    skos:scopeNote "When possible use specific sect, e.g. Catholic Church -- Clergy"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#clerks> a skos:Concept ;
@@ -5501,6 +5507,12 @@
     skos:prefLabel "Collection agencies"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#colleges> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Colleges"@en ;
+    skos:scopeNote "RT Names of specific colleges, universities"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#colleges_of_applied_arts_and_technology> a skos:Concept ;
     skos:altLabel "Technical colleges"@en,
         "Trade schools"@en,
@@ -5554,11 +5566,17 @@
     skos:prefLabel "Commissioners for Oaths"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#commissions_(of_inquiry)> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Commissions (of inquiry)"@en ;
+    skos:scopeNote "USE Names of specific commissions"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#committees> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For individual committees USE name of committee."@en,
-        "Use only for collections containing material on several committees."@en ;
     skos:prefLabel "Committees"@en ;
+    skos:scopeNote "For individual committees USE name of committee."@en,
+        "Use only for collections containing material on several committees."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#commonwealth_games_(11th_:_1978_:_edmonton,_alberta)_--_closing_ceremonies> a skos:Concept ;
@@ -5579,8 +5597,8 @@
 <https://example.com/paash#commonwealth_games_(11th_:_1978_:_edmonton,_alberta)_--_sports> a skos:Concept ;
     skos:broader <https://example.com/paash#commonwealth_games_(11th_:_1978_:_edmonton,_alberta)> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE specific name of sport"@en ;
-    skos:prefLabel "Commonwealth Games (11th : 1978 : Edmonton, Alberta) -- Sports"@en .
+    skos:prefLabel "Commonwealth Games (11th : 1978 : Edmonton, Alberta) -- Sports"@en ;
+    skos:scopeNote "USE specific name of sport"@en .
 
 <https://example.com/paash#commonwealth_of_nations> a skos:Concept ;
     skos:altLabel "British Commonwealth countries/nations"@en ;
@@ -5645,7 +5663,8 @@
     skos:prefLabel "Communist Party -- Alberta -- Membership"@en .
 
 <https://example.com/paash#community_centres> a skos:Concept ;
-    skos:altLabel "Community halls"@en ;
+    skos:altLabel "Community halls"@en,
+        "Drop-in centres"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Community centres"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
@@ -5746,6 +5765,12 @@
     skos:prefLabel "Construction workers"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#consulates> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Consulates"@en ;
+    skos:scopeNote "USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#consultants> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Consultants"@en ;
@@ -5778,8 +5803,8 @@
 
 <https://example.com/paash#convents> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE as NT under specific sect or religion."@en ;
     skos:prefLabel "Convents"@en ;
+    skos:scopeNote "USE as NT under specific sect or religion."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cookery> a skos:Concept ;
@@ -5840,8 +5865,8 @@
 
 <https://example.com/paash#cornerstone_laying> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Laying of cornerstone under names of specific buildings"@en ;
     skos:prefLabel "Cornerstone laying"@en ;
+    skos:scopeNote "RT subdivision Laying of cornerstone under names of specific buildings"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#coronations> a skos:Concept ;
@@ -6194,8 +6219,8 @@
 <https://example.com/paash#cree_nation,_plains_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation,_plains> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Cree Nation, Plains -- Languages"@en .
+    skos:prefLabel "Cree Nation, Plains -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#cree_nation,_plains_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation,_plains> ;
@@ -6558,8 +6583,8 @@
 <https://example.com/paash#cree_nation,_woodlands_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation,_woodlands> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Cree Nation, Woodlands -- Languages"@en .
+    skos:prefLabel "Cree Nation, Woodlands -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#cree_nation,_woodlands_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation,_woodlands> ;
@@ -6922,8 +6947,8 @@
 <https://example.com/paash#cree_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Cree Nation -- Languages"@en .
+    skos:prefLabel "Cree Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#cree_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#cree_nation> ;
@@ -7080,6 +7105,12 @@
     skos:broader <https://example.com/paash#cree_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Cree Nation -- Youth"@en .
+
+<https://example.com/paash#creeks> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Creeks"@en ;
+    skos:scopeNote "USE name of creek"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cricket> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -7499,8 +7530,8 @@
 <https://example.com/paash#dane-zaa_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#dane-zaa_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Dane-zaa Nation -- Languages"@en .
+    skos:prefLabel "Dane-zaa Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#dane-zaa_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#dane-zaa_nation> ;
@@ -7935,8 +7966,8 @@
 <https://example.com/paash#dene_suline_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#dene_suline_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Dene Suline Nation -- Languages"@en .
+    skos:prefLabel "Dene Suline Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#dene_suline_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#dene_suline_nation> ;
@@ -8299,8 +8330,8 @@
 <https://example.com/paash#dene_tha'_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#dene_tha'_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Dene Tha' Nation -- Languages"@en .
+    skos:prefLabel "Dene Tha' Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#dene_tha'_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#dene_tha'_nation> ;
@@ -8548,9 +8579,9 @@
 
 <https://example.com/paash#disasters> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of specific disasters"@en,
-        "RT specific types of disasters, e.g., Floods, Fires"@en ;
     skos:prefLabel "Disasters"@en ;
+    skos:scopeNote "RT names of specific disasters"@en,
+        "RT specific types of disasters, e.g., Floods, Fires"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#discer_(agricultural_implement)> a skos:Concept ;
@@ -8571,14 +8602,14 @@
 
 <https://example.com/paash#discrimination> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Discrimination under specific racial or ethnic groups."@en ;
     skos:prefLabel "Discrimination"@en ;
+    skos:scopeNote "RT subdivision Discrimination under specific racial or ethnic groups."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#diseases> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific disease when possible."@en ;
     skos:prefLabel "Diseases"@en ;
+    skos:scopeNote "Use specific disease when possible."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dissection> a skos:Concept ;
@@ -8762,8 +8793,8 @@
 
 <https://example.com/paash#drinking_and_traffic_accidents> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Driving under the influence"@en ;
     skos:prefLabel "Drinking and traffic accidents"@en ;
+    skos:scopeNote "USE Driving under the influence"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#drinking_customs> a skos:Concept ;
@@ -8774,11 +8805,6 @@
 <https://example.com/paash#drive-in_theatres> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Drive-in theatres"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#drop-in_centres> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Drop-in centres"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#droughts> a skos:Concept ;
@@ -8809,8 +8835,8 @@
 
 <https://example.com/paash#drunk_driving> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Driving under the influence"@en ;
     skos:prefLabel "Drunk driving"@en ;
+    skos:scopeNote "USE Driving under the influence"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#drunkenness_(criminal_law)> a skos:Concept ;
@@ -9745,8 +9771,8 @@
 
 <https://example.com/paash#election_districts_(cities)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE subdivisions Wards under names of cities"@en ;
     skos:prefLabel "Election districts (Cities)"@en ;
+    skos:scopeNote "USE subdivisions Wards under names of cities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#election_districts_(federal)_--_census> a skos:Concept ;
@@ -9992,9 +10018,9 @@
 
 <https://example.com/paash#entertainment> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Amusements subdivision under names of communities"@en,
-        "USE specific form of entertainment"@en ;
     skos:prefLabel "Entertainment"@en ;
+    skos:scopeNote "USE Amusements subdivision under names of communities"@en,
+        "USE specific form of entertainment"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#entrepreneurship> a skos:Concept ;
@@ -10025,8 +10051,8 @@
 
 <https://example.com/paash#epidemics> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of specific diseases, e.g. Diphtheria"@en ;
     skos:prefLabel "Epidemics"@en ;
+    skos:scopeNote "RT names of specific diseases, e.g. Diphtheria"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#epidemiology> a skos:Concept ;
@@ -10076,19 +10102,25 @@
 
 <https://example.com/paash#european_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use specific country, e.g. German Canadians"@en ;
     skos:prefLabel "European Canadians"@en ;
+    skos:scopeNote "When possible use specific country, e.g. German Canadians"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#europeans> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use specific country, e.g. Germans"@en ;
     skos:prefLabel "Europeans"@en ;
+    skos:scopeNote "When possible use specific country, e.g. Germans"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#euthanasia> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Euthanasia"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#evangelists> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Evangelists"@en ;
+    skos:scopeNote "USE Missionaries subdivision under specific religion or sect"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#executive_advisory_bodies> a skos:Concept ;
@@ -10118,9 +10150,9 @@
         "Fairs"@en,
         "Trade fairs"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of exhibitions"@en,
-        "RT subdivisions Exhibitions under names of countries, communities, etc."@en ;
     skos:prefLabel "Exhibitions"@en ;
+    skos:scopeNote "RT names of exhibitions"@en,
+        "RT subdivisions Exhibitions under names of countries, communities, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#explorers> a skos:Concept ;
@@ -10419,8 +10451,8 @@
 
 <https://example.com/paash#fire_prevention> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Fires and fire prevention under communities"@en ;
     skos:prefLabel "Fire prevention"@en ;
+    skos:scopeNote "RT subdivision Fires and fire prevention under communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#fire_stations> a skos:Concept ;
@@ -10665,8 +10697,8 @@
 <https://example.com/paash#first_nations_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#first_nations> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "First Nations -- Languages"@en .
+    skos:prefLabel "First Nations -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#first_nations_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#first_nations> ;
@@ -10890,8 +10922,8 @@
 
 <https://example.com/paash#floods> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods"@en ;
     skos:prefLabel "Floods"@en ;
+    skos:scopeNote "RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#flour> a skos:Concept ;
@@ -11087,6 +11119,12 @@
     skos:prefLabel "Franchises (Retail trade)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#fraternal_benefit_societies> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Fraternal benefit societies"@en ;
+    skos:scopeNote "USE Names of particular clubs"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#fraud> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Fraud"@en ;
@@ -11145,8 +11183,8 @@
 
 <https://example.com/paash#french_canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for recent immigrants to Canada from France."@en ;
     skos:prefLabel "French Canadians"@en ;
+    skos:scopeNote "Use for recent immigrants to Canada from France."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#french_language> a skos:Concept ;
@@ -11182,8 +11220,8 @@
 
 <https://example.com/paash#funeral_homes> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Undertakers and undertaking"@en ;
     skos:prefLabel "Funeral homes"@en ;
+    skos:scopeNote "USE Undertakers and undertaking"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#fungiculture> a skos:Concept ;
@@ -11230,8 +11268,8 @@
 
 <https://example.com/paash#game_and_game_birds> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc."@en ;
     skos:prefLabel "Game and game birds"@en ;
+    skos:scopeNote "RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#game_farms> a skos:Concept ;
@@ -11251,8 +11289,8 @@
 
 <https://example.com/paash#game_preserves> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use Game reserves"@en ;
     skos:prefLabel "Game preserves"@en ;
+    skos:scopeNote "Use Game reserves"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#game_wardens> a skos:Concept ;
@@ -11542,16 +11580,28 @@
     skos:prefLabel "Government advertising"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#government_departments> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Government departments"@en ;
+    skos:scopeNote "USE [name of department], Department of (e.g., Agriculture, Department of)"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#government_departments_(federal)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Canada. Department of [     ]"@en ;
     skos:prefLabel "Government departments (Federal)"@en ;
+    skos:scopeNote "USE Canada. Department of [     ]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#government_departments_(other_provinces)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE e.g., Saskatchewan. Department of [     ]"@en ;
     skos:prefLabel "Government departments (Other provinces)"@en ;
+    skos:scopeNote "USE e.g., Saskatchewan. Department of [     ]"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#government_employees> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Government employees"@en ;
+    skos:scopeNote "RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#government_information> a skos:Concept ;
@@ -11589,8 +11639,8 @@
     skos:altLabel "Commissions (of inquiry)"@en,
         "Inquiries"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use Royal Commission title when appropriate."@en ;
     skos:prefLabel "Governmental investigations"@en ;
+    skos:scopeNote "Use Royal Commission title when appropriate."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#governors_general> a skos:Concept ;
@@ -11849,8 +11899,8 @@
 
 <https://example.com/paash#halls> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Auditoriums, convention facilities, etc. under names of communities"@en ;
     skos:prefLabel "Halls"@en ;
+    skos:scopeNote "RT subdivision Auditoriums, convention facilities, etc. under names of communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#handball> a skos:Concept ;
@@ -12054,14 +12104,14 @@
 
 <https://example.com/paash#high_schools,_private> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Schools under names of communities."@en ;
     skos:prefLabel "High schools, private"@en ;
+    skos:scopeNote "RT subdivision Schools under names of communities."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#high_schools,_public> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Schools under names of communities."@en ;
     skos:prefLabel "High schools, public"@en ;
+    skos:scopeNote "RT subdivision Schools under names of communities."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#high_technology_industries> a skos:Concept ;
@@ -12156,8 +12206,8 @@
 
 <https://example.com/paash#holidays> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific headings whenever possible, e.g., Thanksgiving Day, Christmas, etc."@en ;
     skos:prefLabel "Holidays"@en ;
+    skos:scopeNote "Use specific headings whenever possible, e.g., Thanksgiving Day, Christmas, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#holocaust,_1941-1945_--_memorials> a skos:Concept ;
@@ -12506,8 +12556,8 @@
 
 <https://example.com/paash#hymns> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE as NT under specific denomination"@en ;
     skos:prefLabel "Hymns"@en ;
+    skos:scopeNote "USE as NT under specific denomination"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#hypnotism> a skos:Concept ;
@@ -12838,8 +12888,8 @@
 <https://example.com/paash#indigenous_peoples_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#indigenous_peoples> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language, e.g., Cree language"@en ;
-    skos:prefLabel "Indigenous peoples -- Languages"@en .
+    skos:prefLabel "Indigenous peoples -- Languages"@en ;
+    skos:scopeNote "RT name of language, e.g., Cree language"@en .
 
 <https://example.com/paash#indigenous_peoples_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#indigenous_peoples> ;
@@ -13519,8 +13569,8 @@
 <https://example.com/paash#inuit_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#inuit> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Inuit -- Languages"@en .
+    skos:prefLabel "Inuit -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#inuit_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#inuit> ;
@@ -13700,8 +13750,8 @@
 
 <https://example.com/paash#investments,_foreign> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific name of country where possible."@en ;
     skos:prefLabel "Investments, Foreign"@en ;
+    skos:scopeNote "Use specific name of country where possible."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#iranian_canadians> a skos:Concept ;
@@ -13984,8 +14034,8 @@
 <https://example.com/paash#judicial_districts> a skos:Concept ;
     skos:altLabel "Districts"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For names of particular districts use the following format: Lethbridge, Judicial District of"@en ;
     skos:prefLabel "Judicial districts"@en ;
+    skos:scopeNote "For names of particular districts use the following format: Lethbridge, Judicial District of"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#judicial_statistics> a skos:Concept ;
@@ -14226,8 +14276,8 @@
 <https://example.com/paash#kainai_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#kainai_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Kainai Nation -- Languages"@en .
+    skos:prefLabel "Kainai Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#kainai_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#kainai_nation> ;
@@ -14680,8 +14730,8 @@
 <https://example.com/paash#kutenai_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#kutenai_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Kutenai Nation -- Languages"@en .
+    skos:prefLabel "Kutenai Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#kutenai_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#kutenai_nation> ;
@@ -14841,8 +14891,8 @@
 
 <https://example.com/paash#laboratories> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
     skos:prefLabel "Laboratories"@en ;
+    skos:scopeNote "RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#laboratory_animals> a skos:Concept ;
@@ -15175,8 +15225,8 @@
     skos:altLabel "Committees of the Legislature"@en ;
     skos:broader <https://example.com/paash#legislative_assembly> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Name of specific committee (AACRII rule 24.21B)"@en ;
-    skos:prefLabel "Legislative Assembly -- Committees"@en .
+    skos:prefLabel "Legislative Assembly -- Committees"@en ;
+    skos:scopeNote "RT Name of specific committee (AACRII rule 24.21B)"@en .
 
 <https://example.com/paash#legislative_assembly_--_membership> a skos:Concept ;
     skos:broader <https://example.com/paash#legislative_assembly> ;
@@ -15297,8 +15347,8 @@
 
 <https://example.com/paash#lieutenant-governors> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "NT Alberta [Saskatchewan, Ontario, etc.]"@en ;
     skos:prefLabel "Lieutenant-Governors"@en ;
+    skos:scopeNote "NT Alberta [Saskatchewan, Ontario, etc.]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#life-saving> a skos:Concept ;
@@ -15413,8 +15463,8 @@
 
 <https://example.com/paash#livestock_breeds> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc."@en ;
     skos:prefLabel "Livestock breeds"@en ;
+    skos:scopeNote "RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#livestock_exhibitions> a skos:Concept ;
@@ -15563,8 +15613,8 @@
 
 <https://example.com/paash#lunar_eclipses> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Subdivided by date, e.g. Lunar Eclipses -- 1866"@en ;
     skos:prefLabel "Lunar Eclipses"@en ;
+    skos:scopeNote "Subdivided by date, e.g. Lunar Eclipses -- 1866"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#lutheran_church_--_buildings> a skos:Concept ;
@@ -15766,8 +15816,8 @@
 
 <https://example.com/paash#mayors> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Mayors under names of communities"@en ;
     skos:prefLabel "Mayors"@en ;
+    skos:scopeNote "RT subdivision Mayors under names of communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#meat_--_preparation> a skos:Concept ;
@@ -16224,20 +16274,20 @@
 
 <https://example.com/paash#ministerial_orders> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of"@en ;
     skos:prefLabel "Ministerial Orders"@en ;
+    skos:scopeNote "May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#ministerial_papers> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE [Name of Department], Minister of, e.g., Agriculture, Minister of"@en ;
     skos:prefLabel "Ministerial papers"@en ;
+    skos:scopeNote "USE [Name of Department], Minister of, e.g., Agriculture, Minister of"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#ministers_of_religion> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Clergy subdivision under specific denomination"@en ;
     skos:prefLabel "Ministers of Religion"@en ;
+    skos:scopeNote "USE Clergy subdivision under specific denomination"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#mink_farming> a skos:Concept ;
@@ -16254,8 +16304,8 @@
 
 <https://example.com/paash#mints> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for coin-making enterprises"@en ;
     skos:prefLabel "Mints"@en ;
+    skos:scopeNote "Use for coin-making enterprises"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#missing_persons> a skos:Concept ;
@@ -16271,8 +16321,8 @@
 
 <https://example.com/paash#missions_and_missionaries> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible, use specific denomination."@en ;
     skos:prefLabel "Missions and missionaries"@en ;
+    skos:scopeNote "When possible, use specific denomination."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#mobile_home_industry> a skos:Concept ;
@@ -16475,6 +16525,13 @@
 <https://example.com/paash#mountains> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Mountains"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#moving_and_storage> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Moving and storage"@en ;
+    skos:scopeNote "Moving of buildings, bridges, etc."@en,
+        "Moving, Household"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#multiculturalism> a skos:Concept ;
@@ -16804,8 +16861,8 @@
 <https://example.com/paash#métis_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#métis_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Métis Nation -- Languages"@en .
+    skos:prefLabel "Métis Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#métis_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#métis_nation> ;
@@ -17178,8 +17235,8 @@
 <https://example.com/paash#nakawe_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#nakawe_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Nakawe Nation -- Languages"@en .
+    skos:prefLabel "Nakawe Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#nakawe_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#nakawe_nation> ;
@@ -17542,8 +17599,8 @@
 <https://example.com/paash#nakoda_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#nakoda_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Nakoda Nation -- Languages"@en .
+    skos:prefLabel "Nakoda Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#nakoda_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#nakoda_nation> ;
@@ -18065,8 +18122,8 @@
 <https://example.com/paash#niitsitapi_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#niitsitapi> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Niitsitapi -- Languages"@en .
+    skos:prefLabel "Niitsitapi -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#niitsitapi_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#niitsitapi> ;
@@ -18312,8 +18369,8 @@
 
 <https://example.com/paash#northwest_territories> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905"@en ;
     skos:prefLabel "Northwest Territories"@en ;
+    skos:scopeNote "Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#notaries> a skos:Concept ;
@@ -18358,8 +18415,8 @@
 
 <https://example.com/paash#nuns> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "When possible use specific sect or religion, e.g. Catholic Church -- Nuns"@en ;
     skos:prefLabel "Nuns"@en ;
+    skos:scopeNote "When possible use specific sect or religion, e.g. Catholic Church -- Nuns"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#nurseries> a skos:Concept ;
@@ -18765,8 +18822,8 @@
 <https://example.com/paash#ojibwa_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#ojibwa_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Ojibwa Nation -- Languages"@en .
+    skos:prefLabel "Ojibwa Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#ojibwa_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#ojibwa_nation> ;
@@ -18936,8 +18993,8 @@
 
 <https://example.com/paash#olympics> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)"@en ;
     skos:prefLabel "Olympics"@en ;
+    skos:scopeNote "RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#ombudsman> a skos:Concept ;
@@ -18992,8 +19049,8 @@
 
 <https://example.com/paash#orchestra> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Orchestras and bands under names of colleges and universities, communities, etc."@en ;
     skos:prefLabel "Orchestra"@en ;
+    skos:scopeNote "RT subdivision Orchestras and bands under names of colleges and universities, communities, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#orders_in_council> a skos:Concept ;
@@ -19257,8 +19314,8 @@
 
 <https://example.com/paash#partition,_territorial> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for division of the North-West Territories into provinces."@en ;
     skos:prefLabel "Partition, Territorial"@en ;
+    skos:scopeNote "Use for division of the North-West Territories into provinces."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#partnership> a skos:Concept ;
@@ -19645,8 +19702,8 @@
 
 <https://example.com/paash#physics> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use only for the discipline of physics as taught in schools and universities."@en ;
     skos:prefLabel "Physics"@en ;
+    skos:scopeNote "Use only for the discipline of physics as taught in schools and universities."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#piano> a skos:Concept ;
@@ -19879,8 +19936,8 @@
 <https://example.com/paash#piikani_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#piikani_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Piikani Nation -- Languages"@en .
+    skos:prefLabel "Piikani Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#piikani_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#piikani_nation> ;
@@ -20050,8 +20107,8 @@
 
 <https://example.com/paash#pilots_and_pilotage> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Refers only to navigation on water"@en ;
     skos:prefLabel "Pilots and pilotage"@en ;
+    skos:scopeNote "Refers only to navigation on water"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#pinball_machines> a skos:Concept ;
@@ -21421,8 +21478,8 @@
 
 <https://example.com/paash#religion> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use specific denominations when possible."@en ;
     skos:prefLabel "Religion"@en ;
+    skos:scopeNote "Use specific denominations when possible."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#religious_education> a skos:Concept ;
@@ -22699,8 +22756,8 @@
 <https://example.com/paash#siksika_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#siksika_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Siksika Nation -- Languages"@en .
+    skos:prefLabel "Siksika Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#siksika_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#siksika_nation> ;
@@ -23099,8 +23156,8 @@
 <https://example.com/paash#sioux_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#sioux_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Sioux Nation -- Languages"@en .
+    skos:prefLabel "Sioux Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#sioux_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#sioux_nation> ;
@@ -23606,8 +23663,8 @@
     skos:altLabel "Arenas"@en,
         "Stadiums"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Sports facilities under names of communities."@en ;
     skos:prefLabel "Sports facilities"@en ;
+    skos:scopeNote "RT subdivision Sports facilities under names of communities."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#sports_uniforms> a skos:Concept ;
@@ -23637,6 +23694,12 @@
     skos:prefLabel "Stables"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#stadiums> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Stadiums"@en ;
+    skos:scopeNote "RT subdivision Sports facilities under names of communities."@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#staircases> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Staircases"@en ;
@@ -23664,8 +23727,8 @@
 
 <https://example.com/paash#statutes> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE Legislation (Name of Act as titled in Statutes of Alberta)"@en ;
     skos:prefLabel "Statutes"@en ;
+    skos:scopeNote "USE Legislation (Name of Act as titled in Statutes of Alberta)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#steam_engines> a skos:Concept ;
@@ -24178,8 +24241,8 @@
 
 <https://example.com/paash#synagogues> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Synagogues under names of communities"@en ;
     skos:prefLabel "Synagogues"@en ;
+    skos:scopeNote "RT subdivision Synagogues under names of communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#syrian_canadians> a skos:Concept ;
@@ -24234,8 +24297,8 @@
 
 <https://example.com/paash#tanks> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for armoured military vehicle."@en ;
     skos:prefLabel "Tanks"@en ;
+    skos:scopeNote "Use for armoured military vehicle."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#tanning> a skos:Concept ;
@@ -24902,8 +24965,8 @@
 
 <https://example.com/paash#tribes> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE name of specific Nation or Band"@en ;
     skos:prefLabel "Tribes"@en ;
+    skos:scopeNote "USE name of specific Nation or Band"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#tricycles> a skos:Concept ;
@@ -25163,8 +25226,8 @@
 <https://example.com/paash#tsuu_t'ina_nation_--_languages> a skos:Concept ;
     skos:broader <https://example.com/paash#tsuu_t'ina_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT name of language"@en ;
-    skos:prefLabel "Tsuu T'ina Nation -- Languages"@en .
+    skos:prefLabel "Tsuu T'ina Nation -- Languages"@en ;
+    skos:scopeNote "RT name of language"@en .
 
 <https://example.com/paash#tsuu_t'ina_nation_--_legal_status,_laws,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#tsuu_t'ina_nation> ;
@@ -25936,6 +25999,12 @@
     skos:prefLabel "Vocational centres"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#vocational_colleges> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Vocational colleges"@en ;
+    skos:scopeNote "RT names of particular institutions"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#vocational_rehabilitation> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Vocational rehabilitation"@en ;
@@ -26036,9 +26105,9 @@
 <https://example.com/paash#waste_products> a skos:Concept ;
     skos:altLabel "Waste Disposal"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products"@en,
-        "RT subdivision Waste disposal under plants, industries, etc.,"@en ;
     skos:prefLabel "Waste products"@en ;
+    skos:scopeNote "RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products"@en,
+        "RT subdivision Waste disposal under plants, industries, etc.,"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#water_--_conservation> a skos:Concept ;
@@ -26199,6 +26268,18 @@
     skos:prefLabel "Welsh Canadians"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#west_indian_canadians> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "West Indian Canadians"@en ;
+    skos:scopeNote "Use specific nation when possible."@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#west_indians> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "West Indians"@en ;
+    skos:scopeNote "Use specific nation when possible."@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#western_canada_concept_--_conventions> a skos:Concept ;
     skos:broader <https://example.com/paash#western_canada_concept> ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -26285,8 +26366,8 @@
 
 <https://example.com/paash#wheels> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels"@en ;
     skos:prefLabel "Wheels"@en ;
+    skos:scopeNote "RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#wholesale_trade> a skos:Concept ;
@@ -26719,9 +26800,9 @@
 
 <https://example.com/paash#armistice_day> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for commemoration of the end of the First World War on 11 November from 1918 to 1930."@en ;
     skos:prefLabel "Armistice Day"@en ;
     skos:related <https://example.com/paash#remembrance_day> ;
+    skos:scopeNote "Use for commemoration of the end of the First World War on 11 November from 1918 to 1930."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#assiniboine_nation_--_hunting> a skos:Concept ;
@@ -26738,9 +26819,9 @@
 
 <https://example.com/paash#associations,_institutions,_etc.> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT specific names of associations."@en ;
     skos:prefLabel "Associations, institutions, etc."@en ;
     skos:related <https://example.com/paash#clubs> ;
+    skos:scopeNote "RT specific names of associations."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#avalanches> a skos:Concept ;
@@ -26776,8 +26857,8 @@
 <https://example.com/paash#berries> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#berries_--_harvesting> ;
-    skos:note "RT names of particular berries"@en ;
     skos:prefLabel "Berries"@en ;
+    skos:scopeNote "RT names of particular berries"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#biculturalism> a skos:Concept ;
@@ -26795,9 +26876,9 @@
 <https://example.com/paash#birth_control> a skos:Concept ;
     skos:altLabel "Family planning"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "NT Religious aspects [Baptist Church, Catholic Church, etc.]"@en ;
     skos:prefLabel "Birth control"@en ;
     skos:related <https://example.com/paash#contraception> ;
+    skos:scopeNote "NT Religious aspects [Baptist Church, Catholic Church, etc.]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#biscuits> a skos:Concept ;
@@ -26833,9 +26914,9 @@
 
 <https://example.com/paash#budget> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Appropriations and expenditures under names of governmental jurisdictions, associations, etc."@en ;
     skos:prefLabel "Budget"@en ;
     skos:related <https://example.com/paash#government_spending_policy> ;
+    skos:scopeNote "RT Appropriations and expenditures under names of governmental jurisdictions, associations, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#bulldozers> a skos:Concept ;
@@ -27122,10 +27203,10 @@
 
 <https://example.com/paash#counties> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For names of particular counties use the following format:  Parkland, County of"@en,
-        "Municipal Affairs, Department of"@en ;
     skos:prefLabel "Counties"@en ;
     skos:related <https://example.com/paash#local_government> ;
+    skos:scopeNote "For names of particular counties use the following format:  Parkland, County of"@en,
+        "Municipal Affairs, Department of"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cranes,_derricks,_etc.> a skos:Concept ;
@@ -27155,9 +27236,9 @@
 
 <https://example.com/paash#cremation> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Undertakers and undertaking"@en ;
     skos:prefLabel "Cremation"@en ;
     skos:related <https://example.com/paash#funeral_rites_and_ceremonies> ;
+    skos:scopeNote "RT Undertakers and undertaking"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cribs_(children's_furniture)> a skos:Concept ;
@@ -27351,16 +27432,16 @@
         "Ridings"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#election_districts_(federal)_--_census> ;
-    skos:note "For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)"@en ;
     skos:prefLabel "Election districts (Federal)"@en ;
+    skos:scopeNote "For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#election_districts_(provincial)> a skos:Concept ;
     skos:altLabel "Districts"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#election_districts_(provincial)_--_census> ;
-    skos:note "For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)"@en ;
     skos:prefLabel "Election districts (Provincial)"@en ;
+    skos:scopeNote "For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#elections> a skos:Concept ;
@@ -27423,9 +27504,9 @@
 
 <https://example.com/paash#engineers> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For railway engineers USE Locomotive engineers"@en ;
     skos:prefLabel "Engineers"@en ;
     skos:related <https://example.com/paash#steam_engineers> ;
+    skos:scopeNote "For railway engineers USE Locomotive engineers"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#english_language> a skos:Concept ;
@@ -27462,16 +27543,16 @@
     skos:altLabel "Government expenditures"@en,
         "Public expenditures"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Appropriations and expenditures under names of communities."@en ;
     skos:prefLabel "Expenditures, Public"@en ;
     skos:related <https://example.com/paash#government_spending_policy> ;
+    skos:scopeNote "RT subdivision Appropriations and expenditures under names of communities."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#export_marketing> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Marketing subdivision under types of commodities or products"@en ;
     skos:prefLabel "Export marketing"@en ;
     skos:related <https://example.com/paash#marketing> ;
+    skos:scopeNote "RT Marketing subdivision under types of commodities or products"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#farm_equipment> a skos:Concept ;
@@ -27495,8 +27576,8 @@
 <https://example.com/paash#ferries> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#ferries_--_employees> ;
-    skos:note "RT subdivision Ferries under names of communities"@en ;
     skos:prefLabel "Ferries"@en ;
+    skos:scopeNote "RT subdivision Ferries under names of communities"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#figure_skating> a skos:Concept ;
@@ -27595,9 +27676,9 @@
 
 <https://example.com/paash#french-canadians> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for Canadians descended from French colonial settlers."@en ;
     skos:prefLabel "French-Canadians"@en ;
     skos:related <https://example.com/paash#franco-albertans> ;
+    skos:scopeNote "Use for Canadians descended from French colonial settlers."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#fur> a skos:Concept ;
@@ -27853,9 +27934,9 @@
 
 <https://example.com/paash#honourary_degrees> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "USE [name of university] -- Degrees (Honourary)"@en ;
     skos:prefLabel "Honourary degrees"@en ;
     skos:related <https://example.com/paash#degrees,_academic> ;
+    skos:scopeNote "USE [name of university] -- Degrees (Honourary)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#horse-racing> a skos:Concept ;
@@ -28104,6 +28185,13 @@
     skos:prefLabel "Legislative bodies"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#liquor_traffic> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Liquor traffic"@en ;
+    skos:related <https://example.com/paash#alcohol> ;
+    skos:scopeNote "For general works on the liquor industry"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#literature> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Literature"@en ;
@@ -28304,9 +28392,9 @@
 
 <https://example.com/paash#numbered_treaties> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT specific treaties"@en ;
     skos:prefLabel "Numbered treaties"@en ;
     skos:related <https://example.com/paash#treaties> ;
+    skos:scopeNote "RT specific treaties"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#numismatics> a skos:Concept ;
@@ -28553,9 +28641,9 @@
 <https://example.com/paash#prostitution> a skos:Concept ;
     skos:altLabel "Brothels"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for criminal charge."@en ;
     skos:prefLabel "Prostitution"@en ;
     skos:related <https://example.com/paash#sex_work_and_sex_workers> ;
+    skos:scopeNote "Use for criminal charge."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#protestant_reformation> a skos:Concept ;
@@ -28649,9 +28737,9 @@
 
 <https://example.com/paash#remembrance_day> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "Use for commemoration of the end of the First World War on 11 November from 1931 to present."@en ;
     skos:prefLabel "Remembrance Day"@en ;
     skos:related <https://example.com/paash#armistice_day> ;
+    skos:scopeNote "Use for commemoration of the end of the First World War on 11 November from 1931 to present."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#renewable_energy_--_solar> a skos:Concept ;
@@ -28825,9 +28913,9 @@
 
 <https://example.com/paash#speeches,_addresses,_etc.> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT subdivision Addresses, essays, lectures, with names of organizations or persons."@en ;
     skos:prefLabel "Speeches, addresses, etc."@en ;
     skos:related <https://example.com/paash#speech_from_the_throne> ;
+    skos:scopeNote "RT subdivision Addresses, essays, lectures, with names of organizations or persons."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#steam_engineers> a skos:Concept ;
@@ -29226,9 +29314,9 @@
 <https://example.com/paash#animals> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#animals_--_diseases> ;
-    skos:note "RT subdivision Diseases under individual animals and groups of animals"@en ;
     skos:prefLabel "Animals"@en ;
     skos:related <https://example.com/paash#veterinary_medicine> ;
+    skos:scopeNote "RT subdivision Diseases under individual animals and groups of animals"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#antisemitism> a skos:Concept ;
@@ -29388,8 +29476,8 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#civil_service_--_alberta>,
         <https://example.com/paash#civil_service_--_canada> ;
-    skos:note "For specific departments USE [Name of department] -- Officials and employees"@en ;
     skos:prefLabel "Civil service"@en ;
+    skos:scopeNote "For specific departments USE [Name of department] -- Officials and employees"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#clothing_and_dress> a skos:Concept ;
@@ -29538,11 +29626,11 @@
 
 <https://example.com/paash#football> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT names of leagues and teams"@en,
-        "RT subdivision Football under names of schools, colleges, etc."@en ;
     skos:prefLabel "Football"@en ;
     skos:related <https://example.com/paash#football,_american>,
         <https://example.com/paash#rugby_football> ;
+    skos:scopeNote "RT names of leagues and teams"@en,
+        "RT subdivision Football under names of schools, colleges, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#forest_reserves> a skos:Concept ;
@@ -29678,9 +29766,9 @@
     skos:altLabel "Acts, Government"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#legislation_--_repeal> ;
-    skos:note "RT Legislation (Name of Act as titled in the Statutes of Alberta)"@en ;
     skos:prefLabel "Legislation"@en ;
     skos:related <https://example.com/paash#legislative_assembly_--_bills> ;
+    skos:scopeNote "RT Legislation (Name of Act as titled in the Statutes of Alberta)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#liturgical_objects> a skos:Concept ;
@@ -29696,10 +29784,10 @@
 <https://example.com/paash#local_improvement_districts> a skos:Concept ;
     skos:altLabel "Districts"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For names of particular L.I.D.s, use the following format: Local Improvement District No.  1"@en ;
     skos:prefLabel "Local Improvement Districts"@en ;
     skos:related <https://example.com/paash#local_government>,
         <https://example.com/paash#municipal_affairs,_department_of> ;
+    skos:scopeNote "For names of particular L.I.D.s, use the following format: Local Improvement District No.  1"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#long-term_care_facilities> a skos:Concept ;
@@ -29742,10 +29830,10 @@
 <https://example.com/paash#municipal_districts> a skos:Concept ;
     skos:altLabel "Districts"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81"@en ;
     skos:prefLabel "Municipal Districts"@en ;
     skos:related <https://example.com/paash#local_government>,
         <https://example.com/paash#municipal_affairs,_department_of> ;
+    skos:scopeNote "For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#municipal_government> a skos:Concept ;
@@ -29871,11 +29959,11 @@
 
 <https://example.com/paash#residential_schools> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Residential schools NT under Indigenous peoples"@en,
-        "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
     skos:prefLabel "Residential schools"@en ;
     skos:related <https://example.com/paash#anglican_church_of_canada_--_residential_schools>,
         <https://example.com/paash#truth_and_reconciliation_commission> ;
+    skos:scopeNote "RT Residential schools NT under Indigenous peoples"@en,
+        "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#right_of_entry_arbitration> a skos:Concept ;
@@ -29923,8 +30011,8 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#ships_--_cargo>,
         <https://example.com/paash#ships_--_passenger_lists> ;
-    skos:note "For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)"@en ;
     skos:prefLabel "Ships"@en ;
+    skos:scopeNote "For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#soldiers> a skos:Concept ;
@@ -29993,11 +30081,11 @@
 
 <https://example.com/paash#truth_and_reconciliation_commission> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:note "RT Residential schools NT under Indigenous peoples"@en,
-        "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
     skos:prefLabel "Truth and Reconciliation Commission"@en ;
     skos:related <https://example.com/paash#anglican_church_of_canada_--_residential_schools>,
         <https://example.com/paash#residential_schools> ;
+    skos:scopeNote "RT Residential schools NT under Indigenous peoples"@en,
+        "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#ukrainians> a skos:Concept ;
@@ -30089,9 +30177,9 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#accidents_--_investigation>,
         <https://example.com/paash#accidents_--_prevention> ;
-    skos:note "RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents"@en ;
     skos:prefLabel "Accidents"@en ;
     skos:related <https://example.com/paash#traffic_accidents> ;
+    skos:scopeNote "RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#agriculture_--_colonies> a skos:Concept ;
@@ -30106,9 +30194,9 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#airlines_--_cargo>,
         <https://example.com/paash#airlines_--_passenger> ;
-    skos:note "RT names of airlines"@en ;
     skos:prefLabel "Airlines"@en ;
     skos:related <https://example.com/paash#flight_attendants> ;
+    skos:scopeNote "RT names of airlines"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#buildings> a skos:Concept ;
@@ -30116,9 +30204,9 @@
     skos:narrower <https://example.com/paash#buildings_--_conservation_and_restoration>,
         <https://example.com/paash#buildings_--_prefabricated>,
         <https://example.com/paash#buildings_--_wooden> ;
-    skos:note "RT names of particular types of buildings, e.g., Archive buildings"@en,
-        "RT subdivision Buildings under names of communities and institutions."@en ;
     skos:prefLabel "Buildings"@en ;
+    skos:scopeNote "RT names of particular types of buildings, e.g., Archive buildings"@en,
+        "RT subdivision Buildings under names of communities and institutions."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada,_western_--_autonomy_and_independence_movement> a skos:Concept ;
@@ -30210,8 +30298,8 @@
     skos:narrower <https://example.com/paash#food_--_additives>,
         <https://example.com/paash#food_--_law_and_legislation>,
         <https://example.com/paash#food_--_safety> ;
-    skos:note "RT subdivision Food under subjects, e.g., Birds -- Foods,"@en ;
     skos:prefLabel "Food"@en ;
+    skos:scopeNote "RT subdivision Food under subjects, e.g., Birds -- Foods,"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#forest_rangers> a skos:Concept ;
@@ -30382,10 +30470,10 @@
 <https://example.com/paash#pests> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#pests_--_control> ;
-    skos:note "RT specific types of pests, e.g. Rats"@en ;
     skos:prefLabel "Pests"@en ;
     skos:related <https://example.com/paash#insects_--_control>,
         <https://example.com/paash#pesticides> ;
+    skos:scopeNote "RT specific types of pests, e.g. Rats"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#physicians> a skos:Concept ;
@@ -30453,16 +30541,6 @@
         <https://example.com/paash#airports_--_buildings>,
         <https://example.com/paash#airports_--_runways> ;
     skos:prefLabel "Airports"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#alcohol> a skos:Concept ;
-    skos:altLabel "Liquor"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#alcohol_--_industry>,
-        <https://example.com/paash#alcohol_--_law_and_legislation>,
-        <https://example.com/paash#alcohol_--_laws_and_legislation>,
-        <https://example.com/paash#alcohol_--_taxation> ;
-    skos:prefLabel "Alcohol"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#aviation> a skos:Concept ;
@@ -30609,8 +30687,8 @@
         <https://example.com/paash#orthodox_catholic_church_--_clergy>,
         <https://example.com/paash#orthodox_catholic_church_--_education>,
         <https://example.com/paash#orthodox_catholic_church_--_rites_and_ceremonies> ;
-    skos:note "USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches"@en ;
     skos:prefLabel "Orthodox Catholic Church"@en ;
+    skos:scopeNote "USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#pavement> a skos:Concept ;
@@ -30619,9 +30697,9 @@
     skos:narrower <https://example.com/paash#pavement_--_equipment_and_machinery>,
         <https://example.com/paash#pavement_--_frost_damage>,
         <https://example.com/paash#pavement_--_maintenance_and_repair> ;
-    skos:note "NT Contracts and specifications"@en ;
     skos:prefLabel "Pavement"@en ;
     skos:related <https://example.com/paash#concrete> ;
+    skos:scopeNote "NT Contracts and specifications"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#petroleum_industry_and_trade> a skos:Concept ;
@@ -30731,9 +30809,9 @@
         <https://example.com/paash#agriculture,_department_of_--_officials_and_employees>,
         <https://example.com/paash#agriculture,_department_of_--_portraits,_etc.>,
         <https://example.com/paash#agriculture,_department_of_--_reorganization> ;
-    skos:note "RT names of Boards, Corporations, etc., e.g., Hail and Crop"@en,
-        "RT names of Divisions and Branches, e.g., Agriculture, Department of.  Home Economics Branch."@en ;
     skos:prefLabel "Agriculture, Department of"@en ;
+    skos:scopeNote "RT names of Boards, Corporations, etc., e.g., Hail and Crop"@en,
+        "RT names of Divisions and Branches, e.g., Agriculture, Department of.  Home Economics Branch."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#aircraft> a skos:Concept ;
@@ -30754,8 +30832,8 @@
         <https://example.com/paash#alberta_--_political_parties_--_finance>,
         <https://example.com/paash#alberta_--_political_parties_--_history>,
         <https://example.com/paash#alberta_--_political_parties_--_membership> ;
-    skos:note "Use name of specific party when known"@en ;
-    skos:prefLabel "Alberta -- Political parties"@en .
+    skos:prefLabel "Alberta -- Political parties"@en ;
+    skos:scopeNote "Use name of specific party when known"@en .
 
 <https://example.com/paash#alberta_advantage_party> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -30827,6 +30905,17 @@
     skos:prefLabel "Alberta Social Credit Party"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#alcohol> a skos:Concept ;
+    skos:altLabel "Liquor"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#alcohol_--_industry>,
+        <https://example.com/paash#alcohol_--_law_and_legislation>,
+        <https://example.com/paash#alcohol_--_laws_and_legislation>,
+        <https://example.com/paash#alcohol_--_taxation> ;
+    skos:prefLabel "Alcohol"@en ;
+    skos:related <https://example.com/paash#liquor_traffic> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#art> a skos:Concept ;
     skos:altLabel "Visual arts"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -30835,8 +30924,8 @@
         <https://example.com/paash#art_--_galleries>,
         <https://example.com/paash#art_--_private_collections>,
         <https://example.com/paash#art_--_studios> ;
-    skos:note "Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc."@en ;
     skos:prefLabel "Art"@en ;
+    skos:scopeNote "Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#birds> a skos:Concept ;
@@ -31156,9 +31245,9 @@
         <https://example.com/paash#bridges_--_iron_and_steel>,
         <https://example.com/paash#bridges_--_stone>,
         <https://example.com/paash#bridges_--_wooden> ;
-    skos:note "RT names of individual bridges"@en,
-        "RT subdivision Bridges under names of rivers, communities, etc."@en ;
     skos:prefLabel "Bridges"@en ;
+    skos:scopeNote "RT names of individual bridges"@en,
+        "RT subdivision Bridges under names of rivers, communities, etc."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#irrigation> a skos:Concept ;
@@ -31605,8 +31694,8 @@
         <https://example.com/paash#canada_--_government_publications>,
         <https://example.com/paash#canada_--_history>,
         <https://example.com/paash#canada_--_population> ;
-    skos:note "NT Commerce--[United States, etc.]"@en ;
     skos:prefLabel "Canada"@en ;
+    skos:scopeNote "NT Commerce--[United States, etc.]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#lutheran_church> a skos:Concept ;
@@ -31680,9 +31769,9 @@
         <https://example.com/paash#alberta_--_political_parties>,
         <https://example.com/paash#alberta_--_politics_and_government>,
         <https://example.com/paash#alberta_--_study_and_teaching_(internship)> ;
-    skos:note "NT Relations (General) with [Name of foreign country]"@en,
-        "NT Relations (Military) with [Name of foreign country]"@en ;
     skos:prefLabel "Alberta"@en ;
+    skos:scopeNote "NT Relations (General) with [Name of foreign country]"@en,
+        "NT Relations (Military) with [Name of foreign country]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#hospitals> a skos:Concept ;
@@ -31905,8 +31994,8 @@
         <https://example.com/paash#athabasca_university_--_student_unions>,
         <https://example.com/paash#athabasca_university_--_students>,
         <https://example.com/paash#athabasca_university_--_taxation> ;
-    skos:note "NT [Academic department names]"@en ;
     skos:prefLabel "Athabasca University"@en ;
+    skos:scopeNote "NT [Academic department names]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#buffalo_jump> a skos:Concept ;
@@ -31958,8 +32047,8 @@
         <https://example.com/paash#university_of_alberta_--_student_unions>,
         <https://example.com/paash#university_of_alberta_--_students>,
         <https://example.com/paash#university_of_alberta_--_taxation> ;
-    skos:note "NT [Academic department names]"@en ;
     skos:prefLabel "University of Alberta"@en ;
+    skos:scopeNote "NT [Academic department names]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada.__army_(use_up_to_1968)> a skos:Concept ;
@@ -32075,8 +32164,8 @@
         <https://example.com/paash#canada._army._canadian_expeditionary_force_--_transportation>,
         <https://example.com/paash#canada._army._canadian_expeditionary_force_--_uniforms>,
         <https://example.com/paash#canada._army._canadian_expeditionary_force_--_women> ;
-    skos:note "Established Aug. 1914 and ceased to exist November, 1918"@en ;
     skos:prefLabel "Canada. Army. Canadian Expeditionary Force"@en ;
+    skos:scopeNote "Established Aug. 1914 and ceased to exist November, 1918"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada._canadian_armed_forces> a skos:Concept ;
@@ -32106,8 +32195,8 @@
         <https://example.com/paash#canada._canadian_armed_forces_--_transportation>,
         <https://example.com/paash#canada._canadian_armed_forces_--_uniforms>,
         <https://example.com/paash#canada._canadian_armed_forces_--_women> ;
-    skos:note "Use for all the services from 1968 to the present."@en ;
     skos:prefLabel "Canada. Canadian Armed Forces"@en ;
+    skos:scopeNote "Use for all the services from 1968 to the present."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#automobiles> a skos:Concept ;
@@ -32344,8 +32433,8 @@
         <https://example.com/paash#assiniboine_nation_--_wood-carving>,
         <https://example.com/paash#assiniboine_nation_--_writing>,
         <https://example.com/paash#assiniboine_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Assiniboine Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cree_nation> a skos:Concept ;
@@ -32423,9 +32512,9 @@
         <https://example.com/paash#cree_nation_--_wood-carving>,
         <https://example.com/paash#cree_nation_--_writing>,
         <https://example.com/paash#cree_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en,
-        "When possible use name of specific nation"@en ;
     skos:prefLabel "Cree Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en,
+        "When possible use name of specific nation"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cree_nation,_plains> a skos:Concept ;
@@ -32503,8 +32592,8 @@
         <https://example.com/paash#cree_nation,_plains_--_wood-carving>,
         <https://example.com/paash#cree_nation,_plains_--_writing>,
         <https://example.com/paash#cree_nation,_plains_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Cree Nation, Plains"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cree_nation,_woodlands> a skos:Concept ;
@@ -32582,8 +32671,8 @@
         <https://example.com/paash#cree_nation,_woodlands_--_wood-carving>,
         <https://example.com/paash#cree_nation,_woodlands_--_writing>,
         <https://example.com/paash#cree_nation,_woodlands_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Cree Nation, Woodlands"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dane-zaa_nation> a skos:Concept ;
@@ -32662,8 +32751,8 @@
         <https://example.com/paash#dane-zaa_nation_--_wood-carving>,
         <https://example.com/paash#dane-zaa_nation_--_writing>,
         <https://example.com/paash#dane-zaa_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Dane-zaa Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dene_suline_nation> a skos:Concept ;
@@ -32742,8 +32831,8 @@
         <https://example.com/paash#dene_suline_nation_--_wood-carving>,
         <https://example.com/paash#dene_suline_nation_--_writing>,
         <https://example.com/paash#dene_suline_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Dene Suline Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dene_tha'_nation> a skos:Concept ;
@@ -32822,8 +32911,8 @@
         <https://example.com/paash#dene_tha'_nation_--_wood-carving>,
         <https://example.com/paash#dene_tha'_nation_--_writing>,
         <https://example.com/paash#dene_tha'_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Dene Tha' Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#first_nations> a skos:Concept ;
@@ -32901,8 +32990,8 @@
         <https://example.com/paash#first_nations_--_wood-carving>,
         <https://example.com/paash#first_nations_--_writing>,
         <https://example.com/paash#first_nations_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "First Nations"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#indigenous_peoples> a skos:Concept ;
@@ -32980,9 +33069,9 @@
         <https://example.com/paash#indigenous_peoples_--_wood-carving>,
         <https://example.com/paash#indigenous_peoples_--_writing>,
         <https://example.com/paash#indigenous_peoples_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en,
-        "Use specific nation where possible.  Subdivisions can be added to specific nation names."@en ;
     skos:prefLabel "Indigenous peoples"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en,
+        "Use specific nation where possible.  Subdivisions can be added to specific nation names."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#inuit> a skos:Concept ;
@@ -33061,8 +33150,8 @@
         <https://example.com/paash#inuit_--_wood-carving>,
         <https://example.com/paash#inuit_--_writing>,
         <https://example.com/paash#inuit_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Inuit"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#kutenai_nation> a skos:Concept ;
@@ -33141,8 +33230,8 @@
         <https://example.com/paash#kutenai_nation_--_wood-carving>,
         <https://example.com/paash#kutenai_nation_--_writing>,
         <https://example.com/paash#kutenai_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Kutenai Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#nakawe_nation> a skos:Concept ;
@@ -33222,8 +33311,8 @@
         <https://example.com/paash#nakawe_nation_--_wood-carving>,
         <https://example.com/paash#nakawe_nation_--_writing>,
         <https://example.com/paash#nakawe_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Nakawe Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#nakoda_nation> a skos:Concept ;
@@ -33303,8 +33392,8 @@
         <https://example.com/paash#nakoda_nation_--_wood-carving>,
         <https://example.com/paash#nakoda_nation_--_writing>,
         <https://example.com/paash#nakoda_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Nakoda Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#ojibwa_nation> a skos:Concept ;
@@ -33382,8 +33471,8 @@
         <https://example.com/paash#ojibwa_nation_--_wood-carving>,
         <https://example.com/paash#ojibwa_nation_--_writing>,
         <https://example.com/paash#ojibwa_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Ojibwa Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#sioux_nation> a skos:Concept ;
@@ -33461,8 +33550,8 @@
         <https://example.com/paash#sioux_nation_--_wood-carving>,
         <https://example.com/paash#sioux_nation_--_writing>,
         <https://example.com/paash#sioux_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Sioux Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#tsuu_t'ina_nation> a skos:Concept ;
@@ -33541,8 +33630,8 @@
         <https://example.com/paash#tsuu_t'ina_nation_--_wood-carving>,
         <https://example.com/paash#tsuu_t'ina_nation_--_writing>,
         <https://example.com/paash#tsuu_t'ina_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Tsuu T'ina Nation"@en ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#kainai_nation> a skos:Concept ;
@@ -33621,9 +33710,9 @@
         <https://example.com/paash#kainai_nation_--_wood-carving>,
         <https://example.com/paash#kainai_nation_--_writing>,
         <https://example.com/paash#kainai_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Kainai Nation"@en ;
     skos:related <https://example.com/paash#niitsitapi> ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#métis_nation> a skos:Concept ;
@@ -33701,9 +33790,9 @@
         <https://example.com/paash#métis_nation_--_wood-carving>,
         <https://example.com/paash#métis_nation_--_writing>,
         <https://example.com/paash#métis_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Métis Nation"@en ;
     skos:related <https://example.com/paash#red_river_colony> ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#piikani_nation> a skos:Concept ;
@@ -33783,9 +33872,9 @@
         <https://example.com/paash#piikani_nation_--_wood-carving>,
         <https://example.com/paash#piikani_nation_--_writing>,
         <https://example.com/paash#piikani_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Piikani Nation"@en ;
     skos:related <https://example.com/paash#niitsitapi> ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#siksika_nation> a skos:Concept ;
@@ -33864,9 +33953,9 @@
         <https://example.com/paash#siksika_nation_--_wood-carving>,
         <https://example.com/paash#siksika_nation_--_writing>,
         <https://example.com/paash#siksika_nation_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Siksika Nation"@en ;
     skos:related <https://example.com/paash#niitsitapi> ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#niitsitapi> a skos:Concept ;
@@ -33945,11 +34034,11 @@
         <https://example.com/paash#niitsitapi_--_wood-carving>,
         <https://example.com/paash#niitsitapi_--_writing>,
         <https://example.com/paash#niitsitapi_--_youth> ;
-    skos:note "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:prefLabel "Niitsitapi"@en ;
     skos:related <https://example.com/paash#kainai_nation>,
         <https://example.com/paash#piikani_nation>,
         <https://example.com/paash#siksika_nation> ;
+    skos:scopeNote "NT Societies, etc. [Names of specific secret, fraternal, tribal societies]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#calgary> a skos:Concept ;
@@ -34107,7 +34196,8 @@
         <https://example.com/paash#calgary_--_wards>,
         <https://example.com/paash#calgary_--_water>,
         <https://example.com/paash#calgary_--_zoos> ;
-    skos:note "NT Blizzard, [date]"@en,
+    skos:prefLabel "Calgary"@en ;
+    skos:scopeNote "NT Blizzard, [date]"@en,
         "NT Census, [date]"@en,
         "NT Earthquake, [date]"@en,
         "NT Explosion, [date]"@en,
@@ -34118,7 +34208,6 @@
         "NT Riot, [date]"@en,
         "NT Storm, [date]"@en,
         "NT Tornado, [date]"@en ;
-    skos:prefLabel "Calgary"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#edmonton> a skos:Concept ;
@@ -34276,7 +34365,8 @@
         <https://example.com/paash#edmonton_--_wards>,
         <https://example.com/paash#edmonton_--_water>,
         <https://example.com/paash#edmonton_--_zoos> ;
-    skos:note "NT Blizzard, [date]"@en,
+    skos:prefLabel "Edmonton"@en ;
+    skos:scopeNote "NT Blizzard, [date]"@en,
         "NT Census, [date]"@en,
         "NT Earthquake, [date]"@en,
         "NT Explosion, [date]"@en,
@@ -34287,7 +34377,6 @@
         "NT Riot, [date]"@en,
         "NT Storm, [date]"@en,
         "NT Tornado, [date]"@en ;
-    skos:prefLabel "Edmonton"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#paash> a skos:ConceptScheme ;
@@ -34702,6 +34791,7 @@
         <https://example.com/paash#ceremonial_maces>,
         <https://example.com/paash#chairs>,
         <https://example.com/paash#chamber_orchestra>,
+        <https://example.com/paash#chambers_of_commerce>,
         <https://example.com/paash#chapels>,
         <https://example.com/paash#chaplains>,
         <https://example.com/paash#charities>,
@@ -34791,6 +34881,7 @@
         <https://example.com/paash#cold_storage>,
         <https://example.com/paash#cold_war,_1945-1991>,
         <https://example.com/paash#collection_agencies>,
+        <https://example.com/paash#colleges>,
         <https://example.com/paash#colleges_of_applied_arts_and_technology>,
         <https://example.com/paash#colon_(anatomy)>,
         <https://example.com/paash#colonialism>,
@@ -34801,6 +34892,7 @@
         <https://example.com/paash#commercial_credit>,
         <https://example.com/paash#commissionaires>,
         <https://example.com/paash#commissioners_for_oaths>,
+        <https://example.com/paash#commissions_(of_inquiry)>,
         <https://example.com/paash#committees>,
         <https://example.com/paash#commonwealth_games_(11th_:_1978_:_edmonton,_alberta)>,
         <https://example.com/paash#commonwealth_of_nations>,
@@ -34832,6 +34924,7 @@
         <https://example.com/paash#construction_equipment_industry>,
         <https://example.com/paash#construction_industry>,
         <https://example.com/paash#construction_workers>,
+        <https://example.com/paash#consulates>,
         <https://example.com/paash#consultants>,
         <https://example.com/paash#consumer_associations>,
         <https://example.com/paash#consumer_credit>,
@@ -34883,6 +34976,7 @@
         <https://example.com/paash#cree_nation>,
         <https://example.com/paash#cree_nation,_plains>,
         <https://example.com/paash#cree_nation,_woodlands>,
+        <https://example.com/paash#creeks>,
         <https://example.com/paash#cremation>,
         <https://example.com/paash#crematoriums>,
         <https://example.com/paash#cribs_(children's_furniture)>,
@@ -35001,7 +35095,6 @@
         <https://example.com/paash#drinking_and_traffic_accidents>,
         <https://example.com/paash#drinking_customs>,
         <https://example.com/paash#drive-in_theatres>,
-        <https://example.com/paash#drop-in_centres>,
         <https://example.com/paash#droughts>,
         <https://example.com/paash#drowning>,
         <https://example.com/paash#drug_abuse>,
@@ -35119,6 +35212,7 @@
         <https://example.com/paash#european_canadians>,
         <https://example.com/paash#europeans>,
         <https://example.com/paash#euthanasia>,
+        <https://example.com/paash#evangelists>,
         <https://example.com/paash#excavating_machinery>,
         <https://example.com/paash#excavation>,
         <https://example.com/paash#executive_advisory_bodies>,
@@ -35258,6 +35352,7 @@
         <https://example.com/paash#fracking>,
         <https://example.com/paash#franchises_(retail_trade)>,
         <https://example.com/paash#franco-albertans>,
+        <https://example.com/paash#fraternal_benefit_societies>,
         <https://example.com/paash#fraternities>,
         <https://example.com/paash#fraud>,
         <https://example.com/paash#free_trade>,
@@ -35353,8 +35448,10 @@
         <https://example.com/paash#government>,
         <https://example.com/paash#government,_resistance_to>,
         <https://example.com/paash#government_advertising>,
+        <https://example.com/paash#government_departments>,
         <https://example.com/paash#government_departments_(federal)>,
         <https://example.com/paash#government_departments_(other_provinces)>,
+        <https://example.com/paash#government_employees>,
         <https://example.com/paash#government_information>,
         <https://example.com/paash#government_lending>,
         <https://example.com/paash#government_liability>,
@@ -35754,6 +35851,7 @@
         <https://example.com/paash#lime_industry>,
         <https://example.com/paash#limestone>,
         <https://example.com/paash#liquid_air_industry>,
+        <https://example.com/paash#liquor_traffic>,
         <https://example.com/paash#literacy>,
         <https://example.com/paash#literature>,
         <https://example.com/paash#literature,_comparative>,
@@ -35921,6 +36019,7 @@
         <https://example.com/paash#mountaineering_and_mountaineers>,
         <https://example.com/paash#mountains>,
         <https://example.com/paash#moving,_household>,
+        <https://example.com/paash#moving_and_storage>,
         <https://example.com/paash#mules>,
         <https://example.com/paash#multiculturalism>,
         <https://example.com/paash#multiple_sclerosis>,
@@ -36641,6 +36740,7 @@
         <https://example.com/paash#spraying_and_dusting_in_forests>,
         <https://example.com/paash#squirrels>,
         <https://example.com/paash#stables>,
+        <https://example.com/paash#stadiums>,
         <https://example.com/paash#staircases>,
         <https://example.com/paash#stampedes>,
         <https://example.com/paash#starch_industry>,
@@ -36918,6 +37018,7 @@
         <https://example.com/paash#visually_impaired>,
         <https://example.com/paash#vital_statistics>,
         <https://example.com/paash#vocational_centres>,
+        <https://example.com/paash#vocational_colleges>,
         <https://example.com/paash#vocational_education>,
         <https://example.com/paash#vocational_guidance>,
         <https://example.com/paash#vocational_rehabilitation>,
@@ -36961,6 +37062,8 @@
         <https://example.com/paash#wells>,
         <https://example.com/paash#welsh>,
         <https://example.com/paash#welsh_canadians>,
+        <https://example.com/paash#west_indian_canadians>,
+        <https://example.com/paash#west_indians>,
         <https://example.com/paash#western_canada_concept>,
         <https://example.com/paash#western_cree_tribal_council>,
         <https://example.com/paash#western_independence_party>,

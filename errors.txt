@@ -1,12 +1,3 @@
-<https://example.com/paash#sh004809> a skos:Concept ;
-    skos:altLabel "Creeks"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Rivers"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-Creeks
-	USE name of creek
-	USE Rivers
-
 <https://example.com/paash#sh000407> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:note "RT Residential schools NT under Indigenous peoples"@en,

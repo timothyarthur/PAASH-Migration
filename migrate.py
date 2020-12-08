@@ -97,7 +97,6 @@ def construct_subheading(item, parent, check_flags = True):
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
-			print(parent, item)
 		else:
 			uri = construct_use (item, parent)
 
@@ -201,8 +200,7 @@ def construct_uf(item, parent):
 def construct_note(item, parent):
 	#Detect type of note?
 	parent_label = get_label(parent)
-	g.add((parent, SKOS.note, Literal(item, lang='en')))
-	print((parent, SKOS.note, Literal(item, lang='en')))
+	g.add((parent, SKOS.scopeNote, Literal(item, lang='en')))
 
 #Loading and parsing plaintext input, then storing terms a nested dictionary data structure
 #End result is a dictionary of dictionaries of lists
@@ -243,8 +241,8 @@ while n < len(lines):
 	n+=1
 
 #Iterating through data structure to generate URIs and construct the graph
-#To maintain the data structure during this process, will generate nodes for non-preferred headings as well as preferred
-#These will be removed in a later step
+#To maintain the data structure during this process, we will generate nodes for non-preferred headings as well as preferred
+#The non-preferred will be removed in a later step
 #Subheadings are assigned to a new dictionary for storage, using the newly-generated URIs for the parent headings as keys
 uri_dict = {}
 # try:
@@ -302,6 +300,11 @@ to_remove = g.query("""SELECT DISTINCT ?target
 	WHERE{
 	?target skos:prefLabel ?targetLabel .
 	?pref skos:altLabel ?targetLabel .
+		FILTER(
+			!EXISTS{
+			?target skos:scopeNote ?n .
+			}
+		)
 	}""")
 
 for row in to_remove:
@@ -351,13 +354,11 @@ else:
 	num_rdf_file = 'paash_num.ttl'
 	num_rdf_file_xml = 'paash_num.xml'
 
-
-
 g.serialize(destination=rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file_xml, format='xml')
 
-print(f'Graph containing {count} nodes successfully written to {num_rdf_file}')
+print(f'Graph containing {count} nodes successfully written to {num_rdf_file} and {num_rdf_file_xml}')
 
 #Writing lines for review to the indicated file in human-readable format
 if test:
