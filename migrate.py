@@ -248,20 +248,17 @@ uri_dict = {}
 # try:
 	# This loop generates the first level of headings, i.e. those not preceded by tabs in the input file
 for key in struct:
-	#Headings containing these flags as substrings will not be used to generate nodes
-	#Rather, they will be written to review.txt for manual review
+	#Headings containing these flags as substrings will be written to review.txt for manual review
 	review_flags = ['[', 'subdivision', 'under', 'name']
 	if flag_for_review(key, review_flags):
 		add_review(key)
-	#Constructing headings that do not contain the flags
-	else:
-		values = struct[key]
 
-		key = clean_label(key)
-		key_uri = construct_heading_node(key)
+	key = clean_label(key)
+	key_uri = construct_heading_node(key)
 
-		#Storing subheadings under the newly-generated URI
-		uri_dict[key_uri] = values
+	#Storing subheadings under the newly-generated URI
+	values = struct[key]
+	uri_dict[key_uri] = values
 
 # This loop generates the second level of headings, i.e. those preceded by one tab in the input file
 # Once again, dictionary keys for these headings are replaced with their newly generated URIs

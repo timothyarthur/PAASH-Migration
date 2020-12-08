@@ -183,8 +183,14 @@ Calgary
 Canada
 	NT Commerce--[United States, etc.]
 
+Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
+	For subdivisions use NT under Canada. Canadian Armed Forces
+
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act
+
+Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
+	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
 
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
@@ -482,6 +488,9 @@ Pests
 
 Piikani Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+
+Place-names
+	USE Names, Geographical
 
 Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
