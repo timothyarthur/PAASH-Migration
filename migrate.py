@@ -59,15 +59,19 @@ def add_review(item_label, parent_label=None):
 		lines_to_review.append(f'{parent_label}\n\t{item_label}\n\n')
 
 #Removes relational prefix from label
-def clean_label(label):
-	if label.startswith('USE'):
-		label = label.replace('USE ', '')
-	elif label.startswith('NT'):
-		label = label.replace('NT ', '')
-	elif label.startswith('RT'):
-		label = label.replace('RT ', '')
-	elif label.startswith('UF'):
-		label = label.replace('UF ', '')
+def clean_label(label, note=False):
+	if "~f" in label:
+		label = label.replace('~f', '')  
+
+	if not note:
+		if label.startswith('USE'):
+			label = label.replace('USE ', '')
+		elif label.startswith('NT'):
+			label = label.replace('NT ', '')
+		elif label.startswith('RT'):
+			label = label.replace('RT ', '')
+		elif label.startswith('UF'):
+			label = label.replace('UF ', '')
 	return label
 
 # Constructs heading nodes and adds to graph
@@ -200,6 +204,7 @@ def construct_uf(item, parent):
 def construct_note(item, parent):
 	#Detect type of note?
 	parent_label = get_label(parent)
+	parent_label = clean_label(parent_label, note='True')
 	g.add((parent, SKOS.scopeNote, Literal(item, lang='en')))
 
 #Loading and parsing plaintext input, then storing terms a nested dictionary data structure

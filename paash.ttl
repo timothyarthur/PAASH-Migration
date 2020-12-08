@@ -8943,12 +8943,6 @@
     skos:prefLabel "Drill (Agricultural implement)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#drinking_and_traffic_accidents> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Drinking and traffic accidents"@en ;
-    skos:scopeNote "USE Driving under the influence"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
 <https://example.com/paash#drinking_customs> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Drinking customs"@en ;
@@ -8960,6 +8954,8 @@
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#driving_under_the_influence> a skos:Concept ;
+    skos:altLabel "Drinking and traffic accidents"@en,
+        "Drunk driving"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Driving under the influence"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
@@ -8988,12 +8984,6 @@
     skos:altLabel "Oil drums"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Drums (containers)"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#drunk_driving> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Drunk driving"@en ;
-    skos:scopeNote "USE Driving under the influence"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#drunkenness_(criminal_law)> a skos:Concept ;
@@ -11408,12 +11398,6 @@
 <https://example.com/paash#fund_raising> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Fund raising"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#funeral_homes> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Funeral homes"@en ;
-    skos:scopeNote "USE Undertakers and undertaking"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#funeral_rites_and_ceremonies,_[class_of_persons_or_ethnic_group]> a skos:Concept ;
@@ -19583,6 +19567,11 @@
     skos:prefLabel "Patronage, Political"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#pavement_--_contracts_and_specifications> a skos:Concept ;
+    skos:broader <https://example.com/paash#pavement> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Pavement -- Contracts and specifications"@en .
+
 <https://example.com/paash#pavement_--_equipment_and_machinery> a skos:Concept ;
     skos:broader <https://example.com/paash#pavement> ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -25695,11 +25684,6 @@
     skos:prefLabel "Underpasses"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#undertakers_and_undertaking> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Undertakers and undertaking"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
 <https://example.com/paash#undocumented_immigrants> a skos:Concept ;
     skos:altLabel "Aliens, Illegal"@en,
         "Illegal aliens"@en ;
@@ -27492,13 +27476,6 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Cree Nation -- Hunting"@en ;
     skos:related <https://example.com/paash#buffalo_jump> .
-
-<https://example.com/paash#cremation> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Cremation"@en ;
-    skos:related <https://example.com/paash#funeral_rites_and_ceremonies> ;
-    skos:scopeNote "RT Undertakers and undertaking"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#cribs_(children's_furniture)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -29422,12 +29399,6 @@
     skos:related <https://example.com/paash#galician_canadians> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#undertakers_and_undertaking_~f> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Undertakers and undertaking ~f"@en ;
-    skos:related <https://example.com/paash#crematoriums> ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
 <https://example.com/paash#valentine_cards> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Valentine cards"@en ;
@@ -29782,11 +29753,18 @@
         <https://example.com/paash#cooperative_societies> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#cremation> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Cremation"@en ;
+    skos:related <https://example.com/paash#funeral_rites_and_ceremonies>,
+        <https://example.com/paash#undertakers_and_undertaking> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#crematoriums> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Crematoriums"@en ;
     skos:related <https://example.com/paash#funeral_rites_and_ceremonies>,
-        <https://example.com/paash#undertakers_and_undertaking_~f> ;
+        <https://example.com/paash#undertakers_and_undertaking> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dairy_products> a skos:Concept ;
@@ -30371,6 +30349,14 @@
     skos:prefLabel "Ukrainians"@en ;
     skos:related <https://example.com/paash#galicians>,
         <https://example.com/paash#ruthenians> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#undertakers_and_undertaking> a skos:Concept ;
+    skos:altLabel "Funeral homes"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Undertakers and undertaking"@en ;
+    skos:related <https://example.com/paash#cremation>,
+        <https://example.com/paash#crematoriums> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#unemployment> a skos:Concept ;
@@ -30979,17 +30965,6 @@
     skos:scopeNote "USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#pavement> a skos:Concept ;
-    skos:altLabel "Paving"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#pavement_--_equipment_and_machinery>,
-        <https://example.com/paash#pavement_--_frost_damage>,
-        <https://example.com/paash#pavement_--_maintenance_and_repair> ;
-    skos:prefLabel "Pavement"@en ;
-    skos:related <https://example.com/paash#concrete> ;
-    skos:scopeNote "NT Contracts and specifications"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
 <https://example.com/paash#petroleum_industry_and_trade> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#petroleum_industry_and_trade_--_equipment_and_supplies>,
@@ -31401,6 +31376,17 @@
         <https://example.com/paash#oil_wells_--_taxation>,
         <https://example.com/paash#oil_wells_--_valuation> ;
     skos:prefLabel "Oil wells"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#pavement> a skos:Concept ;
+    skos:altLabel "Paving"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#pavement_--_contracts_and_specifications>,
+        <https://example.com/paash#pavement_--_equipment_and_machinery>,
+        <https://example.com/paash#pavement_--_frost_damage>,
+        <https://example.com/paash#pavement_--_maintenance_and_repair> ;
+    skos:prefLabel "Pavement"@en ;
+    skos:related <https://example.com/paash#concrete> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#roads> a skos:Concept ;
@@ -35416,7 +35402,6 @@
         <https://example.com/paash#dredging>,
         <https://example.com/paash#dried_meat>,
         <https://example.com/paash#drill_(agricultural_implement)>,
-        <https://example.com/paash#drinking_and_traffic_accidents>,
         <https://example.com/paash#drinking_customs>,
         <https://example.com/paash#drive-in_theatres>,
         <https://example.com/paash#driving_under_the_influence>,
@@ -35426,7 +35411,6 @@
         <https://example.com/paash#drugs>,
         <https://example.com/paash#drum>,
         <https://example.com/paash#drums_(containers)>,
-        <https://example.com/paash#drunk_driving>,
         <https://example.com/paash#drunkenness_(criminal_law)>,
         <https://example.com/paash#dry-goods>,
         <https://example.com/paash#dry_cleaning>,
@@ -35699,7 +35683,6 @@
         <https://example.com/paash#fruit>,
         <https://example.com/paash#fruit_trade>,
         <https://example.com/paash#fund_raising>,
-        <https://example.com/paash#funeral_homes>,
         <https://example.com/paash#funeral_rites_and_ceremonies>,
         <https://example.com/paash#funeral_rites_and_ceremonies,_[class_of_persons_or_ethnic_group]>,
         <https://example.com/paash#fungiculture>,
@@ -37304,7 +37287,6 @@
         <https://example.com/paash#ukrainians>,
         <https://example.com/paash#underpasses>,
         <https://example.com/paash#undertakers_and_undertaking>,
-        <https://example.com/paash#undertakers_and_undertaking_~f>,
         <https://example.com/paash#undocumented_immigrants>,
         <https://example.com/paash#unemployment>,
         <https://example.com/paash#unidentified_flying_objects>,

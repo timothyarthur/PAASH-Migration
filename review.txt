@@ -249,9 +249,6 @@ Cree Nation, Woodlands
 Creeks
 	USE name of creek
 
-Cremation
-	RT Undertakers and undertaking
-
 Dane-zaa Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
@@ -269,12 +266,6 @@ Disasters
 
 Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
-
-Drinking and traffic accidents
-	USE Driving under the influence
-
-Drunk driving
-	USE Driving under the influence
 
 Edmonton
 	NT Blizzard, [date]
@@ -365,9 +356,6 @@ Football
 
 Fraternal benefit societies
 	USE Names of particular clubs
-
-Funeral homes
-	USE Undertakers and undertaking
 
 Game and game birds
 	RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc.
@@ -479,9 +467,6 @@ Orchestra
 
 Orthodox Catholic Church
 	USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches
-
-Pavement
-	NT Contracts and specifications
 
 Pests
 	RT specific types of pests, e.g. Rats

@@ -2920,11 +2920,11 @@ Creeks
 
 Cremation     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking
+	RT Undertakers and undertaking~f
 
 Crematoriums     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking ~f
+	RT Undertakers and undertaking~f
 
 Cribs (Children's furniture)     
 	RT Children's furniture
@@ -3611,7 +3611,7 @@ Dried Meat
 Drill (Agricultural implement)
 
 Drinking and traffic accidents
-	USE Driving under the influence
+	USE Driving under the influence~f
 
 Drinking customs     
 
@@ -3645,7 +3645,7 @@ Drugstores
 Drum  
 
 Drunk driving     
-	USE Driving under the influence
+	USE Driving under the influence~f
 
 Drunkenness (Criminal law)     
 
@@ -4734,7 +4734,7 @@ Fruit trade
 Fund raising     
 
 Funeral homes 	
-	USE Undertakers and undertaking
+	USE Undertakers and undertaking~f
 
 Funeral rites and ceremonies     
 
@@ -8110,7 +8110,7 @@ Pathology, Experimental
 Patronage, Political     
 
 Pavement     
-	NT Contracts and specifications
+	NT Contracts and specifications~f
 	NT Equipment and machinery
 	NT Frost damage  
 	NT Maintenance and repair
