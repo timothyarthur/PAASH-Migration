@@ -1,5 +1,5 @@
 #Fork of PAASH
-#~ in lines forces addition of line to the graph even if it contains a review flag
+# in lines forces addition of line to the graph even if it contains a review flag
 
 Abattoirs
 	USE Slaughtering and slaughter-houses
@@ -240,7 +240,7 @@ Alberta
 		USE Alberta -- Civil service
 	NT Politics and government
 	NT Political parties
-		Use name of specific party when known~
+		Use name of specific party when known
 		NT Conventions
 		NT Election campaigns
 		NT Finance
@@ -350,7 +350,8 @@ Alberta Social Credit Party
 Alcohol 	
 	NT Law and legislation     
 	NT Taxation 
-	RT Liquor traffic for general works on the liquor industry    
+	RT Liquor traffic 
+		For general works on the liquor industry
 
 Alcoholism
 	USE Substance Use Disorder     
@@ -1116,7 +1117,7 @@ Biscuits
 	NT Trade and manufacture
 
 Bishops     
-	Where possible use the subdivision Bishops under the specific denomination.~
+	Where possible use the subdivision Bishops under the specific denomination.
 
 Bisexuality
 
@@ -1165,14 +1166,14 @@ Blood Nation
 Boarding houses	
 
 Boards of trade     
-	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade~
+	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
 
 Boatbuilding     
 
 Boathouses     
 
 Boats and boating     
-	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).~
+	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
 
 Bobcats
 
@@ -2220,8 +2221,8 @@ Civil law
 Civil rights     
 	RT Human rights
 
-Civil service     
-	For specific departments USE [Name of department] -- Officials and employees~
+Civil service
+	For specific departments USE [Name of department] -- Officials and employees
 	NT Alberta
 	NT Canada
 
@@ -2367,7 +2368,7 @@ Commissions (of inquiry)
 
 Committees    
 	Use only for collections containing material on several committees.
-	For individual committees USE name of committee.~
+	For individual committees USE name of committee.
 
 Committees of the Legislature
 	USE Legislative Assembly -- Committees
@@ -2615,7 +2616,7 @@ Counterfeits and counterfeiting
 Counties
 	RT Local government
 	Municipal Affairs, Department of
-	For names of particular counties use the following format:  Parkland, County of~
+	For names of particular counties use the following format:  Parkland, County of
 
 Country clubs     
 
@@ -2661,7 +2662,7 @@ Credit unions
 	RT Cooperative societies
 
 Cree Nation
-	When possible use name of specific nation~
+	When possible use name of specific nation
 	NT Agriculture    
 	NT Architecture
 	NT Arms and armour
@@ -2922,11 +2923,11 @@ Creeks
 
 Cremation     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking~
+	RT Undertakers and undertaking
 
 Crematoriums     
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking~
+	RT Undertakers and undertaking
 
 Cribs (Children's furniture)     
 	RT Children's furniture
@@ -3613,13 +3614,13 @@ Dried Meat
 Drill (Agricultural implement)
 
 Drinking and traffic accidents
-	USE Driving under the influence~
+	USE Driving under the influence
 
 Drinking customs     
 
 Drive-in theatres
 
-Driving under the influence~
+Driving under the influence
 
 Drop-in centres
 USE Community centres
@@ -3933,10 +3934,10 @@ Election districts (Cities)
 	USE subdivisions Wards under names of cities
 
 Election districts (Federal)     
-	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)~
+	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
 
 Election districts (Provincial)     
-	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)~
+	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
 
 Elections (Federal, [date])     
 	NT Contested
@@ -4736,7 +4737,7 @@ Fruit trade
 Fund raising     
 
 Funeral homes 	
-	USE Undertakers and undertaking~
+	USE Undertakers and undertaking
 
 Funeral rites and ceremonies     
 
@@ -4811,7 +4812,7 @@ Garage sales
 
 Garages     
 
-Garden ornaments and furniture~
+Garden ornaments and furniture
 
 Garden tools     
 
@@ -5671,7 +5672,7 @@ Indian agents
 Indian passes   
 
 Indigenous peoples     
-	Use specific nation where possible.  Subdivisions can be added to specific nation names.~
+	Use specific nation where possible.  Subdivisions can be added to specific nation names.
 	NT Agriculture    
 	NT Architecture
 	NT Arms and armour
@@ -5998,7 +5999,7 @@ Investment of public funds
 Investments     
 
 Investments, Foreign     
-	Use specific name of country where possible.~
+	Use specific name of country where possible.
 
 Iranian Canadians
 
@@ -6684,7 +6685,7 @@ Local government
 Local Improvement Districts
 	RT Local government
 	RT Municipal Affairs, Department of
-	For names of particular L.I.D.s, use the following format: Local Improvement District No.  1~
+	For names of particular L.I.D.s, use the following format: Local Improvement District No.  1
 
 Local taxation   
 	USE Local government -- Taxation  
@@ -7264,7 +7265,7 @@ Municipal charters
 Municipal Districts
 	RT Local government
 	RT Municipal Affairs, Department of
-	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81~
+	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
 
 Municipal finance     
 
@@ -7494,9 +7495,9 @@ Nakoda Nation
 	NT Writing
 	NT Youth
 
-Names, Geographical~
+Names, Geographical
 
-Names, Personal~
+Names, Personal
 
 Naphtha
 
@@ -8112,7 +8113,7 @@ Pathology, Experimental
 Patronage, Political     
 
 Pavement     
-	NT Contracts and specifications~
+	NT Contracts and specifications
 	NT Equipment and machinery
 	NT Frost damage  
 	NT Maintenance and repair
@@ -8445,8 +8446,8 @@ Pistols
 
 Pitch
 
-Place-names~
-	USE Names, Geographical~
+Place-names
+	USE Names, Geographical
 
 Planetariums    
 
@@ -9645,7 +9646,7 @@ Sheriffs
 Shipping     
 
 Ships     
-	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)~
+	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
 	NT Cargo
 	NT Passenger lists
 
@@ -10253,7 +10254,7 @@ Street cars
 
 Street cleaning     
 
-Street names~     
+Street names     
 
 Street railways     
 	NT Design and Construction
@@ -10915,9 +10916,9 @@ Ukrainians
 	RT Galicians
 	RT Ruthenians
 
-Underpasses~
+Underpasses
 
-Undertakers and undertaking~
+Undertakers and undertaking
 
 Undocumented immigrants
 	UF Aliens, Illegal
@@ -11118,9 +11119,9 @@ Video tape recorders and recording
 Video tape/disc rentals
 	USE Stores, Retail -- Videotape/disc
 
-Vietnamese~
+Vietnamese
 
-Vietnamese Canadians~
+Vietnamese Canadians
 
 Vietnam War, 1961-1975     
 
@@ -11253,7 +11254,7 @@ Water
 	NT Supply
 	NT Towers
 
-Water, Underground~
+Water, Underground
 
 Water polo     
 
