@@ -184,10 +184,10 @@ Canada
 	NT Commerce--[United States, etc.]
 
 Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	For subdivisions use NT under Canada.  Canadian Armed Forces
 
 Canada.  Laws
-	USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act
+	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
 
 Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
@@ -205,10 +205,10 @@ Chambers of Commerce
 	USE name of individual Chamber of Commerce
 
 City councils
-	USE names of specific City councils, e.g., Edmonton. City Council
+	USE names of specific City councils, e.g., Edmonton.  City Council
 
 City councils
-	RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council
+	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
 Civil service
 	For specific departments USE [Name of department] -- Officials and employees
@@ -364,10 +364,10 @@ Government departments
 	USE [name of department], Department of (e.g., Agriculture, Department of)
 
 Government departments (Federal)
-	USE Canada. Department of [     ]
+	USE Canada.  Department of [     ]
 
 Government departments (Other provinces)
-	USE e.g., Saskatchewan. Department of [     ]
+	USE e.g., Saskatchewan.  Department of [     ]
 
 Government employees
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
@@ -477,6 +477,15 @@ Piikani Nation
 Place-names
 	USE Names, Geographical
 
+Polls
+	USE Elections (Federal, [date])
+
+Polls
+	USE Elections (Local, [date])
+
+Polls
+	USE Elections (Provincial, [date])
+
 Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
@@ -524,6 +533,15 @@ University of Alberta
 
 Vocational colleges
 	RT names of particular institutions
+
+Voting
+	RT Elections (Federal, [date])
+
+Voting
+	RT Elections (Local, [date])
+
+Voting
+	RT Elections (Provincial, [date])
 
 Waste products
 	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products

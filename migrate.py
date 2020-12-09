@@ -214,10 +214,13 @@ if test:
 else:
 	file_name = 'PAASH2020-explicit.txt'
 
+print(f'Generating SKOS RDF from contents of {file_name}')
+
 with open(file_name, 'r') as file:
 	text = file.read()
 
 lines = [line for line in text.split('\n')]
+print(f'{file_name} contains {len(lines)} lines')
 
 #Generates a dictionary of dictionaries of lists as an intermediate hierarchical representation of the vocabulary, to be used to generate the graph
 #Strings for first order headings are keys for the below dictionary, whose values are a subdictionary whose keys are the second-order headings below them

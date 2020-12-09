@@ -144,8 +144,8 @@ Air
 	NT Quality
 
 Air bases     
-	USE Canada. Royal Canadian Air Force (up to 1968) -- Installations
-	USE Canada. Armed Forces (after 1968) -- Installations 
+	USE Canada.  Royal Canadian Air Force (up to 1968) -- Installations
+	USE Canada.  Armed Forces (after 1968) -- Installations 
 
 Air Cadets     
 	RT Army Cadets
@@ -1610,7 +1610,7 @@ Camps
 	NT Outfits, supplies, etc.
 
 Camps (Military)
-	USE Canada. Armed Forces -- Installations
+	USE Canada.  Armed Forces -- Installations
 	USE Military bases
 
 Campus police     
@@ -1632,13 +1632,13 @@ Canada
 	NT History
 	NT Confederation, 1867
 	NT Militia
-		USE Canada. Canadian Armed Forces -- Reserves (after 1968)
-		USE Canada. Army -- Reserves (up to 1968)
-		USE Canada. Royal Canadian Air Force -- Reserves (up to 1968)
-		USE Canada. Royal Canadian Navy -- Reserves (up to 1968)
+		USE Canada.  Canadian Armed Forces -- Reserves (after 1968)
+		USE Canada.  Army -- Reserves (up to 1968)
+		USE Canada.  Royal Canadian Air Force -- Reserves (up to 1968)
+		USE Canada.  Royal Canadian Navy -- Reserves (up to 1968)
 	NT Population
 
-Canada. Canadian Armed Forces
+Canada.  Canadian Armed Forces
 	Use for all the services from 1968 to the present.
 	NT Appointments and retirements
 	NT Barracks and quarters
@@ -1697,7 +1697,7 @@ Canada.  Army (use up to 1968)
 	NT Uniforms
 	NT Women
 
-Canada. Army. Canadian Expeditionary Force
+Canada.  Army.  Canadian Expeditionary Force
 	Established Aug. 1914 and ceased to exist November, 1918
 	NT Appointments and retirements
 	NT Barracks and quarters
@@ -1727,21 +1727,21 @@ Canada. Army. Canadian Expeditionary Force
 	NT Women
 
 Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
-	For subdivisions use NT under Canada. Canadian Armed Forces
+	For subdivisions use NT under Canada.  Canadian Armed Forces
 
 Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
-Canada. Constitution Act 1982
+Canada.  Constitution Act 1982
 	RT Canada -- Constitutional law -- Amendments
 	NT Constitutional conventions
 
 Canada.  Department of [the Interior, etc.]
 
 Canada.  Laws
-	USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act
+	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
 
 Canada.  Navy
-	USE Canada.  Royal Canadian Navy.
+	USE Canada.  Royal Canadian Navy
 
 Canada.  Northern
 
@@ -1752,7 +1752,7 @@ Canada.  Parliament.  House of Commons
 	NT Membership
 	NT Television broadcasting of proceedings
 
-Canada. Parliament. Senate
+Canada.  Parliament.  Senate
 	NT Members
 
 Canada.  Royal Canadian Air Force (use up to 1968)
@@ -1811,7 +1811,7 @@ Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
 	NT Uniforms
 	NT Women
 
-Canada.  Royal Canadian Navy. (use up to 1968)
+Canada.  Royal Canadian Navy (use up to 1968)
 	NT Appointments and retirements
 	NT Barracks and quarters
 	NT Biography
@@ -2201,8 +2201,8 @@ Citizens' protection organizations
 City Council members   
 
 City councils   
-	USE names of specific City councils, e.g., Edmonton. City Council
-	RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council
+	USE names of specific City councils, e.g., Edmonton.  City Council
+	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
 City planning     
 
@@ -2487,7 +2487,7 @@ Constituencies
 	USE Election districts (Federal)
 
 Constitutional conventions     
-	RT Canada. Constitution Act 1982
+	RT Canada.  Constitution Act 1982
 
 Construction equipment     
 
@@ -4803,7 +4803,7 @@ Games
 
 Gaols
 	USE Correctional institutions
-	USE Remand Centres
+	USE Remand centres
 
 Garage sales     
 
@@ -4971,10 +4971,10 @@ Government departments
 	USE [name of department], Department of (e.g., Agriculture, Department of)
 
 Government departments (Federal)
-	USE Canada. Department of [     ]
+	USE Canada.  Department of [     ]
 
 Government departments (Other provinces)
-	USE e.g., Saskatchewan. Department of [     ]
+	USE e.g., Saskatchewan.  Department of [     ]
 
 Government employees
 	USE Civil service
@@ -6040,7 +6040,7 @@ Islam
 	NT Buildings
 	NT Clergy
 	NT Education
-	NT Rites and Ceremonies
+	NT Rites and ceremonies
 
 Islam, Shia
 
@@ -7080,7 +7080,7 @@ Migration, Internal
 
 Military
 	NT Bases
-	NT Ceremonies, honours, and salutes
+	NT Ceremonies, honours and salutes
 	NT Discharge
 	NT Hospitals
 	NT Pensions
@@ -7668,7 +7668,7 @@ Northwest Resistance, 1885
 	NT Camps
 	NT Casualties (Statistics, etc.)
 	NT Cree
-	NT Historic Sites
+	NT Historic sites
 	NT Leaders
 	NT Métis
 	NT Militia
@@ -8153,7 +8153,7 @@ Pensions, Military
 Pentecostal Church
 	NT Buildings
 	NT Clergy
-	NT Rites and Ceremonies     
+	NT Rites and ceremonies     
 
 Performing arts     
 
@@ -8518,9 +8518,9 @@ Politics
 	USE Political parties
 
 Polls
-	USE Elections (Federal)
-	USE Elections (Local)
-	USE Elections (Provincial)
+	USE Elections (Federal, [date])
+	USE Elections (Local, [date])
+	USE Elections (Provincial, [date])
 	USE Voting
 
 Pollutants 
@@ -9300,7 +9300,7 @@ Royal Canadian Mounted Police
 	NT Barracks and quarters
 	NT Camps
 	NT Cemeteries
-	NT Ceremonies, honours, and salutes
+	NT Ceremonies, honours and salutes
 	NT Detachments
 	NT Dogs
 	NT Drills
@@ -9582,7 +9582,7 @@ Seminaries
 	USE Theological seminaries
 
 Senate
-	USE Canada. Parliament. Senate
+	USE Canada.  Parliament.  Senate
 	RT Legislative bodies
 
 Seniors
@@ -10254,7 +10254,7 @@ Street cleaning
 Street names     
 
 Street railways     
-	NT Design and Construction
+	NT Design and construction
 	NT Employees
 
 Street signs     
@@ -10500,7 +10500,7 @@ Telephone
 	NT Cellular
 	NT Companies
 		NT Employees
-	NT Equipment and Supplies
+	NT Equipment and supplies
 	NT Directories
 	NT Emergency reporting systems
 	NT Lines
@@ -11176,9 +11176,9 @@ Voters lists
 	USE Election districts (Provincial) -- Census
 
 Voting     
-	RT Elections (Federal)
-	RT Elections (Local)
-	RT Elections (Provincial)
+	RT Elections (Federal, [date])
+	RT Elections (Local, [date])
+	RT Elections (Provincial, [date])
 
 Voyages and travel
 

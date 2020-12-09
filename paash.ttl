@@ -3746,11 +3746,143 @@
     skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#canada.__armed_forces_(after_1968)_--_installations> a skos:Concept ;
+    skos:altLabel "Air bases"@en ;
+    skos:broader <https://example.com/paash#canada.__armed_forces_(after_1968)> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces (after 1968) -- Installations"@en .
+
+<https://example.com/paash#canada.__armed_forces_--_installations> a skos:Concept ;
+    skos:altLabel "Camps (Military)"@en ;
+    skos:broader <https://example.com/paash#canada.__armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces -- Installations"@en .
+
 <https://example.com/paash#canada.__army.__[name_of_unit,_regiment,_etc.]_(use_up_to_1968)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)"@en ;
-    skos:scopeNote "For subdivisions use NT under Canada. Canadian Armed Forces"@en ;
+    skos:scopeNote "For subdivisions use NT under Canada.  Canadian Armed Forces"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Appointments and retirements"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Barracks and quarters"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_biography> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Biography"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_demobilization> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Demobilization"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_deployment> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Deployment"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_enlisted_men> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Enlisted men"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_history> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- History"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_inspection> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Inspection"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_installations> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Installations"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_manoeuvres> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Manoeuvres"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Medals, badges, decorations, etc."@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_military_life> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Military life"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_officers> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Officers"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Orchestras and bands"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_parades> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Parades"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Pay, allowances, etc."@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Peacekeeping missions"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Recruiting, enlistment, etc."@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_reserves> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Reserves"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_songs_and_music> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Songs and music"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_sports> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Sports"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_transportation> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Transportation"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_uniforms> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Uniforms"@en .
+
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_women> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__army.__canadian_expeditionary_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Women"@en .
 
 <https://example.com/paash#canada.__army_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <https://example.com/paash#canada.__army_(use_up_to_1968)> ;
@@ -3872,10 +4004,147 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Army (use up to 1968) -- Women"@en .
 
+<https://example.com/paash#canada.__army_--_reserves_(up_to_1968)> a skos:Concept ;
+    skos:altLabel "Canada -- Militia"@en ;
+    skos:broader <https://example.com/paash#canada.__army> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Reserves (up to 1968)"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Appointments and retirements"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Barracks and quarters"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_biography> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Biography"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_demobilization> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Demobilization"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_deployment> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Deployment"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_enlisted_men> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Enlisted men"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_history> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- History"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_inspection> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Inspection"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_installations> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Installations"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_manoeuvres> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Manoeuvres"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Medals, badges, decorations, etc."@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_military_life> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Military life"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_officers> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Officers"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Orchestras and bands"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_parades> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Parades"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Pay, allowances, etc."@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Peacekeeping missions"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Recruiting, enlistment, etc."@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_reserves> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Reserves"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_reserves_(after_1968)> a skos:Concept ;
+    skos:altLabel "Canada -- Militia"@en ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Reserves (after 1968)"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_songs_and_music> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Songs and music"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_sports> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Sports"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_transportation> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Transportation"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_uniforms> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Uniforms"@en .
+
+<https://example.com/paash#canada.__canadian_armed_forces_--_women> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__canadian_armed_forces> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Women"@en .
+
 <https://example.com/paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#canada.__constitution_act_1982_--_constitutional_conventions> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__constitution_act_1982> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Constitution Act 1982 -- Constitutional conventions"@en .
 
 <https://example.com/paash#canada.__department_of_[the_interior,_etc.]> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -3885,7 +4154,7 @@
 <https://example.com/paash#canada.__laws> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Laws"@en ;
-    skos:scopeNote "USE Canada. [Short title of the Act], e.g., Canada. Veterans Land Act"@en ;
+    skos:scopeNote "USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada.__northern> a skos:Concept ;
@@ -3902,6 +4171,11 @@
     skos:broader <https://example.com/paash#canada.__parliament.__house_of_commons> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Parliament.  House of Commons -- Television broadcasting of proceedings"@en .
+
+<https://example.com/paash#canada.__parliament.__senate_--_members> a skos:Concept ;
+    skos:broader <https://example.com/paash#canada.__parliament.__senate> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Parliament.  Senate -- Members"@en .
 
 <https://example.com/paash#canada.__parliament_--_committees> a skos:Concept ;
     skos:broader <https://example.com/paash#canada.__parliament> ;
@@ -4028,6 +4302,12 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Women"@en .
 
+<https://example.com/paash#canada.__royal_canadian_air_force_(up_to_1968)_--_installations> a skos:Concept ;
+    skos:altLabel "Air bases"@en ;
+    skos:broader <https://example.com/paash#canada.__royal_canadian_air_force_(up_to_1968)> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force (up to 1968) -- Installations"@en .
+
 <https://example.com/paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <https://example.com/paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -4147,6 +4427,12 @@
     skos:broader <https://example.com/paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Women"@en .
+
+<https://example.com/paash#canada.__royal_canadian_air_force_--_reserves_(up_to_1968)> a skos:Concept ;
+    skos:altLabel "Canada -- Militia"@en ;
+    skos:broader <https://example.com/paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Reserves (up to 1968)"@en .
 
 <https://example.com/paash#canada.__royal_canadian_navy.> a skos:Concept ;
     skos:altLabel "Canada.  Navy"@en ;
@@ -4274,297 +4560,11 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Royal Canadian Navy. (use up to 1968) -- Women"@en .
 
-<https://example.com/paash#canada._armed_forces_(after_1968)_--_installations> a skos:Concept ;
-    skos:altLabel "Air bases"@en ;
-    skos:broader <https://example.com/paash#canada._armed_forces_(after_1968)> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Armed Forces (after 1968) -- Installations"@en .
-
-<https://example.com/paash#canada._armed_forces_--_installations> a skos:Concept ;
-    skos:altLabel "Camps (Military)"@en ;
-    skos:broader <https://example.com/paash#canada._armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Armed Forces -- Installations"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Appointments and retirements"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Barracks and quarters"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_biography> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Biography"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_demobilization> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Demobilization"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_deployment> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Deployment"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_enlisted_men> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Enlisted men"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_history> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- History"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_inspection> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Inspection"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_installations> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Installations"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_manoeuvres> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Manoeuvres"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Medals, badges, decorations, etc."@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_military_life> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Military life"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_officers> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Officers"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Orchestras and bands"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_parades> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Parades"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Pay, allowances, etc."@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Peacekeeping missions"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Recruiting, enlistment, etc."@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_reserves> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Reserves"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_songs_and_music> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Songs and music"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_sports> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Sports"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_transportation> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Transportation"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_uniforms> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Uniforms"@en .
-
-<https://example.com/paash#canada._army._canadian_expeditionary_force_--_women> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._army._canadian_expeditionary_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force -- Women"@en .
-
-<https://example.com/paash#canada._army_--_reserves_(up_to_1968)> a skos:Concept ;
+<https://example.com/paash#canada.__royal_canadian_navy_--_reserves_(up_to_1968)> a skos:Concept ;
     skos:altLabel "Canada -- Militia"@en ;
-    skos:broader <https://example.com/paash#canada._army> ;
+    skos:broader <https://example.com/paash#canada.__royal_canadian_navy> ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Army -- Reserves (up to 1968)"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Appointments and retirements"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Barracks and quarters"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_biography> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Biography"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_demobilization> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Demobilization"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_deployment> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Deployment"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_enlisted_men> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Enlisted men"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_history> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- History"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_inspection> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Inspection"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_installations> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Installations"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_manoeuvres> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Manoeuvres"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Medals, badges, decorations, etc."@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_military_life> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Military life"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_officers> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Officers"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Orchestras and bands"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_parades> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Parades"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Pay, allowances, etc."@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Peacekeeping missions"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Recruiting, enlistment, etc."@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_reserves> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Reserves"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_reserves_(after_1968)> a skos:Concept ;
-    skos:altLabel "Canada -- Militia"@en ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Reserves (after 1968)"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_songs_and_music> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Songs and music"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_sports> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Sports"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_transportation> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Transportation"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_uniforms> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Uniforms"@en .
-
-<https://example.com/paash#canada._canadian_armed_forces_--_women> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._canadian_armed_forces> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Canadian Armed Forces -- Women"@en .
-
-<https://example.com/paash#canada._constitution_act_1982_--_constitutional_conventions> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._constitution_act_1982> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Constitution Act 1982 -- Constitutional conventions"@en .
-
-<https://example.com/paash#canada._parliament._senate_--_members> a skos:Concept ;
-    skos:broader <https://example.com/paash#canada._parliament._senate> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Parliament. Senate -- Members"@en .
-
-<https://example.com/paash#canada._royal_canadian_air_force_(up_to_1968)_--_installations> a skos:Concept ;
-    skos:altLabel "Air bases"@en ;
-    skos:broader <https://example.com/paash#canada._royal_canadian_air_force_(up_to_1968)> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Royal Canadian Air Force (up to 1968) -- Installations"@en .
-
-<https://example.com/paash#canada._royal_canadian_air_force_--_reserves_(up_to_1968)> a skos:Concept ;
-    skos:altLabel "Canada -- Militia"@en ;
-    skos:broader <https://example.com/paash#canada._royal_canadian_air_force> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Royal Canadian Air Force -- Reserves (up to 1968)"@en .
-
-<https://example.com/paash#canada._royal_canadian_navy_--_reserves_(up_to_1968)> a skos:Concept ;
-    skos:altLabel "Canada -- Militia"@en ;
-    skos:broader <https://example.com/paash#canada._royal_canadian_navy> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada. Royal Canadian Navy -- Reserves (up to 1968)"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Reserves (up to 1968)"@en .
 
 <https://example.com/paash#canada_--_amendments> a skos:Concept ;
     skos:broader <https://example.com/paash#canada> ;
@@ -5448,8 +5448,8 @@
         "Village councils"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "City councils"@en ;
-    skos:scopeNote "RT specific names of town and village councils, e.g., Airdrie. Town Council, Vilna. Village Council"@en,
-        "USE names of specific City councils, e.g., Edmonton. City Council"@en ;
+    skos:scopeNote "RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council"@en,
+        "USE names of specific City councils, e.g., Edmonton.  City Council"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#city_planning> a skos:Concept ;
@@ -11775,13 +11775,13 @@
 <https://example.com/paash#government_departments_(federal)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Government departments (Federal)"@en ;
-    skos:scopeNote "USE Canada. Department of [     ]"@en ;
+    skos:scopeNote "USE Canada.  Department of [     ]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#government_departments_(other_provinces)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Government departments (Other provinces)"@en ;
-    skos:scopeNote "USE e.g., Saskatchewan. Department of [     ]"@en ;
+    skos:scopeNote "USE e.g., Saskatchewan.  Department of [     ]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#government_employees> a skos:Concept ;
@@ -16321,11 +16321,11 @@
 
 <https://example.com/paash#military_discharges> a skos:Concept ;
     skos:altLabel "Canada.  Army (use up to 1968) -- Discharge certificates"@en,
+        "Canada.  Army.  Canadian Expeditionary Force -- Discharge certificates"@en,
+        "Canada.  Canadian Armed Forces -- Discharge certificates"@en,
         "Canada.  Royal Canadian Air Force (use up to 1968) -- Discharge certificates"@en,
         "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Navy. (use up to 1968) -- Discharge certificates"@en,
-        "Canada. Army. Canadian Expeditionary Force -- Discharge certificates"@en,
-        "Canada. Canadian Armed Forces -- Discharge certificates"@en ;
+        "Canada.  Royal Canadian Navy. (use up to 1968) -- Discharge certificates"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Military discharges"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
@@ -20481,6 +20481,14 @@
     skos:altLabel "Politics"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Political parties"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#polls> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Polls"@en ;
+    skos:scopeNote "USE Elections (Federal, [date])"@en,
+        "USE Elections (Local, [date])"@en,
+        "USE Elections (Provincial, [date])"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#pollution_control> a skos:Concept ;
@@ -26263,6 +26271,15 @@
     skos:prefLabel "Volunteerism and volunteers"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#voting> a skos:Concept ;
+    skos:altLabel "Polls"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:prefLabel "Voting"@en ;
+    skos:scopeNote "RT Elections (Federal, [date])"@en,
+        "RT Elections (Local, [date])"@en,
+        "RT Elections (Provincial, [date])"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#voyages_and_travel> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Voyages and travel"@en ;
@@ -27193,17 +27210,17 @@
     skos:prefLabel "Camps"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#canada.__armed_forces_(after_1968)> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#canada.__armed_forces_(after_1968)_--_installations> ;
+    skos:prefLabel "Canada.  Armed Forces (after 1968)"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#canada.__armed_forces_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
     skos:broader <https://example.com/paash#canada.__armed_forces> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada.  Armed Forces -- Medals, badges, decorations, etc."@en ;
     skos:related <https://example.com/paash#decorations_of_honour> .
-
-<https://example.com/paash#canada.__army> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Canada.  Army"@en ;
-    skos:related <https://example.com/paash#soldiers> ;
-    skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada.__parliament> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -27211,47 +27228,29 @@
     skos:prefLabel "Canada.  Parliament"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada._armed_forces> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._armed_forces_--_installations> ;
-    skos:prefLabel "Canada. Armed Forces"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#canada._armed_forces_(after_1968)> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._armed_forces_(after_1968)_--_installations> ;
-    skos:prefLabel "Canada. Armed Forces (after 1968)"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#canada._army> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._army_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada. Army"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#canada._parliament._senate> a skos:Concept ;
+<https://example.com/paash#canada.__parliament.__senate> a skos:Concept ;
     skos:altLabel "Senate"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._parliament._senate_--_members> ;
-    skos:prefLabel "Canada. Parliament. Senate"@en ;
+    skos:narrower <https://example.com/paash#canada.__parliament.__senate_--_members> ;
+    skos:prefLabel "Canada.  Parliament.  Senate"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada._royal_canadian_air_force> a skos:Concept ;
+<https://example.com/paash#canada.__royal_canadian_air_force> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._royal_canadian_air_force_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada. Royal Canadian Air Force"@en ;
+    skos:narrower <https://example.com/paash#canada.__royal_canadian_air_force_--_reserves_(up_to_1968)> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada._royal_canadian_air_force_(up_to_1968)> a skos:Concept ;
+<https://example.com/paash#canada.__royal_canadian_air_force_(up_to_1968)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._royal_canadian_air_force_(up_to_1968)_--_installations> ;
-    skos:prefLabel "Canada. Royal Canadian Air Force (up to 1968)"@en ;
+    skos:narrower <https://example.com/paash#canada.__royal_canadian_air_force_(up_to_1968)_--_installations> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force (up to 1968)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada._royal_canadian_navy> a skos:Concept ;
+<https://example.com/paash#canada.__royal_canadian_navy> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._royal_canadian_navy_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada. Royal Canadian Navy"@en ;
+    skos:narrower <https://example.com/paash#canada.__royal_canadian_navy_--_reserves_(up_to_1968)> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#canada_--_constitutional_law> a skos:Concept ;
@@ -27264,7 +27263,7 @@
     skos:broader <https://example.com/paash#canada_--_constitutional_law> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Canada -- Constitutional law -- Amendments"@en ;
-    skos:related <https://example.com/paash#canada._constitution_act_1982> .
+    skos:related <https://example.com/paash#canada.__constitution_act_1982> .
 
 <https://example.com/paash#canada_--_history> a skos:Concept ;
     skos:broader <https://example.com/paash#canada> ;
@@ -27684,27 +27683,6 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#elections_--_contested> ;
     skos:prefLabel "Elections"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#elections_(federal)> a skos:Concept ;
-    skos:altLabel "Polls"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Elections (Federal)"@en ;
-    skos:related <https://example.com/paash#voting> ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#elections_(local)> a skos:Concept ;
-    skos:altLabel "Polls"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Elections (Local)"@en ;
-    skos:related <https://example.com/paash#voting> ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#elections_(provincial)> a skos:Concept ;
-    skos:altLabel "Polls"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Elections (Provincial)"@en ;
-    skos:related <https://example.com/paash#voting> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#electric_lines> a skos:Concept ;
@@ -29659,10 +29637,10 @@
     skos:prefLabel "Canada, Western"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada.__armed_forces> a skos:Concept ;
+<https://example.com/paash#canada.__army> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada.__armed_forces_--_medals,_badges,_decorations,_etc.> ;
-    skos:prefLabel "Canada.  Armed Forces"@en ;
+    skos:narrower <https://example.com/paash#canada.__army_--_reserves_(up_to_1968)> ;
+    skos:prefLabel "Canada.  Army"@en ;
     skos:related <https://example.com/paash#soldiers> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
@@ -29721,7 +29699,7 @@
 <https://example.com/paash#constitutional_conventions> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Constitutional conventions"@en ;
-    skos:related <https://example.com/paash#canada._constitution_act_1982>,
+    skos:related <https://example.com/paash#canada.__constitution_act_1982>,
         <https://example.com/paash#federal-provincial_conferences> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
@@ -30482,10 +30460,18 @@
         <https://example.com/paash#alberta_independence_party>,
         <https://example.com/paash#separatism> .
 
-<https://example.com/paash#canada._constitution_act_1982> a skos:Concept ;
+<https://example.com/paash#canada.__armed_forces> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._constitution_act_1982_--_constitutional_conventions> ;
-    skos:prefLabel "Canada. Constitution Act 1982"@en ;
+    skos:narrower <https://example.com/paash#canada.__armed_forces_--_installations>,
+        <https://example.com/paash#canada.__armed_forces_--_medals,_badges,_decorations,_etc.> ;
+    skos:prefLabel "Canada.  Armed Forces"@en ;
+    skos:related <https://example.com/paash#soldiers> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
+<https://example.com/paash#canada.__constitution_act_1982> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#canada.__constitution_act_1982_--_constitutional_conventions> ;
+    skos:prefLabel "Canada.  Constitution Act 1982"@en ;
     skos:related <https://example.com/paash#canada_--_constitutional_law_--_amendments>,
         <https://example.com/paash#constitutional_conventions> ;
     skos:topConceptOf <https://example.com/paash#paash> .
@@ -30797,15 +30783,6 @@
         <https://example.com/paash#trust_and_trustees_--_funds>,
         <https://example.com/paash#trust_and_trustees_--_indentures> ;
     skos:prefLabel "Trust and Trustees"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#voting> a skos:Concept ;
-    skos:altLabel "Polls"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Voting"@en ;
-    skos:related <https://example.com/paash#elections_(federal)>,
-        <https://example.com/paash#elections_(local)>,
-        <https://example.com/paash#elections_(provincial)> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#airports> a skos:Concept ;
@@ -32325,6 +32302,36 @@
     skos:scopeNote "NT [Academic department names]"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#canada.__army.__canadian_expeditionary_force> a skos:Concept ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_appointments_and_retirements>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_barracks_and_quarters>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_biography>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_demobilization>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_deployment>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_enlisted_men>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_history>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_inspection>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_installations>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_manoeuvres>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_medals,_badges,_decorations,_etc.>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_military_life>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_officers>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_orchestras_and_bands>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_parades>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_pay,_allowances,_etc.>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_peacekeeping_missions>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_recruiting,_enlistment,_etc.>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_reserves>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_songs_and_music>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_sports>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_transportation>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_uniforms>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force_--_women> ;
+    skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force"@en ;
+    skos:scopeNote "Established Aug. 1914 and ceased to exist November, 1918"@en ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#canada.__army_(use_up_to_1968)> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:narrower <https://example.com/paash#canada.__army_(use_up_to_1968)_--_appointments_and_retirements>,
@@ -32441,64 +32448,34 @@
     skos:prefLabel "Canada.  Royal Canadian Navy. (use up to 1968)"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-<https://example.com/paash#canada._army._canadian_expeditionary_force> a skos:Concept ;
+<https://example.com/paash#canada.__canadian_armed_forces> a skos:Concept ;
     skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._army._canadian_expeditionary_force_--_appointments_and_retirements>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_barracks_and_quarters>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_biography>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_demobilization>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_deployment>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_enlisted_men>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_history>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_inspection>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_installations>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_manoeuvres>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_medals,_badges,_decorations,_etc.>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_military_life>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_officers>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_orchestras_and_bands>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_parades>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_pay,_allowances,_etc.>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_peacekeeping_missions>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_recruiting,_enlistment,_etc.>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_reserves>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_songs_and_music>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_sports>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_transportation>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_uniforms>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force_--_women> ;
-    skos:prefLabel "Canada. Army. Canadian Expeditionary Force"@en ;
-    skos:scopeNote "Established Aug. 1914 and ceased to exist November, 1918"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#canada._canadian_armed_forces> a skos:Concept ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#canada._canadian_armed_forces_--_appointments_and_retirements>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_barracks_and_quarters>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_biography>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_demobilization>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_deployment>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_enlisted_men>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_history>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_inspection>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_installations>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_manoeuvres>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_medals,_badges,_decorations,_etc.>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_military_life>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_officers>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_orchestras_and_bands>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_parades>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_pay,_allowances,_etc.>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_peacekeeping_missions>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_recruiting,_enlistment,_etc.>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_reserves>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_reserves_(after_1968)>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_songs_and_music>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_sports>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_transportation>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_uniforms>,
-        <https://example.com/paash#canada._canadian_armed_forces_--_women> ;
-    skos:prefLabel "Canada. Canadian Armed Forces"@en ;
+    skos:narrower <https://example.com/paash#canada.__canadian_armed_forces_--_appointments_and_retirements>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_barracks_and_quarters>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_biography>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_demobilization>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_deployment>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_enlisted_men>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_history>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_inspection>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_installations>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_manoeuvres>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_medals,_badges,_decorations,_etc.>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_military_life>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_officers>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_orchestras_and_bands>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_parades>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_pay,_allowances,_etc.>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_peacekeeping_missions>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_recruiting,_enlistment,_etc.>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_reserves>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_reserves_(after_1968)>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_songs_and_music>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_sports>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_transportation>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_uniforms>,
+        <https://example.com/paash#canada.__canadian_armed_forces_--_women> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces"@en ;
     skos:scopeNote "Use for all the services from 1968 to the present."@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
@@ -35021,29 +34998,27 @@
         <https://example.com/paash#canada,_western>,
         <https://example.com/paash#canada.__armed_forces>,
         <https://example.com/paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_(use_after_1968)>,
+        <https://example.com/paash#canada.__armed_forces_(after_1968)>,
         <https://example.com/paash#canada.__army>,
         <https://example.com/paash#canada.__army.__[name_of_unit,_regiment,_etc.]_(use_up_to_1968)>,
+        <https://example.com/paash#canada.__army.__canadian_expeditionary_force>,
         <https://example.com/paash#canada.__army_(use_up_to_1968)>,
+        <https://example.com/paash#canada.__canadian_armed_forces>,
         <https://example.com/paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta>,
+        <https://example.com/paash#canada.__constitution_act_1982>,
         <https://example.com/paash#canada.__department_of_[the_interior,_etc.]>,
         <https://example.com/paash#canada.__laws>,
         <https://example.com/paash#canada.__northern>,
         <https://example.com/paash#canada.__parliament>,
         <https://example.com/paash#canada.__parliament.__house_of_commons>,
+        <https://example.com/paash#canada.__parliament.__senate>,
+        <https://example.com/paash#canada.__royal_canadian_air_force>,
         <https://example.com/paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)>,
+        <https://example.com/paash#canada.__royal_canadian_air_force_(up_to_1968)>,
         <https://example.com/paash#canada.__royal_canadian_air_force_(use_up_to_1968)>,
+        <https://example.com/paash#canada.__royal_canadian_navy>,
         <https://example.com/paash#canada.__royal_canadian_navy.>,
         <https://example.com/paash#canada.__royal_canadian_navy._(use_up_to_1968)>,
-        <https://example.com/paash#canada._armed_forces>,
-        <https://example.com/paash#canada._armed_forces_(after_1968)>,
-        <https://example.com/paash#canada._army>,
-        <https://example.com/paash#canada._army._canadian_expeditionary_force>,
-        <https://example.com/paash#canada._canadian_armed_forces>,
-        <https://example.com/paash#canada._constitution_act_1982>,
-        <https://example.com/paash#canada._parliament._senate>,
-        <https://example.com/paash#canada._royal_canadian_air_force>,
-        <https://example.com/paash#canada._royal_canadian_air_force_(up_to_1968)>,
-        <https://example.com/paash#canada._royal_canadian_navy>,
         <https://example.com/paash#canada_day>,
         <https://example.com/paash#canadian_forces_base,_namao_[penhold,_wainwright,_etc.]>,
         <https://example.com/paash#cancer>,
@@ -35450,11 +35425,8 @@
         <https://example.com/paash#election_districts_(local)>,
         <https://example.com/paash#election_districts_(provincial)>,
         <https://example.com/paash#elections>,
-        <https://example.com/paash#elections_(federal)>,
         <https://example.com/paash#elections_(federal,_[date])>,
-        <https://example.com/paash#elections_(local)>,
         <https://example.com/paash#elections_(local,_[date])>,
-        <https://example.com/paash#elections_(provincial)>,
         <https://example.com/paash#elections_(provincial,_[date])>,
         <https://example.com/paash#electric_apparatus_and_appliances>,
         <https://example.com/paash#electric_contracting>,
@@ -36620,6 +36592,7 @@
         <https://example.com/paash#poliomyelitis>,
         <https://example.com/paash#polish_canadians>,
         <https://example.com/paash#political_parties>,
+        <https://example.com/paash#polls>,
         <https://example.com/paash#pollutants>,
         <https://example.com/paash#pollution>,
         <https://example.com/paash#pollution_control>,
