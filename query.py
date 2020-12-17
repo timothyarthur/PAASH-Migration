@@ -5,20 +5,37 @@ import csv
 
 g = rdflib.Graph()
 
-g.parse("paash_num.ttl", format = 'turtle')
+g.parse("paash_num_test.ttl", format = 'turtle')
 g.bind('skos', SKOS)
 
-labels = g.query("""SELECT ?item ?label ?altLabel
+
+#TODO Items with USE that are USE for other items
+
+#Items with USE and rt or nt
+#Do not remove rts
+#Items whose pref label is an alt label for another AND have NT OR have RT
+
+results = g.query("""SELECT DISTINCT ?target ?targetLabel
 	WHERE{
-	?item skos:prefLabel ?label .
-	OPTIONAL {?item skos:altLabel ?altLabel}
-	}
-	GROUP BY ?item
-	"""
+	?target skos:prefLabel ?targetLabel .
+	?pref skos:altLabel ?targetLabel .
+		FILTER(
+			EXISTS{
+				?target skos:related ?rt .
+			}
+			||
+			EXISTS{
+				?target skos:narrower ?nt .
+			}
+		)
+	}"""
 	)
 
-with open('labels.csv', 'w') as file:
-	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-	writer.writerow(['Item', 'Label', 'altLabel'])
-	for row in labels:
-		writer.writerow(row)
+for result in results:
+	print(result)
+
+# with open('results.csv', 'w') as file:
+# 	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+# 	writer.writerow(['Item', 'Label', 'altLabel'])
+# 	for row in labels:
+# 		writer.writerow(row)

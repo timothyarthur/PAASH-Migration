@@ -136,7 +136,13 @@ Buildings
 	RT subdivision Buildings under names of communities and institutions.
 
 By-elections
-	Use Elections [jurisdiction, date]
+	USE Elections (Federal, [date])
+
+By-elections
+	USE Elections (Local, [date])
+
+By-elections
+	USE Elections (Provincial, [date])
 
 By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.

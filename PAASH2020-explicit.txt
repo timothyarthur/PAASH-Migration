@@ -1363,7 +1363,7 @@ Burns and scalds
 Bus terminals
 
 Buses
-	RT Transit systems
+	RT Local transit
 
 Bush flying
 
@@ -1382,7 +1382,9 @@ Butter, Artificial
 	USE Margarine
 
 By-elections
-	Use Elections [jurisdiction, date]
+	USE Elections (Federal, [date])
+	USE Elections (Local, [date])
+	USE Elections (Provincial, [date])
 
 By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
@@ -1590,7 +1592,7 @@ Calgary
 	NT Tornado, [date]
 	NT Tornadoes
 	NT Tourist information centres
-	NT Transit systems
+	NT Local transit
 	NT Wards
 	NT Water
 	NT Zoos
@@ -1623,7 +1625,7 @@ Canada
 	NT Climate
 	NT Commerce--[United States, etc.]
 	NT Constitutional law
-	NT Amendments
+		NT Amendments
 	NT Departments
 		USE Canada.  Department of [the Interior, etc.]
 	NT Description and travel
@@ -1754,6 +1756,7 @@ Canada.  Parliament.  House of Commons
 
 Canada.  Parliament.  Senate
 	NT Members
+	RT Legislative bodies
 
 Canada.  Royal Canadian Air Force (use up to 1968)
 	NT Appointments and retirements
@@ -2082,6 +2085,7 @@ Chickens
 	NT Eggs
 	NT Hatcheries
 	NT Housing
+	RT Poultry
 
 Child abuse
 
@@ -2189,6 +2193,7 @@ Cisnormativity
 
 Cities and towns
 	RT Municipal government
+	RT Municipal Affairs, Department of
 
 Cities and towns, Ruined, extinct, etc.
 	USE Ghost towns
@@ -2588,7 +2593,7 @@ Corrals
 	USE Stockyards
 
 Correctional institutions
-	NT Halfway houses
+	NT Correctional institutions -- Halfway houses
 	NT Inmates
 	NT Juvenile detention homes
 	NT Reformatories
@@ -3039,6 +3044,7 @@ Dairy farming
 	NT Cooperative
 	NT Equipment and supplies
 	NT Exhibitions
+	RT Dairy plants
 
 Dairy plants
 
@@ -3627,7 +3633,7 @@ Droughts
 Drowning
 
 Drug abuse
-	RT Alcoholism
+	RT Substance Use Disorder
 	RT Narcotics
 
 Drug trade
@@ -3893,7 +3899,7 @@ Edmonton
 	NT Tornado, [date]
 	NT Tornadoes
 	NT Tourist information centres
-	NT Transit systems
+	NT Local transit
 	NT Wards
 	NT Water
 	NT Zoos
@@ -4591,6 +4597,7 @@ Football
 Football, American
 
 Footwear
+ RT Footwear industry
 
 Footwear industry
 
@@ -5328,7 +5335,6 @@ Hemophilia
 
 Hens
 	USE Chickens
-	RT Poultry
 
 Heraldry
 	RT Arms of Alberta
@@ -6055,6 +6061,10 @@ Israel-Arab conflicts
 Italian Canadians
 
 Italians
+
+Itinerant labour
+	RT Migrant labour
+	RT Migration, Internal
 
 Jails
 	USE Correctional institutions
@@ -6943,6 +6953,7 @@ Mental hospitals
 
 Mentally disabled
 	RT Physically disabled
+	RT Ableism
 
 Mentally ill
 	USE Mental health
@@ -7724,7 +7735,7 @@ Nuns
 	When possible use specific sect or religion, e.g. Catholic Church -- Nuns
 
 Nurseries
-	RT Day care centres
+	RT Child care
 
 Nurseries (Horticulture)
 
@@ -8296,6 +8307,7 @@ Physically disabled
 	UF Crippled
 	UF Handicapped
 	RT Mentally disabled
+	RT Ableism
 
 Physicians
 	NT Accreditation
@@ -8830,7 +8842,6 @@ Public utilities
 
 Public welfare
 	USE Social assistance
-	RT Child welfare
 
 Public works
 
@@ -9109,7 +9120,7 @@ Registration districts
 Regulations
 
 Rehabilitation centres
-	RT Halfway houses
+	RT Correctional institutions -- Halfway houses
 
 Rehabilitation counselling
 
@@ -9656,7 +9667,6 @@ Shoe stores
 
 Shoes
 	USE Footwear
-	RT Footwear industry
 
 Shooting
 
@@ -9952,6 +9962,7 @@ Soccer
 Social assistance
 	UF Public welfare
 	UF Welfare
+	RT Child welfare
 
 Social credit
 
@@ -10702,8 +10713,6 @@ Transgender
 
 Transient labour
 	USE Itinerant labour
-	RT Migrant labour
-	RT Migration, Internal
 
 Transit systems
 	USE Local transit

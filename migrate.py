@@ -61,7 +61,7 @@ def add_review(item_label, parent_label=None):
 #Removes relational prefix from label
 def clean_label(label, note=False):
 	if "~f" in label:
-		label = label.replace('~f', '')  
+		label = label.replace('~f', '')
 
 	if not note:
 		if label.startswith('USE'):
@@ -210,7 +210,7 @@ def construct_note(item, parent):
 #Loading and parsing plaintext input, then storing terms a nested dictionary data structure
 #End result is a dictionary of dictionaries of lists
 if test:
-	file_name = 'PAASH2020-test.txt'
+	file_name = 'PAASH2020-explicit.txt'
 else:
 	file_name = 'PAASH2020-explicit.txt'
 
@@ -312,10 +312,10 @@ to_remove = g.query("""SELECT DISTINCT ?target
 		)
 	}""")
 
-for row in to_remove:
-	uri = row[0]
-	g.remove((uri, None, None))
-	g.remove((None, None, uri))
+# for row in to_remove:
+# 	uri = row[0]
+# 	g.remove((uri, None, None))
+# 	g.remove((None, None, uri))
 
 #SPARQL query to select all top concepts, i.e. concepts with no broader concepts
 #These are then specified in the graph as skos:topConcepts of the scheme
