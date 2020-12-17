@@ -1,16 +1,16 @@
 Abattoirs
 	USE Slaughtering and slaughter-houses
 
-Abduction     
+Abduction
 
 Ableism
 
 Abnormalities, Human
 	USE Congenital defects
 
-Abortion     
+Abortion
 
-Abused women     
+Abused women
 	USE Domestic violence -- Women
 
 Academic Degrees
@@ -19,78 +19,78 @@ Academic Degrees
 Accident Insurance
 	USE Insurance, Accident
 
-Accident Investigation 
+Accident Investigation
 
-Accidents     
+Accidents
 	RT Traffic accidents
 	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
 	NT Investigation
 	NT Prevention
 
-Accountants     
+Accountants
 
-Accounting     
+Accounting
 	RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies
 
 Acid precipitation
-	USE Weather -- Acid rain 
+	USE Weather -- Acid rain
 
 Acquired immunodeficiency syndrome (AIDS)
 	NT Social aspects
 
-Acrobatics     
+Acrobatics
 
-Acrobats     
+Acrobats
 
-Actions and defenses     
+Actions and defenses
 
 Activated carbons
 	USE Carbon, Activated
 
 Activism and activists
 
-Actors     
+Actors
 
-Actresses	
+Actresses
 	USE Actors
 
-Acts, Government  
+Acts, Government
 	USE Legislation
 
-Administration of estates     
+Administration of estates
 
-Administrative agencies     
+Administrative agencies
 	NT Reorganization
 
 Administrative Services
-	NT Reorganization    
+	NT Reorganization
 
-Adoption     
+Adoption
 
-Adult education     
+Adult education
 	USE Continuing education
 
-Advertising     
+Advertising
 
 Advertising, Government
 	USE Government -- Advertising
 
-Advertising agencies     
+Advertising agencies
 
-Advisory opinions     
+Advisory opinions
 
 Aerial photography
 
-Aeronautics  
-	USE Aviation   
+Aeronautics
+	USE Aviation
 
 Affirmative action programmes
 	USE Employment equity
 
-Afghan War, 2001-    
+Afghan War, 2001-
 
 Aged
-	USE Seniors    
+	USE Seniors
 
 Agoraphobia
 	USE Mental health -- Phobias
@@ -136,41 +136,41 @@ Agriculture, Department of
 
 Agriculture, Minister of
 
-Agriculturists     
+Agriculturists
 
 Air
-	NT Pollution    
+	NT Pollution
 		RT Pollutants
 	NT Quality
 
-Air bases     
+Air bases
 	USE Canada.  Royal Canadian Air Force (up to 1968) -- Installations
-	USE Canada.  Armed Forces (after 1968) -- Installations 
+	USE Canada.  Armed Forces (after 1968) -- Installations
 
-Air Cadets     
+Air Cadets
 	RT Army Cadets
 	RT Sea Cadets
 
-Air mail service     
+Air mail service
 
-Air pilots   
-	USE Aviation -- Pilots  
+Air pilots
+	USE Aviation -- Pilots
 
 Air quality
-	USE Air -- Quality    
+	USE Air -- Quality
 
-Air raid shelters     
+Air raid shelters
 
 Air-ships
 	USE Airships
 
-Air shows     
+Air shows
 
 Air strips
-USE Airports -- Runways
+	USE Airports -- Runways
 
 Air traffic control
-	USE Airports -- Air traffic control     
+	USE Airports -- Air traffic control
 
 Air transport
 	USE Airlines -- Cargo
@@ -179,20 +179,20 @@ Air transportation industry
 	USE Airlines -- Passenger
 
 Air travel
-	USE Airlines -- Passenger	
+	USE Airlines -- Passenger
 
 Aircraft
 	NT Accidents
 	NT Equipment and supplies
 	NT Maintenance and repair
 	NT Models
-	NT Refuelling  
+	NT Refuelling
 
-Aircraft ambulances     
+Aircraft ambulances
 
-Aircraft industry     
+Aircraft industry
 
-Airlines     
+Airlines
 	NT Cargo
 	NT Passenger
 	RT Flight attendants
@@ -202,13 +202,13 @@ Airplane industry
 	USE Aircraft industry
 
 Airplanes
-	NT Biplanes 	
+	NT Biplanes
 
-Airplanes, Military     
+Airplanes, Military
 
-Airports     
+Airports
 	NT Air traffic control
-	NT Baggage handling  
+	NT Baggage handling
 	NT Buildings
 	NT Runways
 
@@ -224,15 +224,15 @@ Alberta
 	NT Anniversaries, etc. (Golden Jubilee)
 	NT Anniversaries, etc. (Seventy-fifth)
 	NT Appropriations and expenditures
-	NT Boundaries     
+	NT Boundaries
 	NT Centennial celebrations, etc.
 	NT Civil service
 	NT Description and travel
 	NT Executive departments
 		Use only when dealing with government departments in general.
 		RT names of specific departments, e.g., Agriculture, Department of
-	NT Foreign relations     
-	NT Inaugural ceremonies     
+	NT Foreign relations
+	NT Inaugural ceremonies
 	NT Officials and employees
 		USE Alberta -- Civil service
 	NT Politics and government
@@ -344,58 +344,58 @@ Alberta Social Credit Party
 	NT History
 	NT Membership
 
-Alcohol 	
-	NT Law and legislation     
-	NT Taxation 
-	RT Liquor traffic 
+Alcohol
+	NT Law and legislation
+	NT Taxation
+	RT Liquor traffic
 		For general works on the liquor industry
 
 Alcoholism
-	USE Substance Use Disorder     
+	USE Substance Use Disorder
 
 Aldermen
-	USE City Councillors under names of cities 
+	USE City Councillors under names of cities
 
-Alfalfa     
+Alfalfa
 
 Aliens, Illegal
 	USE Undocumented immigrants
 
-Alimony 
+Alimony
 
-Alkali soil     
+Alkali soil
 
-All-terrain vehicles     
+All-terrain vehicles
 
 Almanacs
 
 Altars
-	USE Name of religion -- Buildings -- Altars  
+	USE Name of religion -- Buildings -- Altars
 
 Alternative religious movements
-	UF Cults   
+	UF Cults
 
-Amateur radio stations     
+Amateur radio stations
 	UF Ham radio
 	USE Radio -- Amateur radio stations
 
-Ambrotype 
+Ambrotype
 	USE Photography -- Ambrotype
 
 Ambulance attendants
 	USE Emergency medical personnel
 
-Ambulances     
+Ambulances
 	RT Aircraft ambulances
 
-American Canadians     
+American Canadians
 
-Americans     
+Americans
 
 Ammonia
 	UF Anhydrous ammonia
 
-Ammonia industry     
+Ammonia industry
 
 Ammunition
 
@@ -408,9 +408,9 @@ Androgyny
 Androphilia
 	RT Gynephilia
 
-Anesthesiology 
+Anesthesiology
 
-Anglican Church of Canada     
+Anglican Church of Canada
 	NT Baptism
 	NT Buildings
 	NT Clergy
@@ -446,24 +446,24 @@ Animal shelters
 	UF Dog pounds
 	UF Pounds
 
-Animal traps 	
+Animal traps
 	USE Trapping and trappers
 
 Animals
-	NT Diseases	
-	RT Veterinary medicine
-	RT subdivision Diseases under individual animals and groups of animals
+	NT Diseases
+		RT Veterinary medicine
+		RT subdivision Diseases under individual animals and groups of animals
 
 Animals, Domestic
 	USE Domestic animals
 
 Animism and Animists
 
-Annexation (Municipal Government)     
+Annexation (Municipal Government)
 
 Anniversaries
 
-Antelopes     
+Antelopes
 
 Antennas (Electronics)
 
@@ -471,19 +471,19 @@ Anthropology, Cultural
 
 Anthropology, Physical
 
-Antique and classic cars     
+Antique and classic cars
 	USE Automobiles -- Antique and classic cars
 
-Antique dealers     
+Antique dealers
 
-Antisemitism    
+Antisemitism
 	RT Racism
 	RT White supremacy
 
 Antiwar movements
 	USE Peace movements
 
-Apartments     
+Apartments
 	RT subdivision Apartments under names of communities
 
 Apiculture
@@ -491,7 +491,7 @@ Apiculture
 	RT Bees
 	RT Honey
 
-Appeals in forma pauperis  
+Appeals in forma pauperis
 	USE Legal proceedings -- Appellate procedure
 
 Appliance stores
@@ -500,49 +500,49 @@ Appliance stores
 Appliances
 	USE Electric apparatus and appliances
 
-Appraisers    
+Appraisers
 
-Apprentices     
+Apprentices
 
-Aquatic herbicides    
+Aquatic herbicides
 	RT Herbicides
 
-Aqueducts     
+Aqueducts
 
-Arab Canadians     
+Arab Canadians
 	Use specific nationality when possible, e.g. Syrian Canadians
 
-Arabs     
+Arabs
 	Use specific nationality when possible, e.g. Syrians
 
-Arbitration, Labour    
+Arbitration, Labour
 	USE Labour relations -- Arbitration
 
-Arcades     
+Arcades
 
 Archaeological excavations
 	USE Archaeology -- Excavations
 
-Archaeology   
-	NT Excavations  
+Archaeology
+	NT Excavations
 
-Archery     
+Archery
 
-Arches     
+Arches
 
-Architects     
+Architects
 	RT Architectural firms
 
-Architectural firms     
+Architectural firms
 
-Architectural models     
+Architectural models
 
-Architecture     
+Architecture
 
-Archives     
+Archives
 	RT subdivision Archives under subjects, e.g., Universities and colleges -- Archives
 
-Archivists     
+Archivists
 
 Arctic regions
 
@@ -550,14 +550,14 @@ Arenas
 	USE Sports facilities
 
 Armistice Day
-	Use for commemoration of the end of the First World War on 11 November from 1918 to 1930. 	
+	Use for commemoration of the end of the First World War on 11 November from 1918 to 1930.
 	RT Remembrance Day
 
-Armour	
+Armour
 
-Armoured vehicles     
+Armoured vehicles
 
-Armouries     
+Armouries
 
 Arms and armour
 	USE Armour
@@ -566,68 +566,68 @@ Arms and armour
 
 Arms of Alberta
 
-Arms control 	
+Arms control
 
 Army Cadets
 	RT Air Cadets
 	RT Sea Cadets
 
-Armyworms	
+Armyworms
 
-Arrowheads     
+Arrowheads
 
-Arson     
+Arson
 
-Art     
-	Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc. 
+Art
+	Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc.
 	NT Catalogues
 	NT Education
 	NT Galleries
 	NT Private collections
-	NT Studios    
+	NT Studios
 
-Art centres     
+Art centres
 
-Art schools     
+Art schools
 
-Artesian wells     
+Artesian wells
 
 Artifacts
 
 Artificial limbs
 
-Artillery     
+Artillery
 
 Artists
 
-Artistic Swimming 
-	UF Synchronised Swimming 
+Artistic Swimming
+	UF Synchronised Swimming
 
-Asbestos     
+Asbestos
 
 Asexuality
 
-Asian Canadians  
-	Use specific country when possible, e.g. Japanese Canadians   
+Asian Canadians
+	Use specific country when possible, e.g. Japanese Canadians
 
-Asians 
-	Use specific country when possible, e.g. Japanese    
+Asians
+	Use specific country when possible, e.g. Japanese
 
-Assault and battery     
+Assault and battery
 
-Asses	    
+Asses
 	USE Donkeys
 
-Assessment     
+Assessment
 	USE Taxes and taxation -- Assessment
 
 Assessors
 	USE Appraisers
 
-Assignments     
+Assignments
 
-Assiniboine Nation     
-	NT Agriculture    
+Assiniboine Nation
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -640,7 +640,7 @@ Assiniboine Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -648,39 +648,39 @@ Assiniboine Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Assiniboine Nation -- Folklore
 		USE Assiniboine Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -697,13 +697,13 @@ Assiniboine Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -711,15 +711,15 @@ Assiniboine Nation
 	NT Writing
 	NT Youth
 
-Associations, institutions, etc.     
+Associations, institutions, etc.
 	RT specific names of associations.
 	RT Clubs
 
-Astronauts     
+Astronauts
 
 Astrology
 
-Astronomy    
+Astronomy
 
 Athabasca Tar Sands
 	USE Oil sands
@@ -750,16 +750,16 @@ Athabasca University
 	NT Student unions
 	NT Taxation
 
-Athletes     
+Athletes
 
-Athletics	
+Athletics
 	USE Sports
 
 Atmospheric pollution
 	USE Air -- Pollution
 
-Atomic bomb   
-	USE Nuclear warfare and weaponry  
+Atomic bomb
+	USE Nuclear warfare and weaponry
 
 Atomic bomb shelters
 	USE Nuclear warfare and weaponry -- Shelters
@@ -770,17 +770,17 @@ Atomic energy
 Atomic warfare
 	USE Nuclear warfare and weaponry
 
-Attachment and garnishment     
+Attachment and garnishment
 
-Auctions and auctioneers        
+Auctions and auctioneers
 
 Audiometry
 
-Audiovisual media     
+Audiovisual media
 
-Auditing and auditors	
+Auditing and auditors
 
-Auditoriums     
+Auditoriums
 
 Augustana Lutheran Church
 	USE Lutheran Church
@@ -791,53 +791,53 @@ Austerity
 	RT Deregulation
 	RT Neoliberalism
 
-Austrian Canadians     
+Austrian Canadians
 
-Austrians     
+Austrians
 
 Authors
 
-Autism spectrum   
+Autism spectrum
 
-Autographs     
+Autographs
 
-Automation     
+Automation
 
-Automobiles     
+Automobiles
 	NT Antique and classic cars
 	NT Conservation and restoration
 	NT Dealers
 	NT Decoration
 	NT Driving and drivers
-	NT Driving education   
+	NT Driving education
 	NT Environmental aspects
-	NT Industry and trade 
-	NT Inspection   
+	NT Industry and trade
+	NT Inspection
 	NT Insurance
 		USE Insurance -- Automobile
-	NT Law and legislation     
-	NT Licensing    
+	NT Law and legislation
+	NT Licensing
 	NT License plates
-	NT Lighting   
+	NT Lighting
 	NT Maintenance and repair
 	NT Mechanics
 	NT Parts
 	NT Racing
-	NT Registration and transfer 
+	NT Registration and transfer
 	NT Rental
-	NT Safety    
+	NT Safety
 	NT Service stations
 		USE Service stations
-	NT Social aspects    
+	NT Social aspects
 	NT Societies, etc.
-	NT Taxation     
+	NT Taxation
 	NT Tires
 	NT Repairing
 	NT Used parts industry
 
-Autopsy     
+Autopsy
 
-Avalanches     
+Avalanches
 
 Aviation
 	UF Aeronautics
@@ -849,14 +849,14 @@ Aviation
 Aviation insurance
 	USE Insurance, Aviation
 
-Axes     
+Axes
 
-Babysitters     
+Babysitters
 	USE Childcare
 
-Badges     
+Badges
 
-Badminton  
+Badminton
 
 Bagpipes
 
@@ -866,11 +866,11 @@ Baha'i
 	NT Education
 	NT Theology
 
-Bailiffs     
+Bailiffs
 
 Baked goods
 
-Bakers and bakeries     
+Bakers and bakeries
 
 Ball hockey
 	UF Floor hockey
@@ -878,31 +878,31 @@ Ball hockey
 	RT Hockey
 
 Ballet
-	USE Dance -- Ballet     
+	USE Dance -- Ballet
 
-Ballet companies     
+Ballet companies
 
-Balloons	
+Balloons
 	RT Hot air balloons
 
-Ballot    
+Ballot
 
 Ballroom dancing
-	USE Dance -- Ballroom     
+	USE Dance -- Ballroom
 
 Baltic Canadians
 	When possible specify the nation, e.g. Lithuanian Canadian.
 
-Balts     
+Balts
 	When possible specify the nation, e.g. Lithuanian Canadian.
 
-Bands (Music)     
+Bands (Music)
 
-Bank loans     
+Bank loans
 
-Bankruptcy     
+Bankruptcy
 
-Banks and banking     
+Banks and banking
 	RT Credit unions
 	RT Treasury Department.  Treasury Branches
 
@@ -912,7 +912,7 @@ Banquets
 Baptism
 	USE as NT under specific religion
 
-Baptist Church 
+Baptist Church
 	NT Baptism
 	NT Buildings
 	NT Clergy
@@ -927,70 +927,70 @@ Baptist Church
 	NT Societies, etc.
 	NT Sunday schools
 	NT Theology
-	NT Universities and colleges    
+	NT Universities and colleges
 
 Barbecues
 
-Barbers     
+Barbers
 
 Barbershop quartets
 
-Barbershops     
+Barbershops
 
-Barges     
+Barges
 
-Barley     
+Barley
 
-Barns     
+Barns
 
 Barracks
 	RT subdivision Barracks and quarters under armies, etc.
 
 Barrels
 
-Bars (Drinking establishments)  
+Bars (Drinking establishments)
 
 Bartenders
 
-Barter     
+Barter
 
-Baseball     
+Baseball
 
-Basketball     
+Basketball
 
 Bathing suits
 
-Baths		
+Baths
 
-Batik    
+Batik
 
-Baton twirling 	
+Baton twirling
 
 Battered women
 	USE Domestic violence -- Women
 
-Battles     
+Battles
 	RT names of individual battles
 
 Bazaars
 
-Beaches     
+Beaches
 
-Beadwork     
+Beadwork
 
-Beans     
+Beans
 
-Bears     
+Bears
 
-Beauty contests     
+Beauty contests
 
-Beauty culture     
+Beauty culture
 	USE Beauty industry
 	USE Fashion industry
 
 Beauty industry
 
-Beauty shops     
+Beauty shops
 	USE Salons
 
 Beauticians
@@ -1000,50 +1000,50 @@ Beaver Nation
 
 Beavers
 
-Bedding industry     
+Bedding industry
 
 Bedroom furniture
 
-Beds     
+Beds
 
-Bee culture     
+Bee culture
 	USE Apiculture
 
-Beef industry     
+Beef industry
 
-Beefalo     
+Beefalo
 
-Beer     
+Beer
 	NT Social aspects
-	NT Taxation  
+	NT Taxation
 
-Bees     
+Bees
 
-Beet sugar 	
+Beet sugar
 
-Beet sugar industry     
+Beet sugar industry
 
-Beets     
+Beets
 
-Beggars 
-	USE Panhandling and panhandlers    
+Beggars
+	USE Panhandling and panhandlers
 
-Belgian Canadians     
+Belgian Canadians
 
-Belgians     
+Belgians
 
-Bells     
+Bells
 
 Belt conveyors
 
-Berries     
+Berries
 	RT names of particular berries
-	NT Harvesting   
+	NT Harvesting
 
 Bertha armyworm
 	USE Armyworms
 
-Beverage processing plants     
+Beverage processing plants
 	RT Breweries
 	RT Distilleries
 	RT Wine and wine making
@@ -1054,26 +1054,26 @@ Beverages
 Bible
 	USE Christianity -- Bible
 
-Bibliography     
+Bibliography
 
 Biculturalism
-	RT Polyculturalism     
+	RT Polyculturalism
 
-Bicycles     
+Bicycles
 
-Bigamy     
+Bigamy
 	RT Polygamy
 
-Bilingualism     
+Bilingualism
 
-Billiard halls     
+Billiard halls
 
 Billiards
 
-Bills, Legislative     
+Bills, Legislative
 	USE Legislative Assembly -- Bills
 
-Bills, Private     
+Bills, Private
 	USE Legislative Assembly -- Private bills
 
 Binder twine
@@ -1081,29 +1081,29 @@ Binder twine
 
 Binders
 
-Bingo     
+Bingo
 
 Biography
 
-Biologists     
+Biologists
 
-Biology     
+Biology
 
 Biplanes
-	USE Airplanes -- Biplanes 	
+	USE Airplanes -- Biplanes
 
-Birds     
+Birds
 	NT Banding
 	NT Birdwatching
 	NT Conservation
 	NT Migration
 	NT Sanctuaries
 
-Birth certificates     
+Birth certificates
 
-Birth control     
+Birth control
 	NT Religious aspects [Baptist Church, Catholic Church, etc.]
-	RT Contraception 
+	RT Contraception
 
 Birth defects
 	USE Congenital defects
@@ -1113,7 +1113,7 @@ Birthdays
 Biscuits
 	NT Trade and manufacture
 
-Bishops     
+Bishops
 	Where possible use the subdivision Bishops under the specific denomination.
 
 Bisexuality
@@ -1129,7 +1129,7 @@ Bison
 Bituminous sand
 	USE Oil sands
 
-Black Canadians     
+Black Canadians
 
 Blackflies
 
@@ -1143,15 +1143,15 @@ Blackfoot Nation
 	USE Siksika Nation
 	RT Niitsitapi
 
-Blacksmiths     
+Blacksmiths
 
-Blind 
-	USE Visually impaired    
+Blind
+	USE Visually impaired
 
-Blindness   
-	USE Visual impairment  
+Blindness
+	USE Visual impairment
 
-Blizzards     
+Blizzards
 
 Blood
 	NT Donation
@@ -1160,23 +1160,23 @@ Blood
 Blood Nation
 	USE Kainai Nation
 
-Boarding houses	
+Boarding houses
 
-Boards of trade     
+Boards of trade
 	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
 
-Boatbuilding     
+Boatbuilding
 
-Boathouses     
+Boathouses
 
-Boats and boating     
+Boats and boating
 	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
 
 Bobcats
 
-Bobsledding     
+Bobsledding
 
-Bodybuilding     
+Bodybuilding
 
 Boer War, 1899-1902
 	USE South African War, 1899-1902
@@ -1188,54 +1188,54 @@ Bomb shelters
 	USE Air raid shelters
 	USE Nuclear warfare and weaponry -- Shelters
 
-Bombings     
+Bombings
 
 Bonding of employees
 	USE Insurance -- Surety and fidelity
 
-Bonds     
+Bonds
 
 Bones
 
-Bookbinding     
+Bookbinding
 
 Book plates
 
-Books     
+Books
 
 Bookstores
 	USE Stores, Retail -- Bookstores
 
-Boots     
+Boots
 	USE Footwear
 
-Boring     
+Boring
 
-Botany     
+Botany
 
-Bottles     
+Bottles
 
-Boulders     
+Boulders
 
 Boundaries
 	USE NT Boundaries under place names.
 
-Bounties     
+Bounties
 
-Bowling     
+Bowling
 
-Bowling alleys     
+Bowling alleys
 
 Bowling on the green
 	USE Lawn bowling
 
-Box making     
+Box making
 
-Boxing     
+Boxing
 	NT Injuries
 
-Boys 
-	NT Education		
+Boys
+	NT Education
 	NT Societies and clubs
 
 Branding of cattle
@@ -1244,39 +1244,39 @@ Branding of cattle
 Brands
 	USE Livestock -- Brands and branding
 
-Bread     
+Bread
 
 Breath tests
-	USE Law enforcement -- Field sobriety tests     
+	USE Law enforcement -- Field sobriety tests
 
 Breathing apparatus
 	USE Respirators
 
-Breeding 
-	USE as NT under BT, e.g. Livestock -- Breeding    
+Breeding
+	USE as NT under BT, e.g. Livestock -- Breeding
 
-Breweries 
-	NT Workers 
-	RT Beverage processing plants   
+Breweries
+	NT Workers
+	RT Beverage processing plants
 
-Brewing industry     
-	NT Law and legislation     
+Brewing industry
+	NT Law and legislation
 	RT Beer -- Taxation
 
-Bribery     
+Bribery
 
-Brick trade     
+Brick trade
 
-Bricklayers     
+Bricklayers
 
-Brickmaking     
+Brickmaking
 
-Bricks     
+Bricks
 
 Bridge construction
 	USE Bridges -- Design and construction
 
-Bridges     
+Bridges
 	NT Cantilever
 	NT Concrete
 	NT Design and construction
@@ -1286,38 +1286,38 @@ Bridges
 	RT subdivision Bridges under names of rivers, communities, etc.
 	RT names of individual bridges
 
-British  
+British
 	When possible use English, Scottish, Welsh, or Northern Irish.
 
-British Canadians     
+British Canadians
 	When possible use English Canadians, Scottish Canadians, Welsh Canadians, or Northern Irish Canadians.
 
 British Commonwealth countries/nations
 	USE Commonwealth of Nations
 
-Broad jump     
+Broad jump
 
 Broadcast journalism
-	USE Journalists and journalism -- Broadcast     
+	USE Journalists and journalism -- Broadcast
 
-Brokers     
+Brokers
 
-Broom and brush industry     
+Broom and brush industry
 
 Broomball
 
 Brothels
 	USE Prostitution
 
-Buddhism 
+Buddhism
 	NT Buildings
 	NT Ceremonies
 	NT Clergy
 	NT Theology
 
-Buddhists  
+Buddhists
 
-Budget     
+Budget
 	RT Appropriations and expenditures under names of governmental jurisdictions, associations, etc.
 
 Budget speech
@@ -1334,47 +1334,47 @@ Buffalo, Wood
 Buffalo bones
 	USE Bones
 
-Buffalo jump     
+Buffalo jump
 
 Buggies
 	USE Carriages and carts
 
-Building     
+Building
 	USE Construction industry
 
 Buildings
 	NT Prefabricated
-	NT Wooden     
+	NT Wooden
 	RT names of particular types of buildings, e.g., Archive buildings
 	RT subdivision Buildings under names of communities and institutions.
 
 Bulldozers
 
-Bulletin boards   
+Bulletin boards
 
-Bulls     
+Bulls
 	USE Cattle
 
-Burial     
+Burial
 	RT Funeral rites and ceremonies
 
-Burns and scalds     
+Burns and scalds
 
-Bus terminals     
+Bus terminals
 
-Buses     
+Buses
 	RT Transit systems
 
-Bush flying     
+Bush flying
 
-Bush pilots     
+Bush pilots
 
 Business
 	NT Education
-	NT Enterprises	
+	NT Enterprises
 
 Butchery and butchers
-	RT Slaughtering and slaughter-houses     
+	RT Slaughtering and slaughter-houses
 
 Butter
 
@@ -1384,13 +1384,13 @@ Butter, Artificial
 By-elections
 	Use Elections [jurisdiction, date]
 
-By-laws     
+By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
 
 By-Laws, Municipals
 	USE Ordinances, Municipal
 
-Cabbage     
+Cabbage
 
 Cabinet
 	USE Executive Council
@@ -1402,7 +1402,7 @@ Cabins
 	USE Log cabins
 	USE Vacation homes
 
-Cable cars     
+Cable cars
 
 Cabooses (Railroads)
 
@@ -1420,10 +1420,10 @@ Cafes
 
 Cafeterias
 
-Cairns     
+Cairns
 	RT Historical markers
 
-Cake     
+Cake
 
 Calendars
 
@@ -1595,32 +1595,32 @@ Calgary
 	NT Water
 	NT Zoos
 
-Camels     
+Camels
 
 Camera stores
 	USE Stores, Retail -- Photographic equipment
 
-Cameras     
+Cameras
 
-Camp sites, facilities, etc.     
+Camp sites, facilities, etc.
 
-Camping     
+Camping
 
-Camps     
+Camps
 	NT Outfits, supplies, etc.
 
 Camps (Military)
 	USE Canada.  Armed Forces -- Installations
 	USE Military bases
 
-Campus police     
+Campus police
 	USE Universities and colleges -- Security
 
 Canada
 	NT Anniversaries, etc.
-	NT Boundaries     
+	NT Boundaries
 	NT Centennial celebrations, etc.
-	NT Climate   
+	NT Climate
 	NT Commerce--[United States, etc.]
 	NT Constitutional law
 	NT Amendments
@@ -1851,30 +1851,30 @@ Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 Canals
 	USE Irrigation canals and flumes
 
-Cancer     
-	NT Complications      
-	NT Diagnosis      
-	NT Hospitals     
-	NT Law and legislation     
+Cancer
+	NT Complications
+	NT Diagnosis
+	NT Hospitals
+	NT Law and legislation
 	NT Mortality
-	NT Nursing     
+	NT Nursing
 	NT Prevention
-	NT Reporting     
-	NT Research     
-	NT Social aspects     
-	NT Surgery     
-	NT Treatment     
+	NT Reporting
+	NT Research
+	NT Social aspects
+	NT Surgery
+	NT Treatment
 
 Cancer clinics
 	USE Cancer -- Hospitals
 
 Candles
 
-Candlesticks     
+Candlesticks
 
-Candy     
+Candy
 
-Candy industry     
+Candy industry
 
 Candy stores
 	USE Stores, Retail -- Confectionary
@@ -1882,25 +1882,25 @@ Candy stores
 Cannabis
 	UF Marijuana
 
-Canneries     
+Canneries
 
-Cannery workers     
+Cannery workers
 
 Canning and preserving
 
-Canoes and canoeing     
+Canoes and canoeing
 
-Canola     
+Canola
 	RT Rape (Plant)
 
-Canyons     
+Canyons
 
 Capital punishment
-	NT Abolition     
+	NT Abolition
 
 Capitalism
 
-Car washes     
+Car washes
 
 Carbon, Activated
 
@@ -1908,14 +1908,14 @@ Cardiology
 	RT Heart diseases
 
 Cards
-	USE Playing cards 
+	USE Playing cards
 	USE Greeting cards
 
-Career education     
+Career education
 	RT Vocational guidance
 
 Cargo ships
-	USE Ships -- Cargo     
+	USE Ships -- Cargo
 
 Caribbean Canadians
 	UF West Indian Canadians
@@ -1925,42 +1925,42 @@ Caribbeans
 	UF West Indians
 	Use specific nation when possible.
 
-Caribou     
+Caribou
 
 Caricatures and cartoons
-	UF Cartoons     
+	UF Cartoons
 
-Carillons     
+Carillons
 
-Carnival     
+Carnival
 
-Carpenters     
+Carpenters
 
-Carpentry     
+Carpentry
 
-Carpets     
+Carpets
 
-Carriages and carts     
+Carriages and carts
 
 Cars
 	USE Automobiles
 
-Cartography     
+Cartography
 
-Cartoonists     
+Cartoonists
 
 Cartoons
 	USE Caricatures and cartoons
 
-Casinos     
+Casinos
 	RT Gambling
 
-Cast-iron pipe 	
+Cast-iron pipe
 
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
 
-Catering and caterers     
+Catering and caterers
 
 Caterpillars
 
@@ -1969,52 +1969,52 @@ Catholic Church
 	NT Clergy
 	NT Congregations and Orders
 	NT Customs and practices
-	NT Dioceses   
-	NT Education     
+	NT Dioceses
+	NT Education
 	NT Finance
 	NT History
-	NT Missions     
+	NT Missions
 	NT Residential schools
 	NT Sermons
 	NT Societies, etc.
 
-Cats     
+Cats
 
-Cattle     
+Cattle
 	NT Brands
 		USE Cattle brands
 	NT Breeding
 	NT Breeds
-	NT Diseases  
+	NT Diseases
 	NT Feeding and feeds
-	NT Grading   
+	NT Grading
 	NT Marketing
 	NT Rustling
 	NT Transportation
 
-Cavalry     
+Cavalry
 
-Caves     
+Caves
 
 Celebrations, anniversaries, etc.
 	USE Anniversaries
 
-Celebrities     
+Celebrities
 
-Cement industries     
+Cement industries
 
 Cement kilns
 
 Cement mixers
 	USE Concrete mixers
 
-Cemeteries     
+Cemeteries
 	RT names of individual cemeteries
 
 Cenotaphs
 	USE War memorials
 
-Censorship     
+Censorship
 	RT subdivision Censorship under specific topics
 
 Census
@@ -2023,13 +2023,13 @@ Centennial celebrations
 	USE Alberta -- Centennial celebrations, etc.
 	USE Canada -- Centennial celebrations, etc.
 
-Ceramic industries     
+Ceramic industries
 
-Cerebral palsy     
+Cerebral palsy
 
-Cerebrovascular disease     
+Cerebrovascular disease
 
-Ceremonial maces     
+Ceremonial maces
 	RT Provincial mace
 
 Ceremonies
@@ -2046,100 +2046,100 @@ Chambers of Commerce
 	USE Boards of trade
 	USE name of individual Chamber of Commerce
 
-Chapels     
+Chapels
 
 Chaplains
 
-Charities     
+Charities
 
 Charters
 
-Chattel mortgages     
+Chattel mortgages
 
-Chautauquas 
+Chautauquas
 
-Cheerleading     
+Cheerleading
 
 Cheers
 
-Cheese     
+Cheese
 
-Cheese factories     
+Cheese factories
 
 Chefs
 
 Chemical apparatus
 
-Chemical industry     
+Chemical industry
 
-Chemistry     
+Chemistry
 
-Chess     
+Chess
 
-Chests     
+Chests
 
-Chickens     
+Chickens
 	NT Eggs
-	NT Hatcheries  
-	NT Housing     
+	NT Hatcheries
+	NT Housing
 
-Child abuse     
+Child abuse
 
-Child care workers     
+Child care workers
 
-Child welfare     
+Child welfare
 	RT Children -- Legal status, laws, etc.
 
-Childbirth     
+Childbirth
 	NT Home birth
 	NT Midwifery and midwives
-	NT Study and teaching     
+	NT Study and teaching
 
 Childcare
 	UF Babysitting
 
-Children     
+Children
 	NT Art
 	NT Biography
 	NT Clothing
-	NT Diseases     
-	NT Employment     
-	NT Health 
-	NT Hospitals     
-	NT Institutional care     
+	NT Diseases
+	NT Employment
+	NT Health
+	NT Hospitals
+	NT Institutional care
 	NT Legal status, laws, etc.
 	NT Music
 	NT Nutrition
 	NT Societies and clubs
 
-Children's literature   
+Children's literature
 
-Chilean Canadians     
+Chilean Canadians
 
 Chileans
 
-Chimneys     
+Chimneys
 
 Chinaware
 	USE Porcelain
 	USE Pottery
 
-Chinese     
+Chinese
 
-Chinese Canadians     
+Chinese Canadians
 
 Chinese languages
 	NT Cantonese
-	NT Mandarin     
+	NT Mandarin
 
 Chipewyan Nation
 	USE Dene Suline Nation
 
-Chipmunks     
+Chipmunks
 
-Chiropractors     
+Chiropractors
 
-Choirs     
+Choirs
 
 Chopping wood
 	USE Firewood
@@ -2158,15 +2158,15 @@ Christianity
 
 Christians
 
-Christmas    
+Christmas
 	NT Decorations, etc.
-	NT Greeting cards 
+	NT Greeting cards
 
-Chuckwagon racing     
+Chuckwagon racing
 
 Church buildings
 
-Church lands     
+Church lands
 
 Church of Jesus Christ of the Latter Day Saints
 	UF Mormons
@@ -2175,47 +2175,47 @@ Church of Jesus Christ of the Latter Day Saints
 	NT Missions and missionaries
 	NT Theology
 
-Cigar industry     
+Cigar industry
 
 Cinematography
 
-Circus     
+Circus
 
-Circus animals 
+Circus animals
 
 Cisgender
 
-Cisnormativity   
+Cisnormativity
 
 Cities and towns
 	RT Municipal government
 
-Cities and towns, Ruined, extinct, etc.     
+Cities and towns, Ruined, extinct, etc.
 	USE Ghost towns
 
-Citizenship     
+Citizenship
 
 Citizens' protection organizations
 	USE Crime prevention -- Citizen participation
 
-City Council members   
+City Council members
 
-City councils   
+City councils
 	USE names of specific City councils, e.g., Edmonton.  City Council
 	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
-City planning     
+City planning
 
 Civil court cases
 	USE Civil law -- Cases
 
-Civil defence     
+Civil defence
 	NT Distant Early Warning Line
 
-Civil law     
+Civil law
 	NT Cases
 
-Civil rights     
+Civil rights
 	RT Human rights
 
 Civil service
@@ -2225,29 +2225,29 @@ Civil service
 
 Class and classism
 
-Clay industries     
+Clay industries
 
 Cleaning
 
-Clearing of land     
+Clearing of land
 
-Clergy     
+Clergy
 	When possible use specific sect, e.g. Catholic Church -- Clergy
 
-Clerks     
+Clerks
 
-Clerks of court     
+Clerks of court
 
 Climate
 
 Climate change
 
-Clinics     
+Clinics
 	USE Medical clinics
 
-Clocks and watch making     
+Clocks and watch making
 
-Clocks and watches     
+Clocks and watches
 
 Clothing and dress
 	RT Children's clothing
@@ -2257,24 +2257,24 @@ Clothing and dress
 Clothing stores
 	USE Stores, Retail -- Clothing
 
-Clothing trade     
+Clothing trade
 	USE Garment industry
 
-Clothing workers     
+Clothing workers
 	USE Garment industry -- Workers
 
-Clouds     
+Clouds
 
-Clowns     
+Clowns
 
-Clubs      
+Clubs
 
 Coaches
 	USE Carriages and carts
 
-Coaches (Athletics)     
+Coaches (Athletics)
 
-Coal     
+Coal
 	NT Carbonization
 	NT Gasification
 	NT Industry
@@ -2289,49 +2289,49 @@ Coal
 	NT Storage
 	NT Transportation
 
-Coal companies     
+Coal companies
 
-Coal leases     
+Coal leases
 	RT Mining leases
 
 Coats of arms
 	USE Heraldry
 	USE Arms of Alberta
 
-Coffee    
+Coffee
 
-Coffee houses     
+Coffee houses
 
-Coffins     
+Coffins
 
-Coinage   
+Coinage
 	USE Money
 	USE Numismatics
 
-Coke industry     
+Coke industry
 
 Cold storage
 
-Cold War, 1945-1991     
+Cold War, 1945-1991
 
-Collection agencies     
+Collection agencies
 
 Collective agreements
 	USE Labour relations -- Collective bargaining agreements
 
-Collective bargaining     
+Collective bargaining
 	USE Labour relations -- Collective bargaining agreements
 
 College buildings
-	USE Universities and colleges -- Buildings    
+	USE Universities and colleges -- Buildings
 
 College sports
-	USE Universities and colleges -- Sports     
+	USE Universities and colleges -- Sports
 
-College students  
-	USE Universities and colleges -- Students   
+College students
+	USE Universities and colleges -- Students
 
-College teachers     
+College teachers
 	USE Universities and colleges -- Faculty
 
 Colleges
@@ -2342,15 +2342,15 @@ Colon (Anatomy)
 
 Colonialism
 
-Combines (Agricultural machinery)     
+Combines (Agricultural machinery)
 
-Comedy programs     
+Comedy programs
 
-Comic books, strips, etc.     
+Comic books, strips, etc.
 
-Commercial catalogues   
+Commercial catalogues
 
-Commercial credit     
+Commercial credit
 
 Commercial travellers
 	USE Travelling sales personnel
@@ -2363,7 +2363,7 @@ Commissions (of inquiry)
 	USE Governmental investigations
 	USE Names of specific commissions
 
-Committees    
+Committees
 	Use only for collections containing material on several committees.
 	For individual committees USE name of committee.
 
@@ -2380,18 +2380,18 @@ Commonwealth Games (11th : 1978 : Edmonton, Alberta)
 Commonwealth of Nations
 	UF British Commonwealth countries/nations
 
-Communal living    
+Communal living
 
 Communes
 	USE Communal living
 
-Communicable diseases     
+Communicable diseases
 
-Communication     
+Communication
 
-Communication in education     
+Communication in education
 
-Communism     
+Communism
 
 Communist parties
 
@@ -2405,17 +2405,17 @@ Communist Party -- Alberta
 Community art centres
 	USE Art centres
 
-Community centres     
+Community centres
 
 Community correctional centres
 	USE Correctional institutions
 
-Community development     
+Community development
 
 Community halls
 	USE Community centres
 
-Community leagues   
+Community leagues
 
 Community pastures
 	USE Pastures
@@ -2426,9 +2426,9 @@ Companies
 Compensation for victims of crime
 	USE Reparation
 
-Compensation (Law)     
+Compensation (Law)
 
-Composers     
+Composers
 
 Computers
 	NT Programs
@@ -2436,9 +2436,9 @@ Computers
 	RT Electronic data processing
 	RT Information storage and retrieval systems
 
-Concert programs   
+Concert programs
 
-Concerts     
+Concerts
 	RT Music -- Performance
 
 Concrete
@@ -2448,7 +2448,7 @@ Concrete mixers
 Conditional sales
 	USE Sales, conditional
 
-Condominiums     
+Condominiums
 
 Confederacy of Treaty Six First Nations
 
@@ -2464,7 +2464,7 @@ Congenital defects
 	UF Abnormalities, Human
 	UF Birth defects
 
-Congregationalists, Finnish [German, etc.] 
+Congregationalists, Finnish [German, etc.]
 
 Congress
 	USE Conferences and conventions
@@ -2477,67 +2477,67 @@ Conservation
 	USE Water conservation
 	USE Wildlife conservation
 
-Conservatories   
+Conservatories
 	USE Greenhouses
 
-Conservatories of music     
+Conservatories of music
 	RT Music -- Instruction and study
 
 Constituencies
 	USE Election districts (Federal)
 
-Constitutional conventions     
+Constitutional conventions
 	RT Canada.  Constitution Act 1982
 
-Construction equipment     
+Construction equipment
 
-Construction equipment industry     
+Construction equipment industry
 
 Construction industry
-	NT Codes     
+	NT Codes
 	NT Materials
 	NT Permits
 
-Construction workers     
+Construction workers
 
 Consulates
 	USE Diplomatic and consular service
 	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
 
-Consultants    
+Consultants
 
 Consumer associations
 
-Consumer credit     
+Consumer credit
 
-Consumer protection    
+Consumer protection
 
-Containerization   
+Containerization
 
-Contested elections  
+Contested elections
 	USE Elections -- Contested
 
-Continuing education     
+Continuing education
 
 Contraception
 	RT Birth control
 
-Contractors     
+Contractors
 
-Conventions     
+Conventions
 	USE Conferences and conventions
 
-Convents  
+Convents
 	USE as NT under specific sect or religion.
 
-Conveyor belts  
+Conveyor belts
 	RT Belt conveyors
 
-Cookery     
+Cookery
 
-Cookies   
+Cookies
 
-Cooks     
+Cooks
 
 Coolie labour
 	USE Railroads -- Construction workers
@@ -2549,7 +2549,7 @@ Cooperative Commonwealth Federation
 	NT History
 	NT Membership
 
-Cooperative societies     
+Cooperative societies
 
 Cooperatives
 	USE Cooperative societies
@@ -2557,92 +2557,92 @@ Cooperatives
 Co-ops
 	USE Cooperative societies
 
-Copper mines and mining     
+Copper mines and mining
 
-Copyright 
+Copyright
 
-Corn     
+Corn
 
-Cornerstone laying     
+Cornerstone laying
 	RT subdivision Laying of cornerstone under names of specific buildings
 
-Coronations     
+Coronations
 
-Coroners     
+Coroners
 
-Corporation law     
+Corporation law
 	USE Law -- Corporate
 
-Corporations     
+Corporations
 	NT Finance
-	NT Taxation     
+	NT Taxation
 
-Corporations, Foreign     
+Corporations, Foreign
 
-Corporations, Government     
+Corporations, Government
 
 Corpses
 	USE Cadavers
 
-Corrals    
+Corrals
 	USE Stockyards
 
-Correctional institutions     
+Correctional institutions
 	NT Halfway houses
 	NT Inmates
 	NT Juvenile detention homes
 	NT Reformatories
 	NT Remand centres
 
-Correctional personnel     
+Correctional personnel
 
-Cosmetics     
+Cosmetics
 
-Costume     
+Costume
 	RT Traditional dress
 
-Cottages     
+Cottages
 
-Cotton fabrics     
+Cotton fabrics
 
 Cougars
-	USE Mountain lions 
+	USE Mountain lions
 
-Counterfeits and counterfeiting     
+Counterfeits and counterfeiting
 
 Counties
 	RT Local government
 	Municipal Affairs, Department of
 	For names of particular counties use the following format:  Parkland, County of
 
-Country clubs     
+Country clubs
 
-Country music     
+Country music
 
 Courier service
 	USE Express service
 
-Courthouses     
+Courthouses
 
-Court reporters     
+Court reporters
 
-Courts 
+Courts
 
 Covered wagons
 	USE Wagons
 
-Cowboys     
+Cowboys
 
-Cowgirls     
+Cowgirls
 
-Coyotes     
+Coyotes
 
-Cranes (Birds)  
+Cranes (Birds)
 
-Cranes, derricks, etc.     
+Cranes, derricks, etc.
 	RT Construction equipment
 
-Creameries     
+Creameries
 	RT Dairying
 	RT Dairy plants
 
@@ -2650,17 +2650,17 @@ Creationism
 
 Creative writing
 
-Creches (Nativity scenes)    
+Creches (Nativity scenes)
 
-Credit cards     
+Credit cards
 
-Credit unions     
+Credit unions
 	RT Banks and banking
 	RT Cooperative societies
 
 Cree Nation
 	When possible use name of specific nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -2673,7 +2673,7 @@ Cree Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -2681,39 +2681,39 @@ Cree Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation -- Folklore
 		USE Cree Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -2730,13 +2730,13 @@ Cree Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Cree Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -2745,7 +2745,7 @@ Cree Nation
 	NT Youth
 
 Cree Nation, Plains
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -2758,7 +2758,7 @@ Cree Nation, Plains
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -2766,39 +2766,39 @@ Cree Nation, Plains
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation, Plains -- Folklore
 		USE Cree Nation, Plains -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -2815,13 +2815,13 @@ Cree Nation, Plains
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Cree Nation, Plains -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -2830,7 +2830,7 @@ Cree Nation, Plains
 	NT Youth
 
 Cree Nation, Woodlands
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -2843,7 +2843,7 @@ Cree Nation, Woodlands
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -2851,39 +2851,39 @@ Cree Nation, Woodlands
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation, Woodlands -- Folklore
 		USE Cree Nation, Woodlands -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -2900,13 +2900,13 @@ Cree Nation, Woodlands
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Cree Nation, Woodlands -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -2918,58 +2918,58 @@ Creeks
 	USE name of creek
 	USE Rivers
 
-Cremation     
+Cremation
 	RT Funeral rites and ceremonies
 	RT Undertakers and undertaking~f
 
-Crematoriums     
+Crematoriums
 	RT Funeral rites and ceremonies
 	RT Undertakers and undertaking~f
 
-Cribs (Children's furniture)     
+Cribs (Children's furniture)
 	RT Children's furniture
 
-Cricket         
+Cricket
 
-Crime and criminals     
+Crime and criminals
 	NT Victims
 
 Crime, Compensation for
 	USE Reparation
 
-Crime prevention     
+Crime prevention
 NT Citizen participation
 
-Criminal investigation     
+Criminal investigation
 
-Criminal law     
+Criminal law
 	USE Law -- Criminal
 
 Crippled
-	USE Physically disabled 
+	USE Physically disabled
 
 Crisis centres
 	USE Crisis intervention (Psychiatry)
 
-Crisis intervention (Psychiatry)    
+Crisis intervention (Psychiatry)
 
 Crisis lines
 	USE Crisis intervention (Psychiatry)
 
-Crops  
+Crops
 	USE Field crops
 
-Croquet     
+Croquet
 
-Crosses     
+Crosses
 	USE Liturgical objects
 
-Crown lands   
+Crown lands
 	USE Public lands
 
 Crown Prosecutors
 
-Crows  
+Crows
 
 Crucifixes
 	USE Liturgical objects
@@ -2979,57 +2979,57 @@ Crude oil
 
 Cruise missiles
 
-Crushing machinery  
+Crushing machinery
 
-Cuban Canadians     
+Cuban Canadians
 
-Cubans     
+Cubans
 
-Cultivators   
+Cultivators
 	RT Agricultural machinery
 
 Cults
 	USE Alternative religious movements
-	USE Fanaticism     
+	USE Fanaticism
 
-Culverts     
+Culverts
 
-Cupboards     
+Cupboards
 
 Cups (Trophies)
 	USE Sports -- Awards
 
-Curling     
+Curling
 
-Curling rinks     
+Curling rinks
 
 Currency
 	USE Money
 
-Custody of children     
+Custody of children
 
 Customs (Tariff)
 	USE Tariffs
 
-Customs administration     
+Customs administration
 
-Cutlery     
+Cutlery
 
-Cutting machines  
+Cutting machines
 
-Cycling     
+Cycling
 
 Cyclones
 	USE Tornadoes
 
-Cystic fibrosis     
+Cystic fibrosis
 
-Czech Canadians     
+Czech Canadians
 
-Czechs     
+Czechs
 
 Daguerreotype
-	USE Photography -- Daguerreotype     
+	USE Photography -- Daguerreotype
 
 Dairies
 	USE Dairy plants
@@ -3038,17 +3038,17 @@ Dairies
 Dairy farming
 	NT Cooperative
 	NT Equipment and supplies
-	NT Exhibitions 
+	NT Exhibitions
 
-Dairy plants     
+Dairy plants
 
-Dairy products     
+Dairy products
 	NT Marketing
 	RT Cheese products
 
-Dams     
+Dams
 
-Dance  
+Dance
 	NT Ballet
 	NT Ballroom
 	NT Folk
@@ -3062,12 +3062,12 @@ Dance
 
 Dance parties
 
-Dancing     
+Dancing
 	USE Dance
 
 Dane-zaa Nation
 	UF Beaver Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -3080,7 +3080,7 @@ Dane-zaa Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -3088,39 +3088,39 @@ Dane-zaa Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Dane-zaa Nation -- Folklore
 		USE Dane-zaa Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -3137,13 +3137,13 @@ Dane-zaa Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Dane-zaa Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -3156,67 +3156,67 @@ Danes
 Dangerous goods routes
 	USE Hazardous substances -- Transportation
 
-Danish Canadians     
+Danish Canadians
 
-Darts (Game)     
+Darts (Game)
 
 Data processing
 	USE Electronic data processing
 	USE Information storage and retrieval systems
 
-Data protection     
+Data protection
 
-Dating (Social customs)   
+Dating (Social customs)
 
-Day care centres     
+Day care centres
 	USE Child care
 
 Day nurseries
 	USE Child care
 
-Daylight saving     
+Daylight saving
 
-Deaf     
+Deaf
 	USE Hearing impaired
 
-Death     
+Death
 	NT Causes
 
 Debentures
 	USE Bonds
 
-Debt     
+Debt
 
-Decentralization 
+Decentralization
 
-Decorations of honour     
+Decorations of honour
 	RT Canada.  Armed Forces -- Medals, badges, decorations, etc.
 
-Deeds     
+Deeds
 
-Deer     
+Deer
 
-Defectors     
+Defectors
 
-Degrees, Academic     
+Degrees, Academic
 
-Dehorning  
+Dehorning
 
 Delivery wagons
 	USE Wagons
 
-Demographic surveys     
+Demographic surveys
 
 Demolition
 	USE Wrecking
 
-Demonstrations     
+Demonstrations
 
 Demurrage
 
 Dene Suline Nation
 	UF Chipewyan Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -3229,7 +3229,7 @@ Dene Suline Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -3237,39 +3237,39 @@ Dene Suline Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Dene Suline Nation -- Folklore
 		USE Dene Suline Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -3286,13 +3286,13 @@ Dene Suline Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Dene Suline Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -3301,8 +3301,8 @@ Dene Suline Nation
 	NT Youth
 
 Dene Tha' Nation
-	UF Slavey Nation     
-	NT Agriculture    
+	UF Slavey Nation
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -3315,7 +3315,7 @@ Dene Tha' Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -3323,39 +3323,39 @@ Dene Tha' Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Dene Tha' Nation -- Folklore
 		USE Dene Tha' Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -3372,13 +3372,13 @@ Dene Tha' Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Dene Tha' Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -3390,55 +3390,55 @@ Dentistry
 	NT Clinics
 	NT Fees
 	NT Instruments and apparatus
-	NT Technicians     
+	NT Technicians
 
-Dentists     
+Dentists
 
-Department stores  
+Department stores
 	USE Stores, Retail -- Department stores
 
-Deportation     
+Deportation
 
 Depression
 	USE Mental health -- Depression
 
 Depressions (economic)
-	RT Great Depression, 1929-1939   
+	RT Great Depression, 1929-1939
 
 Deregulation
-	RT Austerity   
+	RT Austerity
 	RT Neoliberalism
 
 Derricks
 	USE Cranes, derricks, etc.
 	USE Oil well drilling rigs
 
-Design, Industrial     
+Design, Industrial
 
-Desks     
+Desks
 
-Detectives   
+Detectives
 
 Developing countries
 
 DEW Line
 	USE Civil defence -- Distant Early Warning Line
 
-Diabetes     
+Diabetes
 
-Diesel fuels  
+Diesel fuels
 
-Dining rooms     
+Dining rooms
 
-Dinners and dining 
+Dinners and dining
 
-Dinosaurs     
+Dinosaurs
 
-Diphtheria     
+Diphtheria
 
-Diplomatic and consular service     
+Diplomatic and consular service
 
-Direct broadcast satellite television     
+Direct broadcast satellite television
 	USE Television -- Satellite
 
 Dirigible balloons
@@ -3447,31 +3447,31 @@ Dirigible balloons
 Disabled
 	USE Mentally disabled
 	USE Physically disabled
-	RT Ableism 
+	RT Ableism
 
-Disallowance of legislation     
+Disallowance of legislation
 	USE Legislation -- Repeal
 
 Disaster planning
 	USE Emergency management
 
-Disasters     
+Disasters
 	RT specific types of disasters, e.g., Floods, Fires
 	RT names of specific disasters
 
 Discer (Agricultural implement)
 
-Discount, Cash (Income tax)     
+Discount, Cash (Income tax)
 
-Discretionary trusts     
+Discretionary trusts
 
-Discrimination     
+Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
 
-Diseases     
+Diseases
 	Use specific disease when possible.
 
-Dispensaries     
+Dispensaries
 	RT Stores, Retail -- Drugstores
 
 Displays
@@ -3479,15 +3479,15 @@ Displays
 
 Dissection
 
-Distance education     
+Distance education
 
 Distant early warning system
 	USE Civil defence -- Distant Early Warning Line
 
-Distilleries  
-	RT Beverage processing plants      
+Distilleries
+	RT Beverage processing plants
 
-Distress (Law)  
+Distress (Law)
 
 Distress warrants
 	USE Distress (Law)
@@ -3516,15 +3516,15 @@ Districts
 	USE School Divisions
 	USE Special Areas
 
-Ditches  
+Ditches
 
-Diversification in industry  
+Diversification in industry
 
-Diving  
+Diving
 
-Divorce     
+Divorce
 
-Docks     
+Docks
 
 Doctors
 	USE Physicians
@@ -3532,30 +3532,30 @@ Doctors
 Dog pounds
 	USE Animal shelters
 
-Dog racing     
+Dog racing
 
-Dog shows     
+Dog shows
 
-Dogs     
-	NT Breeding   
-	NT Training   
+Dogs
+	NT Breeding
+	NT Training
 	NT Transportation
 
-Dogsledding     
+Dogsledding
 
-Dolls     
+Dolls
 
-Domestic animals     
+Domestic animals
 	UF Animals, Domestic
 
-Domestic relations 
+Domestic relations
 
 Domestic violence
 	NT Children
 	NT Men
-	NT Women 
+	NT Women
 		UF Abused women
-		UF Battered women     
+		UF Battered women
 
 Dominion Day
 	USE Canada Day
@@ -3567,10 +3567,10 @@ Dominion Labor Party
 	NT History
 	NT Membership
 
-Donkeys   
-	RT Mules  
+Donkeys
+	RT Mules
 
-Dormitories     
+Dormitories
 
 Doukhobors
 	RT Agriculture -- Colonies
@@ -3583,16 +3583,16 @@ Doves
 	RT Pigeons
 
 Draft
-	NT Resistance   
+	NT Resistance
 
-Drainage     
+Drainage
 	RT Ditches
 
-Drainage districts     
+Drainage districts
 
 Drama
 
-Drama festivals     
+Drama festivals
 
 Dramatists
 
@@ -3601,11 +3601,11 @@ Drays
 
 Dreams
 
-Dredges   
+Dredges
 
-Dredging     
+Dredging
 
-Dried Meat  
+Dried Meat
 	UF Meat, dried
 
 Drill (Agricultural implement)
@@ -3613,7 +3613,7 @@ Drill (Agricultural implement)
 Drinking and traffic accidents
 	USE Driving under the influence~f
 
-Drinking customs     
+Drinking customs
 
 Drive-in theatres
 
@@ -3622,11 +3622,11 @@ Driving under the influence
 Drop-in centres
 	USE Community centres
 
-Droughts     
+Droughts
 
-Drowning     
+Drowning
 
-Drug abuse     
+Drug abuse
 	RT Alcoholism
 	RT Narcotics
 
@@ -3637,88 +3637,88 @@ Drug trade
 Druggists
 	USE Pharmacists
 
-Drugs     
+Drugs
 
-Drugstores  
+Drugstores
 	USE Stores, Retail -- Drugstores
 
-Drum  
+Drum
 
-Drunk driving     
+Drunk driving
 	USE Driving under the influence~f
 
-Drunkenness (Criminal law)     
+Drunkenness (Criminal law)
 
-Dry cleaning   
+Dry cleaning
 
-Dry farming     
+Dry farming
 
-Dry-goods     
+Dry-goods
 	RT Textile fabrics
 
-Drying apparatus   
+Drying apparatus
 
-Ducks     
+Ducks
 
 Dumps
 	USE Refuse and refuse disposal
 
 Dust Bowl
 
-Dust storms     
+Dust storms
 
-Dutch     
+Dutch
 
-Dutch Canadians     
+Dutch Canadians
 
 Dwarfs
-	USE Little People    
+	USE Little People
 
-Dwellings     
+Dwellings
 
-Dyes and dyeing   
+Dyes and dyeing
 
-Dynamite   
+Dynamite
 	RT Explosives
 
 Dynamos
 	USE Generators, Electric
 
-Eagles 	
+Eagles
 
-Early childhood education     
+Early childhood education
 	RT Education, Preschool
 	RT Kindergartens
 
-Earthmoving machinery     
+Earthmoving machinery
 	RT Bulldozers
 	RT Construction equipment
 	RT Excavating machinery
 	RT Graders (Earthmoving machinery)
 	RT Road machinery
 
-Earthquakes     
+Earthquakes
 	RT Fracking
 
 Easements
 	USE Servitudes
 
 East Indian Canadians
-	USE Indian Canadians     
+	USE Indian Canadians
 
 East Indians
-	USE Indians     
+	USE Indians
 
 Easter
 
 Eastern Orthodox Church
-	USE Orthodox Catholic Church     
+	USE Orthodox Catholic Church
 
 Eclipses, Lunar
 
 Eclipses, Solar
 
-Ecology     
+Ecology
 	RT Environmental policy
 
 Economic conditions
@@ -3728,7 +3728,7 @@ Economics
 	NT Diversification
 	NT Indicators
 	NT Policy
-	NT Research		
+	NT Research
 
 Edmonton
 	NT Airports
@@ -3901,153 +3901,153 @@ Edmonton
 Edmonton Incline Railroad
 	USE Funicular railways
 
-Education     
+Education
 	NT Curricula
 	NT Finance
-	NT Research 
+	NT Research
 	RT Continuing education
-	RT Vocational education    
+	RT Vocational education
 
-Education, Elementary     
+Education, Elementary
 
-Education, Postsecondary     
+Education, Postsecondary
 
-Education, Preschool     
+Education, Preschool
 	RT Early childhood education
 	RT Kindergartens
 
-Education, Rural     
+Education, Rural
 
-Education, Secondary     
+Education, Secondary
 
-Educational broadcasting     
+Educational broadcasting
 	RT Distance education
 
-Educational exchanges     
+Educational exchanges
 
-Eggs     
+Eggs
 
-Election districts (Cities)  
+Election districts (Cities)
 	USE subdivisions Wards under names of cities
 
-Election districts (Federal)     
+Election districts (Federal)
 	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
 
-Election districts (Provincial)     
+Election districts (Provincial)
 	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
 
-Elections (Federal, [date])     
+Elections (Federal, [date])
 	NT Contested
 	NT Finance
 
-Elections (Local, [date])     
+Elections (Local, [date])
 	NT Contested
 	NT Finance
 
-Elections (Provincial, [date])     
+Elections (Provincial, [date])
 	NT Contested
 	NT Finance
 
-Electric apparatus and appliances     
+Electric apparatus and appliances
 
-Electric contracting     
+Electric contracting
 
 Electric fuses
 
-Electric industries     
+Electric industries
 
-Electric lighting     
+Electric lighting
 
-Electric lines     
+Electric lines
 	RT Telephone lines
 
 Electric motors
 
-Electric power     
+Electric power
 
-Electric power failures     
+Electric power failures
 
-Electric power plants     
+Electric power plants
 
 Electrical supply stores
 	USE Stores, Retail -- Electric apparatus and appliances
 
 Electric transformers
 
-Electricians     
+Electricians
 
 Electricity
 
 Electrification, Rural
 	USE Rural electrification
 
-Electronic apparatus and appliances     
+Electronic apparatus and appliances
 
-Electronic data processing     
+Electronic data processing
 	RT Computers
 	RT Information storage and retrieval systems
 
-Electronic industries     
+Electronic industries
 
-Electronics     
+Electronics
 
-Elevators     
+Elevators
 
 Elevators, Grain
 	USE Grain elevators
 
-Elk     
+Elk
 
-Embankments     
+Embankments
 
 Embargo
 
-Embezzlement     
+Embezzlement
 
-Emblems     
+Emblems
 	RT Arms of Alberta
 
-Emblems, Provincial     
+Emblems, Provincial
 
-Embroidery     
+Embroidery
 
 Emergency measures
 	USE Emergency planning
 
-Emergency medical personnel     
+Emergency medical personnel
 
-Emergency medical services     
+Emergency medical services
 
-Emergency planning     
+Emergency planning
 
 Emigration and emigrants
 	RT Immigration and immigrants
 
-Eminent domain     
+Eminent domain
 
-Employees 		
+Employees
 
 Employment
 
-Employment agencies    
+Employment agencies
 
 Employment equity
-	UF Affirmative action programmes 
+	UF Affirmative action programmes
 
-Employment references     
+Employment references
 
-Employment stabilization     
+Employment stabilization
 
-Energy conservation     
+Energy conservation
 	RT Natural gas -- Conservation
 
-Energy industries     
+Energy industries
 
-Energy policy     
+Energy policy
 
-Engineering     
+Engineering
 
-Engineers     
+Engineers
 	For railway engineers USE Locomotive engineers
 	RT Steam engineers
 
@@ -4056,48 +4056,48 @@ Engines
 English as a second language
 	USE English language -- Study and teaching
 
-English language           
+English language
 	NT Study and teaching
 
-Engraving     
+Engraving
 
-Entertainers     
+Entertainers
 
-Entertaining     
+Entertaining
 
 Entertainment
 	USE specific form of entertainment
 	USE Amusements subdivision under names of communities
 
-Entrepreneurship   
+Entrepreneurship
 
 Environment
 	USE Ecology
 
-Environmental engineers   
+Environmental engineers
 
-Environmental impact analysis     
+Environmental impact analysis
 
-Environmental law     
+Environmental law
 
-Environmental policy     
-	NT Research   
+Environmental policy
+	NT Research
 
 Environmental research
 	USE Environmental policy -- Research
 
-Epidemics     
+Epidemics
 	RT names of specific diseases, e.g. Diphtheria
 
-Epidemiology     
+Epidemiology
 
-Epilepsy     
+Epilepsy
 
-Erosion     
+Erosion
 
-Escheat     
+Escheat
 
-Eskimos     
+Eskimos
 	USE Inuit
 
 Estate administration
@@ -4111,74 +4111,74 @@ Ethnic cleansing
 Ethnic minorities
 	USE Minorities
 
-Ethylene industry     
+Ethylene industry
 
 Etiquette
 
 Eugenics
 
-Eurasian water milfoil 
+Eurasian water milfoil
 
 European Canadians
 	When possible use specific country, e.g. German Canadians
 
-Europeans   
-	When possible use specific country, e.g. Germans 
+Europeans
+	When possible use specific country, e.g. Germans
 
-Euthanasia     
+Euthanasia
 
 Evangelists
 	USE Missionaries
-	USE Missionaries subdivision under specific religion or sect     
+	USE Missionaries subdivision under specific religion or sect
 
-Excavating machinery     
+Excavating machinery
 
 Excavation
-	RT Archaeology -- Excavations      
+	RT Archaeology -- Excavations
 
 Excise stamps
 	USE Revenue stamps
 
-Executive advisory bodies     
+Executive advisory bodies
 
-Executors and administrators     
+Executors and administrators
 	RT Administration of estates
 
-Exercise    
+Exercise
 	USE Physical fitness
 
-Exhibition buildings     
+Exhibition buildings
 
-Exhibition grounds     
+Exhibition grounds
 
-Exhibitions     
+Exhibitions
 	RT names of exhibitions
 	RT subdivisions Exhibitions under names of countries, communities, etc.
 
 Exhibits
 	USE Exhibitions
 
-Expenditures, Public    
+Expenditures, Public
 	RT subdivision Appropriations and expenditures under names of communities.
 
 Experimental farms
 	USE Agricultural experimental stations
 
-Explorers     
+Explorers
 
-Explosions     
+Explosions
 
 Explosives
 	RT Coal mines and mining -- Explosives
 	RT Dynamite
 
-Export marketing     
+Export marketing
 	RT Marketing
 	RT Marketing subdivision under types of commodities or products
 
-Exports		
+Exports
 
-Express service     
+Express service
 
 Expropriation
 	USE Eminent domain
@@ -4187,16 +4187,16 @@ Extended care facilities
 	USE Hospitals -- Extended care units
 	USE Long-term care facilities
 
-Extinct cities	
+Extinct cities
 	USE Ghost towns
 
-Extortion     
+Extortion
 
-Extradition     
+Extradition
 
-Extrasensory perception   
+Extrasensory perception
 
-Eyeglasses   
+Eyeglasses
 
 Fabric shops
 	USE Stores, Retail -- Fabric
@@ -4204,47 +4204,47 @@ Fabric shops
 Fabrics
 	USE Textile fabrics
 
-Factories     
+Factories
 	NT Equipment and supplies
 	NT Laws and legislation
 
-Factory and trade waste     
+Factory and trade waste
 	USE Industrial waste
 
-Fairs	
+Fairs
 	USE Exhibitions
 
-Falcons	
+Falcons
 
 Fall
 	USE Autumn
 
-Fallout shelters    
+Fallout shelters
 	USE Nuclear warfare and weaponry -- Shelters
 
-Fallowing     
+Fallowing
 
 Families
 	USE Family
 
-Family     
+Family
 
-Family allowances     
+Family allowances
 
 Family planning
 	USE Birth control
 
-Family violence     
+Family violence
 	USE Domestic violence
 
-Famines   
+Famines
 
 Fanaticism
-	UF Cults  
+	UF Cults
 
-Farm buildings     
+Farm buildings
 
-Farm equipment     
+Farm equipment
 	RT Agricultural machinery
 
 Farm loans
@@ -4253,34 +4253,34 @@ Farm loans
 Farm machinery
 	USE Agricultural machinery
 
-Farm management     
+Farm management
 
-Farm mechanization     
+Farm mechanization
 
-Farm produce     
+Farm produce
 
-Farm tenancy     
+Farm tenancy
 
-Farmers     
+Farmers
 	RT Agricultural labourers
 
-Farmers markets     
+Farmers markets
 
-Farmhouses     
+Farmhouses
 
-Farms     
+Farms
 	NT Safety measures
 
-Farms, Abandoned     
+Farms, Abandoned
 
 Fascism
 
 Fashion industry
 	UF Beauty culture
 
-Fast food restaurants     
+Fast food restaurants
 
-Faults (Geology)     
+Faults (Geology)
 
 Federal-local relations
 
@@ -4297,19 +4297,19 @@ Federal-provincial tax relations
 
 Feed additives
 
-Feedlots     
+Feedlots
 
-Feeds     
+Feeds
 
 Femininity
 
 Feminism
 
-Fences     
+Fences
 
-Fencing     
+Fencing
 
-Ferries     
+Ferries
 	NT Employees
 	RT subdivision Ferries under names of communities
 
@@ -4319,64 +4319,64 @@ Ferrotype
 Ferry operators
 	USE Ferries -- Employees
 
-Fertilizer industry     
+Fertilizer industry
 
-Fertilizers     
+Fertilizers
 
-Festivals     
+Festivals
 
 Fibreglass industry
 
 Fiddle
 	USE Violin
 
-Field crops     
+Field crops
 
-Field days     
+Field days
 
-Field hockey     
+Field hockey
 	RT Ball hockey
 	RT Hockey
 
-Figure skating     
+Figure skating
 
-Filipino Canadians     
+Filipino Canadians
 
 Filipinos
 
-Film industry 
+Film industry
 	USE Motion picture industry
 
-Finance     
+Finance
 
-Finance, Personal     
+Finance, Personal
 
-Finance, Public     
+Finance, Public
 
-Fines and recoveries     
+Fines and recoveries
 
 Fingerprints
 
-Finnish Canadians     
+Finnish Canadians
 
-Finns     
+Finns
 
-Fire alarms     
+Fire alarms
 
-Firearms     
+Firearms
 	NT Law and legislation
 
-Fire engines     
+Fire engines
 
-Fire escapes     
+Fire escapes
 
-Firefighters and firefighting   
-	UF Firemen  
+Firefighters and firefighting
+	UF Firemen
 
 Fire insurance
 	USE Insurance, Fire
 
-Fire prevention     
+Fire prevention
 	RT subdivision Fires and fire prevention under communities
 
 Fire stations
@@ -4384,17 +4384,17 @@ Fire stations
 Firemen
 	USE Firefighters and firefighting
 
-Fireplaces     
+Fireplaces
 
-Fires     
+Fires
 	RT Grassland fires
 
 Fire towers
 	USE Forest fires -- Prevention and control
 
-Firewood     
+Firewood
 
-Fireworks     
+Fireworks
 
 First aid
 
@@ -4402,7 +4402,7 @@ First aid training
 	USE Safety education
 
 First Nations
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -4415,7 +4415,7 @@ First Nations
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -4423,39 +4423,39 @@ First Nations
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE First Nations -- Folklore
 		USE First Nations -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -4472,13 +4472,13 @@ First Nations
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE First Nations -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -4488,9 +4488,9 @@ First Nations
 
 Fish
 
-Fish and game licenses   
+Fish and game licenses
 
-Fish hatcheries     
+Fish hatcheries
 
 Fish, Dried
 
@@ -4499,58 +4499,58 @@ Fish, Smoked
 Fish stores
 	USE Stores, Retail -- Fish
 
-Fisheries     
+Fisheries
 
-Fishers     
+Fishers
 
-Fishing     
+Fishing
 
-Fishing guides     
+Fishing guides
 	RT Hunting guides
 
 Fishing licenses
 	USE Fish and game licenses
 
-Fishing nets     
+Fishing nets
 
-Flags     
+Flags
 
-Flax     
+Flax
 
-Flight attendants   
+Flight attendants
 
 Flint implements
 	USE Stone implements
 
-Floats (Parades)     
+Floats (Parades)
 	USE Parade floats
 
-Flood control     
+Flood control
 
 Floodgates
 	USE Sluice gates
 
-Floods     
+Floods
 	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods
 
 Floor hockey
 	USE Ball hockey
 
-Florists 	
+Florists
 	USE Stores, Retail -- Florists
 
 Flour
 
-Flour and feed trade     
+Flour and feed trade
 
-Flour mills     
+Flour mills
 
 Flower shops
 	USE Stores, Retail -- Florists
 
-Flower shows     
+Flower shows
 
-Flowers     
+Flowers
 
 Fluoridation of water
 	USE Water -- Fluoridation
@@ -4558,20 +4558,20 @@ Fluoridation of water
 Flying saucers
 	USE Unidentified flying objects
 
-Folk art     
+Folk art
 
-Folk dancing     
+Folk dancing
 
-Folk dancing, [Ukrainian, French, German, etc.]     
+Folk dancing, [Ukrainian, French, German, etc.]
 
-Folk festivals   
+Folk festivals
 
-Folk medicine     
+Folk medicine
 	USE Traditional medicine
 
-Folk music  
+Folk music
 
-Folklore   
+Folklore
 
 Food
 	NT Law and legislation
@@ -4580,9 +4580,9 @@ Food
 
 Food banks
 
-Food industry and trade     
+Food industry and trade
 
-Football     
+Football
 	RT Football, American
 	RT Rugby football
 	RT names of leagues and teams
@@ -4590,13 +4590,13 @@ Football
 
 Football, American
 
-Footwear 
+Footwear
 
-Footwear industry     
+Footwear industry
 
-Forage plants     
+Forage plants
 
-Foreclosure     
+Foreclosure
 
 Foreign aid program
 	USE Economic Assistance, Foreign
@@ -4612,57 +4612,57 @@ Foreign ownership of land
 Foreign relations
 	USE International relations
 
-Foreign trade     
+Foreign trade
 	USE International trade
 
-Foreign trade promotion     
+Foreign trade promotion
 
-Forensic pathology     
+Forensic pathology
 	NT Laboratories
 
-Forest fires     
+Forest fires
 	NT Prevention and control
 
-Forest nurseries     
+Forest nurseries
 
-Forest products     
+Forest products
 
-Forest products industry     
+Forest products industry
 
-Forest rangers     
-	NT Housing     
+Forest rangers
+	NT Housing
 	NT Training
 	RT Park rangers
 
-Forest reserves     
+Forest reserves
 	RT National parks and reserves
 	RT Provincial parks and reserves
 
 Forest spraying
 	USE Spraying and dusting in forests
 
-Forests and forestry 
-	NT Law and legislation    
+Forests and forestry
+	NT Law and legislation
 
-Forge shops     
+Forge shops
 
 Forges
 	USE Forge shops
 
-Forgery     
+Forgery
 
-Forms (Law)     
+Forms (Law)
 
-Forts and trading posts     
+Forts and trading posts
 	RT Royal Canadian Mounted Police -- Forts
 
-Fossils     
+Fossils
 
-Foster home care     
+Foster home care
 
-Foundries     
+Foundries
 
-Fountains     
+Fountains
 
 Fowl
 	USE Poultry
@@ -4678,7 +4678,7 @@ Fracking
 Franchises (Retail trade)
 
 Franco-Albertans
-	RT French-Canadians     
+	RT French-Canadians
 
 Fraternal benefit societies
 	USE Men -- Societies and clubs
@@ -4688,7 +4688,7 @@ Fraternal benefit societies
 Fraternities
 	RT Sororities
 
-Fraud     
+Fraud
 
 Free trade
 	RT Neoliberalism
@@ -4700,13 +4700,13 @@ Freedom Conservative Party of Alberta
 	NT History
 	NT Membership
 
-Freedom of information     
+Freedom of information
 
-Freemasonry     
+Freemasonry
 
 Freemen-on-the-land
 
-Freight and freightage     
+Freight and freightage
 
 Freight cars
 	USE Railroads -- Freight cars
@@ -4717,26 +4717,26 @@ Freighters
 French
 
 French Canadians
-	Use for recent immigrants to Canada from France.     
+	Use for recent immigrants to Canada from France.
 
-French-Canadians 
-	Use for Canadians descended from French colonial settlers.    
+French-Canadians
+	Use for Canadians descended from French colonial settlers.
 	RT Franco-Albertans
 
 French language
 
-Frogs     
+Frogs
 
-Fruit     
+Fruit
 
-Fruit trade     
+Fruit trade
 
-Fund raising     
+Fund raising
 
-Funeral homes 	
+Funeral homes
 	USE Undertakers and undertaking~f
 
-Funeral rites and ceremonies     
+Funeral rites and ceremonies
 
 Funeral rites and ceremonies, [Class of persons or Ethnic group]
 
@@ -4751,23 +4751,23 @@ Funicular railways
 Fur
 	RT Hides and skins
 
-Fur farming     
+Fur farming
 
-Fur garments     
+Fur garments
 
 Fur presses
 
 Fur trade
-	RT Trapping and trappers     
+	RT Trapping and trappers
 
-Fur traders     
+Fur traders
 	RT Voyageurs
 
 Furnaces
 
-Furniture     
+Furniture
 
-Furniture industry and trade     
+Furniture industry and trade
 
 Furniture stores
 	USE Stores, Retail -- Furniture
@@ -4780,72 +4780,72 @@ Fuses, Electric
 
 Galicia
 
-Galicians     
+Galicians
 
-Gambling     
+Gambling
 	RT Casinos
 
-Game and game birds     
+Game and game birds
 	RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc.
 
-Game farms     
+Game farms
 
-Game fowl     
+Game fowl
 
-Game laws     
+Game laws
 
-Game preserves     
-	Use Game reserves  
+Game preserves
+	Use Game reserves
 
-Game wardens     
+Game wardens
 
-Games     
+Games
 
 Gaols
 	USE Correctional institutions
 	USE Remand centres
 
-Garage sales     
+Garage sales
 
-Garages     
+Garages
 
 Garden ornaments and furniture
 
-Garden tools     
+Garden tools
 
-Gardening     
+Gardening
 	RT Horticulture
 
-Gardens 
+Gardens
 
-Garment industry  
+Garment industry
 	UF Clothing trade
-	NT Workers  
+	NT Workers
 
 Garnishees
 	USE Attachment and garnishment
 
-Gas companies    
+Gas companies
 
-Gas distribution   
+Gas distribution
 
-Gas, Natural     
+Gas, Natural
 	USE Natural gas
 
 Gas conservation
 	USE Natural gas -- Conservation
 
-Gas wells     
+Gas wells
 	USE Natural gas -- Conservation
 	NT Taxation
 
-Gasoline     
-	NT Law and legislation     
-	NT Prices     
+Gasoline
+	NT Law and legislation
+	NT Prices
 	NT Storage
-	NT Taxation     
+	NT Taxation
 
-Geese     
+Geese
 
 Gender
 
@@ -4859,7 +4859,7 @@ Gender binarism
 
 Genealogy
 
-General stores 	
+General stores
 	USE Stores, Retail -- General stores
 
 Generators, Electric
@@ -4870,84 +4870,84 @@ Genocide
 
 Gentrification
 
-Geography     
+Geography
 
-Geological surveys    
+Geological surveys
 	RT Surveys
 	RT Surveyors
 
 Geologists
 
-Geology     
+Geology
 
 Geophysical exploration
 
-Geophysicists     
+Geophysicists
 
 Geothermal resources
-	USE Renewable energy -- Geothermal     
+	USE Renewable energy -- Geothermal
 
-Geriatrics     
+Geriatrics
 
-German Canadians     
+German Canadians
 
-German language     
+German language
 
 German measles
 	USE Rubella
 
-Germans     
+Germans
 
-Ghost towns	
+Ghost towns
 	UF Cities and towns, Ruined, extinct, etc.
-	UF Extinct cities     
+	UF Extinct cities
 
-Girls     
-	NT Societies and clubs     
+Girls
+	NT Societies and clubs
 
-Glacial landforms     
+Glacial landforms
 
-Glaciers     
+Glaciers
 
-Gladiolus     
+Gladiolus
 
-Glass fibre industry 
-	USE Fibreglass industry    
+Glass fibre industry
+	USE Fibreglass industry
 
-Glass manufacture     
+Glass manufacture
 
 Glass stores
 	USE Stores, Retail -- Glass
 
-Glass trade     
+Glass trade
 
-Glassware     
+Glassware
 	NT Repairing
 
-Gliders (Aeronautics)   
+Gliders (Aeronautics)
 	RT Hang-gliding
 
 Glue
 
 Goats
 
-Goat industry     
+Goat industry
 
-Goitre     
+Goitre
 
-Gold     
+Gold
 
-Gold dredging     
+Gold dredging
 
-Gold miners     
+Gold miners
 
-Gold mines and mining     
+Gold mines and mining
 
-Goldsmiths     
+Goldsmiths
 
-Golf     
+Golf
 
-Golf courses     
+Golf courses
 
 Gondolas
 	USE Cable cars
@@ -4955,10 +4955,10 @@ Gondolas
 Gophers
 	USE Ground squirrels
 
-Government, Resistance to     
+Government, Resistance to
 
-Government 
-	NT Advertising   
+Government
+	NT Advertising
 
 Government and business
 	USE Industry and state
@@ -4986,31 +4986,31 @@ Government expenditures
 Government grants
 	USE Grants, Government
 
-Government information     
+Government information
 
 Government investments
 	USE Public investments
 
-Government lending     
+Government lending
 
-Government liability     
+Government liability
 
 Government loans
-	USE Government lending     
+	USE Government lending
 
-Government property   
+Government property
 	USE Public property
 
-Government publications   
+Government publications
 
-Government publicity     
+Government publicity
 	USE Government advertising
 
 Government records
 
 Government reorganization
 
-Government spending policy     
+Government spending policy
 	RT Budget
 	RT Expenditures, Public
 
@@ -5020,41 +5020,41 @@ Government surplus
 Government trust funds
 	USE Discretionary trusts
 
-Governmental investigations     
+Governmental investigations
 	Use Royal Commission title when appropriate.
 
 Governors General
 
-Graders (Earthmoving machinery)   
+Graders (Earthmoving machinery)
 
-Grading and marking (Students)     
+Grading and marking (Students)
 
-Graffiti     
+Graffiti
 
-Grain     
+Grain
 	NT Cleaning
-	NT Cooperative marketing  
-	NT Diseases and pests     
-	NT Drying   
+	NT Cooperative marketing
+	NT Diseases and pests
+	NT Drying
 	NT Exhibitions
-	NT Grading   
+	NT Grading
 	NT Marketing
 	NT Storage
 	NT Tariffs
 	NT Taxation
 	NT Transportation
-	NT Varieties   
+	NT Varieties
 
-Grain as feed   
+Grain as feed
 
-Grain elevators     
+Grain elevators
 
-Grain trade     
+Grain trade
 
 Gramophone records
 	USE Sound recordings -- Phonograph records
 
-Granaries     
+Granaries
 
 Grants, Federal
 
@@ -5065,16 +5065,16 @@ Grants, Land
 Grants, Provincial
 	USE Grants, Government
 
-Graphic arts     
+Graphic arts
 
-Grasses     
+Grasses
 
-Grasshoppers   
+Grasshoppers
 
-Grassland fires     
+Grassland fires
 	RT Fires
 
-Gravel     
+Gravel
 
 Gravel crushers
 	USE Crushing machinery
@@ -5088,19 +5088,19 @@ Gravel roads
 Graves
 	USE Cemeteries
 
-Grazing     
+Grazing
 	RT Rangelands
 
 Grazing lands
 
 Great Depression, 1929-1939
 
-Greek Canadians     
+Greek Canadians
 
 Greek Orthodox Church
 	USE Orthodox Catholic Church, Greece
 
-Greeks     
+Greeks
 
 Green Party of Alberta
 	NT Conventions
@@ -5109,44 +5109,44 @@ Green Party of Alberta
 	NT History
 	NT Membership
 
-Greenhouses     
+Greenhouses
 
-Greeting cards     
+Greeting cards
 	RT Christmas cards
 	RT Valentine cards
 
 Greeting card stores
 	USE Stores, Retail -- Greeting cards
 
-Groceries     
+Groceries
 
-Grocers 	
+Grocers
 
 Grocery stores
 	USE Stores, Retail -- Grocery
 
-Grocery trade     
+Grocery trade
 
 Grottoes
 	USE Shrines
 
-Ground squirrels   
+Ground squirrels
 
-Grounds maintenance     
+Grounds maintenance
 	RT Landscape gardening
 
 Group Insurance
 	USE Insurance, Group
 
-Grouse 	
+Grouse
 
-Guardian and ward     
+Guardian and ward
 
 Guards
 	USE Correctional personnel
 	USE Security personnel
 
-Guidance counselling     
+Guidance counselling
 
 Guides
 	USE Fishing guides
@@ -5165,53 +5165,53 @@ Gun stores
 Guns
 	USE Firearms
 
-Gymnasiums     
+Gymnasiums
 	RT Schools
 
-Gymnastics     
+Gymnastics
 
 Gynephilia
 	RT Androphilia
 
-Gypsum     
+Gypsum
 
-Gypsum industry     
+Gypsum industry
 
-Hail     
+Hail
 
 Hail insurance
 	USE Insurance, Hail
 
 Hairdressers
-	USE Beauticians 
+	USE Beauticians
 
-Hairdressing     
+Hairdressing
 
-Halfway houses     
+Halfway houses
 	USE Correctional institutions -- Halfway houses
 
-Halloween     
+Halloween
 
-Halls     
+Halls
 	RT subdivision Auditoriums, convention facilities, etc. under names of communities
 
 Ham radio
 	USE Amateur radio stations
 
-Hamlets     
+Hamlets
 	RT Municipal Affairs, Department of Municipal government
 
 Hand pumps
 	USE Pumping machinery
 
-Handball     
+Handball
 
 Handcars
 
-Handicapped     
+Handicapped
 	USE Disabled
 
-Handicraft     
+Handicraft
 
 Handwriting
 	USE Penmanship
@@ -5226,44 +5226,44 @@ Hanging
 Hansard
 	USE Legislative Assembly -- Proceedings
 
-Harbours     
+Harbours
 
-Hardware     
+Hardware
 
-Hardware stores	  
+Hardware stores
 	USE Stores, Retail -- Hardware
 
-Harness     
+Harness
 
-Harness making and trade     
+Harness making and trade
 
-Harness racing     
+Harness racing
 	RT Horse-racing
 
 Harpsichord
 
 Harrows
 
-Harvesting     
+Harvesting
 
-Harvesting machinery     
+Harvesting machinery
 
-Hashish	
+Hashish
 	USE Cannabis
 
 Hate mail
 
-Hay     
-	NT Harvesting  
+Hay
+	NT Harvesting
 	NT Marketing
 
 Hay lands
 
 Haystacks
 
-Hazardous substances     
+Hazardous substances
 
-Hazardous waste treatment facilities     
+Hazardous waste treatment facilities
 
 Health care
 
@@ -5271,7 +5271,7 @@ Health Care Insurance Plan
 
 Health districts
 
-Health education     
+Health education
 
 Health foods
 	USE Natural foods industry
@@ -5280,9 +5280,9 @@ Health Insurance
 	USE Insurance, Health
 	USE Health Care Insurance Plan
 
-Health occupations     
+Health occupations
 
-Health resorts    
+Health resorts
 	RT Hot springs
 
 Health spas
@@ -5301,9 +5301,9 @@ Hearing disorders
 
 Hearing impaired
 	UF Deaf
-	NT Education     
-	NT Employment     
-	NT Institutional care     
+	NT Education
+	NT Employment
+	NT Institutional care
 
 Hearses
 
@@ -5313,31 +5313,31 @@ Heart diseases
 Heating
 	RT Furnaces
 
-Hebrew language     
+Hebrew language
 	NT Study and teaching
 
-Hedges     
+Hedges
 
-Helicopters   
+Helicopters
 
-Helium industry     
+Helium industry
 
-Hemodialysis     
+Hemodialysis
 
-Hemophilia     
+Hemophilia
 
 Hens
 	USE Chickens
 	RT Poultry
 
-Heraldry     
+Heraldry
 	RT Arms of Alberta
 
-Herbs     
+Herbs
 	NT Culinary use
-	NT Therapeutic use 
+	NT Therapeutic use
 
-Herbicides    
+Herbicides
 	RT Aquatic herbicides
 
 Heritage Day
@@ -5346,7 +5346,7 @@ Heteronormativity
 
 Heterosexuality
 
-Hides and skins     
+Hides and skins
 
 High jumping
 	USE Jumping
@@ -5357,7 +5357,7 @@ High schools, private
 High schools, public
 	RT subdivision Schools under names of communities.
 
-High technology industries     
+High technology industries
 
 Highway patrol
 
@@ -5366,10 +5366,10 @@ Highways
 	NT Safety
 	NT Signs and signals
 
-Hijacking of aircraft     
+Hijacking of aircraft
 	USE Aviation -- Hijacking of aircraft
 
-Hiking     
+Hiking
 
 Hinduism
 	NT Buildings
@@ -5380,18 +5380,18 @@ Hinduism
 
 Hindus
 
-Historic buildings     
+Historic buildings
 	NT Preservation
 
-Historic sites 
-	NT Preservation    
+Historic sites
+	NT Preservation
 
-Historical markers     
+Historical markers
 	RT Cairns
 
 History
 
-Hitchhiking     
+Hitchhiking
 
 Hobby stores
 	USE Stores, Retail -- Hobbies
@@ -5405,7 +5405,7 @@ Hockey
 Hogs
 	USE Swine
 
-Holidays     
+Holidays
 	Use specific headings whenever possible, e.g., Thanksgiving Day, Christmas, etc.
 
 Holocaust, 1941-1945
@@ -5417,12 +5417,12 @@ Holodomor, 1932-1933
 	NT Memorials
 	NT Survivors
 
-Holography		
+Holography
 	USE Laser recording
 
-Home care services     
+Home care services
 
-Home economics     
+Home economics
 
 Homeless and homelessness
 	UF Vagrancy
@@ -5437,9 +5437,9 @@ Homicide
 
 Homophobia
 
-Homosexuality     
+Homosexuality
 
-Honey     
+Honey
 	RT Apiculture
 
 Honourary degrees
@@ -5448,33 +5448,33 @@ Honourary degrees
 
 Hoodoos
 
-Hops     
+Hops
 
 Hormones in animal nutrition
 	USE Food -- Additives
 
-Horses     
+Horses
 	NT Breeding
-	NT Diseases     
+	NT Diseases
 	NT Feeding and feeds
 	NT Racing
 	NT Riding
-	NT Riding clubs  
-	NT Training   
+	NT Riding clubs
+	NT Training
 	NT Transportation
 
-Horseshoe pitching     
+Horseshoe pitching
 
 Horseshoeing
 
-Horticulture     
+Horticulture
 	NT Societies, etc.
 	RT Gardening
 
 Hospitalization insurance
 	USE Insurance, Hospitalization
 
-Hospitals     
+Hospitals
 	NT Accounting
 	NT Administration
 	NT Children
@@ -5489,19 +5489,19 @@ Hospitals
 	NT Radiological services
 	NT Staff
 
-Hostages     
+Hostages
 
 Hostels
 	NT Youth
 
 Hot air balloons
 
-Hot springs     
+Hot springs
 	RT Health resorts
 
 Hotels
 
-Houseboats     
+Houseboats
 
 Household moving
 	USE Moving, Household
@@ -5519,7 +5519,7 @@ Houses, Sod
 Houses, Thatched
 	USE Thatched roofs
 
-Housing     
+Housing
 	NT Development
 	NT Policy
 	NT Social aspects
@@ -5532,76 +5532,76 @@ Hudson's Bay Company
 	NT Records and correspondence
 	NT Transportation
 
-Hudson's Bay Company stores     
+Hudson's Bay Company stores
 
 Human immunodeficiency virus
 
-Human resources 
+Human resources
 	USE Personnel management
 
 Human rights
 	RT Civil rights
 
-Humanities     
+Humanities
 
-Hungarian Canadians     
+Hungarian Canadians
 
-Hungarians     
+Hungarians
 
-Hunger strikes     
+Hunger strikes
 
-Hunting and hunters    
-	NT Guides 
+Hunting and hunters
+	NT Guides
 	NT Trophies
 
 Hunting licenses
 	USE Fish and game licenses
 
-Hurdle-racing  
+Hurdle-racing
 	USE Track and field athletics and athletes
 
-Hutterite Brethren     
+Hutterite Brethren
 	RT Agriculture -- Colonies
 
-Hydrants  
+Hydrants
 
-Hydraulic mining     
+Hydraulic mining
 
 Hydraulic presses
 
-Hydroelectric power plants     
+Hydroelectric power plants
 	RT Electric power plants
 	RT Renewable energy
 
-Hydrology     
+Hydrology
 
 Hygiene, Public
 	USE Public health
 
-Hymns    
-	USE as NT under specific denomination 
+Hymns
+	USE as NT under specific denomination
 
 Hypnotism
 
-Ice     
+Ice
 	NT Storms
 
-Ice boats	
+Ice boats
 
-Ice-breaking vessels   
+Ice-breaking vessels
 
 Ice carving
 
-Ice cream, ices, etc.    
+Ice cream, ices, etc.
 
-Ice fishing     
+Ice fishing
 	USE Fishing
 
-Ice industry     
+Ice industry
 
-Ice on rivers, lakes, etc.     
+Ice on rivers, lakes, etc.
 
-Ice palaces     
+Ice palaces
 
 Ice sculpture
 	USE Ice carving
@@ -5609,14 +5609,14 @@ Ice sculpture
 Ice skating
 	USE Skating
 
-Icelanders     
+Icelanders
 
-Icelandic Canadians     
+Icelandic Canadians
 
-Identification cards   
+Identification cards
 
 Idle rich
-	RT Unemployment  
+	RT Unemployment
 
 Igloos
 
@@ -5624,18 +5624,18 @@ Illegal aliens
 	USE Undocumented immigrants
 
 Illegal drug trade
-	UF Drug trade	  
+	UF Drug trade
 
 Illiteracy
 	USE Literacy
 
-Imports   
+Imports
 
-Immigration and immigrants		
+Immigration and immigrants
 	RT Emigration and emigrants
 	RT Refugees
 
-Immunization     
+Immunization
 
 Impaired driving
 
@@ -5643,15 +5643,15 @@ Improvement Districts
 	RT Local government
 	RT Municipal Affairs, Department of
 
-Incest     
+Incest
 
-Incinerators     
+Incinerators
 
-Income     
+Income
 
-Income tax     
+Income tax
 
-Indecent assault     
+Indecent assault
 	USE Sexual assault
 
 Indentures
@@ -5664,13 +5664,13 @@ Indian Canadians
 Indians
 	UF East Indians
 
-Indian agents  
+Indian agents
 
-Indian passes   
+Indian passes
 
-Indigenous peoples     
+Indigenous peoples
 	Use specific nation where possible.  Subdivisions can be added to specific nation names.
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -5683,7 +5683,7 @@ Indigenous peoples
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -5691,39 +5691,39 @@ Indigenous peoples
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language, e.g., Cree language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Indigenous peoples -- Folklore
 		USE Indigenous peoples -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -5740,13 +5740,13 @@ Indigenous peoples
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Indigenous peoples -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -5754,14 +5754,14 @@ Indigenous peoples
 	NT Writing
 	NT Youth
 
-Indonesian Canadians     
+Indonesian Canadians
 
-Indonesians     
+Indonesians
 
-Industrial accidents     
+Industrial accidents
 
-Industrial arts     
-	NT Study and teaching   
+Industrial arts
+	NT Study and teaching
 
 Industrial design
 	USE Design, Industrial
@@ -5769,25 +5769,25 @@ Industrial design
 Industrial diseases
 	USE Occupational diseases
 
-Industrial districts     
+Industrial districts
 
-Industrial laws and legislation     
+Industrial laws and legislation
 
 Industrial parks
 	USE Industrial districts
 
-Industrial policy    
+Industrial policy
 
-Industrial promotion     
+Industrial promotion
 
-Industrial relations     
+Industrial relations
 	USE Labour relations
 
 Industrial safety
 
-Industrial waste     
+Industrial waste
 
-Industries   
+Industries
 
 Industry
 	USE Industries
@@ -5795,23 +5795,23 @@ Industry
 Industry and state
 	USE Industrial policy
 
-Inflation (Finance)     
+Inflation (Finance)
 
-Influenza 
-	NT Vaccines    
+Influenza
+	NT Vaccines
 
 Influenza, 1918-1919
 
-Information services     
+Information services
 
 Information storage and retrieval systems
 	NT Security measures
 	RT Computers
 	RT Electronic data processing
 
-Inheritance and succession     
+Inheritance and succession
 
-Inheritance and transfer tax     
+Inheritance and transfer tax
 
 Inquests
 	RT Coroners
@@ -5822,85 +5822,85 @@ Inquiries
 Insects
 	NT Control
 
-Institutional care     
+Institutional care
 
-Insulating materials industry     
+Insulating materials industry
 
 Insulin
 
-Insurance     
+Insurance
 	NT Accounting
-	NT Adjustment of claims   
+	NT Adjustment of claims
 	NT Agents
 	NT Agriculture
 	NT Policies
 	NT Rates and tables
 	NT Statistics
-	NT Surety and fidelity     
+	NT Surety and fidelity
 
-Insurance, Accident     
+Insurance, Accident
 
-Insurance, Agricultural     
+Insurance, Agricultural
 
-Insurance, Automobile     
+Insurance, Automobile
 
-Insurance, Aviation     
+Insurance, Aviation
 
-Insurance, Business     
+Insurance, Business
 
-Insurance, Fire     
+Insurance, Fire
 
-Insurance, Government risks     
+Insurance, Government risks
 
-Insurance, Group     
+Insurance, Group
 
-Insurance, Hail     
+Insurance, Hail
 
-Insurance, Health     
+Insurance, Health
 
-Insurance, Hospitalization     
+Insurance, Hospitalization
 
-Insurance, Liability     
+Insurance, Liability
 
-Insurance, Life     
+Insurance, Life
 
-Insurance, Nuclear hazards     
+Insurance, Nuclear hazards
 
-Insurance, Property     
+Insurance, Property
 
-Insurance, Unemployment     
+Insurance, Unemployment
 
-Insurance, Uninsured motorist     
+Insurance, Uninsured motorist
 
-Insurance companies     
+Insurance companies
 
-Interest     
+Interest
 
-International law     
+International law
 
 International relations
 
-International relief     
+International relief
 
 International trade
 
 Internet
 
-Interns     
+Interns
 
-Internship programmes     
+Internship programmes
 
 Interpleader
 	USE Actions and defenses
 
-Interprovincial conferences     
+Interprovincial conferences
 
 Interprovincial relations
 
 Intersex and intersexuality
 
 Inuit
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -5913,7 +5913,7 @@ Inuit
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -5921,39 +5921,39 @@ Inuit
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Inuit -- Folklore
 		USE Inuit -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -5970,13 +5970,13 @@ Inuit
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Inuit -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -5984,18 +5984,18 @@ Inuit
 	NT Writing
 	NT Youth
 
-Inventions     
+Inventions
 
-Inventors     
+Inventors
 
 Investigations
 
-Investment of public funds   
+Investment of public funds
 	USE Public investments
 
-Investments     
+Investments
 
-Investments, Foreign     
+Investments, Foreign
 	Use specific name of country where possible.
 
 Iranian Canadians
@@ -6006,15 +6006,15 @@ Iraqi Canadians
 
 Iraqis
 
-Irish     
+Irish
 
-Irish Canadians     
+Irish Canadians
 
 Iron
 
-Iron and steel workers     
+Iron and steel workers
 
-Iron industry and trade     
+Iron industry and trade
 
 Iron lung
 	RT Poliomitis
@@ -6025,15 +6025,15 @@ Iron mines and mining
 Ironing
 	USE Laundry
 
-Ironwork     
+Ironwork
 
-Irrigation     
+Irrigation
 	NT Canals and flumes
 	NT Districts
 	NT Engineering
 	NT Farming
 	NT Laws
-	NT Research     
+	NT Research
 
 Islam
 	NT Adherents
@@ -6050,45 +6050,45 @@ Israelis
 
 Israeli Canadians
 
-Israel-Arab conflicts     
+Israel-Arab conflicts
 
-Italian Canadians     
+Italian Canadians
 
-Italians     
+Italians
 
 Jails
 	USE Correctional institutions
 
 Jainism
 
-Janitors     
+Janitors
 
-Japanese     
+Japanese
 
-Japanese Canadians     
+Japanese Canadians
 	NT Internment, 1942-45
 
-Jazz      
+Jazz
 
-Jehovah's Witnesses     
+Jehovah's Witnesses
 	NT Buildings
 	NT Ceremonies and practices
 	NT Clergy
 	NT Missions and missionaries
 	NT Theology
 
-Jewellers     
+Jewellers
 
-Jewellery     
+Jewellery
 
-Jewellery stores   
+Jewellery stores
 	USE Stores, Retail -- Jewellery
 
-Jewellery trade     
+Jewellery trade
 
-Job sharing     
+Job sharing
 
-Jogging     
+Jogging
 	RT Running
 
 Journalists and journalism
@@ -6103,33 +6103,33 @@ Judaism
 	NT Education
 	NT Theology
 
-Judges     
+Judges
 
-Judicial districts     
+Judicial districts
 	For names of particular districts use the following format: Lethbridge, Judicial District of
 
-Judicial statistics     
+Judicial statistics
 
-Jumping	  
+Jumping
 
-Justice, Administration of     
+Justice, Administration of
 
-Justices of the peace     
+Justices of the peace
 
-Juvenile courts     
+Juvenile courts
 
-Juvenile delinquency 
-	USE Young Offenders    
+Juvenile delinquency
+	USE Young Offenders
 
 Juvenile delinquents
-	USE Young Offenders     
+	USE Young Offenders
 
-Juvenile detention homes     
+Juvenile detention homes
 
 Kainai Nation
 	UF Blood Nation
 	RT Niitsitapi
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -6142,7 +6142,7 @@ Kainai Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -6150,39 +6150,39 @@ Kainai Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Kainai Nation -- Folklore
 		USE Kainai Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -6199,13 +6199,13 @@ Kainai Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Kainai Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -6213,47 +6213,47 @@ Kainai Nation
 	NT Writing
 	NT Youth
 
-Kangaroos     
+Kangaroos
 
-Karate		
+Karate
 
 Kayaks and kayaking
 
-Kee Tas Kee Now Tribal Council	
+Kee Tas Kee Now Tribal Council
 
-Kennels     
+Kennels
 
 Keys
 	USE Locks and keys
 
-Kidnapping 		
+Kidnapping
 	USE Abduction
 
 Kidney dialysis
 	USE Hemodialysis
 
-Kilns     
+Kilns
 
 Kindergartens
 
 King's Counsellors
 	RT Queen's Counsellors
 
-Kitchen utensils     
+Kitchen utensils
 
-Kitchens     
+Kitchens
 
-Kites     
+Kites
 
-Klondike Days 
+Klondike Days
 	USE Edmonton -- Exhibitions
 
 Klondike gold rush
 	NT Klondike Trail
 
-Knitting     
+Knitting
 
-Knives     
+Knives
 
 Kootenay Nation
 	USE Kutenai Nation
@@ -6272,7 +6272,7 @@ Kurds
 
 Kutenai Nation
 	UF Kootenay Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -6285,7 +6285,7 @@ Kutenai Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -6293,39 +6293,39 @@ Kutenai Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Kutenai Nation -- Folklore
 		USE Kutenai Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -6342,13 +6342,13 @@ Kutenai Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Kutenai Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -6356,27 +6356,27 @@ Kutenai Nation
 	NT Writing
 	NT Youth
 
-Laboratories     
+Laboratories
 	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
 
-Laboratory animals     
+Laboratory animals
 
-Laboratory technicians     
+Laboratory technicians
 
 Labour agreements
 	USE Labour relations -- Collective bargaining agreements
 
-Labour camps     
+Labour camps
 	USE Internment camps
 	USE Relief camps
 	USE Work camps
 
-Labour Day     
+Labour Day
 
-Labour disputes     
+Labour disputes
 	RT Strikes and lockouts
 
-Labour laws and legislation     
+Labour laws and legislation
 
 Labour organizations
 	USE Labour unions
@@ -6387,21 +6387,21 @@ Labour relations
 
 Labour unions
 
-Labour supply     
+Labour supply
 
-Lacrosse     
+Lacrosse
 
-Lakes     
+Lakes
 
-Lamb     
+Lamb
 
-Lamps     
+Lamps
 
 Land clearing
 
-Land companies     
+Land companies
 
-Land grants     
+Land grants
 
 Land reclamation
 
@@ -6416,109 +6416,109 @@ Land surveys
 Land tax
 	USE Land value taxation
 
-Land tenure     
+Land tenure
 
-Land titles     
+Land titles
 
-Land use     
+Land use
 
-Land value taxation     
+Land value taxation
 
-Landlord and tenant     
+Landlord and tenant
 
-Landscape architecture     
+Landscape architecture
 
-Landscape gardening     
+Landscape gardening
 	RT Grounds maintenance
 
-Landslides     
+Landslides
 	RT Avalanches
 	RT Rockslides
 
 Language and languages
-	NT Study and teaching     
+	NT Study and teaching
 
-Lanterns		
+Lanterns
 	USE Lamps
 
 Lantern slides
 
-Laotian Canadians     
+Laotian Canadians
 
-Laotians     
+Laotians
 
 Laser recording
 
-Lasers     
+Lasers
 
-Latin language 	  
+Latin language
 
 Latter-Day Saints
 	USE Church of Jesus Christ of Latter-Day Saints
 
-Laundries 
+Laundries
 	NT Machinery
 	NT Self-service laundries
-	NT Workers		
+	NT Workers
 
 Law
 	NT Cases
 	NT Civil
-	NT Corporate 
-	NT Criminal    
+	NT Corporate
+	NT Criminal
 	RT Actions and defenses
 
-Law enforcement   
-	NT Field sobriety tests  
+Law enforcement
+	NT Field sobriety tests
 
-Law firms     
+Law firms
 
-Law offices     
+Law offices
 
 Law reports
 
-Law schools     
+Law schools
 
 Law stamps
 	USE Revenue stamps
 
-Law students     
+Law students
 
 Lawn bowling
 
-Lawn mowers   
+Lawn mowers
 
 Lawsuits
 	USE Law -- Actions and defenses
 	USE Civil law
 
-Lawyers     
+Lawyers
 	NT Ethics
 
 Leader of the Opposition
 	USE Legislative Assembly.  Official Opposition
 
-Learning disabilities     
+Learning disabilities
 
-Lease and rental services     
+Lease and rental services
 
 Leather
 
-Leather industry and trade     
+Leather industry and trade
 
-Legal aid     
+Legal aid
 
-Legal opinions 	  
+Legal opinions
 
 Legal proceedings
-	NT Appellate procedure     
+	NT Appellate procedure
 
-Legal services     
+Legal services
 
-Legends     
+Legends
 
 Legislation
-	NT Repeal     
+	NT Repeal
 	RT Legislation (Name of Act as titled in the Statutes of Alberta)
 	RT Legislative Assembly -- Bills
 
@@ -6539,10 +6539,10 @@ Legislative Assembly
 
 Legislative Assembly.  Official Opposition
 
-Legislative bodies     
+Legislative bodies
 	NT Reform
 
-Legislative buildings     
+Legislative buildings
 	NT Design and construction
 	NT Grounds
 	NT Interiors
@@ -6561,20 +6561,20 @@ Lesser Slave Lake Indian Regional Council
 Liability insurance
 	USE Insurance, Liability
 
-Libel and slander     
+Libel and slander
 
-Librarians     
+Librarians
 
-Libraries     
+Libraries
 
-Library science     
+Library science
 
-Licenses     
+Licenses
 	NT Driving
 	NT Liquor
 	NT Marriage
 
-Liens     
+Liens
 
 Lieutenant-Governors
 	NT Alberta [Saskatchewan, Ontario, etc.]
@@ -6582,24 +6582,24 @@ Lieutenant-Governors
 Life Insurance
 	USE Insurance, Life
 
-Life-saving     
+Life-saving
 
-Light rapid transit     
+Light rapid transit
 
-Lighthouses     
+Lighthouses
 
-Lighting     
+Lighting
 
-Lightning     
+Lightning
 
-Lime industry     
+Lime industry
 
 Lime kilns
 	USE Lime industry
 
-Limestone     
+Limestone
 
-Liquid air industry     
+Liquid air industry
 
 Liquor
 	USE Alcohol
@@ -6610,7 +6610,7 @@ Liquor duties
 Liquor industry
 	USE Alcohol -- Industry
 
-Liquor laws     
+Liquor laws
 	USE Alcohol -- Laws and legislation
 
 Liquor licenses
@@ -6639,43 +6639,43 @@ Litigation
 Litter
 
 Little People
-	UF Dwarfs    
+	UF Dwarfs
 
 Liturgical objects
 	NT Crosses
-	NT Crucifixes     
+	NT Crucifixes
 
-Livestock   
-	NT Brands and branding  
-	NT Breeding  
-	NT Judging   
+Livestock
+	NT Brands and branding
+	NT Breeding
+	NT Judging
 	NT Marketing
 	NT Societies, etc.
 
 Livestock associations
 	USE Livestock -- Societies, etc.
 
-Livestock brands     
+Livestock brands
 	USE Livestock -- Brands and branding
 
-Livestock breeds     
+Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
 
-Livestock exhibitions     
+Livestock exhibitions
 
-Loans     
+Loans
 
 Loans, Farm
 	USE Agricultural credit
 
-Lobsters     
+Lobsters
 
 Lobbying
 
-Local finance     
+Local finance
 
-Local government     
-	NT Law and legislation     
+Local government
+	NT Law and legislation
 	NT Taxation
 	RT Municipal Affairs, Department of
 
@@ -6684,43 +6684,43 @@ Local Improvement Districts
 	RT Municipal Affairs, Department of
 	For names of particular L.I.D.s, use the following format: Local Improvement District No.  1
 
-Local taxation   
-	USE Local government -- Taxation  
+Local taxation
+	USE Local government -- Taxation
 
-Local transit     
+Local transit
 
-Locks and keys     
+Locks and keys
 
-Locomotive engineers     
+Locomotive engineers
 
-Locomotives     
+Locomotives
 
 Locusts
 
-Log buildings     
+Log buildings
 
-Log transportation     
+Log transportation
 
-Logging and loggers    
+Logging and loggers
 
 Long-term care facilities
-	NT Residents     
+	NT Residents
 
-Lotteries 
+Lotteries
 
 Loyal Orange Institution
 	UF Orange Order
 
 Lubricating oils
 
-Luge     
+Luge
 
 Lumber
 	NT Grading
 	NT Storage
 	NT Transportation
 
-Lumber camps     
+Lumber camps
 
 Lumber industry and trade
 
@@ -6730,7 +6730,7 @@ Lumber mills
 Lumberjacks
 	USE Logging and loggers
 
-Lumber yards     
+Lumber yards
 
 Lunar Eclipses
 	Subdivided by date, e.g. Lunar Eclipses -- 1866
@@ -6745,27 +6745,27 @@ Lunch rooms
 	USE Restaurants, lunch rooms, etc.
 
 Lungs
-	NT Diseases     
+	NT Diseases
 	RT Pulmonary fibrosis
 
-Lutheran Church     
+Lutheran Church
 	NT Buildings
 	NT Ceremonies and practices
 	NT Clergy
-	NT Education   
+	NT Education
 	NT Finance
 	NT Government
 	NT History
 	NT Membership
-	NT Missions and missionaries    
+	NT Missions and missionaries
 	NT Sermons
 	NT Societies, etc.
 	NT Sunday schools
 	NT Synod
 
-Lutherans, Danish [Swedish, etc.]     
+Lutherans, Danish [Swedish, etc.]
 
-Lynx     
+Lynx
 
 Macaroni products
 	USE Pasta products
@@ -6774,13 +6774,13 @@ Maces, Ceremonial
 	USE Ceremonial maces
 	USE Provincial mace
 
-Machine shops     
+Machine shops
 
 Machinery
 
 Machine tools
 
-Magicians     
+Magicians
 
 Magistrates
 	USE Judges
@@ -6789,61 +6789,61 @@ Magistrates
 
 Magnetic recorders and recording
 
-Magpies		
+Magpies
 
 Mail service
 	USE Postal service
 
-Malaysian Canadians     
+Malaysian Canadians
 
 Malaysians
 
-Malnutrition     
+Malnutrition
 
-Manpower 		
+Manpower
 	USE Labour supply
 
-Manpower policy     
+Manpower policy
 	USE Labour policy
 
 Manufacturers
 
 Manufactures
 
-Manure     
+Manure
 
 Maps
 
 Marbles (Game)
 
-Margarine     
+Margarine
 
 Marijuana
-	USE Cannabis     
+	USE Cannabis
 
-Marine biology     
+Marine biology
 
-Marketing     
+Marketing
 
-Marketing research     
+Marketing research
 
-Markets     
+Markets
 
-Marriage     
+Marriage
 
-Marriage counselling     
+Marriage counselling
 
-Marriage licenses     
+Marriage licenses
 	USE Licenses -- Marriage
 
-Marshes     
+Marshes
 	USE Wetlands
 
-Martial arts     
+Martial arts
 
 Masculinity
 
-Masonry     
+Masonry
 
 Masons (Fraternal Order)
 	USE Freemasonry
@@ -6852,53 +6852,53 @@ Masons (Trade)
 	USE Bricklayers
 	USE Stonemasons
 
-Mass media     
+Mass media
 	USE Media
 
-Mathematicians     
+Mathematicians
 
-Mathematics     
+Mathematics
 
-Mayors     
+Mayors
 	RT subdivision Mayors under names of communities
 
-Measles     
+Measles
 	RT Rubella
 
 Meat
 	NT Preparation
 
-Meat industry and trade     
+Meat industry and trade
 
 Mechanics
 	NT Automobiles
 	NT Aviation
 	NT Machinery
 
-Medals     
+Medals
 
 Media
 	UF Mass media
 
-Medical care     
+Medical care
 
 Medical clinics
 	UF Clinics
 
-Medical colleges     
+Medical colleges
 	USE Medical schools
 
-Medical education     
+Medical education
 
-Medical electronics       
+Medical electronics
 
 Medical examiners
 
-Medical laboratories     
+Medical laboratories
 
-Medical laws and legislation     
+Medical laws and legislation
 
-Medical records     
+Medical records
 
 Medical research
 
@@ -6912,12 +6912,12 @@ Meetings
 	USE Conventions
 	USE Congresses and conventions
 
-Melons     
+Melons
 
 Memoirs
 	USE Biography
 
-Men     
+Men
 	NT Education
 	NT Employment
 	NT Health
@@ -6926,42 +6926,42 @@ Men
 Mental illness
 	USE Mental health
 
-Mennonites     
-	RT Agriculture -- Colonies 
+Mennonites
+	RT Agriculture -- Colonies
 
-Men's clothing     
+Men's clothing
 
-Mental health  
+Mental health
 	NT Anxiety
 	NT Depression
 	NT Phobias
 	NT Policy
 	NT Treatment
-   
+
 Mental hospitals
 	USE Psychiatric hospitals
 
-Mentally disabled 
+Mentally disabled
 	RT Physically disabled
 
-Mentally ill  
-	USE Mental health   
+Mentally ill
+	USE Mental health
 
 Menus
 
-Merchants     
+Merchants
 
-Metal trade     
+Metal trade
 
-Metalworkers and metalworking     
+Metalworkers and metalworking
 
-Meteorites     
+Meteorites
 
-Meteorology     
+Meteorology
 
-Methanol fuel industry     
+Methanol fuel industry
 
-Methodist Church     
+Methodist Church
 	RT United Church of Canada
 	NT Anniversaries, etc.
 	NT Buildings
@@ -6969,7 +6969,7 @@ Methodist Church
 	NT Conferences
 	NT Conventions
 	NT Education
-	NT Missions    
+	NT Missions
 	NT Rites and ceremonies
 	NT Sermons
 	NT Societies, etc.
@@ -6977,7 +6977,7 @@ Methodist Church
 
 Métis Nation
 	RT Red River Colony
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -6990,7 +6990,7 @@ Métis Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -6998,39 +6998,39 @@ Métis Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Métis Nation -- Folklore
 		USE Métis Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -7047,13 +7047,13 @@ Métis Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Métis Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -7063,20 +7063,20 @@ Métis Nation
 
 Métis Settlements
 
-Métis Settlements General Council     
+Métis Settlements General Council
 
-Metric system     
+Metric system
 
-Micrographics     
+Micrographics
 
 Microwave ovens
 
-Midwives and midwifery    
+Midwives and midwifery
 
-Migrant labour   
+Migrant labour
 	RT Temporary Foreign Workers
 
-Migration, Internal     
+Migration, Internal
 
 Military
 	NT Bases
@@ -7093,28 +7093,28 @@ Milk
 Milk industry
 	USE Dairy industry
 
-Millinery     
+Millinery
 
 Millinery stores
 	USE Stores, Retail -- Millinery
 
-Milling machinery   
+Milling machinery
 
-Mills and millwork     
+Mills and millwork
 
-Millwrights     
+Millwrights
 
 Mineral exploration
 	USE Prospecting
 
 Mineral resources
 
-Mineral rights     
+Mineral rights
 
-Mineral water   
+Mineral water
 
-Miners 
-	RT Mines and mining -- Employees    
+Miners
+	RT Mines and mining -- Employees
 
 Mines and mining
 	NT Accidents
@@ -7131,7 +7131,7 @@ Mines and mining
 	NT Rescue work
 	NT Safety
 	NT Sanitation
-	NT Taxation 	    
+	NT Taxation
 	NT Transportation
 	NT Ventilation
 
@@ -7144,101 +7144,101 @@ Ministerial papers
 Ministers of Religion
 	USE Clergy subdivision under specific denomination
 
-Mink farming     
+Mink farming
 
 Minorities
 
-Mints     
+Mints
 	Use for coin-making enterprises
 
-Missing persons     
+Missing persons
 
-Missions and missionaries   
-	When possible, use specific denomination.  
+Missions and missionaries
+	When possible, use specific denomination.
 
-Mobile home industry     
+Mobile home industry
 
-Mobile home parks     
+Mobile home parks
 
-Moccasins      
+Moccasins
 
-Models, Fashion      
+Models, Fashion
 
-Models and modelmaking     
+Models and modelmaking
 
-Monasteries     
+Monasteries
 
-Monetary policy     
+Monetary policy
 
-Monetary reform   
+Monetary reform
 
-Money     
+Money
 
-Monuments     
+Monuments
 
 Moon
 
-Moose     
+Moose
 
-Moose hunting     
+Moose hunting
 
-Moravian Church    
+Moravian Church
 	NT Buildings
 	NT Clergy
-	NT Rites and ceremonies 
+	NT Rites and ceremonies
 
-Moravians     
+Moravians
 
-Morgues     
+Morgues
 
 Mormons
-	USE Church of Jesus Christ of Latter-Day Saints     
+	USE Church of Jesus Christ of Latter-Day Saints
 
 Mortgage brokers
 
-Mortgages     
+Mortgages
 
-Mosques  
-	RT Islam -- Buildings   
+Mosques
+	RT Islam -- Buildings
 
-Mosquitoes     
+Mosquitoes
 	NT Control
 	NT Disease
 
-Motels     
+Motels
 
-Motion pictures     
+Motion pictures
 	NT Industry
 	NT Production and direction
 	NT Projection and projectionists
 	NT Theatres
 
-Motor scooters	    
+Motor scooters
 
-Motorboats     
+Motorboats
 	NT Safety regulations
 	NT Racing
 
-Motorcycle gangs     
+Motorcycle gangs
 
-Motorcycles 
-	NT Racing    
+Motorcycles
+	NT Racing
 
 Mountain lions
 	UF Cougars
 	UF Pumas
 
-Mountain passes     
+Mountain passes
 
-Mountain roads     
+Mountain roads
 
-Mountain sheep	    
+Mountain sheep
 
-Mountaineering and mountaineers     
+Mountaineering and mountaineers
 
-Mountains     
+Mountains
 
-Moving, Household   
+Moving, Household
 	RT Storage and moving trade
 
 Moving and storage
@@ -7246,55 +7246,55 @@ Moving and storage
 	Moving, Household
 	Moving of buildings, bridges, etc.
 
-Mules   
-	RT Donkeys  
+Mules
+	RT Donkeys
 
-Multiculturalism     
+Multiculturalism
 
-Multiple sclerosis     
+Multiple sclerosis
 
-Mumps     
+Mumps
 
-Municipal buildings     
+Municipal buildings
 
-Municipal charters     
+Municipal charters
 
 Municipal Districts
 	RT Local government
 	RT Municipal Affairs, Department of
 	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
 
-Municipal finance     
+Municipal finance
 
-Municipal government     
+Municipal government
 
-Municipal incorporation     
+Municipal incorporation
 
 Municipal Nursing Services Districts
 
-Mural painting and decoration     
+Mural painting and decoration
 
-Murder     
+Murder
 	USE Homicide
 
-Museums     
+Museums
 
-Mushroom culture     
+Mushroom culture
 	USE Fungiculture
 
 Mushrooms
 
-Music     
+Music
 	NT Handbooks, manuals, etc.
-	NT Instruction and study    
+	NT Instruction and study
 	NT Instruments
 	NT Performance
 	NT Teachers
 	NT Text books
 
-Music halls   
+Music halls
 
-Music in education  
+Music in education
 
 Music schools
 	USE Conservatories of music
@@ -7309,20 +7309,20 @@ Musical theatre
 Musical revues
 	RT Variety shows (Television programs)
 
-Musicians     
+Musicians
 
-Muskeg     
+Muskeg
 
-Muskox 	
+Muskox
 
-Muslims     
+Muslims
 
 Mutual telephone companies
 	USE Telephone companies
 
 Nakawe Nation
 	UF Saulteaux Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -7335,7 +7335,7 @@ Nakawe Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -7343,39 +7343,39 @@ Nakawe Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Nakawe Nation -- Folklore
 		USE Nakawe Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -7392,13 +7392,13 @@ Nakawe Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Nakawe Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -7408,7 +7408,7 @@ Nakawe Nation
 
 Nakoda Nation
 	UF Stoney Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -7421,7 +7421,7 @@ Nakoda Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -7429,39 +7429,39 @@ Nakoda Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Nakoda Nation -- Folklore
 		USE Nakoda Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -7478,13 +7478,13 @@ Nakoda Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Nakoda Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -7498,39 +7498,39 @@ Names, Personal
 
 Naphtha
 
-Narcotics     
+Narcotics
 
-National parks and reserves     
+National parks and reserves
 
-Nationalism     
+Nationalism
 
-Native Friendship Centres     
+Native Friendship Centres
 
 Nativity scenes
 	USE Creches (Nativity scenes)
 
-Natural foods industry     
+Natural foods industry
 
-Natural gas    
+Natural gas
 	NT Conservation
-	NT Geology     
-	NT Law and legislation     
+	NT Geology
+	NT Law and legislation
 	NT Leases
 	NT Pipe lines
 	NT Reserves
 	NT Storage
-	NT Taxation     
+	NT Taxation
 
-Natural history     
+Natural history
 
-Natural resources     
+Natural resources
 
-Naturalization     
+Naturalization
 
 Nature
 
 Naturopathy and naturopaths
-	UF Vitamin therapy     
+	UF Vitamin therapy
 
 Naval Cadets
 	USE Sea Cadets
@@ -7539,11 +7539,11 @@ Neoliberalism
 	RT Austerity
 	RT Deregulation
 
-Neuroanatomy   
+Neuroanatomy
 
-New Year     
+New Year
 
-News agencies     
+News agencies
 
 Newspapers
 	NT Carriers
@@ -7551,18 +7551,18 @@ Newspapers
 	NT Publishing
 	NT Vendors
 
-Newsprint     
+Newsprint
 
-Nickel industry     
+Nickel industry
 
-Nickel mines and mining     
+Nickel mines and mining
 
 Niitsitapi
 	UF Blackfoot Confederacy
 	RT Kainai Nation
 	RT Piikani Nation
 	RT Siksika Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -7575,7 +7575,7 @@ Niitsitapi
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -7583,39 +7583,39 @@ Niitsitapi
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Niitsitapi -- Folklore
 		USE Niitsitapi -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -7632,13 +7632,13 @@ Niitsitapi
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Niitsitapi -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -7676,7 +7676,7 @@ Northwest Resistance, 1885
 	NT Refugees
 	NT Scrip
 	NT Transportation
-	NT Veterans 
+	NT Veterans
 	RT Red River Resistance
 
 Northwest Territories
@@ -7684,24 +7684,24 @@ Northwest Territories
 
 North Saskatchewan River
 
-Norwegian Canadians     
+Norwegian Canadians
 
-Norwegians     
+Norwegians
 
-Notaries     
+Notaries
 
 Nuclear bomb shelters
 	USE Nuclear warfare and weaponry -- Shelters
 
-Nuclear disarmament     
+Nuclear disarmament
 
-Nuclear energy     
+Nuclear energy
 
-Nuclear medicine     
+Nuclear medicine
 
 Nuclear physics
 
-Nuclear reactors     
+Nuclear reactors
 
 Nuclear warfare and weaponry
 	NT Shelters
@@ -7716,69 +7716,69 @@ Nuisance grounds
 Numbered treaties
 	RT specific treaties
 
-Numismatics     
+Numismatics
 	UF Coins
 	RT Money
 
 Nuns
-	When possible use specific sect or religion, e.g. Catholic Church -- Nuns     
+	When possible use specific sect or religion, e.g. Catholic Church -- Nuns
 
-Nurseries     
+Nurseries
 	RT Day care centres
 
-Nurseries (Horticulture)     
+Nurseries (Horticulture)
 
-Nurses     
+Nurses
 	RT Public health nurses
 
-Nurses' aides     
+Nurses' aides
 
-Nursing     
+Nursing
 
 Nursing homes
-	USE Long-term care facilities     
+	USE Long-term care facilities
 
 Nursing orderlies
 
-Nursing schools     
+Nursing schools
 
-Nutrition     
+Nutrition
 
-Oaths     
+Oaths
 
-Oats     
+Oats
 
-Observatories   
+Observatories
 
-Occupational diseases     
+Occupational diseases
 
 Occupational health and safety
 	RT Industrial safety
 
-Occupational health services     
+Occupational health services
 
-Occupational therapists     
+Occupational therapists
 
-Occupational therapy     
+Occupational therapy
 
-Oceanography    
+Oceanography
 
-Office buildings     
+Office buildings
 
-Offices 
+Offices
 	NT Equipment and supplies
-	NT Procedures  
+	NT Procedures
 
-Official Guardian     
+Official Guardian
 
 Oil
 	RT Natural gas
 	RT Petroleum
 
-Oil and gas leases     
+Oil and gas leases
 	RT Mining leases
 
-Oil burners   
+Oil burners
 
 Oil derricks
 	USE Oil wells -- Drilling rigs
@@ -7788,10 +7788,10 @@ Oil drums
 
 Oil exploration
 
-Oil fields     
+Oil fields
 	NT Equipment and supplies
 	NT Taxation
-	NT Valuation   
+	NT Valuation
 
 Oil fires
 	USE Petroleum industry and trade -- Fires and fire prevention
@@ -7807,25 +7807,25 @@ Oil refineries
 Oil sands
 	UF Athabasca Tar Sands
 	UF Bituminous sands
-	UF Tar sands     
+	UF Tar sands
 
-Oil sands extraction plants     
+Oil sands extraction plants
 
-Oil sands industry     
+Oil sands industry
 
-Oil spills     
+Oil spills
 	NT Prevention
 	NT Remediation
 
-Oil storage tanks   
+Oil storage tanks
 
-Oil well drilling     
+Oil well drilling
 
-Oil well drilling, Submarine     
+Oil well drilling, Submarine
 
-Oil well logging     
+Oil well logging
 
-Oil wells     
+Oil wells
 	NT Drilling rigs
 	NT Equipment and supplies
 	NT Maintenance and repair
@@ -7836,7 +7836,7 @@ Oil workers
 	RT Petroleum workers
 
 Ojibwa Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -7849,7 +7849,7 @@ Ojibwa Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -7857,39 +7857,39 @@ Ojibwa Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Ojibwa Nation -- Folklore
 		USE Ojibwa Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -7906,13 +7906,13 @@ Ojibwa Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Ojibwa Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -7920,70 +7920,70 @@ Ojibwa Nation
 	NT Writing
 	NT Youth
 
-Old age assistance     
+Old age assistance
 
-Old-age homes     
+Old-age homes
 	USE Retirement homes
 	RT Assisted-living facilities
 
-Old age pensions     
+Old age pensions
 
 Olympics
 	RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)
 
-Ombudsman     
+Ombudsman
 
-Onions     
+Onions
 
 Opening ceremonies
 
-Opera     
+Opera
 
-Operating rooms    
+Operating rooms
 
-Operetta     
+Operetta
 
-Ophthalmologists     
+Ophthalmologists
 
-Ophthalmology     
+Ophthalmology
 
 Opposition
 	USE Legislative Assembly -- Official Opposition
 
-Optometry and optometrists 
+Optometry and optometrists
 	NT Eyeglasses
-	NT Contact lenses    
+	NT Contact lenses
 
  Orange Order
-	USE Loyal Orange Institution     
+	USE Loyal Orange Institution
 
 Orchestra
 	RT subdivision Orchestras and bands under names of colleges and universities, communities, etc.
 
 Orders in Council
 
-Ordinances, Municipal     
+Ordinances, Municipal
 
 Ordinances, Territorial
 
-Ores     
+Ores
 
 Organ transplants
 	USE Transplantation of organs, tissues, etc.
 
 Organization charts
 
-Organs     
+Organs
 
-Ornithology     
+Ornithology
 
-Orphans     
+Orphans
 	NT Law and legislation
 	RT Child welfare
 
-Orphanages     
+Orphanages
 
-Orthodox Catholic Church     
+Orthodox Catholic Church
 	UF Eastern Orthodox Church
 	USE Orthodox Catholic Church, [Russia, Ukraine, Greece, Serbia, etc.] for autocephalous churches
 	NT Buildings
@@ -7995,57 +7995,57 @@ Outfitters
 	USE Fishing guides
 	USE Hunting guides
 
-Outhouses     
+Outhouses
 
 Ovens
 	RT Microwave ovens
 	RT Stoves
 
-Oxen     
+Oxen
 
-Pack transportation     
+Pack transportation
 
-Packaging     
+Packaging
 
-Packhorse camping     
+Packhorse camping
 
-Packing houses     
+Packing houses
 	RT Meat industry and trade
 
-Paddle steamers     
+Paddle steamers
 
-Paint industry and trade     
+Paint industry and trade
 	RT Stores, Retail -- Paint
 
-Paint shops     
+Paint shops
 
 Paint stores
 	USE Stores, Retail -- Paint
 
-Painting and painters   
+Painting and painters
 
-Painting, Industrial and painters, industrial 
+Painting, Industrial and painters, industrial
 
 Paintings
 	USE Painting
 
-Pakistani Canadians     
+Pakistani Canadians
 
-Pakistanis     
+Pakistanis
 
-Paleontology     
+Paleontology
 	RT Fossils
 
 Pandas
 
 Pandemics
 
-Panhandling and panhandlers    
+Panhandling and panhandlers
 	UF Beggars
 
 Pansexuality
 
-Paper industry     
+Paper industry
 	RT Wood pulp industry
 
 Paper recycling
@@ -8054,65 +8054,65 @@ Paper recycling
 
 Parachutes
 
-Parachuting     
+Parachuting
 
-Parades  
-	NT Floats   
+Parades
+	NT Floats
 
-Parcel post     
+Parcel post
 
-Parenting     
+Parenting
 
-Parkades 
+Parkades
 	UF Parking garages
 
-Park rangers     
+Park rangers
 	NT Housing
 	NT Stations
 	RT Forest rangers
 
-Parking garages     
+Parking garages
 	USE Parkades
 
-Parking lots     
+Parking lots
 
-Parking meters    
+Parking meters
 
-Parks     
+Parks
 	RT National parks and reserves
 	RT Provincial parks and reserves
 
 Parliament Buildings (Ottawa, Ont.)
 
-Parliamentary practice     
+Parliamentary practice
 
-Parole     
+Parole
 
 Partition, Territorial
 	Use for division of the North-West Territories into provinces.
 
-Partnership     
+Partnership
 
-Partridges		
+Partridges
 
 Passenger lists
 	USE Railroads -- Passenger lists
 	USE Ships -- Passenger lists
 
-Pasta 
+Pasta
 
-Pastures     
+Pastures
 
-Patents     
+Patents
 
-Pathology, Experimental   
+Pathology, Experimental
 
-Patronage, Political     
+Patronage, Political
 
-Pavement     
+Pavement
 	NT Contracts and specifications~f
 	NT Equipment and machinery
-	NT Frost damage  
+	NT Frost damage
 	NT Maintenance and repair
 	RT Concrete
 
@@ -8121,7 +8121,7 @@ Paving
 
 Pawnbroking and pawnbrokers
 
-Peace movements     
+Peace movements
 	UF Antiwar movements
 	RT Nuclear disarmament
 
@@ -8129,9 +8129,9 @@ Peace treaties
 
 Peacekeeping
 
-Peat industry     
+Peat industry
 
-Pedestrians     
+Pedestrians
 
 Pelts
 	USE Fur
@@ -8144,24 +8144,24 @@ Penitentiaries
 
 Penmanship
 
-Pensions  
-	RT Seniors   
+Pensions
+	RT Seniors
 
-Pensions, Military     
+Pensions, Military
 	USE Military pensions
 
 Pentecostal Church
 	NT Buildings
 	NT Clergy
-	NT Rites and ceremonies     
+	NT Rites and ceremonies
 
-Performing arts     
+Performing arts
 
-Performing arts festivals     
+Performing arts festivals
 
 Periodicals
 
-Perjury     
+Perjury
 
 Personal growth and development
 	USE Self-help industry
@@ -8169,31 +8169,31 @@ Personal growth and development
 Personality disorders
 	USE Mental health
 
-Personnel management     
+Personnel management
 	UF Human resources
 
-Pesticides     
+Pesticides
 	NT Environmental aspects
-	RT Agriculture -- Chemicals  
+	RT Agriculture -- Chemicals
 
 Pests
-	NT Control   
+	NT Control
 	RT specific types of pests, e.g. Rats
 	RT Insects -- Control
 	RT Pesticides
 
-Pet shops		
+Pet shops
 	USE Stores, Retail -- Pet shops
 
-Petition, Right of     
+Petition, Right of
 
 Petrochemical industry
 	USE Petroleum chemicals industry
 
-Petroglyphs     
+Petroglyphs
 
-Petroleum     
-	NT Geology     
+Petroleum
+	NT Geology
 	NT Law and legislation
 	NT Leases
 	NT Pipelines
@@ -8203,32 +8203,32 @@ Petroleum
 	NT Reserves
 	NT Royalties
 	NT Storage
-	NT Taxation     
+	NT Taxation
 
 Petroleum, Synthetic
 	RT Oil sands
 
 Petroleum chemicals
 
-Petroleum chemicals industry     
+Petroleum chemicals industry
 
-Petroleum conservation     
+Petroleum conservation
 
-Petroleum industry and trade     
+Petroleum industry and trade
 	NT Equipment and supplies
-	NT Fires and fire prevention   
+	NT Fires and fire prevention
 	NT Workers
 
 Pharmaceuticals
 
-Pharmaceutical industry     
+Pharmaceutical industry
 
 Pharmacies
 	USE Stores, Retail -- Pharmacies
 
-Pharmacists     
+Pharmacists
 
-Pharmacy     
+Pharmacy
 
 Pheasants
 
@@ -8238,7 +8238,7 @@ Philately
 Phillipine Canadians
 	USE Filipino Canadians
 
-Philosophy     
+Philosophy
 
 Phonograph
 	USE Sound recordings -- Players
@@ -8252,18 +8252,18 @@ Phono records
 Phonotapes
 	USE Sound recordings
 
-Phosphate rock     
+Phosphate rock
 
 Photo radar
 	USE Radar, Photo
 
 Photocopying processes
 
-Photogrammetry    
+Photogrammetry
 
-Photographers     
+Photographers
 
-Photography     
+Photography
 	NT Ambrotype
 	NT Apparatus and supplies
 	NT Daguerreotype
@@ -8282,15 +8282,15 @@ Photography, Panoramic
 Photovoltaic panels
 	RT Renewable energy -- Solar
 
-Physical education and training     
+Physical education and training
 
-Physical fitness     
+Physical fitness
 
-Physical fitness centres     
+Physical fitness centres
 
-Physical therapists     
+Physical therapists
 
-Physical therapy     
+Physical therapy
 
 Physically disabled
 	UF Crippled
@@ -8300,35 +8300,35 @@ Physically disabled
 Physicians
 	NT Accreditation
 	NT Education
-	NT Regulation     
+	NT Regulation
 
-Physics     
+Physics
 	Use only for the discipline of physics as taught in schools and universities.
 
 Physiotherapists
 	USE Physical therapists
 
-Piano		
+Piano
 
 Pickaxes
 
-Picnic grounds     
+Picnic grounds
 
-Picnicking 		
+Picnicking
 
-Piegan Nation	  
+Piegan Nation
 	USE Piikani Nation
 
-Piers		
+Piers
 	USE Docks
 
-Pigeons		
+Pigeons
 
 Pigs
 
 Piikani Nation
-	UF Peigan Nation	
-	NT Agriculture    
+	UF Peigan Nation
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -8341,7 +8341,7 @@ Piikani Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -8349,39 +8349,39 @@ Piikani Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Piikani Nation -- Folklore
 		USE Piikani Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -8398,13 +8398,13 @@ Piikani Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Piikani Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -8414,17 +8414,17 @@ Piikani Nation
 
 Pile drivers
 
-Pilgrims and pilgrimages  
+Pilgrims and pilgrimages
 
 Pilots (Aeronautics)
 	USE Aviation -- Pilots
 
-Pilots and pilotage     
+Pilots and pilotage
 	Refers only to navigation on water
 
-Pinball machines     
+Pinball machines
 
-Pioneers     
+Pioneers
 	RT Homesteading and homesteaders
 
 Pipe, Cast-iron
@@ -8435,18 +8435,18 @@ Pipe, Plastic
 
 Pipe, Steel
 
-Pipe industry     
+Pipe industry
 
 Pipelines
 
-Pistols     
+Pistols
 
 Pitch
 
 Place-names
 	USE Names, Geographical
 
-Planetariums    
+Planetariums
 
 Planning, City
 	USE City planning
@@ -8454,36 +8454,36 @@ Planning, City
 Plants
 	RT Horticulture
 
-Plaques 
+Plaques
 
-Plastics industry and trade     
+Plastics industry and trade
 
-Playgrounds     
+Playgrounds
 
 Playhouses, Children's
 	USE Children's Playhouses
 
-Playing cards	
+Playing cards
 
 Plays
 	USE Theatre
 	USE Drama
 
-Plebiscite     
+Plebiscite
 
-Plowing     
+Plowing
 
-Plows     
+Plows
 
-Plumbers     
+Plumbers
 
 Plumbing
 
-Plumbing fixtures     
+Plumbing fixtures
 
-Poaching     
+Poaching
 
-Podiatry     
+Podiatry
 
 Poetry and poets
 	RT Literature
@@ -8493,13 +8493,13 @@ Poisons
 Pole-vaulting
 	USE Vaulting
 
-Poles     
+Poles
 	RT Galicians
 
-Police     
-	NT Complaints against 
+Police
+	NT Complaints against
 	NT Magistrates
-	NT Stations 
+	NT Stations
 
 Police photographers
 	USE Photography, Legal
@@ -8507,11 +8507,11 @@ Police photographers
 Police, Provincial
 	USE Alberta Provincial Police
 
-Poliomyelitis     
+Poliomyelitis
 
-Polish Canadians     
+Polish Canadians
 
-Political parties     
+Political parties
 
 Politics
 	USE Alberta -- Politics and government
@@ -8523,13 +8523,13 @@ Polls
 	USE Elections (Provincial, [date])
 	USE Voting
 
-Pollutants 
-	RT Air -- Pollution    
+Pollutants
+	RT Air -- Pollution
 
-Pollution     
+Pollution
 	RT Environmental policy
 
-Pollution control     
+Pollution control
 
 Polyamory
 
@@ -8538,31 +8538,31 @@ Polyandry
 Polyculturalism
 	RT Biculturalism
 
-Polygamy     
+Polygamy
 	RT Bigamy
 
-Polo     
+Polo
 
-Ponies     
+Ponies
 
-Pool (Game) 		
+Pool (Game)
 	USE Billiards
 
 Pool halls
 	USE Billiard halls
 
-Poor     
+Poor
 	USE Poverty
 
-Porcelain     
+Porcelain
 
-Porcupines     
+Porcupines
 
 Pork
 
-Pornography     
+Pornography
 
-Portages     
+Portages
 
 Ports
 USE Harbours
@@ -8570,7 +8570,7 @@ USE Harbours
 Post offices
 	USE Postal service -- Buildings
 
-Postal service     
+Postal service
 	NT Buildings
 	NT Employees
 	NT Equipment and supplies
@@ -8580,32 +8580,32 @@ Postal service
 	NT Rates
 	NT Stamps
 
-Posters     
+Posters
 
-Post-secondary education   
+Post-secondary education
 
-Potash industry and trade     
+Potash industry and trade
 
-Potatoes     
+Potatoes
 	NT Cultivation
 	NT Marketing
 	NT Storage
 	NT Transportation
 
-Pottery     
+Pottery
 
-Poultry     
-	NT Breeding   
-	NT Diseases     
-	NT Feeding and feeds  
-	NT Hatcheries     
-	NT Housing 	
+Poultry
+	NT Breeding
+	NT Diseases
+	NT Feeding and feeds
+	NT Hatcheries
+	NT Housing
 	NT Marketing
-	NT Research     
+	NT Research
 
-Poultry industry     
+Poultry industry
 
-Pounds     
+Pounds
 	USE Animal shelters
 
 Poverty
@@ -8615,9 +8615,9 @@ Power plants, Electric
 
 Power plants, Hydraulic
 
-Power presses 	
+Power presses
 
-Prairie chickens   
+Prairie chickens
 
 Prairie fires
 	USE Grassland fires
@@ -8628,103 +8628,103 @@ Prairie Provinces
 	NT History
 	NT Politics and government
 
-Prairies     
+Prairies
 
 Prayer books
 
-Prayer breakfasts     
+Prayer breakfasts
 
 Prayers
 
-Precious stones     
+Precious stones
 
-Precipitation (Meteorology)     
+Precipitation (Meteorology)
 
-Predatory animals     
-	NT Control     
+Predatory animals
+	NT Control
 	RT Pests -- Control
 	RT Insects -- Control
 
-Pregnancy     
+Pregnancy
 
-Premenstrual syndrome     
+Premenstrual syndrome
 
-Premiers     
+Premiers
 
-Premiums (Retail trade)     
+Premiums (Retail trade)
 
-Presbyterian Church     
+Presbyterian Church
 	NT Buildings
 	NT Clergy
-	NT Education    
+	NT Education
 	NT Finance
 	NT Missions and missionaries
 	NT Rites and ceremonies
 	NT Societies, etc.
 	NT Sunday schools
 
-Press conferences    
+Press conferences
 
 Press releases
 
 Presses
 
-Price cutting     
+Price cutting
 
-Price regulation     
+Price regulation
 
-Priests 
+Priests
 
-Prime Ministers     
+Prime Ministers
 
-Printing     
+Printing
 
-Printing plants     
+Printing plants
 
-Printing press 	     
+Printing press
 
 Printmaking
 
-Prints     
+Prints
 
 Priority Employment Program
 	USE Employment stabilization
 
 Prisoners
-	USE Correctional institutions -- Inmates     
+	USE Correctional institutions -- Inmates
 
-Prisoners of war     
+Prisoners of war
 	NT Camps
 
 Prisons
-	USE Correctional institutions    
+	USE Correctional institutions
 
-Privacy, Right of     
+Privacy, Right of
 
-Private investigators   
+Private investigators
 
-Private schools     
+Private schools
 
 Privies
 	USE Outhouses
 
-Prizes     
+Prizes
 
 Pro-Life Alberta Political Association
 
-Probate law and practice     
+Probate law and practice
 	RT Administration of estates
 
-Probation     
+Probation
 
-Probation officers     
+Probation officers
 
 Process issuers
 
 Processions
 	RT Parades
 
-Prohibition (Alberta), 1916-1923     
+Prohibition (Alberta), 1916-1923
 
 Prohibition (United States), 1920-1933
 
@@ -8733,9 +8733,9 @@ Progressive Conservative Association of Alberta
 Projection, Moving picture
 	USE Motion pictures -- Projection and projectionists
 
-Propane     
+Propane
 
-Property     
+Property
 	RT Public property
 
 Property insurance
@@ -8743,15 +8743,15 @@ Property insurance
 
 Property management
 
-Property tax     
+Property tax
 
-Prospecting     
+Prospecting
 
 Prosperity Certificates
 
 Prostitution
 	Use for criminal charge.
-	RT Sex work and sex workers     
+	RT Sex work and sex workers
 
 Protestant Reformation
 	UF Reformation
@@ -8767,39 +8767,39 @@ Provincial flags
 
 Provincial Courts
 
-Provincial flowers     
+Provincial flowers
 
 Provincial grants
 	USE Grants, Government
 
-Provincial-local fiscal relations     
+Provincial-local fiscal relations
 
-Provincial-local relations     
+Provincial-local relations
 
-Provincial-local tax relations     
+Provincial-local tax relations
 
-Provincial mace     
+Provincial mace
 
-Provincial parks and reserves     
+Provincial parks and reserves
 
-Psychiatric hospitals     
+Psychiatric hospitals
 
-Psychiatric nursing     
+Psychiatric nursing
 
 Psychiatric patients
 	RT Mentally ill
 
-Psychiatrists     
+Psychiatrists
 
-Psychics     
+Psychics
 
-Psychologists     
+Psychologists
 
-Psychology 
+Psychology
 
-Public Administration   
+Public Administration
 
-Public buildings     
+Public buildings
 
 Public expenditures
 	USE Expenditures, Public
@@ -8807,13 +8807,13 @@ Public expenditures
 Public finance
 	USE Finance, Public
 
-Public health     
+Public health
 
-Public health laws     
+Public health laws
 
-Public health nursing and nurses     
+Public health nursing and nurses
 
-Public investments     
+Public investments
 
 Public lands
 
@@ -8822,59 +8822,59 @@ Public opinion polls
 Public property
 	UF Government property
 
-Public records     
+Public records
 
-Public relations     
+Public relations
 
-Public utilities     
+Public utilities
 
-Public welfare 
-	USE Social assistance    
+Public welfare
+	USE Social assistance
 	RT Child welfare
 
-Public works 	
+Public works
 
 Publicity
 
-Publishers and publishing     
+Publishers and publishing
 
-Pulleys		
+Pulleys
 
-Pulmonary fibrosis     
+Pulmonary fibrosis
 	RT Lungs -- Diseases
 
 Pulp and paper industry
 	USE Paper industry
 	USE Wood pulp industry
 
-Pulpits     
+Pulpits
 
 Pumas
-	USE Mountain lions		
+	USE Mountain lions
 
-Pumping machinery   
+Pumping machinery
 
-Pumping stations     
+Pumping stations
 
 Pumpkins
 
 Pumps
 	USE Pumping machinery
 
-Punched card systems     
+Punched card systems
 
-Punk culture     
+Punk culture
 
 Puppetry
 
-Quakers     
+Quakers
 	USE Society of Friends
 
-Quarantine     
+Quarantine
 
-Quarries and quarrying     
+Quarries and quarrying
 
-Quartz     
+Quartz
 
 Quebec
 	NT Autonomy and independence movements
@@ -8896,15 +8896,15 @@ R.C.M.P.
 R.N.W.M.P.
 	USE North-West Mounted Police
 
-Rabbis     
+Rabbis
 
-Rabbits     
+Rabbits
 
-Rabies     
+Rabies
 
-Racetracks (Automobile racing)     
+Racetracks (Automobile racing)
 
-Racetracks (Horse-racing)     
+Racetracks (Horse-racing)
 
 Racial minorities
 	USE Minorities
@@ -8915,45 +8915,45 @@ Racing
 	USE Horse-racing
 	USE Motor-boat racing
 
-Racism     
+Racism
 	RT Antisemitism
 	RT White supremacy
 
-Racquetball     
+Racquetball
 
-Radar     
+Radar
 
-Radar, Photo 
+Radar, Photo
 	UF Photo radar
 
 Radiation
 
-Radio 
-	NT Amateur radio stations 
+Radio
+	NT Amateur radio stations
 	NT Broadcasters
 	NT Broadcasting
 	NT Education
 	NT Operators
 	NT Programs
-	NT Stations   
+	NT Stations
 
-Radiologic technologists     
+Radiologic technologists
 
-Radiologists     
+Radiologists
 
-Radiology, Medical     
+Radiology, Medical
 
 Radium
 
-Rafting (Sports)     
+Rafting (Sports)
 
 Railroads
-	USE Railways     
+	USE Railways
 
 Railways
 	UF Railroads
-	NT Abandonment  
-	NT Accidents    
+	NT Abandonment
+	NT Accidents
 	NT Bridges
 	NT Buildings and structures
 	NT Cars
@@ -8976,16 +8976,16 @@ Railways
 	NT Passes
 	NT Pensions
 	NT Rates
-	NT Right of way   
+	NT Right of way
 	NT Roundhouses
 	NT Salaries, allowances, etc.
-	NT Snow protection and removal   
+	NT Snow protection and removal
 	NT Societies, etc.
 	NT Stations
 	NT Statistics
 	NT Surveying
 	NT Switching
-	NT Taxation     
+	NT Taxation
 	NT Ties
 	NT Timetables
 	NT Track
@@ -8997,24 +8997,24 @@ Railways
 	NT Water supply
 	NT Yards
 
-Rain and rainfall     
+Rain and rainfall
 
 Rakes
 
-Ranchers     
+Ranchers
 
-Ranches     
+Ranches
 
-Rangelands     
+Rangelands
 
 Ranger stations
 	USE Forest rangers -- Housing
 	USE Park rangers -- Housing
 
 Rape
-	USE Sexual assault     
+	USE Sexual assault
 
-Rape (Plant)     
+Rape (Plant)
 	RT Canola
 
 Rapid transit
@@ -9023,28 +9023,28 @@ Rapid transit
 
 Rastafarianism
 
-Rationing     
+Rationing
 
-Rats     
-	NT Control     
+Rats
+	NT Control
 
-Reading     
+Reading
 
-Real estate agents     
+Real estate agents
 
-Real estate business     
+Real estate business
 
-Real property	  
+Real property
 
 Reapers
 	USE Harvesting machinery
 
-Recessions     
+Recessions
 
 Recipes
 	USE Cookery
 
-Reclamation of land     
+Reclamation of land
 
 Record players
 	USE Sound recordings -- Players
@@ -9055,65 +9055,65 @@ Record stores
 Records, Phonograph
 	USE Sound recordings
 
-Records management     
+Records management
 	USE Records -- Management
 
-Recreation     
+Recreation
 
-Recreation centres     
+Recreation centres
 
-Recycling (Waste, etc.)     
+Recycling (Waste, etc.)
 
 Red River cart
 	RT Métis
 
-Red River Colony 
+Red River Colony
 	RT Métis
 
 Red River Resistance, 1869-1870
 	RT Métis
 
-Redemptorists     
+Redemptorists
 	USE Catholic Church -- Congregations and Orders
 
-Referendums     
+Referendums
 
 Refineries
 	USE Petroleum refineries
 
 Reform Party of Alberta
 
-Reformation     
+Reformation
 	USE Protestant Reformation
 
-Reformatories     
+Reformatories
 	USE Correctional institutions
 
-Refrigeration and refrigerating machinery     
+Refrigeration and refrigerating machinery
 
-Refrigerators   
+Refrigerators
 
-Refugees 
-	RT Immigration and immigrants    
+Refugees
+	RT Immigration and immigrants
 
-Refuse and refuse disposal     
+Refuse and refuse disposal
 
-Regional planning commissions     
+Regional planning commissions
 
 Registrar of deeds
 
-Registration clerks     
+Registration clerks
 
 Registration districts
 
 Regulations
 
-Rehabilitation centres     
+Rehabilitation centres
 	RT Halfway houses
 
-Rehabilitation counselling   
+Rehabilitation counselling
 
-Reindeer     
+Reindeer
 
 Relief (Aid)
 	USE Social assistance
@@ -9126,13 +9126,13 @@ Religion
 Religious ceremonies
 	USE Rites and ceremonies
 
-Religious education     
+Religious education
 
 Remembrance Day
 	Use for commemoration of the end of the First World War on 11 November from 1931 to present.
 	RT Armistice Day
 
-Rendering industry 
+Rendering industry
 
 Renewable energy
 	NT Bioenergy
@@ -9140,34 +9140,34 @@ Renewable energy
 	NT Hydroelectricity
 	NT Solar
 		RT Photovoltaic panels
-	NT Wind 
-		RT Wind turbines   
+	NT Wind
+		RT Wind turbines
 
 Repair shops
 	USE Stores, Retail -- Repair shops
 
-Reparation     
+Reparation
 
-Report cards		
+Report cards
 	USE Grading and marking (Students)
 
-Reporters and reporting     
+Reporters and reporting
 	USE Journalism
 
-Representative government and representation  
+Representative government and representation
 
-Reptiles     
+Reptiles
 
 Rescue operations
 	USE Search and rescue operations
 
-Research     
+Research
 
 Reservation systems
-	USE Indigenous peoples -- Reservations 
-	RT Numbered treaties    
+	USE Indigenous peoples -- Reservations
+	RT Numbered treaties
 
-Reservoirs     
+Reservoirs
 
 Residence halls
 	USE Dormitories
@@ -9183,39 +9183,39 @@ Resistance to government
 Respirators
 
 Respiratory organs
-	NT Diseases     
+	NT Diseases
 
-Restaurants     
+Restaurants
 
 Restitution for victims of crime
 	USE Reparation
 
-Retirement     
+Retirement
 
-Retirement homes 
+Retirement homes
 	RT Assisted-living facilities
 
-Retirement income     
+Retirement income
 	RT Pensions, Old age pensions
 
-Retreats     
+Retreats
 
-Revenue     
+Revenue
 
-Revenue stamps     
+Revenue stamps
 
-Revolutions and revolutionaries   
+Revolutions and revolutionaries
 
-Reward (Law)     
+Reward (Law)
 
-Rheumatic fever     
+Rheumatic fever
 
-Rheumatoid arthritis     
+Rheumatoid arthritis
 
 Riding
 	USE Horsemanship
 
-Riding clubs     
+Riding clubs
 
 Ridings
 	USE Election districts (Federal)
@@ -9230,70 +9230,70 @@ Right of entry arbitration
 	RT Surface Rights Board
 	RT Land tenure -- Law and legislation
 
-Ringette (game)   
+Ringette (game)
 
-Riots     
+Riots
 
-Rites and ceremonies     
+Rites and ceremonies
 
-Rivers     
+Rivers
 
-Road machinery    
+Road machinery
 
-Roads     
+Roads
 	NT Design and construction
 	NT Location
 	NT Maintenance and repair
 	NT Signs
 	NT Surveying
 
-Roads, Concrete    
+Roads, Concrete
 
-Roads, Gravel	   
+Roads, Gravel
 
 Roads, Mountain
 	USE Mountain roads
 
-Robotics     
+Robotics
 
-Rock-drills 		
+Rock-drills
 
 Rockets (Aeronautics)
 
-Rocks     
+Rocks
 
-Rocks, Igneous     
+Rocks, Igneous
 
 Rocks, Metamorphic
 
-Rocks, Sedimentary     
+Rocks, Sedimentary
 
-Rockslides     
+Rockslides
 
-Rodeos     
+Rodeos
 
-Roller-skating     
+Roller-skating
 
 Roman Catholic Church
 	USE Catholic Church
 
-Romanians     
+Romanians
 
-Romanian Canadians     
+Romanian Canadians
 
 Romanian Orthodox Church
-	USE Orthodox Catholic Church, Romanian       
+	USE Orthodox Catholic Church, Romanian
 
 Roofs and roofers
 
 Rope
 
-Round-ups     
+Round-ups
 
-Roundhouses (railroads)   
+Roundhouses (railroads)
 	USE Railways -- Roundhouses
 
-Rowing     
+Rowing
 
 Royal Canadian Mounted Police
 	NT Anniversaries, etc.
@@ -9336,26 +9336,26 @@ Royal family
 Royal visits
 	USE Visits of state
 
-Rubella   
+Rubella
 	RT Measles
 
-Rugby football     
+Rugby football
 
-Rummage sales     
+Rummage sales
 	RT Thrift shops
 
-Running     
+Running
 	RT Jogging
 
-Running races     
+Running races
 
-Runways (Aviation)     
+Runways (Aviation)
 
 Rural conditions
 
-Rural development     
+Rural development
 
-Rural electrification     
+Rural electrification
 
 Rural Municipalities
 	RT Local government
@@ -9370,34 +9370,34 @@ Rustling
 
 Ruthenians
 
-Ruthenian Canadians     
+Ruthenian Canadians
 
-Rye     
+Rye
 
-Saddlery     
+Saddlery
 	RT Harness making and trade
 
 Safes
 
-Safety education     
+Safety education
 
-Safety equipment  
+Safety equipment
 
-Sailboats     
+Sailboats
 
-Sailors		
+Sailors
 
-Saint Patrick's Day     
+Saint Patrick's Day
 
 Salaries, allowances, etc.
 
 Sales
 
-Sales, Conditional     
+Sales, Conditional
 
-Sales personnel     
+Sales personnel
 
-Sales tax     
+Sales tax
 	NT Rates and tables
 
 Salesmen
@@ -9411,27 +9411,27 @@ Saloons
 
 Salt
 
-Salt industry and trade    
+Salt industry and trade
 
 Salteaux Nation
-	USE Nakawe Nation 
+	USE Nakawe Nation
 
-Sanatoriums     
+Sanatoriums
 
-Sand     
+Sand
 
-Sand and gravel industry     
+Sand and gravel industry
 
-Sandstone     
+Sandstone
 
-Sanitation     
+Sanitation
 
 Sarcee Nation
 	USE Tsuu T'ina Nation
 
-Saskatoon berry     
+Saskatoon berry
 
-Sasquatch   
+Sasquatch
 	USE Folklore
 
 Satellite television
@@ -9439,40 +9439,40 @@ Satellite television
 
 Satellites
 
-Saunas     
+Saunas
 
-Saving and investment     
+Saving and investment
 
-Sawflies   
+Sawflies
 
-Sawmills     
+Sawmills
 
-Saws     
+Saws
 
-Scales (Weighing instruments)     
+Scales (Weighing instruments)
 
 Scandinavian Canadians
 	RT Danish Canadians
 	RT Icelandic Canadians
 	RT Norwegian Canadians
-	RT Swedish Canadians     
+	RT Swedish Canadians
 
-Scandinavians     
+Scandinavians
 	RT Danes
 	RT Icelanders
 	RT Norwegians
 	RT Swedes
 
-Scarlatina     
+Scarlatina
 
 Scarlet fever
 	USE Scarlatina
 
-Scholarships     
+Scholarships
 
-School lands     
+School lands
 
-Schools     
+Schools
 	NT Athletics
 	NT Boards
 	NT Buildings
@@ -9486,28 +9486,28 @@ Schools
 	NT Shops
 	NT Superintendents
 
-Science     
+Science
 
-Scientology     
+Scientology
 	RT Alternative religious movements
 
 Scissors and shears
 
-Scots     
+Scots
 
-Scottish Canadians     
+Scottish Canadians
 
-Scouts and scouting     
+Scouts and scouting
 
-Scows    
+Scows
 
-Scrap metals     
+Scrap metals
 
-Scrapbooks     
+Scrapbooks
 
-Sculptors     
+Sculptors
 
-Sculpture     
+Sculpture
 
 Sea Cadets
 	RT Air Cadets
@@ -9516,23 +9516,23 @@ Sea Cadets
 Seagulls
 	USE Gulls
 
-Seals (Animals)     
+Seals (Animals)
 
-Seals (Numismatics)     
+Seals (Numismatics)
 
 Seamen
 	USE Sailors
 
-Seaplane bases     
+Seaplane bases
 
-Seaplanes     
+Seaplanes
 
-Search and rescue operations     
+Search and rescue operations
 
 Search Warrants
 	USE Warrants (Law)
 
-Searches and seizures     
+Searches and seizures
 
 Seashells
 	USE Shells
@@ -9542,38 +9542,38 @@ Seat belts, Automobile
 
 Second language acquisition
 
-Secretaries     
+Secretaries
 
-Sects     
+Sects
 
-Security personnel     
+Security personnel
 
-Security systems     
+Security systems
 
-Sedition     
+Sedition
 
-Seed industry and trade     
+Seed industry and trade
 
 Seeding
 	USE Sowing
 
-Seeds     
-	NT Certification     
+Seeds
+	NT Certification
 	NT Cleaning
 	NT Cultivation
 
-Seepage		
+Seepage
 
-Seismic prospecting camps     
+Seismic prospecting camps
 
 Seizures (Law)
 	USE Searches and seizures
 
-Self-defense 	
+Self-defense
 
 Self-help industry
 
-Self-service laundries     
+Self-service laundries
 
 Semaphore
 	USE Signals and signalling
@@ -9598,15 +9598,15 @@ Senior citizens
 Separatism
 	RT Canada, Western -- Autonomy and independence movement
 
-Service industries     
+Service industries
 
-Service stations       
+Service stations
 
-Servitudes     
+Servitudes
 
 Sessional Papers
 
-Seventh Day Adventists   
+Seventh Day Adventists
 
 Sewers
 
@@ -9614,9 +9614,9 @@ Sewing
 
 Sewing machines
 
-Sex education     
+Sex education
 
-Sex-oriented businesses     
+Sex-oriented businesses
 
 Sex work and sex workers
 
@@ -9625,73 +9625,73 @@ Sexual assault
 
 Sexuality
 
-Sexually transmitted infections     
+Sexually transmitted infections
 	NT Prevention
-	NT Study and teaching   
+	NT Study and teaching
 
-Sharp-tailed grouse       
+Sharp-tailed grouse
 
 Shears
 	USE Scissors and shears
 
-Sheep     
+Sheep
 
-Shells     
+Shells
 
-Sheriffs     
+Sheriffs
 
-Shipping     
+Shipping
 
-Ships     
+Ships
 	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
 	NT Cargo
 	NT Passenger lists
 
-Shipwrecks     
+Shipwrecks
 
-Shipyards     
+Shipyards
 
 Shoe stores
 	USE Stores, Retail -- Boots and shoes
 
-Shoes     
+Shoes
 	USE Footwear
 	RT Footwear industry
 
-Shooting     
+Shooting
 
-Shoplifting     
+Shoplifting
 
-Shopping     
+Shopping
 
-Shopping centres     
+Shopping centres
 
 Shot putting
 
-Shovels	         
+Shovels
 
-Show windows     
+Show windows
 
-Showers 
+Showers
 
-Shrines     
+Shrines
 
-Shrubs     
+Shrubs
 
 Sidewalks
 
 Sign language
 
-Signals and signalling   
+Signals and signalling
 
-Signs and sign boards     
+Signs and sign boards
 
-Sikhism     
+Sikhism
 
 Siksika Nation
 	UF Blackfoot Nation
 	RT Niitsitapi
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -9704,7 +9704,7 @@ Siksika Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -9712,39 +9712,39 @@ Siksika Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Siksika Nation -- Folklore
 		USE Siksika Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -9761,13 +9761,13 @@ Siksika Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Siksika Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -9775,22 +9775,22 @@ Siksika Nation
 	NT Writing
 	NT Youth
 
-Silica     
+Silica
 
-Silicosis     
+Silicosis
 
-Silos     
+Silos
 
-Silver     
+Silver
 
-Silverwork     
+Silverwork
 
-Singers     
+Singers
 
-Single parents     
+Single parents
 
 Sioux Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -9803,7 +9803,7 @@ Sioux Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -9811,39 +9811,39 @@ Sioux Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Sioux Nation -- Folklore
 		USE Sioux Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -9860,13 +9860,13 @@ Sioux Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Sioux Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -9874,19 +9874,19 @@ Sioux Nation
 	NT Writing
 	NT Youth
 
-Skateboarding     
+Skateboarding
 
-Skating     
+Skating
 	RT Figure skating
 
-Skating rinks     
+Skating rinks
 
-Ski jumps and jumping     
+Ski jumps and jumping
 
 Skins
 	USE Hides and skins
 
-Skis and skiing     
+Skis and skiing
 	RT Water skiing
 
 Sky tram
@@ -9895,81 +9895,81 @@ Sky tram
 Slander, (Law)
 	USE Libel and slander
 
-Slaughtering and slaughter-houses    
+Slaughtering and slaughter-houses
 
 Slavey Nation
-	USE Dene Tha' Nation 
+	USE Dene Tha' Nation
 
 Sleep
 
-Sleighs and sledges     
+Sleighs and sledges
 
-Slides (Recreation)     
+Slides (Recreation)
 
 Sloughs
 	USE Wetlands
 
-Sluice gates     
+Sluice gates
 
-Small claims courts     
+Small claims courts
 
-Smallpox     
+Smallpox
 
-Smoked meat   
+Smoked meat
 
 Smokestacks
 	USE Chimneys
 
-Smoking     
+Smoking
 
-Snakes     
+Snakes
 
-Snooker 		
+Snooker
 	USE Billiards
 
-Snow     
+Snow
 
-Snow fences     
+Snow fences
 
 Snowblowers
 
-Snowmobiles     
+Snowmobiles
 
-Snowplanes     
+Snowplanes
 
-Snow plows 
+Snow plows
 
-Snow removal     
+Snow removal
 
-Snowsheds 
+Snowsheds
 
-Snowshoes and snowshoeing     
+Snowshoes and snowshoeing
 
 Soap
 
-Soccer  
+Soccer
 
 Social assistance
 	UF Public welfare
-	UF Welfare   
+	UF Welfare
 
-Social credit     
+Social credit
 
 Social media
 	RT Internet
 
-Social sciences     
+Social sciences
 
-Social services     
+Social services
 
 Social studies
 
 Social work
 	USE Social services
 
-Social work education     
+Social work education
 
-Social workers     
+Social workers
 
 Socialism
 
@@ -9982,28 +9982,28 @@ Socialist Party of Alberta
 
 Societies
 
-Society of Friends     
+Society of Friends
 	UF Quakers
 
-Sod houses     
+Sod houses
 
 Sodium sulphate
 
-Soft drink industry     
+Soft drink industry
 
-Soil     
+Soil
 	NT Conservation
 	NT Erosion
 	NT Research
-	NT Surveys     
+	NT Surveys
 
 Solar Eclipses
 	USE Eclipses, Solar
 
-Solar energy 
-	USE Renewable energy -- Solar    
+Solar energy
+	USE Renewable energy -- Solar
 
-Soldiers     
+Soldiers
 	RT Canada.  Armed Forces
 	RT Canada.  Army
 
@@ -10017,15 +10017,15 @@ Sound recordings
 Sour gas
 	USE Natural gas
 
-South African War, 1899-1902     
+South African War, 1899-1902
 	UF Boer War, 1899-1902
 
-Souvenirs   
+Souvenirs
 
 Soviet Union
 	USE Union of Soviet Socialist Republics
 
-Sowing     
+Sowing
 
 Space stations
 
@@ -10060,15 +10060,15 @@ Spelling
 	USE Language and languages
 	USE Orthography and spelling
 
-Spelunkers & spelunking     
+Spelunkers & spelunking
 
-Spina bifida     
+Spina bifida
 
 Spinning
 
-Spinning wheel   
+Spinning wheel
 
-Sporting goods	  
+Sporting goods
 
 Sporting goods stores
 	USE Stores, Retail -- Sporting goods
@@ -10076,75 +10076,75 @@ Sporting goods stores
 Sports
 	NT Journalism
 	NT Officiating
-	NT Uniforms     
+	NT Uniforms
 
-Sports facilities     
+Sports facilities
 	UF Arenas
 	UF Stadiums
 	RT subdivision Sports facilities under names of communities.
 
-Spraying and dusting in agriculture     
+Spraying and dusting in agriculture
 
-Spraying and dusting in forests     
+Spraying and dusting in forests
 
 Spring breakup
 	USE Ice on rivers, lakes, etc.
 
-Square dancing    
-	USE Dance -- Square 
+Square dancing
+	USE Dance -- Square
 
-Squirrels     
+Squirrels
 
-Stables     
+Stables
 
-Stadiums		
+Stadiums
 	USE Sports facilities
 	RT subdivision Sports facilities under names of communities.
 
 Stagecoaches
 	USE Carriages and carts
 
-Staircases     
+Staircases
 
 Stamp collecting and collectors
-	USE Philately   
+	USE Philately
 
 Stampedes
 
-Starch industry     
+Starch industry
 
-Statistics     
+Statistics
 
-Statues     
+Statues
 
-Statutes 	
+Statutes
 	USE Legislation (Name of Act as titled in Statutes of Alberta)
 
 Stealing
 	USE Theft
 
-Steam boilers     
+Steam boilers
 	RT Boilers
 
-Steam engineers     
+Steam engineers
 
-Steam engines     
+Steam engines
 
-Steam power plants     
+Steam power plants
 
 Steam rollers
 	USE Road-rollers
 
-Steam shovels	   
+Steam shovels
 
-Steamboats     
+Steamboats
 
-Steel industry and trade     
+Steel industry and trade
 
 Steelworkers
 	USE Iron and steel workers
 
-Sterilization, Eugenic     
+Sterilization, Eugenic
 	RT Eugenics
 
 Sternwheelers
@@ -10159,12 +10159,12 @@ Stills
 Stock breeders
 	USE Livestock Breeders
 
-Stock brokers	   
+Stock brokers
 	USE Brokers
 
-Stock certificates     
+Stock certificates
 
-Stock exchange     
+Stock exchange
 
 Stock judging
 	USE Livestock -- Judging
@@ -10172,30 +10172,30 @@ Stock judging
 Stock ranges
 	USE Rangelands
 
-Stockyards  
+Stockyards
 
 Stokers, Mechanical
 	RT Steam boilers
 
-Stone cutters  
-	USE Stonemasons   
+Stone cutters
+	USE Stonemasons
 
-Stone implements     
+Stone implements
 
-Stone industry and trade     
+Stone industry and trade
 
 Stony Nation
 	USE Nakoda Nation
 
-Stonemasons     
+Stonemasons
 	RT Bricklayers
 
-Stookers     
+Stookers
 
 Stopping houses
 	USE Hotels, taverns, etc.
 
-Storage and moving trade     
+Storage and moving trade
 	RT Moving, Household
 
 Stores, Resale
@@ -10203,7 +10203,7 @@ Stores, Resale
 	USE Rummage sales
 	USE Thrift shops
 
-Stores, Retail     
+Stores, Retail
 	NT Bookstores
 	NT Boots and shoes
 	NT Carpet
@@ -10240,35 +10240,35 @@ Stores, Retail
 Stores, Wholesale
 	USE Wholesale trade
 
-Storms     
+Storms
 
-Stoves     
+Stoves
 
 Street cars
 	USE Street railways
 	USE Cable cars
 	USE Electric railroads
 
-Street cleaning     
+Street cleaning
 
-Street names     
+Street names
 
-Street railways     
+Street railways
 	NT Design and construction
 	NT Employees
 
-Street signs     
+Street signs
 
-Street vendors     
+Street vendors
 
-Streets     
+Streets
 
-Strikes and lockouts     
+Strikes and lockouts
 	RT Labour disputes
 
-Strip mining     
+Strip mining
 
-Striptease  
+Striptease
 
 Stroke
 	USE Cerebrovascular disease
@@ -10276,58 +10276,58 @@ Stroke
 Student Temporary Employment Program
 	USE Employment stabilization
 
-Students  
+Students
 	NT Activities
 	NT Aid
 	NT Loan funds
-	NT Unions   
+	NT Unions
 
-Students, Foreign     
+Students, Foreign
 
-Students' songs     
+Students' songs
 
-Stunt cycling   
+Stunt cycling
 
-Stunt driving  
+Stunt driving
 
-Stunt flying   
+Stunt flying
 
-Stunt performers   
+Stunt performers
 
-Subsidies   
+Subsidies
 
 Substance Use Disorder
-	NT Treatment  
+	NT Treatment
 
 Succession duties
 	USE Inheritance and transfer tax
 
-Suffrage     
+Suffrage
 
 Sugar
 	NT Growing
-	NT Manufacture and refining  
+	NT Manufacture and refining
 	NT Substitutes
-	NT Trade   
+	NT Trade
 	NT Workers
 
-Sugar beets     
-	NT Harvesting      
-	NT Machinery       
+Sugar beets
+	NT Harvesting
+	NT Machinery
 
-Sugar beet industry     
+Sugar beet industry
 
-Suicide     
+Suicide
 	RT Mental health
 
 Sulphur
 
-Sulphur industry     
+Sulphur industry
 
 Sulphur mines and mining
-	NT Miners     
+	NT Miners
 
-Sulphur springs     
+Sulphur springs
 
 Summer camps
 	USE Camps
@@ -10335,7 +10335,7 @@ Summer camps
 Summer homes
 	USE Vacation homes
 
-Sumo     
+Sumo
 
 Sumo wrestling
 	USE Sumo
@@ -10343,16 +10343,16 @@ Sumo wrestling
 Sun
 
 Sun dance
-	RT Indigenous peoples -- Rites and ceremonies		
+	RT Indigenous peoples -- Rites and ceremonies
 
-Sunday legislation     
+Sunday legislation
 
 Sunday Schools
 	USE Religious education
 
-Sundials     
+Sundials
 
-Sunflowers     
+Sunflowers
 
 Surety and fidelity insurance
 	USE Insurance, Surety and fidelity
@@ -10360,13 +10360,13 @@ Surety and fidelity insurance
 Surface rights
 	USE Land tenure -- Law and legislation
 
-Surgeons     
+Surgeons
 
-Surgery     
+Surgery
 
-Surplus government property     
+Surplus government property
 
-Surveying and surveyors     
+Surveying and surveyors
 	NT Camps
 	NT Instruments
 
@@ -10379,24 +10379,24 @@ Survival
 Swamps
 	USE Wetlands
 
-Swedes     
+Swedes
 
-Swedish Canadians     
+Swedish Canadians
 
 Sweeping and dusting
 
-Swimming and swimmers     
+Swimming and swimmers
 
-Swimming pools     
+Swimming pools
 
 Swimsuits
 	USE Bathing suits
 
 Swine industry
 
-Swords     
+Swords
 
-Synagogues     
+Synagogues
 	RT subdivision Synagogues under names of communities
 
 Synchronized Swimming
@@ -10405,13 +10405,13 @@ Synchronized Swimming
 Syrian Orthodox Church
 	USE Orthodox Catholic Church, Syrian
 
-Syrian Canadians     
+Syrian Canadians
 
 Syrians
 
-Table setting and decoration   
+Table setting and decoration
 
-Tables     
+Tables
 
 Tableware
 
@@ -10423,12 +10423,12 @@ Taiwanese Canadians
 
 Tank cars
 
-Tank trucks     
+Tank trucks
 
-Tanks 
+Tanks
 	Use for armoured military vehicle.
 
-Tanning     
+Tanning
 
 Tape recordings (Sound reproductions)
 	USE Sound recordings
@@ -10438,13 +10438,13 @@ Tar
 Tar sand
 	USE Oil sands
 
-Targets (Shooting)     
+Targets (Shooting)
 
-Tariff     
+Tariff
 
-Tattoos and tattooing     
+Tattoos and tattooing
 
-Taverns (Inns)   
+Taverns (Inns)
 
 Taxes and taxation
 	NT Assessment
@@ -10453,19 +10453,19 @@ Taxes and taxation
 	NT Evasion
 	NT Remission
 
-Taxicabs     
+Taxicabs
 
 Taxidermy
 
 Tea
 
-Teachers     
-	NT Certification     
-	NT Salaries, etc.     
-	NT Selection and appointment  
+Teachers
+	NT Certification
+	NT Salaries, etc.
+	NT Selection and appointment
 	NT Substitute
 
-Teachers colleges     
+Teachers colleges
 
 Technical colleges
 	USE Colleges of applied arts and technology
@@ -10481,11 +10481,11 @@ Teepees
 
 Teeth
 
-Telecommunication     
+Telecommunication
 
-Teleconferencing     
+Teleconferencing
 
-Telegraph     
+Telegraph
 	NT Equipment and supplies
 	NT Apparatus and supplies
 	NT Employees
@@ -10494,7 +10494,7 @@ Telegraph
 	NT Rates
 	NT Stations
 
-Telephone     
+Telephone
 	NT Apparatus and supplies
 	NT Cables
 	NT Cellular
@@ -10507,122 +10507,122 @@ Telephone
 	NT Rates
 	NT Switchboards
 
-Telephone sales     
+Telephone sales
 
-Telescope     
+Telescope
 
-Television 
+Television
 	NT Advertising
 	NT Broadcasting
 	NT Programs
-	NT Satellite 
+	NT Satellite
 	NT Stations
 		NT Employees
 
-Temperance     
+Temperance
 
 Temples
 
-Temporary Foreign Workers     
+Temporary Foreign Workers
 
 Tenants
 	USE Landlord and tenant
 
-Tennis     
+Tennis
 
-Tents     
+Tents
 
-Terminals (Transportation)     
+Terminals (Transportation)
 
-Terrorism     
+Terrorism
 
-Textbooks     
+Textbooks
 
-Text processing (Computer science)  
+Text processing (Computer science)
 
-Textile fabrics     
+Textile fabrics
 
-Textile industry     
+Textile industry
 
 Thanksgiving Day
 
-Thatched roofs     
+Thatched roofs
 
-Theatre     
+Theatre
 
-Theatres     
+Theatres
 
 Theft
 
-Theological seminaries     
+Theological seminaries
 
-Thieves     
+Thieves
 
-Threshing     
+Threshing
 
-Threshing machines     
+Threshing machines
 
-Thrift shops     
+Thrift shops
 
 Throne Speech
 	USE Speech from the Throne
 
-Tibetan Canadians     
+Tibetan Canadians
 
-Tibetans     
+Tibetans
 
-Tigers     
+Tigers
 
-Tiles     
+Tiles
 
-Timber     
+Timber
 
-Timber lands     
+Timber lands
 
-Time capsules     
+Time capsules
 
-Time management     
+Time management
 
 Tintype
 	USE Photography -- Tintype
 
-Tipis		
+Tipis
 
 Tires, Rubber
 
 Tire stores
 	USE Stores, Retail -- Tires
 
-Tobacco     
+Tobacco
 
-Tobacco industry     
+Tobacco industry
 
 Tobacconists
 
-Toboggans and tobogganing      
+Toboggans and tobogganing
 
 Toilets
 	USE Plumbing fixtures
 
-Tokens     
+Tokens
 
-Tomatoes     
+Tomatoes
 
-Tombs     
+Tombs
 
 Tombstones
 
-Tools     
+Tools
 
-Tornadoes     
+Tornadoes
 
-Totem poles     
+Totem poles
 
-Tour guides 
+Tour guides
 
 Tourism and tourists
 
-Tourist information centres     
+Tourist information centres
 
 Town councils
 	USE City councils
@@ -10635,15 +10635,15 @@ Towns
 	RT Municipal Affairs, Department of
 	RT Municipal government
 
-Toxicology     
+Toxicology
 
-Toys     
+Toys
 
 Track and field athletics and athletes
 
-Tracking and trailing     
+Tracking and trailing
 
-Tractors     
+Tractors
 
 Trade fairs
 	USE Exhibitions
@@ -10652,20 +10652,20 @@ Trade fairs
 Trade missions
 	RT Foreign trade promotion
 
-Trade schools     
+Trade schools
 	USE Colleges of applied arts and technology
 
-Trade shows	
+Trade shows
 
-Trade unions     
+Trade unions
 	USE Labour unions
 
-Trading posts 	
+Trading posts
 	USE Forts and trading posts
 
 Traditional dress
 
-Traditional medicine   
+Traditional medicine
 
 Traffic
 	NT Accidents
@@ -10675,13 +10675,13 @@ Traffic
 	NT Signs and signals
 	NT Surveys
 
-Trail riding     
+Trail riding
 
-Trailer camps     
+Trailer camps
 
 Trailers
 
-Trails     
+Trails
 
 Trains
 	USE Railways -- Trains
@@ -10708,26 +10708,26 @@ Transient labour
 Transit systems
 	USE Local transit
 
-Transplantation of organs, tissues, etc.   
+Transplantation of organs, tissues, etc.
 
 Transport companies
 	USE Trucking
 
-Transportation  
+Transportation
 
 Transsexual
-	RT Transgender   
+	RT Transgender
 
-Trappers and trapping 
+Trappers and trapping
 	UF Animals traps
 	RT Fur trade
-	RT Hunting   
+	RT Hunting
 
 Traplines
 
-Travel agents and agencies    
+Travel agents and agencies
 
-Travelling sales personnel     
+Travelling sales personnel
 
 Travois
 	RT Indigenous peoples -- Transportation
@@ -10752,18 +10752,18 @@ Treaty 8 First Nations of Alberta
 
 Treaty 8 Tribal Associations
 
-Tree planting     
+Tree planting
 
-Trees     
+Trees
 
-Trials     
+Trials
 
 Tribes
-	USE name of specific Nation or Band     
+	USE name of specific Nation or Band
 
-Tricycles     
+Tricycles
 
-Trolley buses     
+Trolley buses
 
 Trophies, Hunting
 	USE Hunting trophies
@@ -10773,13 +10773,13 @@ Trophies, Sports
 
 Trucks and trucking
 	NT Drivers
-	NT Terminals     
-	NT Routes   
+	NT Terminals
+	NT Routes
 
-Trust and Trustees  
+Trust and Trustees
 	NT Companies
 	NT Funds
-	NT Indentures 
+	NT Indentures
 
 Truth and Reconciliation Commission
 	RT Residential schools
@@ -10787,7 +10787,7 @@ Truth and Reconciliation Commission
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
 Tsuu T'ina Nation
-	NT Agriculture    
+	NT Agriculture
 	NT Architecture
 	NT Arms and armour
 	NT Art
@@ -10800,7 +10800,7 @@ Tsuu T'ina Nation
 	NT Chiefs
 	NT Children
 	NT Clothing
-	NT Costume 	  
+	NT Costume
 	NT Councils
 	NT Customs
 	NT Dances
@@ -10808,39 +10808,39 @@ Tsuu T'ina Nation
 	NT Drama
 	NT Dwellings
 	NT Economic conditions
-	NT Education     
+	NT Education
 	NT Embroidery
-	NT Employment   
-	NT Fishing 	   
+	NT Employment
+	NT Fishing
 	NT Folklore
 	NT Food
 	NT Friendship centres
 		USE Native Friendship Centres
-	NT Funeral customs and rites   
+	NT Funeral customs and rites
 	NT Games
 	NT Gifts
 	NT Government relations
-	NT Health and hygiene    
+	NT Health and hygiene
 	NT History
-	NT Hospitals       
+	NT Hospitals
 	NT Housing
-	NT Hunting 	  
+	NT Hunting
 		RT Buffalo jump
 	NT Implements
 	NT Industries
 	NT Land claims
-	NT Land tenure    
-	NT Land transfers   
+	NT Land tenure
+	NT Land transfers
 	NT Languages
 		RT name of language
-	NT Legal status, laws, etc.   
+	NT Legal status, laws, etc.
 	NT Legends
 		USE Tsuu T'ina Nation -- Folklore
 		USE Tsuu T'ina Nation -- Mythology
 	NT Medicine
 	NT Military service
-	NT Missions	  
-	NT Museums   
+	NT Missions
+	NT Museums
 	NT Music
 	NT Mythology
 	NT Picture-writing
@@ -10857,13 +10857,13 @@ Tsuu T'ina Nation
 	NT Social conditions
 	NT Social life and customs
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching     
+	NT Study and teaching
 	NT Teepees
 		USE Tsuu T'ina Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
-	NT Treaties 
+	NT Treaties
 	NT Warfare
 	NT Weaving
 	NT Women
@@ -10871,23 +10871,23 @@ Tsuu T'ina Nation
 	NT Writing
 	NT Youth
 
-Tuberculosis     
-	NT Hospitals     
+Tuberculosis
+	NT Hospitals
 
-Tugboats     
+Tugboats
 
-Tunnels     
+Tunnels
 
 Turbines
 
-Turkeys     
+Turkeys
 	RT Poultry
 
 Turkish Canadians
 
 Turks
 
-Tutors and tutoring     
+Tutors and tutoring
 
 Twine
 
@@ -10899,17 +10899,17 @@ Typewriters
 
 Typewriting
 
-Typhoid fever     
+Typhoid fever
 
-Ukrainian Canadians     
+Ukrainian Canadians
 	RT Galician Canadians
 
-Ukrainian language     
+Ukrainian language
 
 Ukrainian Orthodox Church
 	USE Orthodox Catholic Church, Ukrainian
 
-Ukrainians     
+Ukrainians
 	RT Galicians
 	RT Ruthenians
 
@@ -10921,9 +10921,9 @@ Undocumented immigrants
 	UF Aliens, Illegal
 	UF Illegal aliens
 
-Unemployment 
+Unemployment
 	NT Seasonal
-	RT Idle rich    
+	RT Idle rich
 
 Unemployment insurance
 	USE Insurance, Unemployment
@@ -10942,9 +10942,9 @@ Union of Soviet Socialist Republics
 Unions, trade
 	USE Labour unions
 
-Unitarian Universalist churches     
+Unitarian Universalist churches
 
-United Church of Canada     
+United Church of Canada
 	NT Buildings
 	NT Customs and practices
 	NT Clergy
@@ -10986,7 +10986,7 @@ United States of America.  Marine Corps
 
 United States of America.  Navy
 
-Universities and colleges     
+Universities and colleges
 	NT Administration
 	NT Buildings
 	NT Curricula
@@ -10996,13 +10996,13 @@ Universities and colleges
 	NT Faculty
 	NT Finance
 	NT History
-	NT Law and legislation     
+	NT Law and legislation
 	NT Planning
 	NT Religious schools
 	NT Security
 	NT Sports
 	NT Students
-	NT Taxation    
+	NT Taxation
 
 University of Alberta
 	NT [Academic department names]
@@ -11029,61 +11029,61 @@ University of Alberta
 	NT Taxation
 
 Unmarried mothers
-	USE Single parents     
+	USE Single parents
 
 Uranium
 
-Uranium industry     
+Uranium industry
 
-Uranium mines and mining     
+Uranium mines and mining
 
 Urban development
 
 Urban planning
 
-Urban renewal     
+Urban renewal
 
-Urban transportation     
+Urban transportation
 
-Urbanization     
+Urbanization
 
-Usury     
+Usury
 
 Utilities
 	USE Public utilities
 
-Vacation homes     
+Vacation homes
 
 Vaccination
 	USE Immunization
 
-Vacuum cleaners	     
+Vacuum cleaners
 
 Vagrancy
-	USE Homeless and homelessness     
+	USE Homeless and homelessness
 
 Valentine cards
 
-Valleys     
+Valleys
 
-Vandalism     
+Vandalism
 
 Variety shows (Television programs)
 
 Variety shows (Theatre)
-	USE Music halls (variety theatres, cabarets, etc).  
+	USE Music halls (variety theatres, cabarets, etc).
 
 Vaulting
 	USE Gymnastics
 	USE Track and field athletics and athletes
 
-Vegetable trade     
+Vegetable trade
 
-Vegetables     
+Vegetables
 	NT Exhibitions
 	NT Marketing
 
-Vending machines     
+Vending machines
 
 Venereal disease education
 	USE Sexually transmitted infections -- Study and teaching
@@ -11091,27 +11091,27 @@ Venereal disease education
 Venereal diseases
 	USE Sexually transmitted infections
 
-Venture capital     
+Venture capital
 
-Veterans     
+Veterans
 
-Veterinarians     
+Veterinarians
 
-Veterinary medicine 
-	RT Animals -- Diseases    
+Veterinary medicine
+	RT Animals -- Diseases
 
 Victoria Day
 
-Video games		
+Video games
 
-Video recording     
+Video recording
 	NT Production and direction
 	NT Recorders
 
-Video tape recorders and recording     
+Video tape recorders and recording
 	USE Video recording
-	USE Video tape recorders	    
-	USE Videocassette recorders   
+	USE Video tape recorders
+	USE Videocassette recorders
 
 Video tape/disc rentals
 	USE Stores, Retail -- Videotape/disc
@@ -11120,21 +11120,21 @@ Vietnamese
 
 Vietnamese Canadians
 
-Vietnam War, 1961-1975     
+Vietnam War, 1961-1975
 
 Village councils
 	USE City councils
 
-Villages     
+Villages
 	RT Municipal Affairs, Department of
 	RT Municipal government
 
-Vintners     
+Vintners
 	RT Wine and winemaking
 
 Violin
 
-Visits of state     
+Visits of state
 
 Visual arts
 	USE Art
@@ -11143,14 +11143,14 @@ Visual impairment
 	UF Blindness
 
 Visually impaired
-	UF Blind     
+	UF Blind
 
 Vital statistics
 
 Vitamin therapy
 	USE Naturopathy
 
-Vocational centres     
+Vocational centres
 
 Vocational colleges
 	USE Colleges of applied arts and technology
@@ -11159,15 +11159,15 @@ Vocational colleges
 Vocational counselling
 	USE Career education
 
-Vocational education     
+Vocational education
 
-Vocational guidance     
+Vocational guidance
 
-Vocational rehabilitation     
+Vocational rehabilitation
 
-Volcanic ash, tuff, etc.     
+Volcanic ash, tuff, etc.
 
-Volleyball     
+Volleyball
 
 Volunteerism and volunteers
 
@@ -11175,7 +11175,7 @@ Voters lists
 	USE Election districts (Federal) -- Census
 	USE Election districts (Provincial) -- Census
 
-Voting     
+Voting
 	RT Elections (Federal, [date])
 	RT Elections (Local, [date])
 	RT Elections (Provincial, [date])
@@ -11188,36 +11188,36 @@ Voyageurs
 Wages
 	USE Salaries, allowances, etc.
 
-Wagons     
+Wagons
 
 Waiters
 	USE Restaurants -- Servers
 
-Wallpaper     
+Wallpaper
 
 Wallpaper stores
 	USE Stores, Retail -- Wallpaper
 
-Walls     
+Walls
 
-Walruses 	
+Walruses
 
 War bonds
 	USE Bonds
 	USE Savings bonds
 
-War memorials     
+War memorials
 
-Warble flies     
+Warble flies
 
-Warehouses     
+Warehouses
 
-Warrants, Law     
+Warrants, Law
 
 Washing
 	USE Laundry
 
-Washing machines   
+Washing machines
 
 Washstands
 
@@ -11228,45 +11228,45 @@ Waste Disposal
 	USE Waste paper
 	USE Waste products
 
-Waste disposal sites     
+Waste disposal sites
 
-Waste products     
+Waste products
 	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products
 	RT subdivision Waste disposal under plants, industries, etc.,
 
 Watches
 	USE Clocks and watches
 
-Water     
+Water
 	NT Conservation
 	NT Divining and diviners
-	NT Fluoridation     
-	NT Law and legislation  
-	NT Pipes   
-	NT Pollution     
+	NT Fluoridation
+	NT Law and legislation
+	NT Pipes
+	NT Pollution
 	NT Purification
 	NT Reuse
-	NT Rights    
+	NT Rights
 	NT Storage
 	NT Supply
 	NT Towers
 
 Water, Underground
 
-Water polo     
+Water polo
 
-Water quality     
+Water quality
 
-Water resources development     
+Water resources development
 
-Water sports     
+Water sports
 	USE Aquatic sports
 
-Waterfalls     
+Waterfalls
 
-Watermelons     
+Watermelons
 
-Watershed management     
+Watershed management
 
 Weapons
 	UF Arms and armour
@@ -11277,38 +11277,38 @@ Weather
 	NT Control
 	NT Forecasting
 
-Weaving     
+Weaving
 
-Weddings     
+Weddings
 
-Weeds     
-	NT Control     
+Weeds
+	NT Control
 
-Weight lifting     
+Weight lifting
 	RT Bodybuilding
 
-Welders and welding 
+Welders and welding
 
 Welfare
 	USE Charities
 	USE Social assistance
 
-Well drillers     
+Well drillers
 
 
 Wells
 
-Welsh     
+Welsh
 
-Welsh Canadians     
+Welsh Canadians
 
-West Indian Canadians  
+West Indian Canadians
 	Use specific nation when possible.
-	USE Caribbean Canadians   
+	USE Caribbean Canadians
 
-West Indians 
+West Indians
 	Use specific nation when possible.
-	USE Caribbeans   
+	USE Caribbeans
 
 Western Canada
 	USE Canada, Western
@@ -11342,31 +11342,31 @@ Wetlands
 
 Whales
 
-Wheat     
-	NT Cooperative marketing   
+Wheat
+	NT Cooperative marketing
 	NT Marketing
 
 Wheat pools
 	USE Wheat -- Cooperative marketing
 
-Wheelchairs     
+Wheelchairs
 
-Wheels  
+Wheels
 	RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels
 
 White supremacy
 	RT Antisemitism
 	RT Racism
 
-Wholesale trade     
+Wholesale trade
 
-Whooping cough     
+Whooping cough
 
-Whooping crane     
+Whooping crane
 
-Widows and widowers    
+Widows and widowers
 
-Wigwams 		
+Wigwams
 	USE Indigenous peoples -- Dwellings
 
 Wildcats
@@ -11375,11 +11375,11 @@ Wildcats
 	USE Mountain lions
 
 
-Wilderness survival     
+Wilderness survival
 
-Wildlife conservation     
+Wildlife conservation
 
-Wildlife management     
+Wildlife management
 
 Wildrose Party
 	NT Conventions
@@ -11388,88 +11388,88 @@ Wildrose Party
 	NT History
 	NT Membership
 
-Wills     
+Wills
 
 Winches
 	RT Windlasses
 
-Wind erosion     
+Wind erosion
 
 Windlasses
 
-Windmills     
+Windmills
 
-Windows     
+Windows
 
 Wind turbines
 	RT Renewable energy -- Wind
 
-Wine and wine making     
+Wine and wine making
 	RT Vintners
 
-Winter     
+Winter
 
-Winter sports     
+Winter sports
 
 Winter works projects
 	USE Employment stabilization
 
-Wolves     
+Wolves
 
-Women   
-	NT Education     
-	NT Employment     
-	NT Legal status, laws, etc.     
+Women
+	NT Education
+	NT Employment
+	NT Legal status, laws, etc.
 	NT Residences
 	NT Rights
 	NT Societies and clubs
-	NT Suffrage     
+	NT Suffrage
 	NT Religious life
 
 
-Women's clothing     
+Women's clothing
 	USE Clothing and dress
 	USE Costume
 
-Wood     
+Wood
 
-Wood pulp     
+Wood pulp
 
-Wood pulp industry     
+Wood pulp industry
 
-Woodworkers     
+Woodworkers
 
-Woodworking industries     
+Woodworking industries
 
-Woodworking machinery    
+Woodworking machinery
 
-Wool     
+Wool
 
-Wool industry     
+Wool industry
 
-Woollen and worsted manufacture     
+Woollen and worsted manufacture
 
 Work camps
 
-Work environment     
+Work environment
 
 Work experience
 	USE Apprentices
 
-Workers' compensation     
+Workers' compensation
 
 Workmen's compensation
 	USE Workers' compensation
 
-World War, 1914-1918     
+World War, 1914-1918
 
-World War, 1939-1945     
+World War, 1939-1945
 
-Worms     
+Worms
 
 Wrecking
 
-Wrestling     
+Wrestling
 	RT Sumo
 
 Writers
@@ -11477,43 +11477,43 @@ Writers
 
 Writs of execution
 
-Written communication     
+Written communication
 
 X-rays
 	NT Equipment and supplies
 	NT Safety measures
 
-Yak     
+Yak
 
 Yearbooks
 
 Yellowhead Tribal Development Foundation
 
-Yoga 
+Yoga
 	NT Therapeutic use
 
-Young Offenders    
+Young Offenders
 	UF Juvenile delinquency
 	UF Juvenile delinquents
 
-Youth     
-	NT Dwellings 
-	NT Emergency shelters   
-	NT Employment     
+Youth
+	NT Dwellings
+	NT Emergency shelters
+	NT Employment
 	NT Societies and clubs
 
 Youth courts
 	USE Juvenile courts
 
-Youth hostels     
+Youth hostels
 
 Zeppelins
 	USE Airships
 
-Zinc industry and trade     
+Zinc industry and trade
 
-Zinc mines and mining     
+Zinc mines and mining
 
-Zoology     
+Zoology
 
 Zoos
