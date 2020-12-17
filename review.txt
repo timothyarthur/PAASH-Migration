@@ -75,9 +75,6 @@ Aldermen
 Altars
 	USE Name of religion -- Buildings -- Altars
 
-Animals
-	RT subdivision Diseases under individual animals and groups of animals
-
 Apartments
 	RT subdivision Apartments under names of communities
 
@@ -563,6 +560,9 @@ Anglican Church of Canada -- Dioceses
 
 Anglican Church of Canada -- History
 	RT subdivision History under names of Dioceses
+
+Animals -- Diseases
+	RT subdivision Diseases under individual animals and groups of animals
 
 Assiniboine Nation -- Languages
 	RT name of language
