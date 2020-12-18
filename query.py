@@ -19,15 +19,8 @@ results = g.query("""SELECT DISTINCT ?target ?targetLabel
 	WHERE{
 	?target skos:prefLabel ?targetLabel .
 	?pref skos:altLabel ?targetLabel .
-		FILTER(
-			EXISTS{
-				?target skos:related ?rt .
-			}
-			||
-			EXISTS{
-				?target skos:narrower ?nt .
-			}
-		)
+	?nonPref skos:prefLabel ?targetLabel .
+	FILTER(!?target = ?nonPref)
 	}"""
 	)
 
