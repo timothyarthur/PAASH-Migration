@@ -799,11 +799,6 @@
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Alcohol -- Industry"@en .
 
-<https://example.com/paash#alcohol_--_law_and_legislation> a skos:Concept ;
-    skos:broader <https://example.com/paash#alcohol> ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:prefLabel "Alcohol -- Law and legislation"@en .
-
 <https://example.com/paash#alcohol_--_laws_and_legislation> a skos:Concept ;
     skos:altLabel "Liquor laws"@en,
         "Liquor trafficking"@en ;
@@ -30790,6 +30785,16 @@
     skos:prefLabel "Airports"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
+<https://example.com/paash#alcohol> a skos:Concept ;
+    skos:altLabel "Liquor"@en ;
+    skos:inScheme <https://example.com/paash#paash> ;
+    skos:narrower <https://example.com/paash#alcohol_--_industry>,
+        <https://example.com/paash#alcohol_--_laws_and_legislation>,
+        <https://example.com/paash#alcohol_--_taxation> ;
+    skos:prefLabel "Alcohol"@en ;
+    skos:related <https://example.com/paash#liquor_traffic> ;
+    skos:topConceptOf <https://example.com/paash#paash> .
+
 <https://example.com/paash#aviation> a skos:Concept ;
     skos:altLabel "Aeronautics"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
@@ -31158,17 +31163,6 @@
         <https://example.com/paash#alberta_social_credit_party_--_history>,
         <https://example.com/paash#alberta_social_credit_party_--_membership> ;
     skos:prefLabel "Alberta Social Credit Party"@en ;
-    skos:topConceptOf <https://example.com/paash#paash> .
-
-<https://example.com/paash#alcohol> a skos:Concept ;
-    skos:altLabel "Liquor"@en ;
-    skos:inScheme <https://example.com/paash#paash> ;
-    skos:narrower <https://example.com/paash#alcohol_--_industry>,
-        <https://example.com/paash#alcohol_--_law_and_legislation>,
-        <https://example.com/paash#alcohol_--_laws_and_legislation>,
-        <https://example.com/paash#alcohol_--_taxation> ;
-    skos:prefLabel "Alcohol"@en ;
-    skos:related <https://example.com/paash#liquor_traffic> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#art> a skos:Concept ;
