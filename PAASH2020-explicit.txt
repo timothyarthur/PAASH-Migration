@@ -699,7 +699,7 @@ Assiniboine Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 	NT Study and teaching
 	NT Teepees
-		USE Dwellings
+		USE Assiniboine Nation -- Dwellings
 	NT Tobacco pipes
 	NT Transportation
 	NT Trapping and traplines
