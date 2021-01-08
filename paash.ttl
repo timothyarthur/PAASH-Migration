@@ -1341,6 +1341,7 @@
     skos:prefLabel "Assiniboine Nation -- Drama"@en .
 
 <https://example.com/paash#assiniboine_nation_--_dwellings> a skos:Concept ;
+    skos:altLabel "Assiniboine Nation -- Teepees"@en ;
     skos:broader <https://example.com/paash#assiniboine_nation> ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Assiniboine Nation -- Dwellings"@en .
@@ -8996,8 +8997,7 @@
     skos:topConceptOf <https://example.com/paash#paash> .
 
 <https://example.com/paash#dwellings> a skos:Concept ;
-    skos:altLabel "Assiniboine Nation -- Teepees"@en,
-        "Homes"@en ;
+    skos:altLabel "Homes"@en ;
     skos:inScheme <https://example.com/paash#paash> ;
     skos:prefLabel "Dwellings"@en ;
     skos:topConceptOf <https://example.com/paash#paash> .
