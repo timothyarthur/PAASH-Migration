@@ -12,7 +12,7 @@ lines_to_review = []
 #Generating graph and defining namespace
 g = Graph()
 g.bind('skos', SKOS)
-paash = Namespace("https://example.com/paash#")
+paash = Namespace("paash#")
 
 #Generating SKOS Concept Scheme as root node of graph
 scheme_label = 'Provincial Archives of Alberta Subject Headings'
