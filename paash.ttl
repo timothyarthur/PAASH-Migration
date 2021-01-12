@@ -3725,28 +3725,252 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada, Western -- History"@en .
 
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_(use_after_1968)> a skos:Concept ;
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Appointments and retirements"@en .
 
-<paash#canada.__armed_forces_(after_1968)_--_installations> a skos:Concept ;
-    skos:altLabel "Air bases"@en ;
-    skos:broader <paash#canada.__armed_forces_(after_1968)> ;
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces (after 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Biography"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Demobilization"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Deployment"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Enlisted men"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- History"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Inspection"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Installations"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Manoeuvres"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Medals, badges, decorations, etc."@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Military life"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Officers"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Parades"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Pay, allowances, etc."@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Peacekeeping missions"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Recruiting, enlistment, etc."@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Reserves"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Songs and music"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Sports"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Transportation"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Uniforms"@en .
+
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Women"@en .
 
 <paash#canada.__armed_forces_--_installations> a skos:Concept ;
-    skos:altLabel "Camps (Military)"@en ;
+    skos:altLabel "Air bases"@en,
+        "Camps (Military)"@en ;
     skos:broader <paash#canada.__armed_forces> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Armed Forces -- Installations"@en .
 
-<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_(use_up_to_1968)> a skos:Concept ;
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)"@en ;
-    skos:scopeNote "For subdivisions use NT under Canada.  Canadian Armed Forces"@en ;
-    skos:topConceptOf <paash#paash> .
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Appointments and retirements"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Barracks and quarters"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Biography"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Demobilization"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Deployment"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Enlisted men"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- History"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Inspection"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Installations"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Manoeuvres"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Medals, badges, decorations, etc."@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Military life"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Officers"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Orchestras and bands"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Parades"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Pay, allowances, etc."@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Peacekeeping missions"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Recruiting, enlistment, etc."@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_reserves> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Reserves"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Songs and music"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Sports"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Transportation"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Uniforms"@en .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.] -- Women"@en .
 
 <paash#canada.__army.__canadian_expeditionary_force_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <paash#canada.__army.__canadian_expeditionary_force> ;
@@ -3868,131 +4092,126 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force -- Women"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Appointments and retirements"@en .
+    skos:prefLabel "Canada.  Army -- Appointments and retirements"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Barracks and quarters"@en .
+    skos:prefLabel "Canada.  Army -- Barracks and quarters"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_biography> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Biography"@en .
+    skos:prefLabel "Canada.  Army -- Biography"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_demobilization> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Demobilization"@en .
+    skos:prefLabel "Canada.  Army -- Demobilization"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_deployment> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Deployment"@en .
+    skos:prefLabel "Canada.  Army -- Deployment"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_enlisted_men> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Enlisted men"@en .
+    skos:prefLabel "Canada.  Army -- Enlisted men"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_history> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- History"@en .
+    skos:prefLabel "Canada.  Army -- History"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_inspection> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Inspection"@en .
+    skos:prefLabel "Canada.  Army -- Inspection"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_installations> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Army -- Installations"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_manoeuvres> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Manoeuvres"@en .
+    skos:prefLabel "Canada.  Army -- Manoeuvres"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Medals, badges, decorations, etc."@en .
+    skos:prefLabel "Canada.  Army -- Medals, badges, decorations, etc."@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_military_life> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Military life"@en .
+    skos:prefLabel "Canada.  Army -- Military life"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_officers> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Officers"@en .
+    skos:prefLabel "Canada.  Army -- Officers"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Orchestras and bands"@en .
+    skos:prefLabel "Canada.  Army -- Orchestras and bands"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_parades> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Parades"@en .
+    skos:prefLabel "Canada.  Army -- Parades"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Pay, allowances, etc."@en .
+    skos:prefLabel "Canada.  Army -- Pay, allowances, etc."@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Peacekeeping missions"@en .
+    skos:prefLabel "Canada.  Army -- Peacekeeping missions"@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
+<paash#canada.__army_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Recruiting, enlistment, etc."@en .
+    skos:prefLabel "Canada.  Army -- Recruiting, enlistment, etc."@en .
 
-<paash#canada.__army_(use_up_to_1968)_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Reserves"@en .
-
-<paash#canada.__army_(use_up_to_1968)_--_songs_and_music> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Songs and music"@en .
-
-<paash#canada.__army_(use_up_to_1968)_--_sports> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Sports"@en .
-
-<paash#canada.__army_(use_up_to_1968)_--_transportation> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Transportation"@en .
-
-<paash#canada.__army_(use_up_to_1968)_--_uniforms> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Uniforms"@en .
-
-<paash#canada.__army_(use_up_to_1968)_--_women> a skos:Concept ;
-    skos:broader <paash#canada.__army_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army (use up to 1968) -- Women"@en .
-
-<paash#canada.__army_--_reserves_(up_to_1968)> a skos:Concept ;
+<paash#canada.__army_--_reserves> a skos:Concept ;
     skos:altLabel "Canada -- Militia"@en ;
     skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Army -- Reserves (up to 1968)"@en .
+    skos:prefLabel "Canada.  Army -- Reserves"@en .
+
+<paash#canada.__army_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Songs and music"@en .
+
+<paash#canada.__army_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Sports"@en .
+
+<paash#canada.__army_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Transportation"@en .
+
+<paash#canada.__army_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Uniforms"@en .
+
+<paash#canada.__army_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__army> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Army -- Women"@en .
 
 <paash#canada.__canadian_armed_forces_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <paash#canada.__canadian_armed_forces> ;
@@ -4085,15 +4304,10 @@
     skos:prefLabel "Canada.  Canadian Armed Forces -- Recruiting, enlistment, etc."@en .
 
 <paash#canada.__canadian_armed_forces_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__canadian_armed_forces> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Canadian Armed Forces -- Reserves"@en .
-
-<paash#canada.__canadian_armed_forces_--_reserves_(after_1968)> a skos:Concept ;
     skos:altLabel "Canada -- Militia"@en ;
     skos:broader <paash#canada.__canadian_armed_forces> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Canadian Armed Forces -- Reserves (after 1968)"@en .
+    skos:prefLabel "Canada.  Canadian Armed Forces -- Reserves"@en .
 
 <paash#canada.__canadian_armed_forces_--_songs_and_music> a skos:Concept ;
     skos:broader <paash#canada.__canadian_armed_forces> ;
@@ -4166,383 +4380,368 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Parliament -- Committees"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Appointments and retirements"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Appointments and retirements"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Barracks and quarters"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Barracks and quarters"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_biography> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Biography"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Biography"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_demobilization> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Demobilization"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Demobilization"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_deployment> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Deployment"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Deployment"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_enlisted_men> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Enlisted men"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Enlisted men"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_history> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- History"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- History"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_inspection> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Inspection"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Inspection"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_installations> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Installations"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_manoeuvres> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Manoeuvres"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Manoeuvres"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Medals, badges, decorations, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Medals, badges, decorations, etc."@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_military_life> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Military life"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Military life"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_officers> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Officers"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Officers"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Orchestras and bands"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Orchestras and bands"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_parades> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Parades"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Parades"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Pay, allowances, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Pay, allowances, etc."@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Peacekeeping missions"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Peacekeeping missions"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Recruiting, enlistment, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Recruiting, enlistment, etc."@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_reserves> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Reserves"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Reserves"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_songs_and_music> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Songs and music"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Songs and music"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_sports> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Sports"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Sports"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_transportation> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Transportation"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Transportation"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_uniforms> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Uniforms"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Uniforms"@en .
 
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_women> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Women"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Women"@en .
 
-<paash#canada.__royal_canadian_air_force_(up_to_1968)_--_installations> a skos:Concept ;
+<paash#canada.__royal_canadian_air_force_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Appointments and retirements"@en .
+
+<paash#canada.__royal_canadian_air_force_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Barracks and quarters"@en .
+
+<paash#canada.__royal_canadian_air_force_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Biography"@en .
+
+<paash#canada.__royal_canadian_air_force_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Demobilization"@en .
+
+<paash#canada.__royal_canadian_air_force_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Deployment"@en .
+
+<paash#canada.__royal_canadian_air_force_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Enlisted men"@en .
+
+<paash#canada.__royal_canadian_air_force_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- History"@en .
+
+<paash#canada.__royal_canadian_air_force_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Inspection"@en .
+
+<paash#canada.__royal_canadian_air_force_--_installations> a skos:Concept ;
     skos:altLabel "Air bases"@en ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(up_to_1968)> ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (up to 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Installations"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Appointments and retirements"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Manoeuvres"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Barracks and quarters"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Medals, badges, decorations, etc."@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_biography> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Biography"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Military life"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_demobilization> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Demobilization"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Officers"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_deployment> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Deployment"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Orchestras and bands"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_enlisted_men> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Enlisted men"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Parades"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_history> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- History"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Pay, allowances, etc."@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_inspection> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Inspection"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Peacekeeping missions"@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_installations> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Recruiting, enlistment, etc."@en .
 
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_manoeuvres> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Manoeuvres"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Medals, badges, decorations, etc."@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_military_life> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Military life"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_officers> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Officers"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Orchestras and bands"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_parades> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Parades"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Pay, allowances, etc."@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Peacekeeping missions"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Recruiting, enlistment, etc."@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Reserves"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_songs_and_music> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Songs and music"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_sports> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Sports"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_transportation> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Transportation"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_uniforms> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Uniforms"@en .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_women> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_air_force_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968) -- Women"@en .
-
-<paash#canada.__royal_canadian_air_force_--_reserves_(up_to_1968)> a skos:Concept ;
+<paash#canada.__royal_canadian_air_force_--_reserves> a skos:Concept ;
     skos:altLabel "Canada -- Militia"@en ;
     skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force -- Reserves (up to 1968)"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Reserves"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Appointments and retirements"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Songs and music"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Barracks and quarters"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Sports"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_biography> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Biography"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Transportation"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_demobilization> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Demobilization"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Uniforms"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_deployment> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_air_force_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_air_force> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Deployment"@en .
+    skos:prefLabel "Canada.  Royal Canadian Air Force -- Women"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_enlisted_men> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Enlisted men"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Appointments and retirements"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_history> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- History"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Barracks and quarters"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_inspection> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Inspection"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Biography"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_installations> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Installations"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Demobilization"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_manoeuvres> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Manoeuvres"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Deployment"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Medals, badges, decorations, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Enlisted men"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_military_life> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Military life"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- History"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_officers> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Officers"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Inspection"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Orchestras and bands"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Installations"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_parades> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Parades"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Manoeuvres"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Pay, allowances, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Medals, badges, decorations, etc."@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Peacekeeping missions"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Military life"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Recruiting, enlistment, etc."@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Officers"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Reserves"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Orchestras and bands"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_songs_and_music> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Songs and music"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Parades"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_sports> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Sports"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Pay, allowances, etc."@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_transportation> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Transportation"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Peacekeeping missions"@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_uniforms> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
+<paash#canada.__royal_canadian_navy_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Uniforms"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Recruiting, enlistment, etc."@en .
 
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_women> a skos:Concept ;
-    skos:broader <paash#canada.__royal_canadian_navy_(use_up_to_1968)> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968) -- Women"@en .
-
-<paash#canada.__royal_canadian_navy_--_reserves_(up_to_1968)> a skos:Concept ;
+<paash#canada.__royal_canadian_navy_--_reserves> a skos:Concept ;
     skos:altLabel "Canada -- Militia"@en ;
     skos:broader <paash#canada.__royal_canadian_navy> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy -- Reserves (up to 1968)"@en .
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Reserves"@en .
+
+<paash#canada.__royal_canadian_navy_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Songs and music"@en .
+
+<paash#canada.__royal_canadian_navy_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Sports"@en .
+
+<paash#canada.__royal_canadian_navy_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Transportation"@en .
+
+<paash#canada.__royal_canadian_navy_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Uniforms"@en .
+
+<paash#canada.__royal_canadian_navy_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__royal_canadian_navy> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy -- Women"@en .
 
 <paash#canada_--_anniversaries,_etc.> a skos:Concept ;
     skos:broader <paash#canada> ;
@@ -16266,12 +16465,14 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#military_discharges> a skos:Concept ;
-    skos:altLabel "Canada.  Army (use up to 1968) -- Discharge certificates"@en,
+    skos:altLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
+        "Canada.  Army -- Discharge certificates"@en,
         "Canada.  Army.  Canadian Expeditionary Force -- Discharge certificates"@en,
+        "Canada.  Army.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
         "Canada.  Canadian Armed Forces -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Air Force (use up to 1968) -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968) -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Navy (use up to 1968) -- Discharge certificates"@en ;
+        "Canada.  Royal Canadian Air Force -- Discharge certificates"@en,
+        "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Discharge certificates"@en,
+        "Canada.  Royal Canadian Navy -- Discharge certificates"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Military discharges"@en ;
     skos:topConceptOf <paash#paash> .
@@ -17902,6 +18103,7 @@
     skos:prefLabel "Nakoda Nation -- Youth"@en .
 
 <paash#names,_geographical> a skos:Concept ;
+    skos:altLabel "Place-names"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Names, Geographical"@en ;
     skos:topConceptOf <paash#paash> .
@@ -20307,12 +20509,6 @@
 <paash#pitch> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Pitch"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#place-names> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Place-names"@en ;
-    skos:scopeNote "USE Names, Geographical"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#planetariums> a skos:Concept ;
@@ -27151,12 +27347,6 @@
     skos:prefLabel "Camps"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada.__armed_forces_(after_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__armed_forces_(after_1968)_--_installations> ;
-    skos:prefLabel "Canada.  Armed Forces (after 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#canada.__armed_forces_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
     skos:broader <paash#canada.__armed_forces> ;
     skos:inScheme <paash#paash> ;
@@ -27167,25 +27357,6 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#canada.__parliament_--_committees> ;
     skos:prefLabel "Canada.  Parliament"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_air_force> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_air_force_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_air_force_(up_to_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_air_force_(up_to_1968)_--_installations> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (up to 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_navy> a skos:Concept ;
-    skos:altLabel "Canada.  Navy"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_navy_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada_--_constitutional_law> a skos:Concept ;
@@ -29569,13 +29740,6 @@
     skos:narrower <paash#canada,_western_--_autonomy_and_independence_movement>,
         <paash#canada,_western_--_history> ;
     skos:prefLabel "Canada, Western"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__army> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__army_--_reserves_(up_to_1968)> ;
-    skos:prefLabel "Canada.  Army"@en ;
-    skos:related <paash#soldiers> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__parliament.__house_of_commons> a skos:Concept ;
@@ -32313,6 +32477,66 @@
     skos:scopeNote "NT [Academic department names]"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_history>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> ;
+    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.]"@en ;
+    skos:scopeNote "Use after 1968"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__army.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_biography>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_demobilization>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_deployment>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_enlisted_men>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_history>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_inspection>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_installations>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_manoeuvres>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_military_life>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_officers>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_parades>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_reserves>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_songs_and_music>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_sports>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_transportation>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_uniforms>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_women> ;
+    skos:prefLabel "Canada.  Army.  [Name of unit, regiment, etc.]"@en ;
+    skos:scopeNote "Use up to 1968"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#canada.__army.__canadian_expeditionary_force> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#canada.__army.__canadian_expeditionary_force_--_appointments_and_retirements>,
@@ -32343,122 +32567,6 @@
     skos:scopeNote "Established Aug. 1914 and ceased to exist November, 1918"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada.__army_(use_up_to_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__army_(use_up_to_1968)_--_appointments_and_retirements>,
-        <paash#canada.__army_(use_up_to_1968)_--_barracks_and_quarters>,
-        <paash#canada.__army_(use_up_to_1968)_--_biography>,
-        <paash#canada.__army_(use_up_to_1968)_--_demobilization>,
-        <paash#canada.__army_(use_up_to_1968)_--_deployment>,
-        <paash#canada.__army_(use_up_to_1968)_--_enlisted_men>,
-        <paash#canada.__army_(use_up_to_1968)_--_history>,
-        <paash#canada.__army_(use_up_to_1968)_--_inspection>,
-        <paash#canada.__army_(use_up_to_1968)_--_installations>,
-        <paash#canada.__army_(use_up_to_1968)_--_manoeuvres>,
-        <paash#canada.__army_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.>,
-        <paash#canada.__army_(use_up_to_1968)_--_military_life>,
-        <paash#canada.__army_(use_up_to_1968)_--_officers>,
-        <paash#canada.__army_(use_up_to_1968)_--_orchestras_and_bands>,
-        <paash#canada.__army_(use_up_to_1968)_--_parades>,
-        <paash#canada.__army_(use_up_to_1968)_--_pay,_allowances,_etc.>,
-        <paash#canada.__army_(use_up_to_1968)_--_peacekeeping_missions>,
-        <paash#canada.__army_(use_up_to_1968)_--_recruiting,_enlistment,_etc.>,
-        <paash#canada.__army_(use_up_to_1968)_--_reserves>,
-        <paash#canada.__army_(use_up_to_1968)_--_songs_and_music>,
-        <paash#canada.__army_(use_up_to_1968)_--_sports>,
-        <paash#canada.__army_(use_up_to_1968)_--_transportation>,
-        <paash#canada.__army_(use_up_to_1968)_--_uniforms>,
-        <paash#canada.__army_(use_up_to_1968)_--_women> ;
-    skos:prefLabel "Canada.  Army (use up to 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_appointments_and_retirements>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_barracks_and_quarters>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_biography>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_demobilization>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_deployment>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_enlisted_men>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_history>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_inspection>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_installations>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_manoeuvres>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_military_life>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_officers>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_orchestras_and_bands>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_parades>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_pay,_allowances,_etc.>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_peacekeeping_missions>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_recruiting,_enlistment,_etc.>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_reserves>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_songs_and_music>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_sports>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_transportation>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_uniforms>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)_--_women> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_air_force_(use_up_to_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_appointments_and_retirements>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_barracks_and_quarters>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_biography>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_demobilization>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_deployment>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_enlisted_men>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_history>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_inspection>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_installations>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_manoeuvres>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_military_life>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_officers>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_orchestras_and_bands>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_parades>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_pay,_allowances,_etc.>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_peacekeeping_missions>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_recruiting,_enlistment,_etc.>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_reserves>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_songs_and_music>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_sports>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_transportation>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_uniforms>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)_--_women> ;
-    skos:prefLabel "Canada.  Royal Canadian Air Force (use up to 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__royal_canadian_navy_(use_up_to_1968)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_appointments_and_retirements>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_barracks_and_quarters>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_biography>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_demobilization>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_deployment>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_enlisted_men>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_history>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_inspection>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_installations>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_manoeuvres>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_medals,_badges,_decorations,_etc.>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_military_life>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_officers>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_orchestras_and_bands>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_parades>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_pay,_allowances,_etc.>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_peacekeeping_missions>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_recruiting,_enlistment,_etc.>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_reserves>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_songs_and_music>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_sports>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_transportation>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_uniforms>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)_--_women> ;
-    skos:prefLabel "Canada.  Royal Canadian Navy (use up to 1968)"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#canada.__canadian_armed_forces> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#canada.__canadian_armed_forces_--_appointments_and_retirements>,
@@ -32480,7 +32588,6 @@
         <paash#canada.__canadian_armed_forces_--_peacekeeping_missions>,
         <paash#canada.__canadian_armed_forces_--_recruiting,_enlistment,_etc.>,
         <paash#canada.__canadian_armed_forces_--_reserves>,
-        <paash#canada.__canadian_armed_forces_--_reserves_(after_1968)>,
         <paash#canada.__canadian_armed_forces_--_songs_and_music>,
         <paash#canada.__canadian_armed_forces_--_sports>,
         <paash#canada.__canadian_armed_forces_--_transportation>,
@@ -32488,6 +32595,128 @@
         <paash#canada.__canadian_armed_forces_--_women> ;
     skos:prefLabel "Canada.  Canadian Armed Forces"@en ;
     skos:scopeNote "Use for all the services from 1968 to the present."@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__royal_canadian_air_force> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__royal_canadian_air_force_--_appointments_and_retirements>,
+        <paash#canada.__royal_canadian_air_force_--_barracks_and_quarters>,
+        <paash#canada.__royal_canadian_air_force_--_biography>,
+        <paash#canada.__royal_canadian_air_force_--_demobilization>,
+        <paash#canada.__royal_canadian_air_force_--_deployment>,
+        <paash#canada.__royal_canadian_air_force_--_enlisted_men>,
+        <paash#canada.__royal_canadian_air_force_--_history>,
+        <paash#canada.__royal_canadian_air_force_--_inspection>,
+        <paash#canada.__royal_canadian_air_force_--_installations>,
+        <paash#canada.__royal_canadian_air_force_--_manoeuvres>,
+        <paash#canada.__royal_canadian_air_force_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__royal_canadian_air_force_--_military_life>,
+        <paash#canada.__royal_canadian_air_force_--_officers>,
+        <paash#canada.__royal_canadian_air_force_--_orchestras_and_bands>,
+        <paash#canada.__royal_canadian_air_force_--_parades>,
+        <paash#canada.__royal_canadian_air_force_--_pay,_allowances,_etc.>,
+        <paash#canada.__royal_canadian_air_force_--_peacekeeping_missions>,
+        <paash#canada.__royal_canadian_air_force_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__royal_canadian_air_force_--_reserves>,
+        <paash#canada.__royal_canadian_air_force_--_songs_and_music>,
+        <paash#canada.__royal_canadian_air_force_--_sports>,
+        <paash#canada.__royal_canadian_air_force_--_transportation>,
+        <paash#canada.__royal_canadian_air_force_--_uniforms>,
+        <paash#canada.__royal_canadian_air_force_--_women> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force"@en ;
+    skos:scopeNote "Use up to 1968"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_appointments_and_retirements>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_barracks_and_quarters>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_biography>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_demobilization>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_deployment>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_enlisted_men>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_history>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_inspection>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_installations>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_manoeuvres>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_military_life>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_officers>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_orchestras_and_bands>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_parades>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_pay,_allowances,_etc.>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_peacekeeping_missions>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_reserves>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_songs_and_music>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_sports>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_transportation>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_uniforms>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_women> ;
+    skos:prefLabel "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]"@en ;
+    skos:scopeNote "Use up to 1968"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__royal_canadian_navy> a skos:Concept ;
+    skos:altLabel "Canada.  Navy"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__royal_canadian_navy_--_appointments_and_retirements>,
+        <paash#canada.__royal_canadian_navy_--_barracks_and_quarters>,
+        <paash#canada.__royal_canadian_navy_--_biography>,
+        <paash#canada.__royal_canadian_navy_--_demobilization>,
+        <paash#canada.__royal_canadian_navy_--_deployment>,
+        <paash#canada.__royal_canadian_navy_--_enlisted_men>,
+        <paash#canada.__royal_canadian_navy_--_history>,
+        <paash#canada.__royal_canadian_navy_--_inspection>,
+        <paash#canada.__royal_canadian_navy_--_installations>,
+        <paash#canada.__royal_canadian_navy_--_manoeuvres>,
+        <paash#canada.__royal_canadian_navy_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__royal_canadian_navy_--_military_life>,
+        <paash#canada.__royal_canadian_navy_--_officers>,
+        <paash#canada.__royal_canadian_navy_--_orchestras_and_bands>,
+        <paash#canada.__royal_canadian_navy_--_parades>,
+        <paash#canada.__royal_canadian_navy_--_pay,_allowances,_etc.>,
+        <paash#canada.__royal_canadian_navy_--_peacekeeping_missions>,
+        <paash#canada.__royal_canadian_navy_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__royal_canadian_navy_--_reserves>,
+        <paash#canada.__royal_canadian_navy_--_songs_and_music>,
+        <paash#canada.__royal_canadian_navy_--_sports>,
+        <paash#canada.__royal_canadian_navy_--_transportation>,
+        <paash#canada.__royal_canadian_navy_--_uniforms>,
+        <paash#canada.__royal_canadian_navy_--_women> ;
+    skos:prefLabel "Canada.  Royal Canadian Navy"@en ;
+    skos:scopeNote "Use up to 1968"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__army> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__army_--_appointments_and_retirements>,
+        <paash#canada.__army_--_barracks_and_quarters>,
+        <paash#canada.__army_--_biography>,
+        <paash#canada.__army_--_demobilization>,
+        <paash#canada.__army_--_deployment>,
+        <paash#canada.__army_--_enlisted_men>,
+        <paash#canada.__army_--_history>,
+        <paash#canada.__army_--_inspection>,
+        <paash#canada.__army_--_installations>,
+        <paash#canada.__army_--_manoeuvres>,
+        <paash#canada.__army_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__army_--_military_life>,
+        <paash#canada.__army_--_officers>,
+        <paash#canada.__army_--_orchestras_and_bands>,
+        <paash#canada.__army_--_parades>,
+        <paash#canada.__army_--_pay,_allowances,_etc.>,
+        <paash#canada.__army_--_peacekeeping_missions>,
+        <paash#canada.__army_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__army_--_reserves>,
+        <paash#canada.__army_--_songs_and_music>,
+        <paash#canada.__army_--_sports>,
+        <paash#canada.__army_--_transportation>,
+        <paash#canada.__army_--_uniforms>,
+        <paash#canada.__army_--_women> ;
+    skos:prefLabel "Canada.  Army"@en ;
+    skos:related <paash#soldiers> ;
+    skos:scopeNote "Use up to 1968"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#automobiles> a skos:Concept ;
@@ -35007,12 +35236,10 @@
         <paash#canada>,
         <paash#canada,_western>,
         <paash#canada.__armed_forces>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_(use_after_1968)>,
-        <paash#canada.__armed_forces_(after_1968)>,
+        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army>,
-        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_(use_up_to_1968)>,
+        <paash#canada.__army.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army.__canadian_expeditionary_force>,
-        <paash#canada.__army_(use_up_to_1968)>,
         <paash#canada.__canadian_armed_forces>,
         <paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta>,
         <paash#canada.__constitution_act_1982>,
@@ -35023,11 +35250,8 @@
         <paash#canada.__parliament.__house_of_commons>,
         <paash#canada.__parliament.__senate>,
         <paash#canada.__royal_canadian_air_force>,
-        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_(use_up_to_1968)>,
-        <paash#canada.__royal_canadian_air_force_(up_to_1968)>,
-        <paash#canada.__royal_canadian_air_force_(use_up_to_1968)>,
+        <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]>,
         <paash#canada.__royal_canadian_navy>,
-        <paash#canada.__royal_canadian_navy_(use_up_to_1968)>,
         <paash#canada_day>,
         <paash#canadian_forces_base,_namao_[penhold,_wainwright,_etc.]>,
         <paash#cancer>,
@@ -36577,7 +36801,6 @@
         <paash#pipelines>,
         <paash#pistols>,
         <paash#pitch>,
-        <paash#place-names>,
         <paash#planetariums>,
         <paash#plants>,
         <paash#plaques>,

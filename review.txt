@@ -1,12 +1,12 @@
-Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)
+Canada.  Armed Forces.  [Name of unit, regiment, etc.]
 
-Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
+Canada.  Army.  [Name of unit, regiment, etc.]
 
 Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
 Canada.  Department of [the Interior, etc.]
 
-Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
+Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]
 
 Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 
@@ -185,9 +185,6 @@ Calgary
 
 Canada
 	NT Commerce--[United States, etc.]
-
-Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
-	For subdivisions use NT under Canada.  Canadian Armed Forces
 
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
@@ -476,9 +473,6 @@ Pests
 
 Piikani Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-
-Place-names
-	USE Names, Geographical
 
 Polls
 	USE Elections (Federal, [date])
