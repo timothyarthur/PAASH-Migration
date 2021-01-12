@@ -98,14 +98,14 @@ def construct_subheading(item, parent, check_flags = True):
 
 	if item.startswith('USE'):
 		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'RT', 'specific', 'when']
-		if flag_for_review(item, review_flags) and check_flags:
+		if flag_for_review(item, review_flags) and check_flags and not get_uri(clean_label(item)):
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
 		else:
-			uri = construct_use (item, parent)
+			uri = construct_use(item, parent)
 
 	elif item.startswith('NT'):
-		review_flags = ['[', 'subdiv', 'under', 'name', 'RT', 'USE', 'specific']
+		review_flags = ['subdiv', 'under', 'name', 'RT', 'USE', 'specific']
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
@@ -114,7 +114,7 @@ def construct_subheading(item, parent, check_flags = True):
 
 	elif item.startswith('RT'):
 		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'USE', 'specific']
-		if flag_for_review(item, review_flags) and check_flags:
+		if flag_for_review(item, review_flags) and check_flags and not get_uri(clean_label(item)):
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
 		else:

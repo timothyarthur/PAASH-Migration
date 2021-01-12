@@ -2458,6 +2458,11 @@
     skos:prefLabel "Birth certificates"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#birth_control_--_religious_aspects_[baptist_church,_catholic_church,_etc.]> a skos:Concept ;
+    skos:broader <paash#birth_control> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Birth control -- Religious aspects [Baptist Church, Catholic Church, etc.]"@en .
+
 <paash#birthdays> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Birthdays"@en ;
@@ -2865,14 +2870,6 @@
     skos:prefLabel "Butter"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#by-elections> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "By-elections"@en ;
-    skos:scopeNote "USE Elections (Federal, [date])"@en,
-        "USE Elections (Local, [date])"@en,
-        "USE Elections (Provincial, [date])"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#by-laws> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "By-laws"@en ;
@@ -2884,11 +2881,10 @@
     skos:prefLabel "Cabbage"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#cabinet_ministers> a skos:Concept ;
+<paash#cabinet_ministers_--_canada_[alberta,_etc.]> a skos:Concept ;
+    skos:broader <paash#cabinet_ministers> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Cabinet ministers"@en ;
-    skos:scopeNote "NT Canada [Alberta, etc.]"@en ;
-    skos:topConceptOf <paash#paash> .
+    skos:prefLabel "Cabinet ministers -- Canada [Alberta, etc.]"@en .
 
 <paash#cable_cars> a skos:Concept ;
     skos:altLabel "Gondolas"@en,
@@ -3000,6 +2996,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Bath houses"@en .
 
+<paash#calgary_--_blizzard,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Blizzard, [date]"@en .
+
 <paash#calgary_--_boards_of_trade> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3059,6 +3060,11 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Census"@en .
+
+<paash#calgary_--_census,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Census, [date]"@en .
 
 <paash#calgary_--_centennial_celebrations,_etc.> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3200,6 +3206,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Drama"@en .
 
+<paash#calgary_--_earthquake,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Earthquake, [date]"@en .
+
 <paash#calgary_--_economic_conditions> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3225,6 +3236,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Exhibitions"@en .
 
+<paash#calgary_--_explosion,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Explosion, [date]"@en .
+
 <paash#calgary_--_ferries> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3235,6 +3251,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Festivals"@en .
 
+<paash#calgary_--_fire,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Fire, [date]"@en .
+
 <paash#calgary_--_fire_stations> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3244,6 +3265,11 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Fires and fire prevention"@en .
+
+<paash#calgary_--_flood,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Flood, [date]"@en .
 
 <paash#calgary_--_floods> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3269,6 +3295,11 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Gardens"@en .
+
+<paash#calgary_--_general_strike,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- General strike, [date]"@en .
 
 <paash#calgary_--_grain_elevators> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3334,6 +3365,11 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Intellectual life"@en .
+
+<paash#calgary_--_landslide,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Landslide, [date]"@en .
 
 <paash#calgary_--_landslides> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3545,6 +3581,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Restaurants"@en .
 
+<paash#calgary_--_riot,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Riot, [date]"@en .
+
 <paash#calgary_--_riots> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3630,6 +3671,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Stores, shopping centres, etc."@en .
 
+<paash#calgary_--_storm,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Storm, [date]"@en .
+
 <paash#calgary_--_storms> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3669,6 +3715,11 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Theatres"@en .
+
+<paash#calgary_--_tornado,_[date]> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Tornado, [date]"@en .
 
 <paash#calgary_--_tornadoes> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -4344,9 +4395,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Constitution Act 1982 -- Constitutional conventions"@en .
 
-<paash#canada.__department_of_[the_interior,_etc.]> a skos:Concept ;
+<paash#canada.__department_of_[name_of_department]> a skos:Concept ;
+    skos:altLabel "Canada -- Departments"@en,
+        "Government departments (Federal)"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Department of [the Interior, etc.]"@en ;
+    skos:prefLabel "Canada.  Department of [name of department]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__laws> a skos:Concept ;
@@ -4764,16 +4817,15 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada -- Climate"@en .
 
+<paash#canada_--_commerce_--_[united_states,_etc.]> a skos:Concept ;
+    skos:broader <paash#canada> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada -- Commerce -- [United States, etc.]"@en .
+
 <paash#canada_--_confederation,_1867> a skos:Concept ;
     skos:broader <paash#canada> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada -- Confederation, 1867"@en .
-
-<paash#canada_--_departments> a skos:Concept ;
-    skos:broader <paash#canada> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada -- Departments"@en ;
-    skos:scopeNote "USE Canada.  Department of [the Interior, etc.]"@en .
 
 <paash#canada_--_description_and_travel> a skos:Concept ;
     skos:broader <paash#canada> ;
@@ -9338,6 +9390,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Bath houses"@en .
 
+<paash#edmonton_--_blizzard,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Blizzard, [date]"@en .
+
 <paash#edmonton_--_boards_of_trade> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9397,6 +9454,11 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Census"@en .
+
+<paash#edmonton_--_census,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Census, [date]"@en .
 
 <paash#edmonton_--_centennial_celebrations,_etc.> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9538,6 +9600,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Drama"@en .
 
+<paash#edmonton_--_earthquake,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Earthquake, [date]"@en .
+
 <paash#edmonton_--_economic_conditions> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9564,6 +9631,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Exhibitions"@en .
 
+<paash#edmonton_--_explosion,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Explosion, [date]"@en .
+
 <paash#edmonton_--_ferries> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9574,6 +9646,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Festivals"@en .
 
+<paash#edmonton_--_fire,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Fire, [date]"@en .
+
 <paash#edmonton_--_fire_stations> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9583,6 +9660,11 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Fires and fire prevention"@en .
+
+<paash#edmonton_--_flood,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Flood, [date]"@en .
 
 <paash#edmonton_--_floods> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9608,6 +9690,11 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Gardens"@en .
+
+<paash#edmonton_--_general_strike,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- General strike, [date]"@en .
 
 <paash#edmonton_--_grain_elevators> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9673,6 +9760,11 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Intellectual life"@en .
+
+<paash#edmonton_--_landslide,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Landslide, [date]"@en .
 
 <paash#edmonton_--_landslides> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9884,6 +9976,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Restaurants"@en .
 
+<paash#edmonton_--_riot,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Riot, [date]"@en .
+
 <paash#edmonton_--_riots> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9969,6 +10066,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Stores, shopping centres, etc."@en .
 
+<paash#edmonton_--_storm,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Storm, [date]"@en .
+
 <paash#edmonton_--_storms> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -10008,6 +10110,11 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Theatres"@en .
+
+<paash#edmonton_--_tornado,_[date]> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Tornado, [date]"@en .
 
 <paash#edmonton_--_tornadoes> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -11935,16 +12042,10 @@
     skos:scopeNote "USE [name of department], Department of (e.g., Agriculture, Department of)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#government_departments_(federal)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Government departments (Federal)"@en ;
-    skos:scopeNote "USE Canada.  Department of [     ]"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#government_departments_(other_provinces)> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Government departments (Other provinces)"@en ;
-    skos:scopeNote "USE e.g., Saskatchewan.  Department of [     ]"@en ;
+    skos:scopeNote "USE e.g., Saskatchewan.  Department of [name of department]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#government_employees> a skos:Concept ;
@@ -15693,11 +15794,10 @@
     skos:prefLabel "Liens"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#lieutenant-governors> a skos:Concept ;
+<paash#lieutenant-governors_--_alberta_[saskatchewan,_ontario,_etc.]> a skos:Concept ;
+    skos:broader <paash#lieutenant-governors> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Lieutenant-Governors"@en ;
-    skos:scopeNote "NT Alberta [Saskatchewan, Ontario, etc.]"@en ;
-    skos:topConceptOf <paash#paash> .
+    skos:prefLabel "Lieutenant-Governors -- Alberta [Saskatchewan, Ontario, etc.]"@en .
 
 <paash#life-saving> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -20618,14 +20718,6 @@
     skos:altLabel "Politics"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Political parties"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#polls> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Polls"@en ;
-    skos:scopeNote "USE Elections (Federal, [date])"@en,
-        "USE Elections (Local, [date])"@en,
-        "USE Elections (Provincial, [date])"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#pollution_control> a skos:Concept ;
@@ -26395,15 +26487,6 @@
     skos:prefLabel "Volunteerism and volunteers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#voting> a skos:Concept ;
-    skos:altLabel "Polls"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Voting"@en ;
-    skos:scopeNote "RT Elections (Federal, [date])"@en,
-        "RT Elections (Local, [date])"@en,
-        "RT Elections (Provincial, [date])"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#voyages_and_travel> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Voyages and travel"@en ;
@@ -27264,14 +27347,6 @@
     skos:related <paash#polygamy> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#birth_control> a skos:Concept ;
-    skos:altLabel "Family planning"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Birth control"@en ;
-    skos:related <paash#contraception> ;
-    skos:scopeNote "NT Religious aspects [Baptist Church, Catholic Church, etc.]"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#biscuits> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#biscuits_--_trade_and_manufacture> ;
@@ -27332,6 +27407,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Butchery and butchers"@en ;
     skos:related <paash#slaughtering_and_slaughter-houses> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#cabinet_ministers> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#cabinet_ministers_--_canada_[alberta,_etc.]> ;
+    skos:prefLabel "Cabinet ministers"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cairns> a skos:Concept ;
@@ -28493,6 +28574,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Legislative Assembly -- Bills"@en ;
     skos:related <paash#legislation> .
+
+<paash#lieutenant-governors> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#lieutenant-governors_--_alberta_[saskatchewan,_ontario,_etc.]> ;
+    skos:prefLabel "Lieutenant-Governors"@en ;
+    skos:topConceptOf <paash#paash> .
 
 <paash#liquor_traffic> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -29692,6 +29779,14 @@
     skos:prefLabel "Beer"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#birth_control> a skos:Concept ;
+    skos:altLabel "Family planning"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#birth_control_--_religious_aspects_[baptist_church,_catholic_church,_etc.]> ;
+    skos:prefLabel "Birth control"@en ;
+    skos:related <paash#contraception> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#blood> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#blood_--_donation>,
@@ -29914,27 +30009,6 @@
     skos:prefLabel "Education, Preschool"@en ;
     skos:related <paash#early_childhood_education>,
         <paash#kindergartens> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#elections_(federal,_[date])> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#elections_(federal,_[date])_--_contested>,
-        <paash#elections_(federal,_[date])_--_finance> ;
-    skos:prefLabel "Elections (Federal, [date])"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#elections_(local,_[date])> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#elections_(local,_[date])_--_contested>,
-        <paash#elections_(local,_[date])_--_finance> ;
-    skos:prefLabel "Elections (Local, [date])"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#elections_(provincial,_[date])> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#elections_(provincial,_[date])_--_contested>,
-        <paash#elections_(provincial,_[date])_--_finance> ;
-    skos:prefLabel "Elections (Provincial, [date])"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#electronic_data_processing> a skos:Concept ;
@@ -30690,6 +30764,36 @@
     skos:prefLabel "Domestic violence"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#elections_(federal,_[date])> a skos:Concept ;
+    skos:altLabel "By-elections"@en,
+        "Polls"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#elections_(federal,_[date])_--_contested>,
+        <paash#elections_(federal,_[date])_--_finance> ;
+    skos:prefLabel "Elections (Federal, [date])"@en ;
+    skos:related <paash#voting> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#elections_(local,_[date])> a skos:Concept ;
+    skos:altLabel "By-elections"@en,
+        "Polls"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#elections_(local,_[date])_--_contested>,
+        <paash#elections_(local,_[date])_--_finance> ;
+    skos:prefLabel "Elections (Local, [date])"@en ;
+    skos:related <paash#voting> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#elections_(provincial,_[date])> a skos:Concept ;
+    skos:altLabel "By-elections"@en,
+        "Polls"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#elections_(provincial,_[date])_--_contested>,
+        <paash#elections_(provincial,_[date])_--_finance> ;
+    skos:prefLabel "Elections (Provincial, [date])"@en ;
+    skos:related <paash#voting> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#environmental_policy> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#environmental_policy_--_research> ;
@@ -30789,7 +30893,6 @@
     skos:prefLabel "Legislation"@en ;
     skos:related <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)>,
         <paash#legislative_assembly_--_bills> ;
-    skos:scopeNote "RT Legislation (Name of Act as titled in the Statutes of Alberta)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#licenses> a skos:Concept ;
@@ -30938,6 +31041,15 @@
         <paash#trust_and_trustees_--_funds>,
         <paash#trust_and_trustees_--_indentures> ;
     skos:prefLabel "Trust and Trustees"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#voting> a skos:Concept ;
+    skos:altLabel "Polls"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Voting"@en ;
+    skos:related <paash#elections_(federal,_[date])>,
+        <paash#elections_(local,_[date])>,
+        <paash#elections_(provincial,_[date])> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#airports> a skos:Concept ;
@@ -32009,16 +32121,15 @@
         <paash#canada_--_boundaries>,
         <paash#canada_--_centennial_celebrations,_etc.>,
         <paash#canada_--_climate>,
+        <paash#canada_--_commerce_--_[united_states,_etc.]>,
         <paash#canada_--_confederation,_1867>,
         <paash#canada_--_constitutional_law>,
-        <paash#canada_--_departments>,
         <paash#canada_--_description_and_travel>,
         <paash#canada_--_economic_conditions>,
         <paash#canada_--_government_publications>,
         <paash#canada_--_history>,
         <paash#canada_--_population> ;
     skos:prefLabel "Canada"@en ;
-    skos:scopeNote "NT Commerce--[United States, etc.]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cancer> a skos:Concept ;
@@ -34578,6 +34689,7 @@
         <paash#calgary_--_barbershops>,
         <paash#calgary_--_bars,_saloons,_etc.>,
         <paash#calgary_--_bath_houses>,
+        <paash#calgary_--_blizzard,_[date]>,
         <paash#calgary_--_boards_of_trade>,
         <paash#calgary_--_boats_and_boating>,
         <paash#calgary_--_boundaries>,
@@ -34590,6 +34702,7 @@
         <paash#calgary_--_carnival>,
         <paash#calgary_--_cemeteries>,
         <paash#calgary_--_census>,
+        <paash#calgary_--_census,_[date]>,
         <paash#calgary_--_centennial_celebrations,_etc.>,
         <paash#calgary_--_ceremonies>,
         <paash#calgary_--_charities>,
@@ -34618,20 +34731,25 @@
         <paash#calgary_--_directories>,
         <paash#calgary_--_docks,_wharves,_etc.>,
         <paash#calgary_--_drama>,
+        <paash#calgary_--_earthquake,_[date]>,
         <paash#calgary_--_economic_conditions>,
         <paash#calgary_--_elections>,
         <paash#calgary_--_entertaining_and_entertainment>,
         <paash#calgary_--_executive_departments>,
         <paash#calgary_--_exhibitions>,
+        <paash#calgary_--_explosion,_[date]>,
         <paash#calgary_--_ferries>,
         <paash#calgary_--_festivals>,
+        <paash#calgary_--_fire,_[date]>,
         <paash#calgary_--_fire_stations>,
         <paash#calgary_--_fires_and_fire_prevention>,
+        <paash#calgary_--_flood,_[date]>,
         <paash#calgary_--_floods>,
         <paash#calgary_--_fortifications,_military_installations,_etc.>,
         <paash#calgary_--_fountains>,
         <paash#calgary_--_funeral_rites_and_ceremonies>,
         <paash#calgary_--_gardens>,
+        <paash#calgary_--_general_strike,_[date]>,
         <paash#calgary_--_grain_elevators>,
         <paash#calgary_--_greenhouses>,
         <paash#calgary_--_historical_geography>,
@@ -34644,6 +34762,7 @@
         <paash#calgary_--_images>,
         <paash#calgary_--_industries>,
         <paash#calgary_--_intellectual_life>,
+        <paash#calgary_--_landslide,_[date]>,
         <paash#calgary_--_landslides>,
         <paash#calgary_--_law_firms>,
         <paash#calgary_--_libraries>,
@@ -34686,6 +34805,7 @@
         <paash#calgary_--_real_estate_business>,
         <paash#calgary_--_recreational_facilities>,
         <paash#calgary_--_restaurants>,
+        <paash#calgary_--_riot,_[date]>,
         <paash#calgary_--_riots>,
         <paash#calgary_--_sanitation>,
         <paash#calgary_--_schools>,
@@ -34703,6 +34823,7 @@
         <paash#calgary_--_stockyards>,
         <paash#calgary_--_storage_and_moving_trade>,
         <paash#calgary_--_stores,_shopping_centres,_etc.>,
+        <paash#calgary_--_storm,_[date]>,
         <paash#calgary_--_storms>,
         <paash#calgary_--_street-cleaning>,
         <paash#calgary_--_streets>,
@@ -34711,23 +34832,13 @@
         <paash#calgary_--_telephone_companies>,
         <paash#calgary_--_temples>,
         <paash#calgary_--_theatres>,
+        <paash#calgary_--_tornado,_[date]>,
         <paash#calgary_--_tornadoes>,
         <paash#calgary_--_tourist_information_centres>,
         <paash#calgary_--_wards>,
         <paash#calgary_--_water>,
         <paash#calgary_--_zoos> ;
     skos:prefLabel "Calgary"@en ;
-    skos:scopeNote "NT Blizzard, [date]"@en,
-        "NT Census, [date]"@en,
-        "NT Earthquake, [date]"@en,
-        "NT Explosion, [date]"@en,
-        "NT Fire, [date]"@en,
-        "NT Flood, [date]"@en,
-        "NT General strike, [date]"@en,
-        "NT Landslide, [date]"@en,
-        "NT Riot, [date]"@en,
-        "NT Storm, [date]"@en,
-        "NT Tornado, [date]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#edmonton> a skos:Concept ;
@@ -34747,6 +34858,7 @@
         <paash#edmonton_--_barbershops>,
         <paash#edmonton_--_bars,_saloons,_etc.>,
         <paash#edmonton_--_bath_houses>,
+        <paash#edmonton_--_blizzard,_[date]>,
         <paash#edmonton_--_boards_of_trade>,
         <paash#edmonton_--_boats_and_boating>,
         <paash#edmonton_--_boundaries>,
@@ -34759,6 +34871,7 @@
         <paash#edmonton_--_carnival>,
         <paash#edmonton_--_cemeteries>,
         <paash#edmonton_--_census>,
+        <paash#edmonton_--_census,_[date]>,
         <paash#edmonton_--_centennial_celebrations,_etc.>,
         <paash#edmonton_--_ceremonies>,
         <paash#edmonton_--_charities>,
@@ -34787,20 +34900,25 @@
         <paash#edmonton_--_directories>,
         <paash#edmonton_--_docks,_wharves,_etc.>,
         <paash#edmonton_--_drama>,
+        <paash#edmonton_--_earthquake,_[date]>,
         <paash#edmonton_--_economic_conditions>,
         <paash#edmonton_--_elections>,
         <paash#edmonton_--_entertaining_and_entertainment>,
         <paash#edmonton_--_executive_departments>,
         <paash#edmonton_--_exhibitions>,
+        <paash#edmonton_--_explosion,_[date]>,
         <paash#edmonton_--_ferries>,
         <paash#edmonton_--_festivals>,
+        <paash#edmonton_--_fire,_[date]>,
         <paash#edmonton_--_fire_stations>,
         <paash#edmonton_--_fires_and_fire_prevention>,
+        <paash#edmonton_--_flood,_[date]>,
         <paash#edmonton_--_floods>,
         <paash#edmonton_--_fortifications,_military_installations,_etc.>,
         <paash#edmonton_--_fountains>,
         <paash#edmonton_--_funeral_rites_and_ceremonies>,
         <paash#edmonton_--_gardens>,
+        <paash#edmonton_--_general_strike,_[date]>,
         <paash#edmonton_--_grain_elevators>,
         <paash#edmonton_--_greenhouses>,
         <paash#edmonton_--_historical_geography>,
@@ -34813,6 +34931,7 @@
         <paash#edmonton_--_images>,
         <paash#edmonton_--_industries>,
         <paash#edmonton_--_intellectual_life>,
+        <paash#edmonton_--_landslide,_[date]>,
         <paash#edmonton_--_landslides>,
         <paash#edmonton_--_law_firms>,
         <paash#edmonton_--_libraries>,
@@ -34855,6 +34974,7 @@
         <paash#edmonton_--_real_estate_business>,
         <paash#edmonton_--_recreational_facilities>,
         <paash#edmonton_--_restaurants>,
+        <paash#edmonton_--_riot,_[date]>,
         <paash#edmonton_--_riots>,
         <paash#edmonton_--_sanitation>,
         <paash#edmonton_--_schools>,
@@ -34872,6 +34992,7 @@
         <paash#edmonton_--_stockyards>,
         <paash#edmonton_--_storage_and_moving_trade>,
         <paash#edmonton_--_stores,_shopping_centres,_etc.>,
+        <paash#edmonton_--_storm,_[date]>,
         <paash#edmonton_--_storms>,
         <paash#edmonton_--_street-cleaning>,
         <paash#edmonton_--_streets>,
@@ -34880,23 +35001,13 @@
         <paash#edmonton_--_telephone_companies>,
         <paash#edmonton_--_temples>,
         <paash#edmonton_--_theatres>,
+        <paash#edmonton_--_tornado,_[date]>,
         <paash#edmonton_--_tornadoes>,
         <paash#edmonton_--_tourist_information_centres>,
         <paash#edmonton_--_wards>,
         <paash#edmonton_--_water>,
         <paash#edmonton_--_zoos> ;
     skos:prefLabel "Edmonton"@en ;
-    skos:scopeNote "NT Blizzard, [date]"@en,
-        "NT Census, [date]"@en,
-        "NT Earthquake, [date]"@en,
-        "NT Explosion, [date]"@en,
-        "NT Fire, [date]"@en,
-        "NT Flood, [date]"@en,
-        "NT General strike, [date]"@en,
-        "NT Landslide, [date]"@en,
-        "NT Riot, [date]"@en,
-        "NT Storm, [date]"@en,
-        "NT Tornado, [date]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#paash> a skos:ConceptScheme ;
@@ -35216,7 +35327,6 @@
         <paash#business_enterprises>,
         <paash#butchery_and_butchers>,
         <paash#butter>,
-        <paash#by-elections>,
         <paash#by-laws>,
         <paash#cabbage>,
         <paash#cabinet_ministers>,
@@ -35243,7 +35353,7 @@
         <paash#canada.__canadian_armed_forces>,
         <paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta>,
         <paash#canada.__constitution_act_1982>,
-        <paash#canada.__department_of_[the_interior,_etc.]>,
+        <paash#canada.__department_of_[name_of_department]>,
         <paash#canada.__laws>,
         <paash#canada.__northern>,
         <paash#canada.__parliament>,
@@ -35968,7 +36078,6 @@
         <paash#government,_resistance_to>,
         <paash#government_advertising>,
         <paash#government_departments>,
-        <paash#government_departments_(federal)>,
         <paash#government_departments_(other_provinces)>,
         <paash#government_employees>,
         <paash#government_information>,
@@ -36824,7 +36933,6 @@
         <paash#poliomyelitis>,
         <paash#polish_canadians>,
         <paash#political_parties>,
-        <paash#polls>,
         <paash#pollutants>,
         <paash#pollution>,
         <paash#pollution_control>,

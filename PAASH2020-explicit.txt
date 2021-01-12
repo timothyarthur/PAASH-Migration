@@ -1623,11 +1623,11 @@ Canada
 	NT Boundaries
 	NT Centennial celebrations, etc.
 	NT Climate
-	NT Commerce--[United States, etc.]
+	NT Commerce -- [United States, etc.]
 	NT Constitutional law
 		NT Amendments
 	NT Departments
-		USE Canada.  Department of [the Interior, etc.]
+		USE Canada.  Department of [name of department]
 	NT Description and travel
 	NT Economic conditions
 	NT Government publications
@@ -1791,7 +1791,7 @@ Canada.  Constitution Act 1982
 	RT Canada -- Constitutional law -- Amendments
 	NT Constitutional conventions
 
-Canada.  Department of [the Interior, etc.]
+Canada.  Department of [name of department]
 
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
@@ -5035,10 +5035,10 @@ Government departments
 	USE [name of department], Department of (e.g., Agriculture, Department of)
 
 Government departments (Federal)
-	USE Canada.  Department of [     ]
+	USE Canada.  Department of [name of department]
 
 Government departments (Other provinces)
-	USE e.g., Saskatchewan.  Department of [     ]
+	USE e.g., Saskatchewan.  Department of [name of department]
 
 Government employees
 	USE Civil service

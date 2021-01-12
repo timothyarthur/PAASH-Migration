@@ -4,7 +4,7 @@ Canada.  Army.  [Name of unit, regiment, etc.]
 
 Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
-Canada.  Department of [name of department]
+Canada.  Department of [the Interior, etc.]
 
 Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]
 
@@ -80,6 +80,9 @@ Battles
 Berries
 	RT names of particular berries
 
+Birth control
+	NT Religious aspects [Baptist Church, Catholic Church, etc.]
+
 Bishops
 	Where possible use the subdivision Bishops under the specific denomination.
 
@@ -110,8 +113,56 @@ Buildings
 Buildings
 	RT subdivision Buildings under names of communities and institutions.
 
+By-elections
+	USE Elections (Federal, [date])
+
+By-elections
+	USE Elections (Local, [date])
+
+By-elections
+	USE Elections (Provincial, [date])
+
 By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
+
+Cabinet ministers
+	NT Canada [Alberta, etc.]
+
+Calgary
+	NT Blizzard, [date]
+
+Calgary
+	NT Census, [date]
+
+Calgary
+	NT Earthquake, [date]
+
+Calgary
+	NT Explosion, [date]
+
+Calgary
+	NT Fire, [date]
+
+Calgary
+	NT Flood, [date]
+
+Calgary
+	NT General strike, [date]
+
+Calgary
+	NT Landslide, [date]
+
+Calgary
+	NT Riot, [date]
+
+Calgary
+	NT Storm, [date]
+
+Calgary
+	NT Tornado, [date]
+
+Canada
+	NT Commerce--[United States, etc.]
 
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
@@ -194,6 +245,39 @@ Disasters
 Discrimination
 	RT subdivision Discrimination under specific racial or ethnic groups.
 
+Edmonton
+	NT Blizzard, [date]
+
+Edmonton
+	NT Census, [date]
+
+Edmonton
+	NT Earthquake, [date]
+
+Edmonton
+	NT Explosion, [date]
+
+Edmonton
+	NT Fire, [date]
+
+Edmonton
+	NT Flood, [date]
+
+Edmonton
+	NT General strike, [date]
+
+Edmonton
+	NT Landslide, [date]
+
+Edmonton
+	NT Riot, [date]
+
+Edmonton
+	NT Storm, [date]
+
+Edmonton
+	NT Tornado, [date]
+
 Election districts (Cities)
 	USE subdivisions Wards under names of cities
 
@@ -257,8 +341,11 @@ Game and game birds
 Government departments
 	USE [name of department], Department of (e.g., Agriculture, Department of)
 
+Government departments (Federal)
+	USE Canada.  Department of [     ]
+
 Government departments (Other provinces)
-	USE e.g., Saskatchewan.  Department of [name of department]
+	USE e.g., Saskatchewan.  Department of [     ]
 
 Government employees
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
@@ -301,6 +388,12 @@ Kutenai Nation
 
 Laboratories
 	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
+
+Legislation
+	RT Legislation (Name of Act as titled in the Statutes of Alberta)
+
+Lieutenant-Governors
+	NT Alberta [Saskatchewan, Ontario, etc.]
 
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
@@ -359,6 +452,15 @@ Pests
 Piikani Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
+Polls
+	USE Elections (Federal, [date])
+
+Polls
+	USE Elections (Local, [date])
+
+Polls
+	USE Elections (Provincial, [date])
+
 Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
@@ -407,6 +509,15 @@ University of Alberta
 Vocational colleges
 	RT names of particular institutions
 
+Voting
+	RT Elections (Federal, [date])
+
+Voting
+	RT Elections (Local, [date])
+
+Voting
+	RT Elections (Provincial, [date])
+
 Waste products
 	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products
 
@@ -433,6 +544,9 @@ Animals -- Diseases
 
 Assiniboine Nation -- Languages
 	RT name of language
+
+Canada -- Departments
+	USE Canada.  Department of [the Interior, etc.]
 
 Commonwealth Games (11th : 1978 : Edmonton, Alberta) -- Sports
 	USE specific name of sport
@@ -499,4 +613,3 @@ Sioux Nation -- Languages
 
 Tsuu T'ina Nation -- Languages
 	RT name of language
-
