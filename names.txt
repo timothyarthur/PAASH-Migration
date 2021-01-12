@@ -4,7 +4,7 @@ Canada.  Army.  [Name of unit, regiment, etc.]
 
 Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
-Canada.  Department of [the Interior, etc.]
+Canada.  Department of [name of department]
 
 Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]
 
@@ -315,10 +315,10 @@ Government departments
 	USE [name of department], Department of (e.g., Agriculture, Department of)
 
 Government departments (Federal)
-	USE Canada.  Department of [     ]
+	USE Canada.  Department of [name of department]
 
 Government departments (Other provinces)
-	USE e.g., Saskatchewan.  Department of [     ]
+	USE e.g., Saskatchewan.  Department of [name of department]
 
 Government employees
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
@@ -495,7 +495,7 @@ Assiniboine Nation -- Languages
 	RT name of language
 
 Canada -- Departments
-	USE Canada.  Department of [the Interior, etc.]
+	USE Canada.  Department of [name of department]
 
 Commonwealth Games (11th : 1978 : Edmonton, Alberta) -- Sports
 	USE specific name of sport

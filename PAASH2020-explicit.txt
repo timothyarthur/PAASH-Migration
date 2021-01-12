@@ -1906,7 +1906,7 @@ Canada, Western
 Canada Day
 
 Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
-	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
+	USE Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
 Canals
 	USE Irrigation canals and flumes
@@ -2577,7 +2577,9 @@ Consumer protection
 Containerization
 
 Contested elections
-	USE Elections -- Contested
+	USE Elections (Federal, [date]) -- Contested
+	USE Elections (Local, [date]) -- Contested
+	USE Elections (Provincial, [date]) -- Contested
 
 Continuing education
 

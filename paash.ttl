@@ -4386,6 +4386,7 @@
     skos:prefLabel "Canada.  Canadian Armed Forces -- Women"@en .
 
 <paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta> a skos:Concept ;
+    skos:altLabel "Canadian Forces Base, Namao [Penhold, Wainwright, etc.]"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta"@en ;
     skos:topConceptOf <paash#paash> .
@@ -4858,12 +4859,6 @@
         "Dominion Day"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada Day"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canadian_forces_base,_namao_[penhold,_wainwright,_etc.]> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canadian Forces Base, Namao [Penhold, Wainwright, etc.]"@en ;
-    skos:scopeNote "USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cancer_--_complications> a skos:Concept ;
@@ -6163,6 +6158,14 @@
 <paash#containerization> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Containerization"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#contested_elections> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Contested elections"@en ;
+    skos:scopeNote "USE Elections (Federal, [date]) -- Contested"@en,
+        "USE Elections (Local, [date]) -- Contested"@en,
+        "USE Elections (Provincial, [date]) -- Contested"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#contractors> a skos:Concept ;
@@ -10239,12 +10242,6 @@
     skos:broader <paash#elections_(provincial,_[date])> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Elections (Provincial, [date]) -- Finance"@en .
-
-<paash#elections_--_contested> a skos:Concept ;
-    skos:altLabel "Contested elections"@en ;
-    skos:broader <paash#elections> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Elections -- Contested"@en .
 
 <paash#electric_apparatus_and_appliances> a skos:Concept ;
     skos:altLabel "Appliances"@en ;
@@ -27861,12 +27858,6 @@
     skos:scopeNote "For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#elections> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#elections_--_contested> ;
-    skos:prefLabel "Elections"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#electric_lines> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Electric lines"@en ;
@@ -35364,7 +35355,6 @@
         <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]>,
         <paash#canada.__royal_canadian_navy>,
         <paash#canada_day>,
-        <paash#canadian_forces_base,_namao_[penhold,_wainwright,_etc.]>,
         <paash#cancer>,
         <paash#candles>,
         <paash#candlesticks>,
@@ -35559,6 +35549,7 @@
         <paash#consumer_credit>,
         <paash#consumer_protection>,
         <paash#containerization>,
+        <paash#contested_elections>,
         <paash#continuing_education>,
         <paash#contraception>,
         <paash#contractors>,
@@ -35768,7 +35759,6 @@
         <paash#election_districts_(federal)>,
         <paash#election_districts_(local)>,
         <paash#election_districts_(provincial)>,
-        <paash#elections>,
         <paash#elections_(federal,_[date])>,
         <paash#elections_(local,_[date])>,
         <paash#elections_(provincial,_[date])>,

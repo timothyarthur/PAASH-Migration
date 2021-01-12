@@ -107,9 +107,6 @@ By-laws
 Canada.  Laws
 	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
 
-Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
-	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
-
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
 
@@ -136,6 +133,15 @@ Commissions (of inquiry)
 
 Consulates
 	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
+
+Contested elections
+	USE Elections (Federal, [date]) -- Contested
+
+Contested elections
+	USE Elections (Local, [date]) -- Contested
+
+Contested elections
+	USE Elections (Provincial, [date]) -- Contested
 
 Convents
 	USE as NT under specific sect or religion.
