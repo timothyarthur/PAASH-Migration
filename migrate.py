@@ -341,7 +341,6 @@ numerical.bind('skos', SKOS)
 
 concepts = list(g.triples((None, RDF.type, SKOS.Concept)))
 concepts.sort(key=lambda x: x[0])
-print(concepts[:1])
 num_uri = {}
 for s, p, o in concepts:
 	num_uri[s] = gen_num_uri(s)
