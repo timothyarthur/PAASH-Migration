@@ -261,8 +261,8 @@ for key in struct:
 	if flag_for_review(key, review_flags):
 		add_review(key)
 
-	key = clean_label(key)
-	key_uri = construct_heading_node(key)
+	clean_key = clean_label(key)
+	key_uri = construct_heading_node(clean_key)
 
 	#Storing subheadings under the newly-generated URI
 	values = struct[key]
@@ -339,8 +339,11 @@ for item in [row[0] for row in top_concepts]:
 numerical = Graph()
 numerical.bind('skos', SKOS)
 
+concepts = list(g.triples((None, RDF.type, SKOS.Concept)))
+concepts.sort(key=lambda x: x[0])
+print(concepts[:1])
 num_uri = {}
-for s, p, o in g.triples((None, RDF.type, SKOS.Concept)):
+for s, p, o in concepts:
 	num_uri[s] = gen_num_uri(s)
 
 for s, p, o in g:
@@ -363,7 +366,7 @@ g.serialize(destination=rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file, format='ttl')
 numerical.serialize(destination=num_rdf_file_xml, format='xml')
 
-print(f'Graph containing {count} nodes successfully written to {num_rdf_file} and {num_rdf_file_xml}')
+print(f'Graph containing {len(concepts)} concepts successfully written to {num_rdf_file} and {num_rdf_file_xml}')
 
 #Writing lines for review to the indicated file in human-readable format
 if test:

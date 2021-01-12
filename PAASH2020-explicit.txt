@@ -3680,7 +3680,7 @@ Drinking customs
 
 Drive-in theatres
 
-Driving under the influence
+Driving under the influence~f
 
 Drop-in centres
 	USE Community centres
@@ -4873,7 +4873,7 @@ Garage sales
 
 Garages
 
-Garden ornaments and furniture
+Garden ornaments and furniture~f
 
 Garden tools
 
@@ -7560,9 +7560,9 @@ Nakoda Nation
 	NT Writing
 	NT Youth
 
-Names, Geographical
+Names, Geographical~f
 
-Names, Personal
+Names, Personal~f
 
 Naphtha
 
@@ -8512,7 +8512,7 @@ Pistols
 
 Pitch
 
-Place-names
+Place-names~f
 	USE Names, Geographical~f
 
 Planetariums
@@ -10319,7 +10319,7 @@ Street cars
 
 Street cleaning
 
-Street names
+Street names~f
 
 Street railways
 	NT Design and construction
@@ -10979,9 +10979,9 @@ Ukrainians
 	RT Galicians
 	RT Ruthenians
 
-Underpasses
+Underpasses~f
 
-Undertakers and undertaking
+Undertakers and undertaking~f
 
 Undocumented immigrants
 	UF Aliens, Illegal
@@ -11182,9 +11182,9 @@ Video tape recorders and recording
 Video tape/disc rentals
 	USE Stores, Retail -- Videotape/disc
 
-Vietnamese
+Vietnamese~f
 
-Vietnamese Canadians
+Vietnamese Canadians~f
 
 Vietnam War, 1961-1975
 
@@ -11317,7 +11317,7 @@ Water
 	NT Supply
 	NT Towers
 
-Water, Underground
+Water, Underground~f
 
 Water polo
 
