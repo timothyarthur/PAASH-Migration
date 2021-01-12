@@ -2577,9 +2577,9 @@ Consumer protection
 Containerization
 
 Contested elections
-	USE Elections (Federal, [date]) -- Contested
-	USE Elections (Local, [date]) -- Contested
-	USE Elections (Provincial, [date]) -- Contested
+	USE Elections (Federal, [date]) -- Contested~f
+	USE Elections (Local, [date]) -- Contested~f
+	USE Elections (Provincial, [date]) -- Contested~f
 
 Continuing education
 

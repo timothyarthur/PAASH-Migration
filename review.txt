@@ -134,15 +134,6 @@ Commissions (of inquiry)
 Consulates
 	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
 
-Contested elections
-	USE Elections (Federal, [date]) -- Contested
-
-Contested elections
-	USE Elections (Local, [date]) -- Contested
-
-Contested elections
-	USE Elections (Provincial, [date]) -- Contested
-
 Convents
 	USE as NT under specific sect or religion.
 

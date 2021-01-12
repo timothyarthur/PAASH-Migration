@@ -6160,14 +6160,6 @@
     skos:prefLabel "Containerization"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#contested_elections> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Contested elections"@en ;
-    skos:scopeNote "USE Elections (Federal, [date]) -- Contested"@en,
-        "USE Elections (Local, [date]) -- Contested"@en,
-        "USE Elections (Provincial, [date]) -- Contested"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#contractors> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Contractors"@en ;
@@ -10214,6 +10206,7 @@
     skos:prefLabel "Election districts (Provincial) -- Census"@en .
 
 <paash#elections_(federal,_[date])_--_contested> a skos:Concept ;
+    skos:altLabel "Contested elections"@en ;
     skos:broader <paash#elections_(federal,_[date])> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Elections (Federal, [date]) -- Contested"@en .
@@ -10224,6 +10217,7 @@
     skos:prefLabel "Elections (Federal, [date]) -- Finance"@en .
 
 <paash#elections_(local,_[date])_--_contested> a skos:Concept ;
+    skos:altLabel "Contested elections"@en ;
     skos:broader <paash#elections_(local,_[date])> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Elections (Local, [date]) -- Contested"@en .
@@ -10234,6 +10228,7 @@
     skos:prefLabel "Elections (Local, [date]) -- Finance"@en .
 
 <paash#elections_(provincial,_[date])_--_contested> a skos:Concept ;
+    skos:altLabel "Contested elections"@en ;
     skos:broader <paash#elections_(provincial,_[date])> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Elections (Provincial, [date]) -- Contested"@en .
@@ -35549,7 +35544,6 @@
         <paash#consumer_credit>,
         <paash#consumer_protection>,
         <paash#containerization>,
-        <paash#contested_elections>,
         <paash#continuing_education>,
         <paash#contraception>,
         <paash#contractors>,
