@@ -129,7 +129,7 @@ def construct_subheading(item, parent, check_flags = True):
 			uri = construct_uf(item, parent)
 
 	else:
-		review_flags = ['[', 'subdiv', 'under', 'name']
+		review_flags = []
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 		uri = construct_note(item, parent)

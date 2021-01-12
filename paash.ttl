@@ -30893,6 +30893,7 @@
     skos:prefLabel "Legislation"@en ;
     skos:related <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)>,
         <paash#legislative_assembly_--_bills> ;
+    skos:scopeNote "RT Legislation ([Name of Act as titled in the Statutes of Alberta])"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#licenses> a skos:Concept ;

@@ -83,15 +83,6 @@ Berries
 Birth control
 	NT Religious aspects [Baptist Church, Catholic Church, etc.]
 
-Bishops
-	Where possible use the subdivision Bishops under the specific denomination.
-
-Boards of trade
-	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
-
-Boats and boating
-	For names of individual boats use [Name of Boat] (Ship), e.g., Nonesuch (Ship).
-
 Boundaries
 	USE NT Boundaries under place names.
 
@@ -188,17 +179,11 @@ City councils
 City councils
 	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
-Civil service
-	For specific departments USE [Name of department] -- Officials and employees
-
 Colleges
 	RT Names of specific colleges, universities
 
 Commissions (of inquiry)
 	USE Names of specific commissions
-
-Committees
-	For individual committees USE name of committee.
 
 Consulates
 	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
@@ -208,12 +193,6 @@ Convents
 
 Cornerstone laying
 	RT subdivision Laying of cornerstone under names of specific buildings
-
-Counties
-	For names of particular counties use the following format:  Parkland, County of
-
-Cree Nation
-	When possible use name of specific nation
 
 Cree Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
@@ -280,12 +259,6 @@ Edmonton
 
 Election districts (Cities)
 	USE subdivisions Wards under names of cities
-
-Election districts (Federal)
-	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
-
-Election districts (Provincial)
-	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
 
 Entertainment
 	USE specific form of entertainment
@@ -374,12 +347,6 @@ Indigenous peoples
 Inuit
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
-Investments, Foreign
-	Use specific name of country where possible.
-
-Judicial districts
-	For names of particular districts use the following format: Lethbridge, Judicial District of
-
 Kainai Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
@@ -398,29 +365,17 @@ Lieutenant-Governors
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
 
-Local Improvement Districts
-	For names of particular L.I.D.s, use the following format: Local Improvement District No.  1
-
-Lunar Eclipses
-	Subdivided by date, e.g. Lunar Eclipses -- 1866
-
 Mayors
 	RT subdivision Mayors under names of communities
 
 Métis Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
-Ministerial Orders
-	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
-
 Ministerial papers
 	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
 
 Ministers of Religion
 	USE Clergy subdivision under specific denomination
-
-Municipal Districts
-	For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81
 
 Nakawe Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
@@ -466,9 +421,6 @@ Residential schools
 
 Residential schools
 	RT Residential schools NT under Indigenous peoples
-
-Ships
-	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
 
 Siksika Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
@@ -529,9 +481,6 @@ Wheels
 
 Alberta -- Executive departments
 	RT names of specific departments, e.g., Agriculture, Department of
-
-Alberta -- Political parties
-	Use name of specific party when known
 
 Anglican Church of Canada -- Dioceses
 	RT names of dioceses, e.g., Athabasca (Diocese)

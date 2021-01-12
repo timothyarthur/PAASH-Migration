@@ -6586,7 +6586,7 @@ Legends
 
 Legislation
 	NT Repeal
-	RT Legislation (Name of Act as titled in the Statutes of Alberta)
+	RT Legislation ([Name of Act as titled in the Statutes of Alberta])
 	RT Legislative Assembly -- Bills
 
 Legislation (Name of Act as titled in the Statutes of Alberta)
