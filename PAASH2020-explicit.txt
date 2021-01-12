@@ -144,8 +144,8 @@ Air
 	NT Quality
 
 Air bases
-	USE Canada.  Royal Canadian Air Force (up to 1968) -- Installations
-	USE Canada.  Armed Forces (after 1968) -- Installations
+	USE Canada.  Royal Canadian Air Force -- Installations
+	USE Canada.  Armed Forces -- Installations
 
 Air Cadets
 	RT Army Cadets
@@ -1634,10 +1634,10 @@ Canada
 	NT History
 	NT Confederation, 1867
 	NT Militia
-		USE Canada.  Canadian Armed Forces -- Reserves (after 1968)
-		USE Canada.  Army -- Reserves (up to 1968)
-		USE Canada.  Royal Canadian Air Force -- Reserves (up to 1968)
-		USE Canada.  Royal Canadian Navy -- Reserves (up to 1968)
+		USE Canada.  Canadian Armed Forces -- Reserves
+		USE Canada.  Army -- Reserves
+		USE Canada.  Royal Canadian Air Force -- Reserves
+		USE Canada.  Royal Canadian Navy -- Reserves
 	NT Population
 
 Canada.  Canadian Armed Forces
@@ -1669,9 +1669,37 @@ Canada.  Canadian Armed Forces
 	NT Uniforms
 	NT Women
 
-Canada.  Armed Forces.  [Name of unit, regiment, etc.] (use after 1968)
+Canada.  Armed Forces.  [Name of unit, regiment, etc.]
+	Use after 1968
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
-Canada.  Army (use up to 1968)
+Canada.  Army
+	Use up to 1968
 	NT Appointments and retirements
 	NT Barracks and quarters
 	NT Biography
@@ -1728,8 +1756,34 @@ Canada.  Army.  Canadian Expeditionary Force
 	NT Uniforms
 	NT Women
 
-Canada.  Army.  [Name of unit, regiment, etc.] (use up to 1968)
-	For subdivisions use NT under Canada.  Canadian Armed Forces
+Canada.  Army.  [Name of unit, regiment, etc.]
+	Use up to 1968
+	NT Appointments and retirements
+	NT Barracks and quarters
+	NT Biography
+	NT Demobilization
+	NT Deployment
+	NT Discharge certificates
+		USE Military discharges
+	NT Enlisted men
+	NT History
+	NT Inspection
+	NT Installations
+	NT Manoeuvres
+	NT Medals, badges, decorations, etc.
+	NT Military life
+	NT Officers
+	NT Orchestras and bands
+	NT Pay, allowances, etc.
+	NT Parades
+	NT Peacekeeping missions
+	NT Recruiting, enlistment, etc.
+	NT Reserves
+	NT Songs and music
+	NT Sports
+	NT Transportation
+	NT Uniforms
+	NT Women
 
 Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
@@ -1758,7 +1812,8 @@ Canada.  Parliament.  Senate
 	NT Members
 	RT Legislative bodies
 
-Canada.  Royal Canadian Air Force (use up to 1968)
+Canada.  Royal Canadian Air Force
+	Use up to 1968
 	NT Appointments and retirements
 	NT Barracks and quarters
 	NT Biography
@@ -1786,7 +1841,8 @@ Canada.  Royal Canadian Air Force (use up to 1968)
 	NT Uniforms
 	NT Women
 
-Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
+Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]
+	Use up to 1968
 	NT Appointments and retirements
 	NT Barracks and quarters
 	NT Biography
@@ -1814,7 +1870,8 @@ Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] (use up to 1968)
 	NT Uniforms
 	NT Women
 
-Canada.  Royal Canadian Navy (use up to 1968)
+Canada.  Royal Canadian Navy
+	Use up to 1968
 	NT Appointments and retirements
 	NT Barracks and quarters
 	NT Biography
@@ -8456,7 +8513,7 @@ Pistols
 Pitch
 
 Place-names
-	USE Names, Geographical
+	USE Names, Geographical~f
 
 Planetariums
 

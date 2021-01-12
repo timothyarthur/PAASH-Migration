@@ -6,3 +6,9 @@
     skos:related <https://example.com/paash#sh001055>,
         <https://example.com/paash#sh002860> ;
     skos:topConceptOf <https://example.com/paash#paash> .
+
+  <paash#sh004673> a skos:Concept ;
+      skos:inScheme <paash#paash> ;
+      skos:prefLabel "Place-names"@en ;
+      skos:scopeNote "USE Names, Geographical"@en ;
+      skos:topConceptOf <paash#paash> .
