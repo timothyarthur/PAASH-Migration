@@ -244,8 +244,8 @@ Alberta
 		NT History
 		NT Membership
 	NT Study and teaching (Internship)
-	NT Relations (General) with [Name of foreign country]
-	NT Relations (Military) with [Name of foreign country]
+	NT Relations (General) with [Name of foreign country]~f
+	NT Relations (Military) with [Name of foreign country]~f
 
 Alberta Bill of Rights
 
@@ -370,7 +370,7 @@ All-terrain vehicles
 Almanacs
 
 Altars
-	USE Name of religion -- Buildings -- Altars
+	USE [name of religion] -- Buildings -- Altars
 
 Alternative religious movements
 	UF Cults
@@ -727,7 +727,7 @@ Athabasca Tar Sands
 Athabasca Tribal Council
 
 Athabasca University
-	NT [Academic department names]
+	NT [Academic department names]~f
 	NT Administration
 	NT Admission
 	NT Affiliations
@@ -1794,7 +1794,7 @@ Canada.  Constitution Act 1982
 Canada.  Department of [name of department]
 
 Canada.  Laws
-	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
+	USE Canada. [Short title of Act], e.g., Canada.  Veterans Land Act~f
 
 Canada.  Navy
 	USE Canada.  Royal Canadian Navy
@@ -2398,7 +2398,9 @@ College teachers
 
 Colleges
 	USE Universities and colleges
-	RT Names of specific colleges, universities
+
+Colleges of applied arts and technology
+	RT names of particular institutions
 
 Colon (Anatomy)
 
@@ -2564,7 +2566,7 @@ Construction workers
 
 Consulates
 	USE Diplomatic and consular service
-	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
+	USE [Name of Country].  Consulate ([name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)~f
 
 Consultants
 
@@ -4193,8 +4195,7 @@ Europeans
 Euthanasia
 
 Evangelists
-	USE Missionaries
-	USE Missionaries subdivision under specific religion or sect
+	USE Missions and missionaries
 
 Excavating machinery
 
@@ -4641,7 +4642,7 @@ Folklore
 Food
 	NT Law and legislation
 	NT Safety
-	RT subdivision Food under subjects, e.g., Birds -- Foods,
+	RT subdivision Food under subjects, e.g., Birds -- Food,
 
 Food banks
 
@@ -4656,7 +4657,7 @@ Football
 Football, American
 
 Footwear
- RT Footwear industry
+	RT Footwear industry
 
 Footwear industry
 
@@ -5034,13 +5035,13 @@ Government buildings
 
 Government departments
 	USE Alberta -- Executive departments
-	USE [name of department], Department of (e.g., Agriculture, Department of)
+	USE [name of department], Department of (e.g., Agriculture, Department of)~f
 
 Government departments (Federal)
-	USE Canada.  Department of [name of department]
+	USE Canada.  Department of [name of department]~f
 
 Government departments (Other provinces)
-	USE e.g., Saskatchewan.  Department of [name of department]
+	USE [name of province].  Department of [name of department]~f
 
 Government employees
 	USE Civil service
@@ -6426,7 +6427,8 @@ Kutenai Nation
 	NT Youth
 
 Laboratories
-	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
+	RT subdivision Laboratories under names of communities
+	RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
 
 Laboratory animals
 
@@ -6591,7 +6593,7 @@ Legislation
 	RT Legislation ([Name of Act as titled in the Statutes of Alberta])
 	RT Legislative Assembly -- Bills
 
-Legislation (Name of Act as titled in the Statutes of Alberta)
+Legislation ([Name of Act as titled in the Statutes of Alberta])
 	NT Repeal
 	RT Legislation
 
@@ -7209,7 +7211,7 @@ Ministerial Orders
 	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
 
 Ministerial papers
-	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
+	USE [Name of Department], Minister of, e.g., Agriculture, Minister of~f
 
 Ministers of Religion
 	USE Clergy subdivision under specific denomination
@@ -7224,7 +7226,7 @@ Mints
 Missing persons
 
 Missions and missionaries
-	When possible, use specific denomination.
+	When possible, use Missions and missionaries subdivision under specific religion or sect
 
 Mobile home industry
 
@@ -10169,7 +10171,6 @@ Stables
 
 Stadiums
 	USE Sports facilities
-	RT subdivision Sports facilities under names of communities.
 
 Stagecoaches
 	USE Carriages and carts
@@ -10188,7 +10189,7 @@ Statistics
 Statues
 
 Statutes
-	USE Legislation (Name of Act as titled in Statutes of Alberta)
+	USE Legislation ([Name of Act as titled in the Statutes of Alberta])~f
 
 Stealing
 	USE Theft
@@ -11055,6 +11056,7 @@ United States of America.  Marine Corps
 United States of America.  Navy
 
 Universities and colleges
+	RT Names of specific colleges, universities
 	NT Administration
 	NT Buildings
 	NT Curricula
@@ -11073,7 +11075,7 @@ Universities and colleges
 	NT Taxation
 
 University of Alberta
-	NT [Academic department names]
+	NT [Academic department names]~f
 	NT Administration
 	NT Admission
 	NT Affiliations
@@ -11222,7 +11224,6 @@ Vocational centres
 
 Vocational colleges
 	USE Colleges of applied arts and technology
-	RT names of particular institutions
 
 Vocational counselling
 	USE Career education

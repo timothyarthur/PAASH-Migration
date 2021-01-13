@@ -7,8 +7,15 @@
         <https://example.com/paash#sh002860> ;
     skos:topConceptOf <https://example.com/paash#paash> .
 
-  <paash#sh004673> a skos:Concept ;
-      skos:inScheme <paash#paash> ;
-      skos:prefLabel "Place-names"@en ;
-      skos:scopeNote "USE Names, Geographical"@en ;
-      skos:topConceptOf <paash#paash> .
+Altars
+	USE [name of religion] -- Buildings -- Altars
+  {if forced, results in a "[name of religion]" heading being created}
+Baptism
+	USE as NT under specific religion {similar meaning, perhaps both should just be expressed as notes}
+
+Canada.  Laws
+  USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
+
+Government employees
+	USE Civil service
+	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees

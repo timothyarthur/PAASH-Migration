@@ -1,5 +1,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+<paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located]),_e.g.,_germany.__consulate_(edmonton,_alta.)> a skos:Concept ;
+    skos:altLabel "Consulates"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[Name of Country].  Consulate ([name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#[name_of_department],_department_of_(e.g.,_agriculture,_department_of)> a skos:Concept ;
+    skos:altLabel "Government departments"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[name of department], Department of (e.g., Agriculture, Department of)"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#[name_of_province].__department_of_[name_of_department]> a skos:Concept ;
+    skos:altLabel "Government departments (Other provinces)"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[name of province].  Department of [name of department]"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#abduction> a skos:Concept ;
     skos:altLabel "Kidnapping"@en ;
     skos:inScheme <paash#paash> ;
@@ -459,6 +477,16 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Alberta -- Politics and government -- Study and teaching (Internship)"@en .
 
+<paash#alberta_--_relations_(general)_with_[name_of_foreign_country]> a skos:Concept ;
+    skos:broader <paash#alberta> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Alberta -- Relations (General) with [Name of foreign country]"@en .
+
+<paash#alberta_--_relations_(military)_with_[name_of_foreign_country]> a skos:Concept ;
+    skos:broader <paash#alberta> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Alberta -- Relations (Military) with [Name of foreign country]"@en .
+
 <paash#alberta_--_study_and_teaching_(internship)> a skos:Concept ;
     skos:broader <paash#alberta> ;
     skos:inScheme <paash#paash> ;
@@ -846,7 +874,7 @@
 <paash#altars> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Altars"@en ;
-    skos:scopeNote "USE Name of religion -- Buildings -- Altars"@en ;
+    skos:scopeNote "USE [name of religion] -- Buildings -- Altars"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#american_canadians> a skos:Concept ;
@@ -1628,6 +1656,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Athabasca Tribal Council"@en ;
     skos:topConceptOf <paash#paash> .
+
+<paash#athabasca_university_--_[academic_department_names]> a skos:Concept ;
+    skos:broader <paash#athabasca_university> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Athabasca University -- [Academic department names]"@en .
 
 <paash#athabasca_university_--_administration> a skos:Concept ;
     skos:broader <paash#athabasca_university> ;
@@ -3776,6 +3809,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada, Western -- History"@en .
 
+<paash#canada._[short_title_of_act],_e.g.,_canada.__veterans_land_act> a skos:Concept ;
+    skos:altLabel "Canada.  Laws"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada. [Short title of Act], e.g., Canada.  Veterans Land Act"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
@@ -4401,12 +4440,6 @@
         "Government departments (Federal)"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Department of [name of department]"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#canada.__laws> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Laws"@en ;
-    skos:scopeNote "USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__northern> a skos:Concept ;
@@ -5866,12 +5899,6 @@
     skos:prefLabel "Collection agencies"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#colleges> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Colleges"@en ;
-    skos:scopeNote "RT Names of specific colleges, universities"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#colleges_of_applied_arts_and_technology> a skos:Concept ;
     skos:altLabel "Technical colleges"@en,
         "Trade schools"@en,
@@ -6127,12 +6154,6 @@
 <paash#construction_workers> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Construction workers"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#consulates> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Consulates"@en ;
-    skos:scopeNote "USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#consultants> a skos:Concept ;
@@ -10556,12 +10577,6 @@
     skos:prefLabel "Euthanasia"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#evangelists> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Evangelists"@en ;
-    skos:scopeNote "USE Missionaries subdivision under specific religion or sect"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#executive_advisory_bodies> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Executive advisory bodies"@en ;
@@ -11453,18 +11468,6 @@
     skos:prefLabel "Foot racing"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#footwear> a skos:Concept ;
-    skos:altLabel "Boots"@en,
-        "Shoes"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Footwear"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#footwear_industry> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Footwear industry"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#forage_plants> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Forage plants"@en ;
@@ -12026,18 +12029,6 @@
     skos:altLabel "Government publicity"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Government advertising"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#government_departments> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Government departments"@en ;
-    skos:scopeNote "USE [name of department], Department of (e.g., Agriculture, Department of)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#government_departments_(other_provinces)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Government departments (Other provinces)"@en ;
-    skos:scopeNote "USE e.g., Saskatchewan.  Department of [name of department]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#government_employees> a skos:Concept ;
@@ -15645,10 +15636,10 @@
     skos:prefLabel "Legends"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)_--_repeal> a skos:Concept ;
-    skos:broader <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)> ;
+<paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])_--_repeal> a skos:Concept ;
+    skos:broader <paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Legislation (Name of Act as titled in the Statutes of Alberta) -- Repeal"@en .
+    skos:prefLabel "Legislation ([Name of Act as titled in the Statutes of Alberta]) -- Repeal"@en .
 
 <paash#legislation_--_repeal> a skos:Concept ;
     skos:altLabel "Disallowance of legislation"@en ;
@@ -16749,16 +16740,11 @@
     skos:prefLabel "Missing persons"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#missionaries> a skos:Concept ;
+<paash#missions_and_missionaries> a skos:Concept ;
     skos:altLabel "Evangelists"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Missionaries"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#missions_and_missionaries> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
     skos:prefLabel "Missions and missionaries"@en ;
-    skos:scopeNote "When possible, use specific denomination."@en ;
+    skos:scopeNote "When possible, use Missions and missionaries subdivision under specific religion or sect"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#mobile_home_industry> a skos:Concept ;
@@ -24159,12 +24145,6 @@
     skos:prefLabel "Statues"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#statutes> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Statutes"@en ;
-    skos:scopeNote "USE Legislation (Name of Act as titled in Statutes of Alberta)"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#steam_engines> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Steam engines"@en ;
@@ -26165,6 +26145,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Taxation"@en .
 
+<paash#university_of_alberta_--_[academic_department_names]> a skos:Concept ;
+    skos:broader <paash#university_of_alberta> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "University of Alberta -- [Academic department names]"@en .
+
 <paash#university_of_alberta_--_administration> a skos:Concept ;
     skos:broader <paash#university_of_alberta> ;
     skos:inScheme <paash#paash> ;
@@ -27999,6 +27984,20 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Football, American"@en ;
     skos:related <paash#football> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#footwear> a skos:Concept ;
+    skos:altLabel "Boots"@en,
+        "Shoes"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Footwear"@en ;
+    skos:related <paash#footwear_industry> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#footwear_industry> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Footwear industry"@en ;
+    skos:related <paash#footwear> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#foreign_trade_promotion> a skos:Concept ;
@@ -30188,10 +30187,11 @@
         <paash#rockslides> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)> a skos:Concept ;
+<paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])> a skos:Concept ;
+    skos:altLabel "Statutes"@en ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)_--_repeal> ;
-    skos:prefLabel "Legislation (Name of Act as titled in the Statutes of Alberta)"@en ;
+    skos:narrower <paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])_--_repeal> ;
+    skos:prefLabel "Legislation ([Name of Act as titled in the Statutes of Alberta])"@en ;
     skos:related <paash#legislation> ;
     skos:topConceptOf <paash#paash> .
 
@@ -30794,7 +30794,7 @@
         <paash#food_--_law_and_legislation>,
         <paash#food_--_safety> ;
     skos:prefLabel "Food"@en ;
-    skos:scopeNote "RT subdivision Food under subjects, e.g., Birds -- Foods,"@en ;
+    skos:scopeNote "RT subdivision Food under subjects, e.g., Birds -- Food,"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#forest_rangers> a skos:Concept ;
@@ -30877,9 +30877,8 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#legislation_--_repeal> ;
     skos:prefLabel "Legislation"@en ;
-    skos:related <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)>,
+    skos:related <paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])>,
         <paash#legislative_assembly_--_bills> ;
-    skos:scopeNote "RT Legislation ([Name of Act as titled in the Statutes of Alberta])"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#licenses> a skos:Concept ;
@@ -32277,27 +32276,6 @@
     skos:related <paash#methodist_church> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#alberta> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#alberta_--_anniversaries,_etc.>,
-        <paash#alberta_--_anniversaries,_etc._(golden_jubilee)>,
-        <paash#alberta_--_anniversaries,_etc._(seventy-fifth)>,
-        <paash#alberta_--_appropriations_and_expenditures>,
-        <paash#alberta_--_boundaries>,
-        <paash#alberta_--_centennial_celebrations,_etc.>,
-        <paash#alberta_--_civil_service>,
-        <paash#alberta_--_description_and_travel>,
-        <paash#alberta_--_executive_departments>,
-        <paash#alberta_--_foreign_relations>,
-        <paash#alberta_--_inaugural_ceremonies>,
-        <paash#alberta_--_political_parties>,
-        <paash#alberta_--_politics_and_government>,
-        <paash#alberta_--_study_and_teaching_(internship)> ;
-    skos:prefLabel "Alberta"@en ;
-    skos:scopeNote "NT Relations (General) with [Name of foreign country]"@en,
-        "NT Relations (Military) with [Name of foreign country]"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#hospitals> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#hospitals_--_accounting>,
@@ -32379,6 +32357,27 @@
     skos:related <paash#red_river_resistance> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#alberta> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#alberta_--_anniversaries,_etc.>,
+        <paash#alberta_--_anniversaries,_etc._(golden_jubilee)>,
+        <paash#alberta_--_anniversaries,_etc._(seventy-fifth)>,
+        <paash#alberta_--_appropriations_and_expenditures>,
+        <paash#alberta_--_boundaries>,
+        <paash#alberta_--_centennial_celebrations,_etc.>,
+        <paash#alberta_--_civil_service>,
+        <paash#alberta_--_description_and_travel>,
+        <paash#alberta_--_executive_departments>,
+        <paash#alberta_--_foreign_relations>,
+        <paash#alberta_--_inaugural_ceremonies>,
+        <paash#alberta_--_political_parties>,
+        <paash#alberta_--_politics_and_government>,
+        <paash#alberta_--_relations_(general)_with_[name_of_foreign_country]>,
+        <paash#alberta_--_relations_(military)_with_[name_of_foreign_country]>,
+        <paash#alberta_--_study_and_teaching_(internship)> ;
+    skos:prefLabel "Alberta"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#anglican_church_of_canada> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#anglican_church_of_canada_--_baptism>,
@@ -32444,6 +32443,7 @@
         <paash#universities_and_colleges_--_students>,
         <paash#universities_and_colleges_--_taxation> ;
     skos:prefLabel "Universities and colleges"@en ;
+    skos:scopeNote "RT Names of specific colleges, universities"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#agriculture> a skos:Concept ;
@@ -32495,33 +32495,6 @@
     skos:prefLabel "Alberta Provincial Police"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#athabasca_university> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#athabasca_university_--_administration>,
-        <paash#athabasca_university_--_admission>,
-        <paash#athabasca_university_--_affiliations>,
-        <paash#athabasca_university_--_alumni>,
-        <paash#athabasca_university_--_board_of_governors>,
-        <paash#athabasca_university_--_buildings>,
-        <paash#athabasca_university_--_ceremonies,_honours_and_salutes>,
-        <paash#athabasca_university_--_convocations>,
-        <paash#athabasca_university_--_curricula>,
-        <paash#athabasca_university_--_degrees>,
-        <paash#athabasca_university_--_degrees_(honourary)>,
-        <paash#athabasca_university_--_departmental_chair>,
-        <paash#athabasca_university_--_employees>,
-        <paash#athabasca_university_--_faculty>,
-        <paash#athabasca_university_--_finance>,
-        <paash#athabasca_university_--_funds_and_scholarships>,
-        <paash#athabasca_university_--_libraries>,
-        <paash#athabasca_university_--_sports>,
-        <paash#athabasca_university_--_student_unions>,
-        <paash#athabasca_university_--_students>,
-        <paash#athabasca_university_--_taxation> ;
-    skos:prefLabel "Athabasca University"@en ;
-    skos:scopeNote "NT [Academic department names]"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#buffalo_jump> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Buffalo jump"@en ;
@@ -32548,9 +32521,37 @@
         <paash#tsuu_t'ina_nation_--_hunting> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#athabasca_university> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#athabasca_university_--_[academic_department_names]>,
+        <paash#athabasca_university_--_administration>,
+        <paash#athabasca_university_--_admission>,
+        <paash#athabasca_university_--_affiliations>,
+        <paash#athabasca_university_--_alumni>,
+        <paash#athabasca_university_--_board_of_governors>,
+        <paash#athabasca_university_--_buildings>,
+        <paash#athabasca_university_--_ceremonies,_honours_and_salutes>,
+        <paash#athabasca_university_--_convocations>,
+        <paash#athabasca_university_--_curricula>,
+        <paash#athabasca_university_--_degrees>,
+        <paash#athabasca_university_--_degrees_(honourary)>,
+        <paash#athabasca_university_--_departmental_chair>,
+        <paash#athabasca_university_--_employees>,
+        <paash#athabasca_university_--_faculty>,
+        <paash#athabasca_university_--_finance>,
+        <paash#athabasca_university_--_funds_and_scholarships>,
+        <paash#athabasca_university_--_libraries>,
+        <paash#athabasca_university_--_sports>,
+        <paash#athabasca_university_--_student_unions>,
+        <paash#athabasca_university_--_students>,
+        <paash#athabasca_university_--_taxation> ;
+    skos:prefLabel "Athabasca University"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#university_of_alberta> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#university_of_alberta_--_administration>,
+    skos:narrower <paash#university_of_alberta_--_[academic_department_names]>,
+        <paash#university_of_alberta_--_administration>,
         <paash#university_of_alberta_--_admission>,
         <paash#university_of_alberta_--_affiliations>,
         <paash#university_of_alberta_--_alumni>,
@@ -32572,7 +32573,6 @@
         <paash#university_of_alberta_--_students>,
         <paash#university_of_alberta_--_taxation> ;
     skos:prefLabel "University of Alberta"@en ;
-    skos:scopeNote "NT [Academic department names]"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
@@ -34998,7 +34998,10 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#paash> a skos:ConceptScheme ;
-    skos:hasTopConcept <paash#abduction>,
+    skos:hasTopConcept <paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located]),_e.g.,_germany.__consulate_(edmonton,_alta.)>,
+        <paash#[name_of_department],_department_of_(e.g.,_agriculture,_department_of)>,
+        <paash#[name_of_province].__department_of_[name_of_department]>,
+        <paash#abduction>,
         <paash#ableism>,
         <paash#abortion>,
         <paash#accident_investigation>,
@@ -35332,6 +35335,7 @@
         <paash#camps>,
         <paash#canada>,
         <paash#canada,_western>,
+        <paash#canada._[short_title_of_act],_e.g.,_canada.__veterans_land_act>,
         <paash#canada.__armed_forces>,
         <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army>,
@@ -35341,7 +35345,6 @@
         <paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta>,
         <paash#canada.__constitution_act_1982>,
         <paash#canada.__department_of_[name_of_department]>,
-        <paash#canada.__laws>,
         <paash#canada.__northern>,
         <paash#canada.__parliament>,
         <paash#canada.__parliament.__house_of_commons>,
@@ -35494,7 +35497,6 @@
         <paash#cold_storage>,
         <paash#cold_war,_1945-1991>,
         <paash#collection_agencies>,
-        <paash#colleges>,
         <paash#colleges_of_applied_arts_and_technology>,
         <paash#colon_(anatomy)>,
         <paash#colonialism>,
@@ -35538,7 +35540,6 @@
         <paash#construction_equipment_industry>,
         <paash#construction_industry>,
         <paash#construction_workers>,
-        <paash#consulates>,
         <paash#consultants>,
         <paash#consumer_associations>,
         <paash#consumer_credit>,
@@ -35824,7 +35825,6 @@
         <paash#european_canadians>,
         <paash#europeans>,
         <paash#euthanasia>,
-        <paash#evangelists>,
         <paash#excavating_machinery>,
         <paash#excavation>,
         <paash#executive_advisory_bodies>,
@@ -36062,8 +36062,6 @@
         <paash#government>,
         <paash#government,_resistance_to>,
         <paash#government_advertising>,
-        <paash#government_departments>,
-        <paash#government_departments_(other_provinces)>,
         <paash#government_employees>,
         <paash#government_information>,
         <paash#government_lending>,
@@ -36443,7 +36441,7 @@
         <paash#legal_services>,
         <paash#legends>,
         <paash#legislation>,
-        <paash#legislation_(name_of_act_as_titled_in_the_statutes_of_alberta)>,
+        <paash#legislation_([name_of_act_as_titled_in_the_statutes_of_alberta])>,
         <paash#legislative_assembly>,
         <paash#legislative_assembly.__official_opposition>,
         <paash#legislative_bodies>,
@@ -36597,7 +36595,6 @@
         <paash#minorities>,
         <paash#mints>,
         <paash#missing_persons>,
-        <paash#missionaries>,
         <paash#missions_and_missionaries>,
         <paash#mobile_home_industry>,
         <paash#mobile_home_parks>,
@@ -37363,7 +37360,6 @@
         <paash#starch_industry>,
         <paash#statistics>,
         <paash#statues>,
-        <paash#statutes>,
         <paash#steam_boilers>,
         <paash#steam_engineers>,
         <paash#steam_engines>,

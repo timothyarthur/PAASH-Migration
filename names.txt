@@ -156,7 +156,7 @@ Canada
 	NT Commerce--[United States, etc.]
 
 Canada.  Laws
-	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
+	USE Canada.  [Short title of Act], e.g., Canada.  Veterans Land Act
 
 Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 	USE Canada.  Canadian Forces Base, Namao, [Penhold, Wainwright, etc.]
@@ -387,7 +387,7 @@ Niitsitapi
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Numbered treaties
-	RT specific treaties
+	RT specific treaties {REMEMBER TO ENUMERATE}
 
 Ojibwa Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
@@ -420,7 +420,7 @@ Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
 Residential schools
-	RT Residential schools NT under Indigenous peoples
+	RT Residential schools NT under Indigenous peoples {(its own heading) and specific Indigenous nations ENUMERATE}
 
 Siksika Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
@@ -445,9 +445,10 @@ Synagogues
 
 Tribes
 	USE name of specific Nation or Band
+	{Enumerate explicitly defined nations}
 
 Truth and Reconciliation Commission
-	RT Residential schools NT under Indigenous peoples
+	RT Residential schools NT under Indigenous peoples {Enumerate specific}
 
 Truth and Reconciliation Commission
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools

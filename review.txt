@@ -22,7 +22,7 @@ Folk dancing, [Ukrainian, French, German, etc.]
 
 Funeral rites and ceremonies, [Class of persons or Ethnic group]
 
-Legislation (Name of Act as titled in the Statutes of Alberta)
+Legislation ([Name of Act as titled in the Statutes of Alberta])
 
 Lutherans, Danish [Swedish, etc.]
 
@@ -41,17 +41,11 @@ Agriculture, Department of
 Airlines
 	RT names of airlines
 
-Alberta
-	NT Relations (General) with [Name of foreign country]
-
-Alberta
-	NT Relations (Military) with [Name of foreign country]
-
 Aldermen
 	USE City Councillors under names of cities
 
 Altars
-	USE Name of religion -- Buildings -- Altars
+	USE [name of religion] -- Buildings -- Altars
 
 Apartments
 	RT subdivision Apartments under names of communities
@@ -64,9 +58,6 @@ Assiniboine Nation
 
 Associations, institutions, etc.
 	RT specific names of associations.
-
-Athabasca University
-	NT [Academic department names]
 
 Baptism
 	USE as NT under specific religion
@@ -104,9 +95,6 @@ Buildings
 By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
 
-Canada.  Laws
-	USE Canada. [Short title of the Act], e.g., Canada.  Veterans Land Act
-
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
 
@@ -125,14 +113,8 @@ City councils
 City councils
 	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
-Colleges
-	RT Names of specific colleges, universities
-
 Commissions (of inquiry)
 	USE Names of specific commissions
-
-Consulates
-	USE [Name of Country].  Consulate (name of city where consulate is located), e.g., Germany.  Consulate (Edmonton, Alta.)
 
 Convents
 	USE as NT under specific sect or religion.
@@ -182,9 +164,6 @@ Entertainment
 Epidemics
 	RT names of specific diseases, e.g. Diphtheria
 
-Evangelists
-	USE Missionaries subdivision under specific religion or sect
-
 Exhibitions
 	RT names of exhibitions
 
@@ -210,7 +189,7 @@ Floods
 	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods
 
 Food
-	RT subdivision Food under subjects, e.g., Birds -- Foods,
+	RT subdivision Food under subjects, e.g., Birds -- Food,
 
 Football
 	RT names of leagues and teams
@@ -223,12 +202,6 @@ Fraternal benefit societies
 
 Game and game birds
 	RT under names of specific animals and birds, e.g., Deer, Grouse, Rabbits, etc.
-
-Government departments
-	USE [name of department], Department of (e.g., Agriculture, Department of)
-
-Government departments (Other provinces)
-	USE e.g., Saskatchewan.  Department of [name of department]
 
 Government employees
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
@@ -262,9 +235,6 @@ Kutenai Nation
 
 Laboratories
 	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
-
-Legislation
-	RT Legislation ([Name of Act as titled in the Statutes of Alberta])
 
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
@@ -332,9 +302,6 @@ Sports facilities
 Stadiums
 	RT subdivision Sports facilities under names of communities.
 
-Statutes
-	USE Legislation (Name of Act as titled in Statutes of Alberta)
-
 Synagogues
 	RT subdivision Synagogues under names of communities
 
@@ -350,8 +317,8 @@ Truth and Reconciliation Commission
 Tsuu T'ina Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
-University of Alberta
-	NT [Academic department names]
+Universities and colleges
+	RT Names of specific colleges, universities
 
 Vocational colleges
 	RT names of particular institutions

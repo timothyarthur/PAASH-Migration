@@ -20,7 +20,8 @@ scheme_uri = paash['paash']
 g.add((scheme_uri, RDF.type, SKOS.ConceptScheme))
 g.add((scheme_uri, SKOS.prefLabel, Literal(scheme_label, lang='en')))
 
-count = 0
+concept_count = 0
+review_count = 0
 
 def get_uri(label):
 	uri = g.value(None, SKOS.prefLabel, Literal(label, lang='en'), any=False)
@@ -35,9 +36,9 @@ def gen_uri(label):
 	return uri
 
 def gen_num_uri(uri):
-	global count
-	count += 1
-	uri = paash[f'sh{count:06d}']
+	global concept_count
+	concept_count += 1
+	uri = paash[f'sh{concept_count:06d}']
 	return uri
 
 # Returns the preferred label for URIs already in the graph
@@ -53,10 +54,12 @@ def flag_for_review(item, flags):
 
 # Formats and appends line to review list
 def add_review(item_label, parent_label=None):
+	global review_count
 	if parent_label == None:
 		lines_to_review.append(f'{item_label}\n\n')
 	else:
 		lines_to_review.append(f'{parent_label}\n\t{item_label}\n\n')
+	review_count +=1
 
 #Removes relational prefix from label
 def clean_label(label, note=False):
@@ -375,3 +378,5 @@ else:
 
 with open(review_file_name, 'w') as review_file:
 	review_file.writelines(lines_to_review)
+
+print(f'{review_count} concepts flagged for review and written to {review_file_name}')
