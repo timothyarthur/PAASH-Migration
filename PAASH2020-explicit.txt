@@ -347,7 +347,7 @@ Alberta Social Credit Party
 Alcohol
 	NT Laws and legislation
 	NT Taxation
-	RT Liquor traffic
+	NT Industry
 		For general works on the liquor industry
 
 Alcoholism
@@ -376,7 +376,6 @@ Alternative religious movements
 	UF Cults
 
 Amateur radio stations
-	UF Ham radio
 	USE Radio -- Amateur radio stations
 
 Ambrotype
@@ -447,7 +446,7 @@ Animal shelters
 	UF Pounds
 
 Animal traps
-	USE Trapping and trappers
+	USE Trappers and trapping
 
 Animals
 	NT Diseases
@@ -1406,7 +1405,7 @@ Cabins
 
 Cable cars
 
-Cabooses (Railroads)
+Cabooses (Railways)
 
 Cadavers
 	UF Corpses
@@ -2313,8 +2312,7 @@ Clocks and watches
 
 Clothing and dress
 	RT Children's clothing
-	RT Men's clothing
-	RT Women's clothing
+	RT Costume
 
 Clothing stores
 	USE Stores, Retail -- Clothing
@@ -2606,7 +2604,7 @@ Cookies
 Cooks
 
 Coolie labour
-	USE Railroads -- Construction workers
+	USE Railways -- Construction workers
 
 Cooperative Commonwealth Federation
 	NT Conventions
@@ -2678,7 +2676,7 @@ Counterfeits and counterfeiting
 
 Counties
 	RT Local government
-	Municipal Affairs, Department of
+	RT Municipal Affairs, Department of
 	For names of particular counties use the following format:  Parkland, County of
 
 Country clubs
@@ -3099,7 +3097,6 @@ Daguerreotype
 
 Dairies
 	USE Dairy plants
-	RT Dairy farming
 
 Dairy farming
 	NT Cooperative
@@ -3108,6 +3105,7 @@ Dairy farming
 	RT Dairy plants
 
 Dairy plants
+	RT Dairy farming
 
 Dairy products
 	NT Marketing
@@ -4134,7 +4132,7 @@ Entertaining
 
 Entertainment
 	USE specific form of entertainment
-	USE Amusements subdivision under names of communities
+	USE Entertaining and entertainment subdivision under names of communities
 
 Entrepreneurship
 
@@ -4196,6 +4194,7 @@ Euthanasia
 
 Evangelists
 	USE Missions and missionaries
+	USE Missions and missionaries subdivision under specific religion or sect
 
 Excavating machinery
 
@@ -4776,7 +4775,7 @@ Freemen-on-the-land
 Freight and freightage
 
 Freight cars
-	USE Railroads -- Freight cars
+	USE Railways -- Freight cars
 
 Freighters
 	USE Cargo ships
@@ -4825,7 +4824,7 @@ Fur garments
 Fur presses
 
 Fur trade
-	RT Trapping and trappers
+	RT Trappers and trapping
 
 Fur traders
 	RT Voyageurs
@@ -5263,7 +5262,7 @@ Halls
 	RT subdivision Auditoriums, convention facilities, etc. under names of communities
 
 Ham radio
-	USE Amateur radio stations
+	USE Radio -- Amateur radio stations
 
 Hamlets
 	RT Municipal Affairs, Department of Municipal government
@@ -5276,7 +5275,8 @@ Handball
 Handcars
 
 Handicapped
-	USE Disabled
+	USE Mentally disabled
+	USE Physically disabled
 
 Handicraft
 
@@ -6810,7 +6810,7 @@ Lunatic asylums
 	USE Psychiatric hospitals
 
 Lunatics
-	USE Mentally ill
+	USE Mental health
 
 Lunch rooms
 	USE Restaurants, lunch rooms, etc.
@@ -7000,7 +7000,9 @@ Mental illness
 Mennonites
 	RT Agriculture -- Colonies
 
-Men's clothing
+Men’s clothing
+	USE Clothing and dress
+	USE Costume
 
 Mental health
 	NT Anxiety
@@ -7199,7 +7201,7 @@ Mines and mining
 	NT Inspections
 	NT Leases
 	NT Laws and legislation
-	NT Railroads
+	NT Railways
 	NT Rescue work
 	NT Safety
 	NT Sanitation
@@ -7588,7 +7590,7 @@ Natural gas
 	NT Geology
 	NT Law and legislation
 	NT Leases
-	NT Pipe lines
+	NT Pipelines
 	NT Reserves
 	NT Storage
 	NT Taxation
@@ -7871,8 +7873,8 @@ Oil fires
 Oil industry and trade
 	RT Petroleum industry and trade
 
-Oil pipe lines
-	RT Petroleum -- Pipe lines
+Oil pipelines
+	RT Petroleum -- Pipelines
 
 Oil refineries
 
@@ -8168,7 +8170,7 @@ Partnership
 Partridges
 
 Passenger lists
-	USE Railroads -- Passenger lists
+	USE Railways -- Passenger lists
 	USE Ships -- Passenger lists
 
 Pasta
@@ -8860,7 +8862,7 @@ Psychiatric hospitals
 Psychiatric nursing
 
 Psychiatric patients
-	RT Mentally ill
+	RT Mental health
 
 Psychiatrists
 
@@ -9268,7 +9270,8 @@ Retirement homes
 	RT Assisted-living facilities
 
 Retirement income
-	RT Pensions, Old age pensions
+	RT Pensions
+	RT Old age pensions
 
 Retreats
 
@@ -10318,7 +10321,7 @@ Stoves
 Street cars
 	USE Street railways
 	USE Cable cars
-	USE Electric railroads
+	USE Electric railways
 
 Street cleaning
 
@@ -10426,7 +10429,7 @@ Sundials
 Sunflowers
 
 Surety and fidelity insurance
-	USE Insurance, Surety and fidelity
+	USE Insurance -- Surety and fidelity
 
 Surface rights
 	USE Land tenure -- Law and legislation
@@ -10511,7 +10514,7 @@ Tar sand
 
 Targets (Shooting)
 
-Tariff
+Tariffs
 
 Tattoos and tattooing
 
@@ -10788,7 +10791,7 @@ Transsexual
 	RT Transgender
 
 Trappers and trapping
-	UF Animals traps
+	UF Animal traps
 	RT Fur trade
 	RT Hunting
 
@@ -11281,7 +11284,7 @@ Warble flies
 
 Warehouses
 
-Warrants, Law
+Warrants (Law)
 
 Washing
 	USE Laundry
