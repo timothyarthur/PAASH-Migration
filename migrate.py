@@ -116,7 +116,7 @@ def construct_subheading(item, parent, check_flags = True):
 			uri = construct_nt(item, parent)
 
 	elif item.startswith('RT'):
-		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'USE', 'specific']
+		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'USE', 'specific', 'types']
 		if flag_for_review(item, review_flags) and check_flags and not get_uri(clean_label(item)):
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)

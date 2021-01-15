@@ -242,6 +242,9 @@ Kutenai Nation
 Laboratories
 	RT subdivision Laboratories under names of communities
 
+Laboratories
+	RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
+
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
 

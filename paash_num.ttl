@@ -15325,6 +15325,13 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Kutenai Nation -- Youth"@en .
 
+<paash#sh003384> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Laboratories"@en ;
+    skos:scopeNote "RT subdivision Laboratories under names of communities"@en,
+        "RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#sh003385> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Laboratory animals"@en ;
@@ -25807,620 +25814,620 @@
     skos:prefLabel "Two-spirit"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005697> a skos:Concept ;
+<paash#sh005696> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Typesetting"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005698> a skos:Concept ;
+<paash#sh005697> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Typewriters"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005699> a skos:Concept ;
+<paash#sh005698> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Typewriting"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005700> a skos:Concept ;
+<paash#sh005699> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Typhoid fever"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005702> a skos:Concept ;
+<paash#sh005701> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ukrainian language"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005704> a skos:Concept ;
+<paash#sh005703> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Underpasses"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005706> a skos:Concept ;
+<paash#sh005705> a skos:Concept ;
     skos:altLabel "Aliens, Illegal"@en,
         "Illegal aliens"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Undocumented immigrants"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005708> a skos:Concept ;
-    skos:broader <paash#sh005707> ;
+<paash#sh005707> a skos:Concept ;
+    skos:broader <paash#sh005706> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Unemployment -- Seasonal"@en .
 
-<paash#sh005709> a skos:Concept ;
+<paash#sh005708> a skos:Concept ;
     skos:altLabel "Flying saucers"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Unidentified flying objects"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005710> a skos:Concept ;
+<paash#sh005709> a skos:Concept ;
     skos:altLabel "Soviet Union"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Union of Soviet Socialist Republics"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005711> a skos:Concept ;
+<paash#sh005710> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Unitarian Universalist churches"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005713> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005712> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Buildings"@en .
 
-<paash#sh005714> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005713> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Clergy"@en .
 
-<paash#sh005715> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005714> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Conferences"@en .
 
-<paash#sh005716> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005715> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Customs and practices"@en .
 
-<paash#sh005717> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005716> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Finance"@en .
 
-<paash#sh005718> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005717> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Government"@en .
 
-<paash#sh005719> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005718> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- History"@en .
 
-<paash#sh005720> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005719> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Missions"@en .
 
-<paash#sh005721> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005720> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Religious education"@en .
 
-<paash#sh005722> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005721> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Residential schools"@en .
 
-<paash#sh005723> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005722> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Rites and ceremonies"@en .
 
-<paash#sh005724> a skos:Concept ;
-    skos:broader <paash#sh005712> ;
+<paash#sh005723> a skos:Concept ;
+    skos:broader <paash#sh005711> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Church of Canada -- Societies, etc."@en .
 
-<paash#sh005726> a skos:Concept ;
-    skos:broader <paash#sh005725> ;
+<paash#sh005725> a skos:Concept ;
+    skos:broader <paash#sh005724> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Conservative Party -- Conventions"@en .
 
-<paash#sh005727> a skos:Concept ;
-    skos:broader <paash#sh005725> ;
+<paash#sh005726> a skos:Concept ;
+    skos:broader <paash#sh005724> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Conservative Party -- Election campaigns"@en .
 
-<paash#sh005728> a skos:Concept ;
-    skos:broader <paash#sh005725> ;
+<paash#sh005727> a skos:Concept ;
+    skos:broader <paash#sh005724> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Conservative Party -- Finance"@en .
 
-<paash#sh005729> a skos:Concept ;
-    skos:broader <paash#sh005725> ;
+<paash#sh005728> a skos:Concept ;
+    skos:broader <paash#sh005724> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Conservative Party -- History"@en .
 
-<paash#sh005730> a skos:Concept ;
-    skos:broader <paash#sh005725> ;
+<paash#sh005729> a skos:Concept ;
+    skos:broader <paash#sh005724> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Conservative Party -- Membership"@en .
 
-<paash#sh005731> a skos:Concept ;
+<paash#sh005730> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (agricultural supply cooperative)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005733> a skos:Concept ;
-    skos:broader <paash#sh005732> ;
+<paash#sh005732> a skos:Concept ;
+    skos:broader <paash#sh005731> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (political party) -- Conventions"@en .
 
-<paash#sh005734> a skos:Concept ;
-    skos:broader <paash#sh005732> ;
+<paash#sh005733> a skos:Concept ;
+    skos:broader <paash#sh005731> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (political party) -- Election campaigns"@en .
 
-<paash#sh005735> a skos:Concept ;
-    skos:broader <paash#sh005732> ;
+<paash#sh005734> a skos:Concept ;
+    skos:broader <paash#sh005731> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (political party) -- Finance"@en .
 
-<paash#sh005736> a skos:Concept ;
-    skos:broader <paash#sh005732> ;
+<paash#sh005735> a skos:Concept ;
+    skos:broader <paash#sh005731> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (political party) -- History"@en .
 
-<paash#sh005737> a skos:Concept ;
-    skos:broader <paash#sh005732> ;
+<paash#sh005736> a skos:Concept ;
+    skos:broader <paash#sh005731> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United Farmers of Alberta (political party) -- Membership"@en .
 
-<paash#sh005739> a skos:Concept ;
+<paash#sh005738> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America.  Air Force"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005740> a skos:Concept ;
+<paash#sh005739> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America.  Army"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005741> a skos:Concept ;
+<paash#sh005740> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America.  Marine Corps"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005742> a skos:Concept ;
+<paash#sh005741> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America.  Navy"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005743> a skos:Concept ;
-    skos:broader <paash#sh005738> ;
+<paash#sh005742> a skos:Concept ;
+    skos:broader <paash#sh005737> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America -- Relations (general) with Alberta"@en .
 
-<paash#sh005744> a skos:Concept ;
-    skos:broader <paash#sh005738> ;
+<paash#sh005743> a skos:Concept ;
+    skos:broader <paash#sh005737> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "United States of America -- Relations (military) with Alberta"@en .
 
-<paash#sh005746> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005745> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Administration"@en .
 
-<paash#sh005747> a skos:Concept ;
+<paash#sh005746> a skos:Concept ;
     skos:altLabel "College buildings"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Buildings"@en .
 
-<paash#sh005748> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005747> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Curricula"@en .
 
-<paash#sh005749> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005748> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Employees"@en .
 
-<paash#sh005750> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005749> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Entrance requirements"@en .
 
-<paash#sh005751> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005750> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Examinations"@en .
 
-<paash#sh005752> a skos:Concept ;
+<paash#sh005751> a skos:Concept ;
     skos:altLabel "College teachers"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Faculty"@en .
 
-<paash#sh005753> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005752> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Finance"@en .
 
-<paash#sh005754> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005753> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- History"@en .
 
-<paash#sh005755> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005754> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Law and legislation"@en .
 
-<paash#sh005756> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005755> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Planning"@en .
 
-<paash#sh005757> a skos:Concept ;
+<paash#sh005756> a skos:Concept ;
     skos:altLabel "Christian colleges"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Religious"@en .
 
-<paash#sh005758> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005757> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Religious schools"@en .
 
-<paash#sh005759> a skos:Concept ;
+<paash#sh005758> a skos:Concept ;
     skos:altLabel "Campus police"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Security"@en .
 
-<paash#sh005760> a skos:Concept ;
+<paash#sh005759> a skos:Concept ;
     skos:altLabel "College sports"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Sports"@en .
 
-<paash#sh005761> a skos:Concept ;
+<paash#sh005760> a skos:Concept ;
     skos:altLabel "College students"@en ;
-    skos:broader <paash#sh005745> ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Students"@en .
 
-<paash#sh005762> a skos:Concept ;
-    skos:broader <paash#sh005745> ;
+<paash#sh005761> a skos:Concept ;
+    skos:broader <paash#sh005744> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Taxation"@en .
 
-<paash#sh005764> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005763> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- [Academic department names]"@en .
 
-<paash#sh005765> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005764> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Administration"@en .
 
-<paash#sh005766> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005765> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Admission"@en .
 
-<paash#sh005767> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005766> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Affiliations"@en .
 
-<paash#sh005768> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005767> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Alumni"@en .
 
-<paash#sh005769> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005768> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Board of Governors"@en .
 
-<paash#sh005770> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005769> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Buildings"@en .
 
-<paash#sh005771> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005770> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Ceremonies, honours and salutes"@en .
 
-<paash#sh005772> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005771> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Convocations"@en .
 
-<paash#sh005773> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005772> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Curricula"@en .
 
-<paash#sh005774> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005773> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Degrees"@en .
 
-<paash#sh005775> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005774> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Degrees (Honourary)"@en .
 
-<paash#sh005776> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005775> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Departmental chair"@en .
 
-<paash#sh005777> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005776> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Employees"@en .
 
-<paash#sh005778> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005777> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Faculty"@en .
 
-<paash#sh005779> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005778> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Finance"@en .
 
-<paash#sh005780> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005779> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Funds and scholarships"@en .
 
-<paash#sh005781> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005780> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Libraries"@en .
 
-<paash#sh005782> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005781> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Sports"@en .
 
-<paash#sh005783> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005782> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Student unions"@en .
 
-<paash#sh005784> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005783> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Students"@en .
 
-<paash#sh005785> a skos:Concept ;
-    skos:broader <paash#sh005763> ;
+<paash#sh005784> a skos:Concept ;
+    skos:broader <paash#sh005762> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Taxation"@en .
 
-<paash#sh005786> a skos:Concept ;
+<paash#sh005785> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Uranium"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005787> a skos:Concept ;
+<paash#sh005786> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Uranium industry"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005788> a skos:Concept ;
+<paash#sh005787> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Uranium mines and mining"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005789> a skos:Concept ;
+<paash#sh005788> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Urban development"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005790> a skos:Concept ;
+<paash#sh005789> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Urban planning"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005791> a skos:Concept ;
+<paash#sh005790> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Urban renewal"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005792> a skos:Concept ;
+<paash#sh005791> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Urban transportation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005793> a skos:Concept ;
+<paash#sh005792> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Urbanization"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005794> a skos:Concept ;
+<paash#sh005793> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Usury"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005795> a skos:Concept ;
+<paash#sh005794> a skos:Concept ;
     skos:altLabel "Cabins"@en,
         "Summer homes"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vacation homes"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005796> a skos:Concept ;
+<paash#sh005795> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vacuum cleaners"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005798> a skos:Concept ;
+<paash#sh005797> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Valleys"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005799> a skos:Concept ;
+<paash#sh005798> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vandalism"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005801> a skos:Concept ;
+<paash#sh005800> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vegetable trade"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005803> a skos:Concept ;
-    skos:broader <paash#sh005802> ;
+<paash#sh005802> a skos:Concept ;
+    skos:broader <paash#sh005801> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vegetables -- Exhibitions"@en .
 
-<paash#sh005804> a skos:Concept ;
-    skos:broader <paash#sh005802> ;
+<paash#sh005803> a skos:Concept ;
+    skos:broader <paash#sh005801> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vegetables -- Marketing"@en .
 
-<paash#sh005805> a skos:Concept ;
+<paash#sh005804> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vending machines"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005806> a skos:Concept ;
+<paash#sh005805> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Venture capital"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005807> a skos:Concept ;
+<paash#sh005806> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Veterans"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005808> a skos:Concept ;
+<paash#sh005807> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Veterinarians"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005810> a skos:Concept ;
+<paash#sh005809> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Victoria Day"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005811> a skos:Concept ;
+<paash#sh005810> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Video games"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005813> a skos:Concept ;
-    skos:broader <paash#sh005812> ;
+<paash#sh005812> a skos:Concept ;
+    skos:broader <paash#sh005811> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Video recording -- Production and direction"@en .
 
-<paash#sh005814> a skos:Concept ;
-    skos:broader <paash#sh005812> ;
+<paash#sh005813> a skos:Concept ;
+    skos:broader <paash#sh005811> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Video recording -- Recorders"@en .
 
-<paash#sh005815> a skos:Concept ;
+<paash#sh005814> a skos:Concept ;
     skos:altLabel "Video tape recorders and recording"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Video tape recorders"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005816> a skos:Concept ;
+<paash#sh005815> a skos:Concept ;
     skos:altLabel "Video tape recorders and recording"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Videocassette recorders"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005817> a skos:Concept ;
+<paash#sh005816> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vietnam War, 1961-1975"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005818> a skos:Concept ;
+<paash#sh005817> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vietnamese"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005819> a skos:Concept ;
+<paash#sh005818> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vietnamese Canadians"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005822> a skos:Concept ;
+<paash#sh005821> a skos:Concept ;
     skos:altLabel "Fiddle"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Violin"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005823> a skos:Concept ;
+<paash#sh005822> a skos:Concept ;
     skos:altLabel "Royal visits"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Visits of state"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005824> a skos:Concept ;
+<paash#sh005823> a skos:Concept ;
     skos:altLabel "Blindness"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Visual impairment"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005825> a skos:Concept ;
+<paash#sh005824> a skos:Concept ;
     skos:altLabel "Blind"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Visually impaired"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005826> a skos:Concept ;
+<paash#sh005825> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vital statistics"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005827> a skos:Concept ;
+<paash#sh005826> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vocational centres"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005830> a skos:Concept ;
+<paash#sh005829> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vocational rehabilitation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005831> a skos:Concept ;
+<paash#sh005830> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Volcanic ash, tuff, etc."@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005832> a skos:Concept ;
+<paash#sh005831> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Volleyball"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005833> a skos:Concept ;
+<paash#sh005832> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Volunteerism and volunteers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005835> a skos:Concept ;
+<paash#sh005834> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Voyages and travel"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005837> a skos:Concept ;
+<paash#sh005836> a skos:Concept ;
     skos:altLabel "Covered wagons"@en,
         "Delivery wagons"@en,
         "Drays"@en ;
@@ -26428,66 +26435,66 @@
     skos:prefLabel "Wagons"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005838> a skos:Concept ;
+<paash#sh005837> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wallpaper"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005839> a skos:Concept ;
+<paash#sh005838> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Walls"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005840> a skos:Concept ;
+<paash#sh005839> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Walruses"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005841> a skos:Concept ;
+<paash#sh005840> a skos:Concept ;
     skos:altLabel "Cenotaphs"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "War memorials"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005842> a skos:Concept ;
+<paash#sh005841> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Warble flies"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005843> a skos:Concept ;
+<paash#sh005842> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Warehouses"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005844> a skos:Concept ;
+<paash#sh005843> a skos:Concept ;
     skos:altLabel "Search Warrants"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Warrants (Law)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005845> a skos:Concept ;
+<paash#sh005844> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Washing machines"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005846> a skos:Concept ;
+<paash#sh005845> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Washstands"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005847> a skos:Concept ;
+<paash#sh005846> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Waste disposal sites"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005848> a skos:Concept ;
+<paash#sh005847> a skos:Concept ;
     skos:altLabel "Paper recycling"@en,
         "Waste Disposal"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Waste paper"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005849> a skos:Concept ;
+<paash#sh005848> a skos:Concept ;
     skos:altLabel "Waste Disposal"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Waste products"@en ;
@@ -26495,237 +26502,237 @@
         "RT subdivision Waste disposal under plants, industries, etc.,"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005851> a skos:Concept ;
+<paash#sh005850> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water, Underground"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005852> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005851> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Conservation"@en .
 
-<paash#sh005853> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005852> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Divining and diviners"@en .
 
-<paash#sh005854> a skos:Concept ;
+<paash#sh005853> a skos:Concept ;
     skos:altLabel "Fluoridation of water"@en ;
-    skos:broader <paash#sh005850> ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Fluoridation"@en .
 
-<paash#sh005855> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005854> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Law and legislation"@en .
 
-<paash#sh005856> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005855> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Pipes"@en .
 
-<paash#sh005857> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005856> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Pollution"@en .
 
-<paash#sh005858> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005857> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Purification"@en .
 
-<paash#sh005859> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005858> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Reuse"@en .
 
-<paash#sh005860> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005859> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Rights"@en .
 
-<paash#sh005861> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005860> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Storage"@en .
 
-<paash#sh005862> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005861> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Supply"@en .
 
-<paash#sh005863> a skos:Concept ;
-    skos:broader <paash#sh005850> ;
+<paash#sh005862> a skos:Concept ;
+    skos:broader <paash#sh005849> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water -- Towers"@en .
 
-<paash#sh005864> a skos:Concept ;
+<paash#sh005863> a skos:Concept ;
     skos:altLabel "Conservation"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water conservation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005865> a skos:Concept ;
+<paash#sh005864> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water polo"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005866> a skos:Concept ;
+<paash#sh005865> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water quality"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005867> a skos:Concept ;
+<paash#sh005866> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water resources development"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005869> a skos:Concept ;
+<paash#sh005868> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Waterfalls"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005870> a skos:Concept ;
+<paash#sh005869> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Watermelons"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005871> a skos:Concept ;
+<paash#sh005870> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Watershed management"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005874> a skos:Concept ;
-    skos:broader <paash#sh005873> ;
+<paash#sh005873> a skos:Concept ;
+    skos:broader <paash#sh005872> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weather -- Acid precipitation"@en .
 
-<paash#sh005875> a skos:Concept ;
+<paash#sh005874> a skos:Concept ;
     skos:altLabel "Acid precipitation"@en ;
-    skos:broader <paash#sh005873> ;
+    skos:broader <paash#sh005872> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weather -- Acid rain"@en .
 
-<paash#sh005876> a skos:Concept ;
-    skos:broader <paash#sh005873> ;
+<paash#sh005875> a skos:Concept ;
+    skos:broader <paash#sh005872> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weather -- Control"@en .
 
-<paash#sh005877> a skos:Concept ;
-    skos:broader <paash#sh005873> ;
+<paash#sh005876> a skos:Concept ;
+    skos:broader <paash#sh005872> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weather -- Forecasting"@en .
 
-<paash#sh005878> a skos:Concept ;
+<paash#sh005877> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weaving"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005879> a skos:Concept ;
+<paash#sh005878> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weddings"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005881> a skos:Concept ;
-    skos:broader <paash#sh005880> ;
+<paash#sh005880> a skos:Concept ;
+    skos:broader <paash#sh005879> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weeds -- Control"@en .
 
-<paash#sh005883> a skos:Concept ;
+<paash#sh005882> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Welders and welding"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005884> a skos:Concept ;
+<paash#sh005883> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Well drillers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005885> a skos:Concept ;
+<paash#sh005884> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wells"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005886> a skos:Concept ;
+<paash#sh005885> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Welsh"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005887> a skos:Concept ;
+<paash#sh005886> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Welsh Canadians"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005888> a skos:Concept ;
+<paash#sh005887> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "West Indian Canadians"@en ;
     skos:scopeNote "Use specific nation when possible."@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005889> a skos:Concept ;
+<paash#sh005888> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "West Indians"@en ;
     skos:scopeNote "Use specific nation when possible."@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005891> a skos:Concept ;
-    skos:broader <paash#sh005890> ;
+<paash#sh005890> a skos:Concept ;
+    skos:broader <paash#sh005889> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Canada Concept -- Conventions"@en .
 
-<paash#sh005892> a skos:Concept ;
-    skos:broader <paash#sh005890> ;
+<paash#sh005891> a skos:Concept ;
+    skos:broader <paash#sh005889> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Canada Concept -- Election campaigns"@en .
 
-<paash#sh005893> a skos:Concept ;
-    skos:broader <paash#sh005890> ;
+<paash#sh005892> a skos:Concept ;
+    skos:broader <paash#sh005889> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Canada Concept -- Finance"@en .
 
-<paash#sh005894> a skos:Concept ;
-    skos:broader <paash#sh005890> ;
+<paash#sh005893> a skos:Concept ;
+    skos:broader <paash#sh005889> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Canada Concept -- History"@en .
 
-<paash#sh005895> a skos:Concept ;
-    skos:broader <paash#sh005890> ;
+<paash#sh005894> a skos:Concept ;
+    skos:broader <paash#sh005889> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Canada Concept -- Membership"@en .
 
-<paash#sh005896> a skos:Concept ;
+<paash#sh005895> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Cree Tribal Council"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005898> a skos:Concept ;
-    skos:broader <paash#sh005897> ;
+<paash#sh005897> a skos:Concept ;
+    skos:broader <paash#sh005896> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Independence Party -- Conventions"@en .
 
-<paash#sh005899> a skos:Concept ;
-    skos:broader <paash#sh005897> ;
+<paash#sh005898> a skos:Concept ;
+    skos:broader <paash#sh005896> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Independence Party -- Election campaigns"@en .
 
-<paash#sh005900> a skos:Concept ;
-    skos:broader <paash#sh005897> ;
+<paash#sh005899> a skos:Concept ;
+    skos:broader <paash#sh005896> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Independence Party -- Finance"@en .
 
-<paash#sh005901> a skos:Concept ;
-    skos:broader <paash#sh005897> ;
+<paash#sh005900> a skos:Concept ;
+    skos:broader <paash#sh005896> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Independence Party -- History"@en .
 
-<paash#sh005902> a skos:Concept ;
-    skos:broader <paash#sh005897> ;
+<paash#sh005901> a skos:Concept ;
+    skos:broader <paash#sh005896> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Western Independence Party -- Membership"@en .
 
-<paash#sh005903> a skos:Concept ;
+<paash#sh005902> a skos:Concept ;
     skos:altLabel "Marshes"@en,
         "Sloughs"@en,
         "Swamps"@en ;
@@ -26733,337 +26740,337 @@
     skos:prefLabel "Wetlands"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005904> a skos:Concept ;
+<paash#sh005903> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Whales"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005906> a skos:Concept ;
+<paash#sh005905> a skos:Concept ;
     skos:altLabel "Wheat pools"@en ;
-    skos:broader <paash#sh005905> ;
+    skos:broader <paash#sh005904> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wheat -- Cooperative marketing"@en .
 
-<paash#sh005907> a skos:Concept ;
-    skos:broader <paash#sh005905> ;
+<paash#sh005906> a skos:Concept ;
+    skos:broader <paash#sh005904> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wheat -- Marketing"@en .
 
-<paash#sh005908> a skos:Concept ;
+<paash#sh005907> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wheelchairs"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005909> a skos:Concept ;
+<paash#sh005908> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wheels"@en ;
     skos:scopeNote "RT subdivision Wheels under types of land vehicles, e.g., Automobiles -- Wheels"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005911> a skos:Concept ;
+<paash#sh005910> a skos:Concept ;
     skos:altLabel "Stores, Wholesale"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wholesale trade"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005912> a skos:Concept ;
+<paash#sh005911> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Whooping cough"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005913> a skos:Concept ;
+<paash#sh005912> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Whooping crane"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005914> a skos:Concept ;
+<paash#sh005913> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Widows and widowers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005915> a skos:Concept ;
+<paash#sh005914> a skos:Concept ;
     skos:altLabel "Survival"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wilderness survival"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005916> a skos:Concept ;
+<paash#sh005915> a skos:Concept ;
     skos:altLabel "Conservation"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildlife conservation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005917> a skos:Concept ;
+<paash#sh005916> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildlife management"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005919> a skos:Concept ;
-    skos:broader <paash#sh005918> ;
+<paash#sh005918> a skos:Concept ;
+    skos:broader <paash#sh005917> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildrose Party -- Conventions"@en .
 
-<paash#sh005920> a skos:Concept ;
-    skos:broader <paash#sh005918> ;
+<paash#sh005919> a skos:Concept ;
+    skos:broader <paash#sh005917> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildrose Party -- Election campaigns"@en .
 
-<paash#sh005921> a skos:Concept ;
-    skos:broader <paash#sh005918> ;
+<paash#sh005920> a skos:Concept ;
+    skos:broader <paash#sh005917> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildrose Party -- Finance"@en .
 
-<paash#sh005922> a skos:Concept ;
-    skos:broader <paash#sh005918> ;
+<paash#sh005921> a skos:Concept ;
+    skos:broader <paash#sh005917> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildrose Party -- History"@en .
 
-<paash#sh005923> a skos:Concept ;
-    skos:broader <paash#sh005918> ;
+<paash#sh005922> a skos:Concept ;
+    skos:broader <paash#sh005917> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wildrose Party -- Membership"@en .
 
-<paash#sh005924> a skos:Concept ;
+<paash#sh005923> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wills"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005926> a skos:Concept ;
+<paash#sh005925> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wind erosion"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005929> a skos:Concept ;
+<paash#sh005928> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Windmills"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005930> a skos:Concept ;
+<paash#sh005929> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Windows"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005934> a skos:Concept ;
+<paash#sh005933> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Winter"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005935> a skos:Concept ;
+<paash#sh005934> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Winter sports"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005936> a skos:Concept ;
+<paash#sh005935> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wolves"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005938> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005937> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Education"@en .
 
-<paash#sh005939> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005938> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Employment"@en .
 
-<paash#sh005940> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005939> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Legal status, laws, etc."@en .
 
-<paash#sh005941> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005940> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Religious life"@en .
 
-<paash#sh005942> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005941> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Residences"@en .
 
-<paash#sh005943> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005942> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Rights"@en .
 
-<paash#sh005944> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005943> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Societies and clubs"@en .
 
-<paash#sh005945> a skos:Concept ;
-    skos:broader <paash#sh005937> ;
+<paash#sh005944> a skos:Concept ;
+    skos:broader <paash#sh005936> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Women -- Suffrage"@en .
 
-<paash#sh005946> a skos:Concept ;
+<paash#sh005945> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wood"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005947> a skos:Concept ;
+<paash#sh005946> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wood pulp"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005949> a skos:Concept ;
+<paash#sh005948> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Woodworkers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005950> a skos:Concept ;
+<paash#sh005949> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Woodworking industries"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005951> a skos:Concept ;
+<paash#sh005950> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Woodworking machinery"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005952> a skos:Concept ;
+<paash#sh005951> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wool"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005953> a skos:Concept ;
+<paash#sh005952> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wool industry"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005954> a skos:Concept ;
+<paash#sh005953> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Woollen and worsted manufacture"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005955> a skos:Concept ;
+<paash#sh005954> a skos:Concept ;
     skos:altLabel "Labour camps"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Work camps"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005956> a skos:Concept ;
+<paash#sh005955> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Work environment"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005957> a skos:Concept ;
+<paash#sh005956> a skos:Concept ;
     skos:altLabel "Workmen's compensation"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Workers' compensation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005958> a skos:Concept ;
+<paash#sh005957> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "World War, 1914-1918"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005959> a skos:Concept ;
+<paash#sh005958> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "World War, 1939-1945"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005960> a skos:Concept ;
+<paash#sh005959> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Worms"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005961> a skos:Concept ;
+<paash#sh005960> a skos:Concept ;
     skos:altLabel "Demolition"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wrecking"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005963> a skos:Concept ;
+<paash#sh005962> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Writs of execution"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005964> a skos:Concept ;
+<paash#sh005963> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Written communication"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005966> a skos:Concept ;
-    skos:broader <paash#sh005965> ;
+<paash#sh005965> a skos:Concept ;
+    skos:broader <paash#sh005964> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "X-rays -- Equipment and supplies"@en .
 
-<paash#sh005967> a skos:Concept ;
-    skos:broader <paash#sh005965> ;
+<paash#sh005966> a skos:Concept ;
+    skos:broader <paash#sh005964> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "X-rays -- Safety measures"@en .
 
-<paash#sh005968> a skos:Concept ;
+<paash#sh005967> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Yak"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005969> a skos:Concept ;
+<paash#sh005968> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Yearbooks"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005970> a skos:Concept ;
+<paash#sh005969> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Yellowhead Tribal Development Foundation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005972> a skos:Concept ;
-    skos:broader <paash#sh005971> ;
+<paash#sh005971> a skos:Concept ;
+    skos:broader <paash#sh005970> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Yoga -- Therapeutic use"@en .
 
-<paash#sh005973> a skos:Concept ;
+<paash#sh005972> a skos:Concept ;
     skos:altLabel "Juvenile delinquency"@en,
         "Juvenile delinquents"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Young Offenders"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005975> a skos:Concept ;
-    skos:broader <paash#sh005974> ;
+<paash#sh005974> a skos:Concept ;
+    skos:broader <paash#sh005973> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Youth -- Dwellings"@en .
 
-<paash#sh005976> a skos:Concept ;
-    skos:broader <paash#sh005974> ;
+<paash#sh005975> a skos:Concept ;
+    skos:broader <paash#sh005973> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Youth -- Emergency shelters"@en .
 
-<paash#sh005977> a skos:Concept ;
-    skos:broader <paash#sh005974> ;
+<paash#sh005976> a skos:Concept ;
+    skos:broader <paash#sh005973> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Youth -- Employment"@en .
 
-<paash#sh005978> a skos:Concept ;
-    skos:broader <paash#sh005974> ;
+<paash#sh005977> a skos:Concept ;
+    skos:broader <paash#sh005973> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Youth -- Societies and clubs"@en .
 
-<paash#sh005979> a skos:Concept ;
+<paash#sh005978> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Youth hostels"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005980> a skos:Concept ;
+<paash#sh005979> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Zinc industry and trade"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005981> a skos:Concept ;
+<paash#sh005980> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Zinc mines and mining"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005982> a skos:Concept ;
+<paash#sh005981> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Zoology"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005983> a skos:Concept ;
+<paash#sh005982> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Zoos"@en ;
     skos:topConceptOf <paash#paash> .
@@ -27161,7 +27168,7 @@
     skos:broader <paash#sh000235> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Animals -- Diseases"@en ;
-    skos:related <paash#sh005809> ;
+    skos:related <paash#sh005808> ;
     skos:scopeNote "RT subdivision Diseases under individual animals and groups of animals"@en .
 
 <paash#sh000250> a skos:Concept ;
@@ -27279,7 +27286,7 @@
 <paash#sh000585> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Bodybuilding"@en ;
-    skos:related <paash#sh005882> ;
+    skos:related <paash#sh005881> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh000586> a skos:Concept ;
@@ -27404,7 +27411,7 @@
     skos:altLabel "Vocational counselling"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Career education"@en ;
-    skos:related <paash#sh005829> ;
+    skos:related <paash#sh005828> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh001120> a skos:Concept ;
@@ -28009,7 +28016,7 @@
 <paash#sh002574> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Fur traders"@en ;
-    skos:related <paash#sh005836> ;
+    skos:related <paash#sh005835> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002575> a skos:Concept ;
@@ -28021,7 +28028,7 @@
 <paash#sh002579> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Galician Canadians"@en ;
-    skos:related <paash#sh005701> ;
+    skos:related <paash#sh005700> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002581> a skos:Concept ;
@@ -28329,7 +28336,7 @@
 <paash#sh002908> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Idle rich"@en ;
-    skos:related <paash#sh005707> ;
+    skos:related <paash#sh005706> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002960> a skos:Concept ;
@@ -28439,13 +28446,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Kutenai Nation -- Hunting"@en ;
     skos:related <paash#sh000639> .
-
-<paash#sh003384> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Laboratories"@en ;
-    skos:related <paash#sh005696> ;
-    skos:scopeNote "RT subdivision Laboratories under names of communities"@en ;
-    skos:topConceptOf <paash#paash> .
 
 <paash#sh003388> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -28650,7 +28650,7 @@
 <paash#sh003778> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Musical revues"@en ;
-    skos:related <paash#sh005800> ;
+    skos:related <paash#sh005799> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh003821> a skos:Concept ;
@@ -28805,7 +28805,7 @@
     skos:altLabel "Pulp and paper industry"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Paper industry"@en ;
-    skos:related <paash#sh005948> ;
+    skos:related <paash#sh005947> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh004367> a skos:Concept ;
@@ -29069,7 +29069,7 @@
     skos:broader <paash#sh004836> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Renewable energy -- Wind"@en ;
-    skos:related <paash#sh005927> .
+    skos:related <paash#sh005926> .
 
 <paash#sh004849> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -29137,7 +29137,7 @@
 <paash#sh004940> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ruthenians"@en ;
-    skos:related <paash#sh005703> ;
+    skos:related <paash#sh005702> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh004942> a skos:Concept ;
@@ -29192,7 +29192,7 @@
 <paash#sh005229> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Skis and skiing"@en ;
-    skos:related <paash#sh005868> ;
+    skos:related <paash#sh005867> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh005230> a skos:Concept ;
@@ -29312,7 +29312,7 @@
     skos:altLabel "Sumo wrestling"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Sumo"@en ;
-    skos:related <paash#sh005962> ;
+    skos:related <paash#sh005961> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh005414> a skos:Concept ;
@@ -29461,125 +29461,119 @@
     skos:related <paash#sh004595> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005696> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
-    skos:related <paash#sh003384> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#sh005701> a skos:Concept ;
+<paash#sh005700> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ukrainian Canadians"@en ;
     skos:related <paash#sh002579> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005797> a skos:Concept ;
+<paash#sh005796> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Valentine cards"@en ;
     skos:related <paash#sh002702> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005800> a skos:Concept ;
+<paash#sh005799> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Variety shows (Television programs)"@en ;
     skos:related <paash#sh003778> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005809> a skos:Concept ;
+<paash#sh005808> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Veterinary medicine"@en ;
     skos:related <paash#sh000236> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005828> a skos:Concept ;
+<paash#sh005827> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vocational education"@en ;
     skos:related <paash#sh002218> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005829> a skos:Concept ;
+<paash#sh005828> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vocational guidance"@en ;
     skos:related <paash#sh001107> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005836> a skos:Concept ;
+<paash#sh005835> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Voyageurs"@en ;
     skos:related <paash#sh002574> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005868> a skos:Concept ;
+<paash#sh005867> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Water skiing"@en ;
     skos:related <paash#sh005229> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005872> a skos:Concept ;
+<paash#sh005871> a skos:Concept ;
     skos:altLabel "Arms and armour"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weapons"@en ;
     skos:related <paash#sh002394> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005880> a skos:Concept ;
+<paash#sh005879> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005881> ;
+    skos:narrower <paash#sh005880> ;
     skos:prefLabel "Weeds"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005882> a skos:Concept ;
+<paash#sh005881> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Weight lifting"@en ;
     skos:related <paash#sh000585> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005925> a skos:Concept ;
+<paash#sh005924> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Winches"@en ;
-    skos:related <paash#sh005928> ;
+    skos:related <paash#sh005927> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005927> a skos:Concept ;
+<paash#sh005926> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wind turbines"@en ;
     skos:related <paash#sh004841> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005928> a skos:Concept ;
+<paash#sh005927> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Windlasses"@en ;
-    skos:related <paash#sh005925> ;
+    skos:related <paash#sh005924> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#sh005931> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Wine and winemaking"@en ;
+    skos:related <paash#sh005820> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh005932> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Wine and winemaking"@en ;
-    skos:related <paash#sh005821> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#sh005933> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wineries"@en ;
     skos:related <paash#sh000537> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005948> a skos:Concept ;
+<paash#sh005947> a skos:Concept ;
     skos:altLabel "Pulp and paper industry"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wood pulp industry"@en ;
     skos:related <paash#sh004333> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005962> a skos:Concept ;
+<paash#sh005961> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wrestling"@en ;
     skos:related <paash#sh005412> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005971> a skos:Concept ;
+<paash#sh005970> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005972> ;
+    skos:narrower <paash#sh005971> ;
     skos:prefLabel "Yoga"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -29632,7 +29626,7 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Antisemitism"@en ;
     skos:related <paash#sh004725>,
-        <paash#sh005910> ;
+        <paash#sh005909> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh000247> a skos:Concept ;
@@ -29864,14 +29858,14 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Cremation"@en ;
     skos:related <paash#sh002565>,
-        <paash#sh005705> ;
+        <paash#sh005704> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh001647> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Crematoriums"@en ;
     skos:related <paash#sh002565>,
-        <paash#sh005705> ;
+        <paash#sh005704> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh001682> a skos:Concept ;
@@ -29980,7 +29974,7 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#sh002395> ;
     skos:prefLabel "Firearms"@en ;
-    skos:related <paash#sh005872> ;
+    skos:related <paash#sh005871> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002509> a skos:Concept ;
@@ -30010,7 +30004,7 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Galicians"@en ;
     skos:related <paash#sh004552>,
-        <paash#sh005703> ;
+        <paash#sh005702> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002617> a skos:Concept ;
@@ -30032,7 +30026,7 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Greeting cards"@en ;
     skos:related <paash#sh001235>,
-        <paash#sh005797> ;
+        <paash#sh005796> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002737> a skos:Concept ;
@@ -30223,7 +30217,7 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Municipal government"@en ;
     skos:related <paash#sh001251>,
-        <paash#sh005820> ;
+        <paash#sh005819> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh004013> a skos:Concept ;
@@ -30346,7 +30340,7 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Racism"@en ;
     skos:related <paash#sh000245>,
-        <paash#sh005910> ;
+        <paash#sh005909> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh004813> a skos:Concept ;
@@ -30503,14 +30497,14 @@
         "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005703> a skos:Concept ;
+<paash#sh005702> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ukrainians"@en ;
     skos:related <paash#sh002580>,
         <paash#sh004940> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005705> a skos:Concept ;
+<paash#sh005704> a skos:Concept ;
     skos:altLabel "Funeral homes"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Undertakers and undertaking"@en ;
@@ -30518,74 +30512,74 @@
         <paash#sh001647> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005707> a skos:Concept ;
+<paash#sh005706> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005708> ;
+    skos:narrower <paash#sh005707> ;
     skos:prefLabel "Unemployment"@en ;
     skos:related <paash#sh002908> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005738> a skos:Concept ;
+<paash#sh005737> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005743>,
-        <paash#sh005744> ;
+    skos:narrower <paash#sh005742>,
+        <paash#sh005743> ;
     skos:prefLabel "United States of America"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005802> a skos:Concept ;
+<paash#sh005801> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005803>,
-        <paash#sh005804> ;
+    skos:narrower <paash#sh005802>,
+        <paash#sh005803> ;
     skos:prefLabel "Vegetables"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005812> a skos:Concept ;
+<paash#sh005811> a skos:Concept ;
     skos:altLabel "Video tape recorders and recording"@en ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005813>,
-        <paash#sh005814> ;
+    skos:narrower <paash#sh005812>,
+        <paash#sh005813> ;
     skos:prefLabel "Video recording"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005820> a skos:Concept ;
+<paash#sh005819> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Villages"@en ;
     skos:related <paash#sh003755>,
         <paash#sh003761> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005821> a skos:Concept ;
+<paash#sh005820> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vintners"@en ;
-    skos:related <paash#sh005931>,
-        <paash#sh005932> ;
+    skos:related <paash#sh005930>,
+        <paash#sh005931> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005905> a skos:Concept ;
+<paash#sh005904> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005906>,
-        <paash#sh005907> ;
+    skos:narrower <paash#sh005905>,
+        <paash#sh005906> ;
     skos:prefLabel "Wheat"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005910> a skos:Concept ;
+<paash#sh005909> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "White supremacy"@en ;
     skos:related <paash#sh000245>,
         <paash#sh004725> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005931> a skos:Concept ;
+<paash#sh005930> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Wine and wine making"@en ;
     skos:related <paash#sh000537>,
-        <paash#sh005821> ;
+        <paash#sh005820> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005965> a skos:Concept ;
+<paash#sh005964> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005966>,
-        <paash#sh005967> ;
+    skos:narrower <paash#sh005965>,
+        <paash#sh005966> ;
     skos:prefLabel "X-rays"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -30716,7 +30710,7 @@
     skos:narrower <paash#sh002237>,
         <paash#sh002238> ;
     skos:prefLabel "Elections (Federal, [date])"@en ;
-    skos:related <paash#sh005834> ;
+    skos:related <paash#sh005833> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002239> a skos:Concept ;
@@ -30726,7 +30720,7 @@
     skos:narrower <paash#sh002240>,
         <paash#sh002241> ;
     skos:prefLabel "Elections (Local, [date])"@en ;
-    skos:related <paash#sh005834> ;
+    skos:related <paash#sh005833> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002242> a skos:Concept ;
@@ -30736,7 +30730,7 @@
     skos:narrower <paash#sh002243>,
         <paash#sh002244> ;
     skos:prefLabel "Elections (Provincial, [date])"@en ;
-    skos:related <paash#sh005834> ;
+    skos:related <paash#sh005833> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002299> a skos:Concept ;
@@ -30988,7 +30982,7 @@
     skos:prefLabel "Trust and Trustees"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005834> a skos:Concept ;
+<paash#sh005833> a skos:Concept ;
     skos:altLabel "Polls"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Voting"@en ;
@@ -31030,8 +31024,8 @@
     skos:prefLabel "Beverage processing plants"@en ;
     skos:related <paash#sh000609>,
         <paash#sh001969>,
-        <paash#sh005931>,
-        <paash#sh005933> ;
+        <paash#sh005930>,
+        <paash#sh005932> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh000631> a skos:Concept ;
@@ -31255,21 +31249,21 @@
     skos:prefLabel "Teachers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005873> a skos:Concept ;
+<paash#sh005872> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005874>,
+    skos:narrower <paash#sh005873>,
+        <paash#sh005874>,
         <paash#sh005875>,
-        <paash#sh005876>,
-        <paash#sh005877> ;
+        <paash#sh005876> ;
     skos:prefLabel "Weather"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005974> a skos:Concept ;
+<paash#sh005973> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005975>,
+    skos:narrower <paash#sh005974>,
+        <paash#sh005975>,
         <paash#sh005976>,
-        <paash#sh005977>,
-        <paash#sh005978> ;
+        <paash#sh005977> ;
     skos:prefLabel "Youth"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -31466,7 +31460,7 @@
         <paash#sh002226> ;
     skos:prefLabel "Education"@en ;
     skos:related <paash#sh001367>,
-        <paash#sh005828> ;
+        <paash#sh005827> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002546> a skos:Concept ;
@@ -31620,53 +31614,53 @@
     skos:prefLabel "Television"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005725> a skos:Concept ;
+<paash#sh005724> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005726>,
+    skos:narrower <paash#sh005725>,
+        <paash#sh005726>,
         <paash#sh005727>,
         <paash#sh005728>,
-        <paash#sh005729>,
-        <paash#sh005730> ;
+        <paash#sh005729> ;
     skos:prefLabel "United Conservative Party"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005732> a skos:Concept ;
+<paash#sh005731> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005733>,
+    skos:narrower <paash#sh005732>,
+        <paash#sh005733>,
         <paash#sh005734>,
         <paash#sh005735>,
-        <paash#sh005736>,
-        <paash#sh005737> ;
+        <paash#sh005736> ;
     skos:prefLabel "United Farmers of Alberta (political party)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005890> a skos:Concept ;
+<paash#sh005889> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005891>,
+    skos:narrower <paash#sh005890>,
+        <paash#sh005891>,
         <paash#sh005892>,
         <paash#sh005893>,
-        <paash#sh005894>,
-        <paash#sh005895> ;
+        <paash#sh005894> ;
     skos:prefLabel "Western Canada Concept"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005897> a skos:Concept ;
+<paash#sh005896> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005898>,
+    skos:narrower <paash#sh005897>,
+        <paash#sh005898>,
         <paash#sh005899>,
         <paash#sh005900>,
-        <paash#sh005901>,
-        <paash#sh005902> ;
+        <paash#sh005901> ;
     skos:prefLabel "Western Independence Party"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005918> a skos:Concept ;
+<paash#sh005917> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005919>,
+    skos:narrower <paash#sh005918>,
+        <paash#sh005919>,
         <paash#sh005920>,
         <paash#sh005921>,
-        <paash#sh005922>,
-        <paash#sh005923> ;
+        <paash#sh005922> ;
     skos:prefLabel "Wildrose Party"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -31891,16 +31885,16 @@
     skos:prefLabel "Presbyterian Church"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005937> a skos:Concept ;
+<paash#sh005936> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005938>,
+    skos:narrower <paash#sh005937>,
+        <paash#sh005938>,
         <paash#sh005939>,
         <paash#sh005940>,
         <paash#sh005941>,
         <paash#sh005942>,
         <paash#sh005943>,
-        <paash#sh005944>,
-        <paash#sh005945> ;
+        <paash#sh005944> ;
     skos:prefLabel "Women"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -31958,7 +31952,7 @@
         <paash#sh003759>,
         <paash#sh004938>,
         <paash#sh005290>,
-        <paash#sh005820> ;
+        <paash#sh005819> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh004017> a skos:Concept ;
@@ -32153,12 +32147,13 @@
         <paash#sh003644>,
         <paash#sh003645> ;
     skos:prefLabel "Methodist Church"@en ;
-    skos:related <paash#sh005712> ;
+    skos:related <paash#sh005711> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005850> a skos:Concept ;
+<paash#sh005849> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005852>,
+    skos:narrower <paash#sh005851>,
+        <paash#sh005852>,
         <paash#sh005853>,
         <paash#sh005854>,
         <paash#sh005855>,
@@ -32168,8 +32163,7 @@
         <paash#sh005859>,
         <paash#sh005860>,
         <paash#sh005861>,
-        <paash#sh005862>,
-        <paash#sh005863> ;
+        <paash#sh005862> ;
     skos:prefLabel "Water"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -32229,9 +32223,10 @@
     skos:related <paash#sh002712> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005712> a skos:Concept ;
+<paash#sh005711> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005713>,
+    skos:narrower <paash#sh005712>,
+        <paash#sh005713>,
         <paash#sh005714>,
         <paash#sh005715>,
         <paash#sh005716>,
@@ -32241,8 +32236,7 @@
         <paash#sh005720>,
         <paash#sh005721>,
         <paash#sh005722>,
-        <paash#sh005723>,
-        <paash#sh005724> ;
+        <paash#sh005723> ;
     skos:prefLabel "United Church of Canada"@en ;
     skos:related <paash#sh003634> ;
     skos:topConceptOf <paash#paash> .
@@ -32373,10 +32367,11 @@
     skos:prefLabel "Mines and mining"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005745> a skos:Concept ;
+<paash#sh005744> a skos:Concept ;
     skos:altLabel "Colleges"@en ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005746>,
+    skos:narrower <paash#sh005745>,
+        <paash#sh005746>,
         <paash#sh005747>,
         <paash#sh005748>,
         <paash#sh005749>,
@@ -32391,8 +32386,7 @@
         <paash#sh005758>,
         <paash#sh005759>,
         <paash#sh005760>,
-        <paash#sh005761>,
-        <paash#sh005762> ;
+        <paash#sh005761> ;
     skos:prefLabel "Universities and colleges"@en ;
     skos:scopeNote "RT Names of specific colleges, universities"@en ;
     skos:topConceptOf <paash#paash> .
@@ -32499,9 +32493,10 @@
     skos:prefLabel "Athabasca University"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#sh005763> a skos:Concept ;
+<paash#sh005762> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#sh005764>,
+    skos:narrower <paash#sh005763>,
+        <paash#sh005764>,
         <paash#sh005765>,
         <paash#sh005766>,
         <paash#sh005767>,
@@ -32521,8 +32516,7 @@
         <paash#sh005781>,
         <paash#sh005782>,
         <paash#sh005783>,
-        <paash#sh005784>,
-        <paash#sh005785> ;
+        <paash#sh005784> ;
     skos:prefLabel "University of Alberta"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -37525,21 +37519,21 @@
         <paash#sh005704>,
         <paash#sh005705>,
         <paash#sh005706>,
-        <paash#sh005707>,
+        <paash#sh005708>,
         <paash#sh005709>,
         <paash#sh005710>,
         <paash#sh005711>,
-        <paash#sh005712>,
-        <paash#sh005725>,
+        <paash#sh005724>,
+        <paash#sh005730>,
         <paash#sh005731>,
-        <paash#sh005732>,
+        <paash#sh005737>,
         <paash#sh005738>,
         <paash#sh005739>,
         <paash#sh005740>,
         <paash#sh005741>,
-        <paash#sh005742>,
-        <paash#sh005745>,
-        <paash#sh005763>,
+        <paash#sh005744>,
+        <paash#sh005762>,
+        <paash#sh005785>,
         <paash#sh005786>,
         <paash#sh005787>,
         <paash#sh005788>,
@@ -37556,7 +37550,7 @@
         <paash#sh005799>,
         <paash#sh005800>,
         <paash#sh005801>,
-        <paash#sh005802>,
+        <paash#sh005804>,
         <paash#sh005805>,
         <paash#sh005806>,
         <paash#sh005807>,
@@ -37564,7 +37558,7 @@
         <paash#sh005809>,
         <paash#sh005810>,
         <paash#sh005811>,
-        <paash#sh005812>,
+        <paash#sh005814>,
         <paash#sh005815>,
         <paash#sh005816>,
         <paash#sh005817>,
@@ -37601,7 +37595,7 @@
         <paash#sh005848>,
         <paash#sh005849>,
         <paash#sh005850>,
-        <paash#sh005851>,
+        <paash#sh005863>,
         <paash#sh005864>,
         <paash#sh005865>,
         <paash#sh005866>,
@@ -37611,10 +37605,10 @@
         <paash#sh005870>,
         <paash#sh005871>,
         <paash#sh005872>,
-        <paash#sh005873>,
+        <paash#sh005877>,
         <paash#sh005878>,
         <paash#sh005879>,
-        <paash#sh005880>,
+        <paash#sh005881>,
         <paash#sh005882>,
         <paash#sh005883>,
         <paash#sh005884>,
@@ -37623,12 +37617,12 @@
         <paash#sh005887>,
         <paash#sh005888>,
         <paash#sh005889>,
-        <paash#sh005890>,
+        <paash#sh005895>,
         <paash#sh005896>,
-        <paash#sh005897>,
+        <paash#sh005902>,
         <paash#sh005903>,
         <paash#sh005904>,
-        <paash#sh005905>,
+        <paash#sh005907>,
         <paash#sh005908>,
         <paash#sh005909>,
         <paash#sh005910>,
@@ -37639,7 +37633,7 @@
         <paash#sh005915>,
         <paash#sh005916>,
         <paash#sh005917>,
-        <paash#sh005918>,
+        <paash#sh005923>,
         <paash#sh005924>,
         <paash#sh005925>,
         <paash#sh005926>,
@@ -37653,7 +37647,7 @@
         <paash#sh005934>,
         <paash#sh005935>,
         <paash#sh005936>,
-        <paash#sh005937>,
+        <paash#sh005945>,
         <paash#sh005946>,
         <paash#sh005947>,
         <paash#sh005948>,
@@ -37673,17 +37667,16 @@
         <paash#sh005962>,
         <paash#sh005963>,
         <paash#sh005964>,
-        <paash#sh005965>,
+        <paash#sh005967>,
         <paash#sh005968>,
         <paash#sh005969>,
         <paash#sh005970>,
-        <paash#sh005971>,
+        <paash#sh005972>,
         <paash#sh005973>,
-        <paash#sh005974>,
+        <paash#sh005978>,
         <paash#sh005979>,
         <paash#sh005980>,
         <paash#sh005981>,
-        <paash#sh005982>,
-        <paash#sh005983> ;
+        <paash#sh005982> ;
     skos:prefLabel "Provincial Archives of Alberta Subject Headings"@en .
 

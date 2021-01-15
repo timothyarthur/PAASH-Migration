@@ -15325,6 +15325,13 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Kutenai Nation -- Youth"@en .
 
+<paash#laboratories> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Laboratories"@en ;
+    skos:scopeNote "RT subdivision Laboratories under names of communities"@en,
+        "RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#laboratory_animals> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Laboratory animals"@en ;
@@ -28440,13 +28447,6 @@
     skos:prefLabel "Kutenai Nation -- Hunting"@en ;
     skos:related <paash#buffalo_jump> .
 
-<paash#laboratories> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Laboratories"@en ;
-    skos:related <paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.> ;
-    skos:scopeNote "RT subdivision Laboratories under names of communities"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#labour_disputes> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Labour disputes"@en ;
@@ -29459,12 +29459,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Turkeys"@en ;
     skos:related <paash#poultry> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
-    skos:related <paash#laboratories> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#ukrainian_canadians> a skos:Concept ;
@@ -37514,7 +37508,6 @@
         <paash#tutors_and_tutoring>,
         <paash#twine>,
         <paash#two-spirit>,
-        <paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.>,
         <paash#typesetting>,
         <paash#typewriters>,
         <paash#typewriting>,
