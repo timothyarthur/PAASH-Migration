@@ -113,6 +113,9 @@ City councils
 City councils
 	RT specific names of town and village councils, e.g., Airdrie.  Town Council, Vilna.  Village Council
 
+Colleges of applied arts and technology
+	RT names of particular institutions
+
 Commissions (of inquiry)
 	USE Names of specific commissions
 
@@ -159,10 +162,13 @@ Entertainment
 	USE specific form of entertainment
 
 Entertainment
-	USE Amusements subdivision under names of communities
+	USE Entertaining and entertainment subdivision under names of communities
 
 Epidemics
 	RT names of specific diseases, e.g. Diphtheria
+
+Evangelists
+	USE Missions and missionaries subdivision under specific religion or sect
 
 Exhibitions
 	RT names of exhibitions
@@ -234,7 +240,7 @@ Kutenai Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Laboratories
-	RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.
+	RT subdivision Laboratories under names of communities
 
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
@@ -244,9 +250,6 @@ Mayors
 
 Métis Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-
-Ministerial papers
-	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
 
 Ministers of Religion
 	USE Clergy subdivision under specific denomination
@@ -299,9 +302,6 @@ Speeches, addresses, etc.
 Sports facilities
 	RT subdivision Sports facilities under names of communities.
 
-Stadiums
-	RT subdivision Sports facilities under names of communities.
-
 Synagogues
 	RT subdivision Synagogues under names of communities
 
@@ -319,9 +319,6 @@ Tsuu T'ina Nation
 
 Universities and colleges
 	RT Names of specific colleges, universities
-
-Vocational colleges
-	RT names of particular institutions
 
 Waste products
 	RT subdivision By-products under specific industries, e.g. Gas manufacture and works -- By-products

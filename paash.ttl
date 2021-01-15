@@ -12,6 +12,12 @@
     skos:prefLabel "[name of department], Department of (e.g., Agriculture, Department of)"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#[name_of_department],_minister_of,_e.g.,_agriculture,_minister_of> a skos:Concept ;
+    skos:altLabel "Ministerial papers"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[Name of Department], Minister of, e.g., Agriculture, Minister of"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#[name_of_province].__department_of_[name_of_department]> a skos:Concept ;
     skos:altLabel "Government departments (Other provinces)"@en ;
     skos:inScheme <paash#paash> ;
@@ -825,7 +831,8 @@
         "Liquor traffic"@en ;
     skos:broader <paash#alcohol> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Alcohol -- Industry"@en .
+    skos:prefLabel "Alcohol -- Industry"@en ;
+    skos:scopeNote "For general works on the liquor industry"@en .
 
 <paash#alcohol_--_laws_and_legislation> a skos:Concept ;
     skos:altLabel "Liquor laws"@en,
@@ -2928,9 +2935,9 @@
     skos:prefLabel "Cable cars"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#cabooses_(railroads)> a skos:Concept ;
+<paash#cabooses_(railways)> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Cabooses (Railroads)"@en ;
+    skos:prefLabel "Cabooses (Railways)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cadavers> a skos:Concept ;
@@ -5905,6 +5912,7 @@
         "Vocational colleges"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Colleges of applied arts and technology"@en ;
+    skos:scopeNote "RT names of particular institutions"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#colon_(anatomy)> a skos:Concept ;
@@ -10301,10 +10309,10 @@
     skos:prefLabel "Electric power failures"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#electric_railroads> a skos:Concept ;
+<paash#electric_railways> a skos:Concept ;
     skos:altLabel "Street cars"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Electric railroads"@en ;
+    skos:prefLabel "Electric railways"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#electric_transformers> a skos:Concept ;
@@ -10479,7 +10487,7 @@
 <paash#entertainment> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Entertainment"@en ;
-    skos:scopeNote "USE Amusements subdivision under names of communities"@en,
+    skos:scopeNote "USE Entertaining and entertainment subdivision under names of communities"@en,
         "USE specific form of entertainment"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -10575,6 +10583,12 @@
 <paash#euthanasia> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Euthanasia"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#evangelists> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Evangelists"@en ;
+    skos:scopeNote "USE Missions and missionaries subdivision under specific religion or sect"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#executive_advisory_bodies> a skos:Concept ;
@@ -13663,12 +13677,6 @@
     skos:prefLabel "Insurance, Property"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#insurance,_surety_and_fidelity> a skos:Concept ;
-    skos:altLabel "Surety and fidelity insurance"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Insurance, Surety and fidelity"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#insurance,_unemployment> a skos:Concept ;
     skos:altLabel "Unemployment insurance"@en ;
     skos:inScheme <paash#paash> ;
@@ -13723,7 +13731,8 @@
     skos:prefLabel "Insurance -- Statistics"@en .
 
 <paash#insurance_--_surety_and_fidelity> a skos:Concept ;
-    skos:altLabel "Bonding of employees"@en ;
+    skos:altLabel "Bonding of employees"@en,
+        "Surety and fidelity insurance"@en ;
     skos:broader <paash#insurance> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Insurance -- Surety and fidelity"@en .
@@ -15316,12 +15325,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Kutenai Nation -- Youth"@en .
 
-<paash#laboratories> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Laboratories"@en ;
-    skos:scopeNote "RT subdivision Laboratories under names of communities and RT types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#laboratory_animals> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Laboratory animals"@en ;
@@ -16664,10 +16667,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mines and mining -- Leases"@en .
 
-<paash#mines_and_mining_--_railroads> a skos:Concept ;
+<paash#mines_and_mining_--_railways> a skos:Concept ;
     skos:broader <paash#mines_and_mining> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Mines and mining -- Railroads"@en .
+    skos:prefLabel "Mines and mining -- Railways"@en .
 
 <paash#mines_and_mining_--_rescue_work> a skos:Concept ;
     skos:broader <paash#mines_and_mining> ;
@@ -16703,12 +16706,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ministerial Orders"@en ;
     skos:scopeNote "May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#ministerial_papers> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Ministerial papers"@en ;
-    skos:scopeNote "USE [Name of Department], Minister of, e.g., Agriculture, Minister of"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#ministers_of_religion> a skos:Concept ;
@@ -18248,10 +18245,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Natural gas -- Leases"@en .
 
-<paash#natural_gas_--_pipe_lines> a skos:Concept ;
+<paash#natural_gas_--_pipelines> a skos:Concept ;
     skos:broader <paash#natural_gas> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Natural gas -- Pipe lines"@en .
+    skos:prefLabel "Natural gas -- Pipelines"@en .
 
 <paash#natural_gas_--_reserves> a skos:Concept ;
     skos:broader <paash#natural_gas> ;
@@ -19414,11 +19411,6 @@
     skos:prefLabel "Old age assistance"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#old_age_pensions> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Old age pensions"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#olympics> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Olympics"@en ;
@@ -19920,11 +19912,6 @@
     skos:broader <paash#petroleum> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Petroleum -- Leases"@en .
-
-<paash#petroleum_--_pipelines> a skos:Concept ;
-    skos:broader <paash#petroleum> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Petroleum -- Pipelines"@en .
 
 <paash#petroleum_--_products> a skos:Concept ;
     skos:broader <paash#petroleum> ;
@@ -21210,11 +21197,6 @@
     skos:prefLabel "Psychiatric nursing"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#psychiatric_patients> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Psychiatric patients"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#psychiatrists> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Psychiatrists"@en ;
@@ -21435,7 +21417,8 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#radio_--_amateur_radio_stations> a skos:Concept ;
-    skos:altLabel "Amateur radio stations"@en ;
+    skos:altLabel "Amateur radio stations"@en,
+        "Ham radio"@en ;
     skos:broader <paash#radio> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Radio -- Amateur radio stations"@en .
@@ -21495,24 +21478,6 @@
     skos:prefLabel "Rafting (Sports)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#railroads_--_construction_workers> a skos:Concept ;
-    skos:altLabel "Coolie labour"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Railroads -- Construction workers"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#railroads_--_freight_cars> a skos:Concept ;
-    skos:altLabel "Freight cars"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Railroads -- Freight cars"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#railroads_--_passenger_lists> a skos:Concept ;
-    skos:altLabel "Passenger lists"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Railroads -- Passenger lists"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#railways_--_abandonment> a skos:Concept ;
     skos:broader <paash#railways> ;
     skos:inScheme <paash#paash> ;
@@ -21539,6 +21504,7 @@
     skos:prefLabel "Railways -- Cars"@en .
 
 <paash#railways_--_construction_workers> a skos:Concept ;
+    skos:altLabel "Coolie labour"@en ;
     skos:broader <paash#railways> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Railways -- Construction workers"@en .
@@ -21579,6 +21545,7 @@
     skos:prefLabel "Railways -- Freight"@en .
 
 <paash#railways_--_freight_cars> a skos:Concept ;
+    skos:altLabel "Freight cars"@en ;
     skos:broader <paash#railways> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Railways -- Freight cars"@en .
@@ -21609,6 +21576,7 @@
     skos:prefLabel "Railways -- Maintenance and repair"@en .
 
 <paash#railways_--_passenger_lists> a skos:Concept ;
+    skos:altLabel "Passenger lists"@en ;
     skos:broader <paash#railways> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Railways -- Passenger lists"@en .
@@ -24114,12 +24082,6 @@
     skos:prefLabel "Stables"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#stadiums> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Stadiums"@en ;
-    skos:scopeNote "RT subdivision Sports facilities under names of communities."@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#staircases> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Staircases"@en ;
@@ -24733,11 +24695,6 @@
 <paash#targets_(shooting)> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Targets (Shooting)"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#tariff> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Tariff"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#tariffs> a skos:Concept ;
@@ -26438,12 +26395,6 @@
     skos:prefLabel "Vocational centres"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#vocational_colleges> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Vocational colleges"@en ;
-    skos:scopeNote "RT names of particular institutions"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#vocational_rehabilitation> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Vocational rehabilitation"@en ;
@@ -26506,11 +26457,6 @@
 <paash#warehouses> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Warehouses"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#warrants,_law> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Warrants, Law"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#warrants_(law)> a skos:Concept ;
@@ -27608,21 +27554,6 @@
     skos:prefLabel "Correctional institutions -- Halfway houses"@en ;
     skos:related <paash#rehabilitation_centres> .
 
-<paash#costume> a skos:Concept ;
-    skos:altLabel "Women's clothing"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Costume"@en ;
-    skos:related <paash#traditional_dress> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#counties> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Counties"@en ;
-    skos:related <paash#local_government> ;
-    skos:scopeNote "For names of particular counties use the following format:  Parkland, County of"@en,
-        "Municipal Affairs, Department of"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#cranes,_derricks,_etc.> a skos:Concept ;
     skos:altLabel "Derricks"@en ;
     skos:inScheme <paash#paash> ;
@@ -28069,6 +28000,12 @@
     skos:related <paash#hides_and_skins> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#fur_trade> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Fur trade"@en ;
+    skos:related <paash#trappers_and_trapping> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#fur_traders> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Fur traders"@en ;
@@ -28503,6 +28440,13 @@
     skos:prefLabel "Kutenai Nation -- Hunting"@en ;
     skos:related <paash#buffalo_jump> .
 
+<paash#laboratories> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Laboratories"@en ;
+    skos:related <paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.> ;
+    skos:scopeNote "RT subdivision Laboratories under names of communities"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#labour_disputes> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Labour disputes"@en ;
@@ -28566,13 +28510,6 @@
     skos:prefLabel "Lieutenant-Governors"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#liquor_traffic> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Liquor traffic"@en ;
-    skos:related <paash#alcohol> ;
-    skos:scopeNote "For general works on the liquor industry"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#literature> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Literature"@en ;
@@ -28615,12 +28552,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Meat industry and trade"@en ;
     skos:related <paash#packing_houses> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#men's_clothing> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Men's clothing"@en ;
-    skos:related <paash#clothing_and_dress> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#mennonites> a skos:Concept ;
@@ -28817,10 +28748,10 @@
     skos:related <paash#petroleum_industry_and_trade> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#oil_pipe_lines> a skos:Concept ;
+<paash#oil_pipelines> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Oil pipe lines"@en ;
-    skos:related <paash#petroleum_--_pipe_lines> ;
+    skos:prefLabel "Oil pipelines"@en ;
+    skos:related <paash#petroleum_--_pipelines> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#oil_sands> a skos:Concept ;
@@ -28845,6 +28776,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ojibwa Nation -- Hunting"@en ;
     skos:related <paash#buffalo_jump> .
+
+<paash#old_age_pensions> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Old age pensions"@en ;
+    skos:related <paash#retirement_income> ;
+    skos:topConceptOf <paash#paash> .
 
 <paash#packing_houses> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -28878,18 +28815,6 @@
     skos:related <paash#nuclear_disarmament> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#pensions> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Pensions"@en ;
-    skos:related <paash#seniors> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#pensions,_old_age_pensions> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Pensions, Old age pensions"@en ;
-    skos:related <paash#retirement_income> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#pests_--_control> a skos:Concept ;
     skos:broader <paash#pests> ;
     skos:inScheme <paash#paash> ;
@@ -28902,11 +28827,11 @@
     skos:related <paash#oil_sands> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#petroleum_--_pipe_lines> a skos:Concept ;
+<paash#petroleum_--_pipelines> a skos:Concept ;
     skos:broader <paash#petroleum> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Petroleum -- Pipe lines"@en ;
-    skos:related <paash#oil_pipe_lines> .
+    skos:prefLabel "Petroleum -- Pipelines"@en ;
+    skos:related <paash#oil_pipelines> .
 
 <paash#petroleum_workers> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -29039,6 +28964,12 @@
     skos:related <paash#ceremonial_maces> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#psychiatric_patients> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Psychiatric patients"@en ;
+    skos:related <paash#mental_health> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#public_health_nurses> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Public health nurses"@en ;
@@ -29157,12 +29088,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Retirement homes"@en ;
     skos:related <paash#assisted-living_facilities> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#retirement_income> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Retirement income"@en ;
-    skos:related <paash#pensions,_old_age_pensions> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#road_machinery> a skos:Concept ;
@@ -29500,13 +29425,6 @@
     skos:related <paash#transgender> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#trapping_and_trappers> a skos:Concept ;
-    skos:altLabel "Animal traps"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Trapping and trappers"@en ;
-    skos:related <paash#fur_trade> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#travois> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Travois"@en ;
@@ -29541,6 +29459,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Turkeys"@en ;
     skos:related <paash#poultry> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "types of laboratories, e.g., Chemical laboratories, Medical laboratories, etc."@en ;
+    skos:related <paash#laboratories> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#ukrainian_canadians> a skos:Concept ;
@@ -29876,11 +29800,12 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#clothing_and_dress> a skos:Concept ;
-    skos:altLabel "Women's clothing"@en ;
+    skos:altLabel "Men’s clothing"@en,
+        "Women's clothing"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Clothing and dress"@en ;
     skos:related <paash#children's_clothing>,
-        <paash#men's_clothing> ;
+        <paash#costume> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#constitutional_conventions> a skos:Concept ;
@@ -29902,6 +29827,23 @@
     skos:narrower <paash#corporations_--_finance>,
         <paash#corporations_--_taxation> ;
     skos:prefLabel "Corporations"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#costume> a skos:Concept ;
+    skos:altLabel "Men’s clothing"@en,
+        "Women's clothing"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Costume"@en ;
+    skos:related <paash#clothing_and_dress>,
+        <paash#traditional_dress> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#counties> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Counties"@en ;
+    skos:related <paash#local_government>,
+        <paash#municipal_affairs,_department_of> ;
+    skos:scopeNote "For names of particular counties use the following format:  Parkland, County of"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#creameries> a skos:Concept ;
@@ -30062,13 +30004,6 @@
     skos:prefLabel "Fracking"@en ;
     skos:related <paash#earthquakes>,
         <paash#petroleum> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#fur_trade> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Fur trade"@en ;
-    skos:related <paash#trappers_and_trapping>,
-        <paash#trapping_and_trappers> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#galicians> a skos:Concept ;
@@ -30238,7 +30173,8 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#mentally_disabled> a skos:Concept ;
-    skos:altLabel "Disabled"@en ;
+    skos:altLabel "Disabled"@en,
+        "Handicapped"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mentally disabled"@en ;
     skos:related <paash#ableism>,
@@ -30368,6 +30304,13 @@
         <paash#provincial_parks_and_reserves> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#pensions> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Pensions"@en ;
+    skos:related <paash#retirement_income>,
+        <paash#seniors> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#physically_disabled> a skos:Concept ;
     skos:altLabel "Crippled"@en,
         "Disabled"@en,
@@ -30420,6 +30363,13 @@
         <paash#truth_and_reconciliation_commission> ;
     skos:scopeNote "RT Residential schools NT under Indigenous peoples"@en,
         "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#retirement_income> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Retirement income"@en ;
+    skos:related <paash#old_age_pensions>,
+        <paash#pensions> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#right_of_entry_arbitration> a skos:Concept ;
@@ -30537,7 +30487,7 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#trappers_and_trapping> a skos:Concept ;
-    skos:altLabel "Animals traps"@en ;
+    skos:altLabel "Animal traps"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Trappers and trapping"@en ;
     skos:related <paash#fur_trade>,
@@ -30663,6 +30613,15 @@
     skos:prefLabel "Airlines"@en ;
     skos:related <paash#flight_attendants> ;
     skos:scopeNote "RT names of airlines"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#alcohol> a skos:Concept ;
+    skos:altLabel "Liquor"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#alcohol_--_industry>,
+        <paash#alcohol_--_laws_and_legislation>,
+        <paash#alcohol_--_taxation> ;
+    skos:prefLabel "Alcohol"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#buildings> a skos:Concept ;
@@ -31045,16 +31004,6 @@
         <paash#airports_--_buildings>,
         <paash#airports_--_runways> ;
     skos:prefLabel "Airports"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#alcohol> a skos:Concept ;
-    skos:altLabel "Liquor"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#alcohol_--_industry>,
-        <paash#alcohol_--_laws_and_legislation>,
-        <paash#alcohol_--_taxation> ;
-    skos:prefLabel "Alcohol"@en ;
-    skos:related <paash#liquor_traffic> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#aviation> a skos:Concept ;
@@ -31795,20 +31744,6 @@
     skos:related <paash#actions_and_defenses> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#mental_health> a skos:Concept ;
-    skos:altLabel "Mental illness"@en,
-        "Mentally ill"@en,
-        "Personality disorders"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#mental_health_--_anxiety>,
-        <paash#mental_health_--_depression>,
-        <paash#mental_health_--_phobias>,
-        <paash#mental_health_--_policy>,
-        <paash#mental_health_--_treatment> ;
-    skos:prefLabel "Mental health"@en ;
-    skos:related <paash#suicide> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#music> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#music_--_handbooks,_manuals,_etc.>,
@@ -31876,6 +31811,22 @@
     skos:prefLabel "Christianity"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#mental_health> a skos:Concept ;
+    skos:altLabel "Lunatics"@en,
+        "Mental illness"@en,
+        "Mentally ill"@en,
+        "Personality disorders"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#mental_health_--_anxiety>,
+        <paash#mental_health_--_depression>,
+        <paash#mental_health_--_phobias>,
+        <paash#mental_health_--_policy>,
+        <paash#mental_health_--_treatment> ;
+    skos:prefLabel "Mental health"@en ;
+    skos:related <paash#psychiatric_patients>,
+        <paash#suicide> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#military> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#military_--_bases>,
@@ -31925,19 +31876,6 @@
         <paash#horses_--_training>,
         <paash#horses_--_transportation> ;
     skos:prefLabel "Horses"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#municipal_affairs,_department_of> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Municipal Affairs, Department of"@en ;
-    skos:related <paash#cities_and_towns>,
-        <paash#improvement_districts>,
-        <paash#local_government>,
-        <paash#local_improvement_districts>,
-        <paash#municipal_districts>,
-        <paash#rural_municipalities>,
-        <paash#special_areas>,
-        <paash#villages> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#presbyterian_church> a skos:Concept ;
@@ -32009,6 +31947,20 @@
         <paash#special_areas> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#municipal_affairs,_department_of> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Municipal Affairs, Department of"@en ;
+    skos:related <paash#cities_and_towns>,
+        <paash#counties>,
+        <paash#improvement_districts>,
+        <paash#local_government>,
+        <paash#local_improvement_districts>,
+        <paash#municipal_districts>,
+        <paash#rural_municipalities>,
+        <paash#special_areas>,
+        <paash#villages> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#natural_gas> a skos:Concept ;
     skos:altLabel "Gas, Natural"@en,
         "Sour gas"@en ;
@@ -32017,7 +31969,7 @@
         <paash#natural_gas_--_geology>,
         <paash#natural_gas_--_law_and_legislation>,
         <paash#natural_gas_--_leases>,
-        <paash#natural_gas_--_pipe_lines>,
+        <paash#natural_gas_--_pipelines>,
         <paash#natural_gas_--_reserves>,
         <paash#natural_gas_--_storage>,
         <paash#natural_gas_--_taxation> ;
@@ -32240,6 +32192,25 @@
     skos:prefLabel "Lutheran Church"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#petroleum> a skos:Concept ;
+    skos:altLabel "Crude oil"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#petroleum_--_geology>,
+        <paash#petroleum_--_law_and_legislation>,
+        <paash#petroleum_--_leases>,
+        <paash#petroleum_--_pipelines>,
+        <paash#petroleum_--_products>,
+        <paash#petroleum_--_pumping_stations>,
+        <paash#petroleum_--_refineries>,
+        <paash#petroleum_--_reserves>,
+        <paash#petroleum_--_royalties>,
+        <paash#petroleum_--_storage>,
+        <paash#petroleum_--_taxation> ;
+    skos:prefLabel "Petroleum"@en ;
+    skos:related <paash#fracking>,
+        <paash#oil> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#schools> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#schools_--_athletics>,
@@ -32293,26 +32264,6 @@
         <paash#hospitals_--_radiological_services>,
         <paash#hospitals_--_staff> ;
     skos:prefLabel "Hospitals"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#petroleum> a skos:Concept ;
-    skos:altLabel "Crude oil"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#petroleum_--_geology>,
-        <paash#petroleum_--_law_and_legislation>,
-        <paash#petroleum_--_leases>,
-        <paash#petroleum_--_pipe_lines>,
-        <paash#petroleum_--_pipelines>,
-        <paash#petroleum_--_products>,
-        <paash#petroleum_--_pumping_stations>,
-        <paash#petroleum_--_refineries>,
-        <paash#petroleum_--_reserves>,
-        <paash#petroleum_--_royalties>,
-        <paash#petroleum_--_storage>,
-        <paash#petroleum_--_taxation> ;
-    skos:prefLabel "Petroleum"@en ;
-    skos:related <paash#fracking>,
-        <paash#oil> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#baptist_church> a skos:Concept ;
@@ -32412,7 +32363,7 @@
         <paash#mines_and_mining_--_inspections>,
         <paash#mines_and_mining_--_laws_and_legislation>,
         <paash#mines_and_mining_--_leases>,
-        <paash#mines_and_mining_--_railroads>,
+        <paash#mines_and_mining_--_railways>,
         <paash#mines_and_mining_--_rescue_work>,
         <paash#mines_and_mining_--_safety>,
         <paash#mines_and_mining_--_sanitation>,
@@ -35000,6 +34951,7 @@
 <paash#paash> a skos:ConceptScheme ;
     skos:hasTopConcept <paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located]),_e.g.,_germany.__consulate_(edmonton,_alta.)>,
         <paash#[name_of_department],_department_of_(e.g.,_agriculture,_department_of)>,
+        <paash#[name_of_department],_minister_of,_e.g.,_agriculture,_minister_of>,
         <paash#[name_of_province].__department_of_[name_of_department]>,
         <paash#abduction>,
         <paash#ableism>,
@@ -35321,7 +35273,7 @@
         <paash#cabbage>,
         <paash#cabinet_ministers>,
         <paash#cable_cars>,
-        <paash#cabooses_(railroads)>,
+        <paash#cabooses_(railways)>,
         <paash#cadavers>,
         <paash#cafeterias>,
         <paash#cairns>,
@@ -35767,7 +35719,7 @@
         <paash#electric_power>,
         <paash#electric_power_failures>,
         <paash#electric_power_plants>,
-        <paash#electric_railroads>,
+        <paash#electric_railways>,
         <paash#electric_transformers>,
         <paash#electricians>,
         <paash#electricity>,
@@ -35825,6 +35777,7 @@
         <paash#european_canadians>,
         <paash#europeans>,
         <paash#euthanasia>,
+        <paash#evangelists>,
         <paash#excavating_machinery>,
         <paash#excavation>,
         <paash#executive_advisory_bodies>,
@@ -36294,7 +36247,6 @@
         <paash#insurance,_life>,
         <paash#insurance,_nuclear_hazards>,
         <paash#insurance,_property>,
-        <paash#insurance,_surety_and_fidelity>,
         <paash#insurance,_unemployment>,
         <paash#insurance,_uninsured_motorist>,
         <paash#insurance_companies>,
@@ -36463,7 +36415,6 @@
         <paash#lime_industry>,
         <paash#limestone>,
         <paash#liquid_air_industry>,
-        <paash#liquor_traffic>,
         <paash#literacy>,
         <paash#literature>,
         <paash#literature,_comparative>,
@@ -36550,7 +36501,6 @@
         <paash#medicine>,
         <paash#melons>,
         <paash#men>,
-        <paash#men's_clothing>,
         <paash#mennonites>,
         <paash#mental_health>,
         <paash#mentally_disabled>,
@@ -36589,7 +36539,6 @@
         <paash#mines_and_mining,_iron>,
         <paash#mining_leases>,
         <paash#ministerial_orders>,
-        <paash#ministerial_papers>,
         <paash#ministers_of_religion>,
         <paash#mink_farming>,
         <paash#minorities>,
@@ -36733,7 +36682,7 @@
         <paash#oil_exploration>,
         <paash#oil_fields>,
         <paash#oil_industry_and_trade>,
-        <paash#oil_pipe_lines>,
+        <paash#oil_pipelines>,
         <paash#oil_refineries>,
         <paash#oil_sands>,
         <paash#oil_sands_extraction_plants>,
@@ -36831,7 +36780,6 @@
         <paash#pemmican>,
         <paash#penmanship>,
         <paash#pensions>,
-        <paash#pensions,_old_age_pensions>,
         <paash#pentecostal_church>,
         <paash#performing_arts>,
         <paash#performing_arts_festivals>,
@@ -37053,9 +37001,6 @@
         <paash#radiology,_medical>,
         <paash#radium>,
         <paash#rafting_(sports)>,
-        <paash#railroads_--_construction_workers>,
-        <paash#railroads_--_freight_cars>,
-        <paash#railroads_--_passenger_lists>,
         <paash#railways>,
         <paash#rain_and_rainfall>,
         <paash#rakes>,
@@ -37354,7 +37299,6 @@
         <paash#spraying_and_dusting_in_forests>,
         <paash#squirrels>,
         <paash#stables>,
-        <paash#stadiums>,
         <paash#staircases>,
         <paash#stampedes>,
         <paash#starch_industry>,
@@ -37444,7 +37388,6 @@
         <paash#tanning>,
         <paash#tar>,
         <paash#targets_(shooting)>,
-        <paash#tariff>,
         <paash#tariffs>,
         <paash#tattoos_and_tattooing>,
         <paash#taverns_(inns)>,
@@ -37537,7 +37480,6 @@
         <paash#transsexual>,
         <paash#traplines>,
         <paash#trappers_and_trapping>,
-        <paash#trapping_and_trappers>,
         <paash#travel_agents_and_agencies>,
         <paash#travelling_sales_personnel>,
         <paash#travois>,
@@ -37572,6 +37514,7 @@
         <paash#tutors_and_tutoring>,
         <paash#twine>,
         <paash#two-spirit>,
+        <paash#types_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.>,
         <paash#typesetting>,
         <paash#typewriters>,
         <paash#typewriting>,
@@ -37635,7 +37578,6 @@
         <paash#visually_impaired>,
         <paash#vital_statistics>,
         <paash#vocational_centres>,
-        <paash#vocational_colleges>,
         <paash#vocational_education>,
         <paash#vocational_guidance>,
         <paash#vocational_rehabilitation>,
@@ -37652,7 +37594,6 @@
         <paash#war_memorials>,
         <paash#warble_flies>,
         <paash#warehouses>,
-        <paash#warrants,_law>,
         <paash#warrants_(law)>,
         <paash#washing_machines>,
         <paash#washstands>,
