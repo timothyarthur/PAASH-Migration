@@ -22,15 +22,21 @@ Accident Insurance
 Accident Investigation
 
 Accidents
-	RT Traffic accidents
-	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
+	RT Industrial accidents
 	NT Investigation
 	NT Prevention
+	RT subdivision Accidents under types of industries and under topics where phrase headings for accidents have not been established, e.g., Coal mines and mining -- Accidents
+	RT Traffic -- Accidents
+	RT Aircraft -- Accidents
+	RT Coal -- Mines and mining -- Accidents
+	RT Railways -- Accidents
 
 Accountants
 
 Accounting
 	RT subdivision Accounting under topics, e.g., Dairying -- Accounting and under names of individual corporate bodies
+	RT Hospitals -- Accounting
+	RT Insurance -- Accounting
 
 Acid precipitation
 	USE Weather -- Acid rain
@@ -355,6 +361,8 @@ Alcoholism
 
 Aldermen
 	USE City Councillors under names of cities
+	USE Calgary -- City Councillors
+	USE Edmonton -- City Councillors
 
 Alfalfa
 
@@ -452,6 +460,9 @@ Animals
 	NT Diseases
 		RT Veterinary medicine
 		RT subdivision Diseases under individual animals and groups of animals
+		RT Cattle -- Diseases
+		RT Horses -- Diseases
+		RT Poultry -- Diseases
 
 Animals, Domestic
 	USE Domestic animals
@@ -910,6 +921,8 @@ Banquets
 
 Baptism
 	USE as NT under specific religion
+	USE Baptist Church -- Baptism
+	USE Anglican Church of Canada -- Baptism
 
 Baptist Church
 	NT Baptism
@@ -944,6 +957,15 @@ Barns
 
 Barracks
 	RT subdivision Barracks and quarters under armies, etc.
+	RT Canada.  Canadian Armed Forces -- Barracks and quarters
+	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters~f
+	RT Canada.  Army -- Barracks and quarters
+	RT Canada.  Army.  Canadian Expeditionary Force -- Barracks and quarters
+	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Barracks and quarters~f
+	RT Canada.  Royal Canadian Air Force -- Barracks and quarters
+	RT Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Barracks and quarters~f
+	RT Canada.  Royal Canadian Navy -- Barracks and quarters
+	RT Royal Canadian Mounted Police -- Barracks and quarters
 
 Barrels
 
@@ -1037,6 +1059,7 @@ Belt conveyors
 
 Berries
 	RT names of particular berries
+	RT Saskatoon berry
 	NT Harvesting
 
 Bertha armyworm
@@ -1217,7 +1240,11 @@ Bottles
 Boulders
 
 Boundaries
-	USE NT Boundaries under place names.
+	USE NT Boundaries under place names
+	USE Alberta -- Boundaries
+	USE Calgary -- Boundaries
+	USE Canada -- Boundaries
+	USE Edmonton -- Boundaries
 
 Bounties
 
@@ -1253,6 +1280,11 @@ Breathing apparatus
 
 Breeding
 	USE as NT under BT, e.g. Livestock -- Breeding
+	USE Cattle -- Breeding
+	USE Dogs -- Breeding
+	USE Horses -- Breeding
+	USE Livestock -- Breeding
+	USE Poultry -- Breeding
 
 Breweries
 	NT Workers
@@ -1318,6 +1350,11 @@ Buddhists
 
 Budget
 	RT Appropriations and expenditures under names of governmental jurisdictions, associations, etc.
+	RT Agriculture, Department of -- Appropriations and expenditures
+	RT Alberta -- Appropriations and expenditures
+	RT Calgary -- Appropriations and expenditures
+	RT Edmonton -- Appropriations and expenditures
+
 
 Budget speech
 
@@ -1345,7 +1382,41 @@ Buildings
 	NT Prefabricated
 	NT Wooden
 	RT names of particular types of buildings, e.g., Archive buildings
+	RT Exhibition buildings
+	RT Farm Buildings
+	RT Historic buildings
+	RT Legislative buildings
+	RT Log buildings
+	RT Municipal buildings
+	RT Office buildings
+	RT Public buildings
 	RT subdivision Buildings under names of communities and institutions.
+	RT Airports -- Buildings
+	RT Alberta Provincial Police -- Buildings
+	RT Anglican Church of Canada -- Buildings
+	RT Athabasca University -- Buildings
+	RT Baha'i -- Buildings
+	RT Baptist Church -- Buildings
+	RT Buddhism -- Buildings
+	RT Calgary -- Buildings
+	RT Church of Jesus Christ of the Latter Day Saints -- Buildings
+	RT Edmonton -- Buildings
+	RT Hinduism -- Buildings
+	RT Islam -- Buildings
+	RT Jehovah's Witnesses -- Buildings
+	RT Judaism -- Buildings
+	RT Lutheran Church -- Buildings
+	RT Methodist Church -- Buildings
+	RT Moravian Church -- Buildings
+	RT Orthodox Catholic Church -- Buildings
+	RT Pentecostal Church -- Buildings
+	RT Postal service -- Buildings
+	RT Presbyterian Church -- Buildings
+	RT Railways -- Buildings and structures
+	RT Schools -- Buildings
+	RT United Church of Canada -- Buildings
+	RT Universities and colleges -- Buildings
+	RT University of Alberta -- Buildings
 
 Bulldozers
 
@@ -1387,6 +1458,8 @@ By-elections
 
 By-laws
 	RT subdivision By-laws under types of corporate bodies and names of individual corporate bodies.
+	RT Edmonton -- By-laws
+	RT Calgary -- By-laws
 
 By-Laws, Municipals
 	USE Ordinances, Municipal
@@ -1451,7 +1524,7 @@ Calgary
 	NT Breweries
 	NT Bridges
 	NT Buildings
-	NT Buildings -- Conservation and restoration
+		NT Conservation and restoration
 	NT Bus terminals
 	NT By-laws
 	NT Carnival
@@ -2018,6 +2091,7 @@ Cast-iron pipe
 
 Catalogues
 	USE subdivision Catalogues under specific objects, e.g., Automobiles -- Catalogues
+	USE Art -- Catalogues
 
 Catering and caterers
 
@@ -3818,7 +3892,7 @@ Edmonton
 	NT Breweries
 	NT Bridges
 	NT Buildings
-	NT Buildings -- Conservation and restoration
+		NT Conservation and restoration
 	NT Bus terminals
 	NT By-laws
 	NT Carnival
@@ -3994,6 +4068,8 @@ Eggs
 
 Election districts (Cities)
 	USE subdivisions Wards under names of cities
+	USE Calgary -- Wards
+	USE Edmonton -- Wards
 
 Election districts (Federal)
 	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
@@ -4219,12 +4295,17 @@ Exhibition grounds
 Exhibitions
 	RT names of exhibitions
 	RT subdivisions Exhibitions under names of countries, communities, etc.
+	RT Calgary -- Exhibitions
+	RT Edmonton -- Exhibitions
 
 Exhibits
 	USE Exhibitions
 
 Expenditures, Public
 	RT subdivision Appropriations and expenditures under names of communities.
+	RT Alberta -- Appropriations and expenditures
+	RT Calgary -- Appropriations and expenditures
+	RT Edmonton -- Appropriations and expenditures
 
 Experimental farms
 	USE Agricultural experimental stations
@@ -4240,6 +4321,15 @@ Explosives
 Export marketing
 	RT Marketing
 	RT Marketing subdivision under types of commodities or products
+	RT Cattle -- Marketing
+	RT Dairy products -- Marketing
+	RT Grain -- Marketing
+	RT Hay -- Marketing
+	RT Livestock -- Marketing
+	RT Potatoes -- Marketing
+	RT Poultry -- Marketing
+	RT Vegetables -- Marketing
+	RT Wheat -- Marketing
 
 Exports
 
@@ -4443,6 +4533,8 @@ Fire insurance
 
 Fire prevention
 	RT subdivision Fires and fire prevention under communities
+	RT Calgary -- Fires and fire prevention
+	RT Edmonton -- Fires and fire prevention
 
 Fire stations
 
@@ -4597,6 +4689,8 @@ Floodgates
 
 Floods
 	RT subdivision Floods under names of rivers, communities, etc., e.g., North Saskatchewan River -- Floods
+	RT Calgary -- Floods
+	RT Edmonton -- Floods
 
 Floor hockey
 	USE Ball hockey
@@ -5260,6 +5354,8 @@ Halloween
 
 Halls
 	RT subdivision Auditoriums, convention facilities, etc. under names of communities
+	RT Calgary -- Auditoriums, convention facilities, etc.
+	RT Edmonton -- Auditoriums, convention facilities, etc.
 
 Ham radio
 	USE Radio -- Amateur radio stations
@@ -5419,9 +5515,13 @@ High jumping
 
 High schools, private
 	RT subdivision Schools under names of communities.
+	RT Calgary -- Schools
+	RT Edmonton -- Schools
 
 High schools, public
 	RT subdivision Schools under names of communities.
+	RT Calgary -- Schools
+	RT Edmonton -- Schools
 
 High technology industries
 
@@ -6731,6 +6831,7 @@ Livestock brands
 
 Livestock breeds
 	RT under names of specific types of livestock, e.g., Cattle breeds, Horse breeds, etc.
+	RT Cattle -- Breeds
 
 Livestock exhibitions
 
@@ -7317,8 +7418,8 @@ Moving, Household
 
 Moving and storage
 	USE Storage and moving trade
-	Moving, Household
-	Moving of buildings, bridges, etc.
+	USE Moving, Household
+	USE Moving of buildings, bridges, etc.
 
 Mules
 	RT Donkeys
@@ -7789,6 +7890,11 @@ Nuisance grounds
 
 Numbered treaties
 	RT specific treaties
+	RT Treaty 4
+	RT Treaty 6
+	RT Treaty 7
+	RT Treaty 8
+	RT Treaty 10
 
 Numismatics
 	UF Coins
@@ -8033,6 +8139,17 @@ Optometry and optometrists
 
 Orchestra
 	RT subdivision Orchestras and bands under names of colleges and universities, communities, etc.
+	RT Calgary -- Orchestras and bands
+	RT Canada.  Canadian Armed Forces -- Orchestras and bands
+	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands
+	RT Canada.  Army -- Orchestras and bands
+	RT Canada.  Army.  Canadian Expeditionary Force -- Orchestras and bands
+	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Orchestras and bands
+	RT Canada.  Royal Canadian Air Force -- Orchestras and bands
+	RT Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Orchestras and bands
+	RT Canada.  Royal Canadian Navy -- Orchestras and bands
+	RT Edmonton -- Orchestras and bands
+	RT Royal Canadian Mounted Police -- Orchestras and bands
 
 Orders in Council
 
@@ -9247,8 +9364,29 @@ Residence halls
 	USE Dormitories
 
 Residential schools
-	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 	RT Residential schools NT under Indigenous peoples
+	RT Assiniboine Nation -- Residential schools
+	RT Cree Nation --Residential schools
+	RT Cree Nation, Plains -- Residential schools
+	RT Cree Nation, Woodlands -- Residential schools
+	RT Dane-zaa Nation -- Residential schools
+	RT Dene Suline Nation -- Residential schools
+	RT Dene Tha' Nation -- Residential schools
+	RT Indigenous peoples -- Residential schools
+	RT Inuit -- Residential schools
+	RT Kainai Nation -- Residential schools
+	RT Métis Nation -- Residential schools
+	RT Nakawe Nation -- Residential schools
+	RT Niitsitapi -- Residential schools
+	RT Ojibwa Nation -- Residential schools
+	RT Piikani Nation -- Residential schools
+	RT Siksika Nation -- Residential schools
+	RT Sioux Nation -- Residential schools
+	RT Tsuu T'ina Nation --
+	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
+	RT Anglican Church of Canada -- Residential schools
+	RT Catholic Church -- Residential schools
+	RT United Church of Canada -- Residential schools
 	RT Truth and Reconciliation Commission
 
 Resistance to government
@@ -10157,6 +10295,8 @@ Sports facilities
 	UF Arenas
 	UF Stadiums
 	RT subdivision Sports facilities under names of communities.
+	RT Calgary -- Sports facilities
+	RT Edmonton -- Sports facilities
 
 Spraying and dusting in agriculture
 
@@ -10472,6 +10612,8 @@ Swords
 
 Synagogues
 	RT subdivision Synagogues under names of communities
+	RT Calgary -- Synagogues
+	RT Edmonton -- Synagogues
 
 Synchronized Swimming
 	USE Artistic Swimming
@@ -10832,6 +10974,21 @@ Trials
 
 Tribes
 	USE name of specific Nation or Band
+	USE Cree Nation
+	USE Cree Nation, Plains
+	USE Cree Nation, Woodlands
+	USE Dane-zaa Nation
+	USE Dene Suline Nation
+	USE Dene Tha' Nation
+	USE Inuit
+	USE Kainai Nation
+	USE Métis Nation
+	USE Nakawe Nation
+	USE Niitsitapi
+	USE Ojibwa Nation
+	USE Piikani Nation
+	USE Siksika Nation
+	USE Sioux Nation
 
 Tricycles
 
@@ -10856,7 +11013,28 @@ Trust and Trustees
 Truth and Reconciliation Commission
 	RT Residential schools
 	RT Residential schools NT under Indigenous peoples
+	RT Assiniboine Nation -- Residential schools
+	RT Cree Nation -- Residential schools
+	RT Cree Nation, Plains -- Residential schools
+	RT Cree Nation, Woodlands -- Residential schools
+	RT Dane-zaa Nation -- Residential schools
+	RT Dene Suline Nation -- Residential schools
+	RT Dene Tha' Nation -- Residential schools
+	RT Indigenous peoples -- Residential schools
+	RT Inuit -- Residential schools
+	RT Kainai Nation -- Residential schools
+	RT Métis Nation -- Residential schools
+	RT Nakawe Nation -- Residential schools
+	RT Niitsitapi -- Residential schools
+	RT Ojibwa Nation -- Residential schools
+	RT Piikani Nation -- Residential schools
+	RT Siksika Nation -- Residential schools
+	RT Sioux Nation -- Residential schools
+	RT Tsuu T'ina Nation --
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
+	RT Anglican Church of Canada -- Residential schools
+	RT Catholic Church -- Residential schools
+	RT United Church of Canada -- Residential schools
 
 Tsuu T'ina Nation
 	NT Agriculture

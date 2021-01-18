@@ -367,6 +367,8 @@ Livestock breeds
 
 Mayors
 	RT subdivision Mayors under names of communities
+	RT Calgary -- Mayors
+	RT Edmonton -- Mayors
 
 Métis Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]

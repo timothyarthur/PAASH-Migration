@@ -19,3 +19,6 @@ Canada.  Laws
 Government employees
 	USE Civil service
 	RT subdivision Government employees under specific subjects, e.g., Collective bargaining -- Government employees
+
+  Disasters
+  	RT specific types of disasters, e.g., Floods, Fires {possible to enumerate?}

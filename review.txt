@@ -72,7 +72,7 @@ Berries
 	RT names of particular berries
 
 Boundaries
-	USE NT Boundaries under place names.
+	USE NT Boundaries under place names
 
 Breeding
 	USE as NT under BT, e.g. Livestock -- Breeding
@@ -288,10 +288,10 @@ Piikani Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
 
 Residential schools
-	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
+	RT Residential schools NT under Indigenous peoples
 
 Residential schools
-	RT Residential schools NT under Indigenous peoples
+	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 
 Siksika Nation
 	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
