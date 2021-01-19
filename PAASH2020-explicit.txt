@@ -9366,7 +9366,7 @@ Residence halls
 Residential schools
 	RT Residential schools NT under Indigenous peoples
 	RT Assiniboine Nation -- Residential schools
-	RT Cree Nation --Residential schools
+	RT Cree Nation -- Residential schools
 	RT Cree Nation, Plains -- Residential schools
 	RT Cree Nation, Woodlands -- Residential schools
 	RT Dane-zaa Nation -- Residential schools
@@ -9382,7 +9382,7 @@ Residential schools
 	RT Piikani Nation -- Residential schools
 	RT Siksika Nation -- Residential schools
 	RT Sioux Nation -- Residential schools
-	RT Tsuu T'ina Nation --
+	RT Tsuu T'ina Nation -- Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 	RT Anglican Church of Canada -- Residential schools
 	RT Catholic Church -- Residential schools
@@ -11030,7 +11030,7 @@ Truth and Reconciliation Commission
 	RT Piikani Nation -- Residential schools
 	RT Siksika Nation -- Residential schools
 	RT Sioux Nation -- Residential schools
-	RT Tsuu T'ina Nation --
+	RT Tsuu T'ina Nation -- Residential schools
 	RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools
 	RT Anglican Church of Canada -- Residential schools
 	RT Catholic Church -- Residential schools

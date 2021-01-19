@@ -25054,11 +25054,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Tsuu T'ina Nation -- Reservations"@en .
 
-<paash#tsuu_t'ina_nation_--_residential_schools> a skos:Concept ;
-    skos:broader <paash#tsuu_t'ina_nation> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Tsuu T'ina Nation -- Residential schools"@en .
-
 <paash#tsuu_t'ina_nation_--_rites_and_ceremonies> a skos:Concept ;
     skos:broader <paash#tsuu_t'ina_nation> ;
     skos:inScheme <paash#paash> ;
@@ -27131,12 +27126,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Cree Nation -- Hunting"@en ;
     skos:related <paash#buffalo_jump> .
-
-<paash#cree_nation_--_residential_schools> a skos:Concept ;
-    skos:broader <paash#cree_nation> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Cree Nation -- Residential schools"@en ;
-    skos:related <paash#truth_and_reconciliation_commission> .
 
 <paash#cribs_(children's_furniture)> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -29770,12 +29759,12 @@
     skos:related <paash#residential_schools>,
         <paash#truth_and_reconciliation_commission> .
 
-<paash#cree_nation_--residential_schools> a skos:Concept ;
-    skos:broader <paash#cree_nation_--residential_schools> ;
+<paash#cree_nation_--_residential_schools> a skos:Concept ;
+    skos:broader <paash#cree_nation> ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#cree_nation_--residential_schools> ;
-    skos:prefLabel "Cree Nation --Residential schools"@en ;
-    skos:related <paash#residential_schools> .
+    skos:prefLabel "Cree Nation -- Residential schools"@en ;
+    skos:related <paash#residential_schools>,
+        <paash#truth_and_reconciliation_commission> .
 
 <paash#cremation> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -30599,6 +30588,13 @@
         <paash#hunting> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#tsuu_t'ina_nation_--_residential_schools> a skos:Concept ;
+    skos:broader <paash#tsuu_t'ina_nation> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Tsuu T'ina Nation -- Residential schools"@en ;
+    skos:related <paash#residential_schools>,
+        <paash#truth_and_reconciliation_commission> .
+
 <paash#ukrainians> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Ukrainians"@en ;
@@ -31071,14 +31067,6 @@
         <paash#trust_and_trustees_--_indentures> ;
     skos:prefLabel "Trust and Trustees"@en ;
     skos:topConceptOf <paash#paash> .
-
-<paash#tsuu_t'ina_nation_--> a skos:Concept ;
-    skos:broader <paash#tsuu_t'ina_nation_--> ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#tsuu_t'ina_nation_--> ;
-    skos:prefLabel "Tsuu T'ina Nation --"@en ;
-    skos:related <paash#residential_schools>,
-        <paash#truth_and_reconciliation_commission> .
 
 <paash#voting> a skos:Concept ;
     skos:altLabel "Polls"@en ;
@@ -32707,7 +32695,7 @@
         <paash#catholic_church_--_residential_schools>,
         <paash#cree_nation,_plains_--_residential_schools>,
         <paash#cree_nation,_woodlands_--_residential_schools>,
-        <paash#cree_nation_--residential_schools>,
+        <paash#cree_nation_--_residential_schools>,
         <paash#dane-zaa_nation_--_residential_schools>,
         <paash#dene_suline_nation_--_residential_schools>,
         <paash#dene_tha'_nation_--_residential_schools>,
@@ -32722,7 +32710,7 @@
         <paash#siksika_nation_--_residential_schools>,
         <paash#sioux_nation_--_residential_schools>,
         <paash#truth_and_reconciliation_commission>,
-        <paash#tsuu_t'ina_nation_-->,
+        <paash#tsuu_t'ina_nation_--_residential_schools>,
         <paash#united_church_of_canada_--_residential_schools> ;
     skos:scopeNote "RT Residential schools NT under Indigenous peoples"@en,
         "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
@@ -32751,7 +32739,7 @@
         <paash#residential_schools>,
         <paash#siksika_nation_--_residential_schools>,
         <paash#sioux_nation_--_residential_schools>,
-        <paash#tsuu_t'ina_nation_-->,
+        <paash#tsuu_t'ina_nation_--_residential_schools>,
         <paash#united_church_of_canada_--_residential_schools> ;
     skos:scopeNote "RT Residential schools NT under Indigenous peoples"@en,
         "RT Residential schools NT under administrating body, e.g. Catholic Church -- Residential schools"@en ;
