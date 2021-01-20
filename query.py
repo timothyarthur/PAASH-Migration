@@ -5,11 +5,23 @@ import csv
 
 g = rdflib.Graph()
 
-g.parse("paash_num_test.ttl", format = 'turtle')
+g.parse("paash_num.ttl", format = 'turtle')
 g.bind('skos', SKOS)
 
+#
+# labels = g.query("""SELECT DISTINCT ?target ?targetLabel
+# 	WHERE{
+# 	?target skos:prefLabel ?targetLabel .
+# 	}"""
+# 	)
 
-#TODO Items with USE that are USE for other items
+
+results = g.query("""SELECT DISTINCT ?target ?targetLabel
+	WHERE{
+	?target skos:prefLabel ?targetLabel .
+	?pref skos:altLabel ?targetLabel .
+	}"""
+	)
 
 #Items with USE and rt or nt
 #Do not remove rts
@@ -35,8 +47,8 @@ top_level_count = g.query("""SELECT (COUNT(?s) as ?num)
 for item in top_level_count:
 	print(item)
 
-# with open('results.csv', 'w') as file:
-# 	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-# 	writer.writerow(['Item', 'Label', 'altLabel'])
-# 	for row in labels:
-# 		writer.writerow(row)
+with open('results.csv', 'w') as file:
+	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+	writer.writerow(['Item', 'Label'])
+	for row in results:
+		writer.writerow(row)

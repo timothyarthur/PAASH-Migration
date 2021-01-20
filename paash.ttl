@@ -2978,11 +2978,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Breweries"@en .
 
-<paash#calgary_--_bridges> a skos:Concept ;
-    skos:broader <paash#calgary> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Bridges"@en .
-
 <paash#calgary_--_buildings_--_conservation_and_restoration> a skos:Concept ;
     skos:broader <paash#calgary_--_buildings> ;
     skos:inScheme <paash#paash> ;
@@ -9161,11 +9156,6 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Breweries"@en .
-
-<paash#edmonton_--_bridges> a skos:Concept ;
-    skos:broader <paash#edmonton> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Bridges"@en .
 
 <paash#edmonton_--_buildings_--_conservation_and_restoration> a skos:Concept ;
     skos:broader <paash#edmonton_--_buildings> ;
@@ -26005,18 +25995,6 @@
     skos:prefLabel "Welsh Canadians"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#west_indian_canadians> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "West Indian Canadians"@en ;
-    skos:scopeNote "Use specific nation when possible."@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#west_indians> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "West Indians"@en ;
-    skos:scopeNote "Use specific nation when possible."@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#western_canada_concept_--_conventions> a skos:Concept ;
     skos:broader <paash#western_canada_concept> ;
     skos:inScheme <paash#paash> ;
@@ -26724,6 +26702,12 @@
     skos:prefLabel "Calgary -- Auditoriums, convention facilities, etc."@en ;
     skos:related <paash#halls> .
 
+<paash#calgary_--_bridges> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Bridges"@en ;
+    skos:related <paash#bridges> .
+
 <paash#calgary_--_by-laws> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -27304,6 +27288,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Auditoriums, convention facilities, etc."@en ;
     skos:related <paash#halls> .
+
+<paash#edmonton_--_bridges> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Bridges"@en ;
+    skos:related <paash#bridges> .
 
 <paash#edmonton_--_by-laws> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -31807,19 +31797,6 @@
     skos:related <paash#canada,_western_--_autonomy_and_independence_movement> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#bridges> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#bridges_--_cantilever>,
-        <paash#bridges_--_concrete>,
-        <paash#bridges_--_design_and_construction>,
-        <paash#bridges_--_iron_and_steel>,
-        <paash#bridges_--_stone>,
-        <paash#bridges_--_wooden> ;
-    skos:prefLabel "Bridges"@en ;
-    skos:scopeNote "RT names of individual bridges"@en,
-        "RT subdivision Bridges under names of rivers, communities, etc."@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#correctional_institutions> a skos:Concept ;
     skos:altLabel "Community correctional centres"@en,
         "Gaols"@en,
@@ -31989,6 +31966,21 @@
         <paash#radio_--_programs>,
         <paash#radio_--_stations> ;
     skos:prefLabel "Radio"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#bridges> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#bridges_--_cantilever>,
+        <paash#bridges_--_concrete>,
+        <paash#bridges_--_design_and_construction>,
+        <paash#bridges_--_iron_and_steel>,
+        <paash#bridges_--_stone>,
+        <paash#bridges_--_wooden> ;
+    skos:prefLabel "Bridges"@en ;
+    skos:related <paash#calgary_--_bridges>,
+        <paash#edmonton_--_bridges> ;
+    skos:scopeNote "RT names of individual bridges"@en,
+        "RT subdivision Bridges under names of rivers, communities, etc."@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cattle> a skos:Concept ;
@@ -37921,8 +37913,6 @@
         <paash#wells>,
         <paash#welsh>,
         <paash#welsh_canadians>,
-        <paash#west_indian_canadians>,
-        <paash#west_indians>,
         <paash#western_canada_concept>,
         <paash#western_cree_tribal_council>,
         <paash#western_independence_party>,

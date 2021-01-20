@@ -1315,6 +1315,8 @@ Bridges
 	NT Stone
 	NT Wooden
 	RT subdivision Bridges under names of rivers, communities, etc.
+	RT Calgary -- Bridges
+	RT Edmonton -- Bridges
 	RT names of individual bridges
 
 British
@@ -11553,11 +11555,9 @@ Welsh
 Welsh Canadians
 
 West Indian Canadians
-	Use specific nation when possible.
 	USE Caribbean Canadians
 
 West Indians
-	Use specific nation when possible.
 	USE Caribbeans
 
 Western Canada
