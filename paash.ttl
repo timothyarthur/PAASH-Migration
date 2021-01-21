@@ -3165,6 +3165,7 @@
     skos:prefLabel "Calgary -- Elections"@en .
 
 <paash#calgary_--_entertaining_and_entertainment> a skos:Concept ;
+    skos:altLabel "Entertainment"@en ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Entertaining and entertainment"@en .
@@ -3178,11 +3179,6 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Explosion, [date]"@en .
-
-<paash#calgary_--_ferries> a skos:Concept ;
-    skos:broader <paash#calgary> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Ferries"@en .
 
 <paash#calgary_--_festivals> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3348,11 +3344,6 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Markets"@en .
-
-<paash#calgary_--_mayors> a skos:Concept ;
-    skos:broader <paash#calgary> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Mayors"@en .
 
 <paash#calgary_--_meat_industry_and_trade> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -6015,12 +6006,6 @@
 <paash#corn> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Corn"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#cornerstone_laying> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Cornerstone laying"@en ;
-    skos:scopeNote "RT subdivision Laying of cornerstone under names of specific buildings"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#coronations> a skos:Concept ;
@@ -9344,6 +9329,7 @@
     skos:prefLabel "Edmonton -- Elections"@en .
 
 <paash#edmonton_--_entertaining_and_entertainment> a skos:Concept ;
+    skos:altLabel "Entertainment"@en ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Entertaining and entertainment"@en .
@@ -9357,11 +9343,6 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Explosion, [date]"@en .
-
-<paash#edmonton_--_ferries> a skos:Concept ;
-    skos:broader <paash#edmonton> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Ferries"@en .
 
 <paash#edmonton_--_festivals> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9527,11 +9508,6 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Markets"@en .
-
-<paash#edmonton_--_mayors> a skos:Concept ;
-    skos:broader <paash#edmonton> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Mayors"@en .
 
 <paash#edmonton_--_meat_industry_and_trade> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -15288,11 +15264,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Legislative buildings -- Interiors"@en .
 
-<paash#legislative_buildings_--_laying_of_cornerstone> a skos:Concept ;
-    skos:broader <paash#legislative_buildings> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Legislative buildings -- Laying of cornerstone"@en .
-
 <paash#lesbians> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Lesbians"@en ;
@@ -15789,12 +15760,6 @@
 <paash#mathematics> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mathematics"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#mayors> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Mayors"@en ;
-    skos:scopeNote "RT subdivision Mayors under names of communities"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#meat_--_preparation> a skos:Concept ;
@@ -26720,6 +26685,12 @@
     skos:prefLabel "Calgary -- Exhibitions"@en ;
     skos:related <paash#exhibitions> .
 
+<paash#calgary_--_ferries> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Ferries"@en ;
+    skos:related <paash#ferries> .
+
 <paash#calgary_--_fires_and_fire_prevention> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -26731,6 +26702,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Floods"@en ;
     skos:related <paash#floods> .
+
+<paash#calgary_--_mayors> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary -- Mayors"@en ;
+    skos:related <paash#mayors> .
 
 <paash#calgary_--_orchestras_and_bands> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -27073,6 +27050,13 @@
     skos:related <paash#credit_unions> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#cornerstone_laying> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Cornerstone laying"@en ;
+    skos:related <paash#legislative_buildings_--_laying_of_cornerstone> ;
+    skos:scopeNote "RT subdivision Laying of cornerstone under names of specific buildings"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#coroners> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Coroners"@en ;
@@ -27308,6 +27292,12 @@
     skos:prefLabel "Edmonton -- Exhibitions"@en ;
     skos:related <paash#exhibitions> .
 
+<paash#edmonton_--_ferries> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Ferries"@en ;
+    skos:related <paash#ferries> .
+
 <paash#edmonton_--_fires_and_fire_prevention> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -27319,6 +27309,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Floods"@en ;
     skos:related <paash#floods> .
+
+<paash#edmonton_--_mayors> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton -- Mayors"@en ;
+    skos:related <paash#mayors> .
 
 <paash#edmonton_--_orchestras_and_bands> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -27458,13 +27454,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Federal-provincial conferences"@en ;
     skos:related <paash#constitutional_conventions> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#ferries> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#ferries_--_employees> ;
-    skos:prefLabel "Ferries"@en ;
-    skos:scopeNote "RT subdivision Ferries under names of communities"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#figure_skating> a skos:Concept ;
@@ -28127,6 +28116,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Legislative Assembly -- Bills"@en ;
     skos:related <paash#legislation> .
+
+<paash#legislative_buildings_--_laying_of_cornerstone> a skos:Concept ;
+    skos:broader <paash#legislative_buildings> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Legislative buildings -- Laying of cornerstone"@en ;
+    skos:related <paash#cornerstone_laying> .
 
 <paash#lieutenant-governors> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -30198,6 +30193,14 @@
     skos:related <paash#pulmonary_fibrosis> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#mayors> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Mayors"@en ;
+    skos:related <paash#calgary_--_mayors>,
+        <paash#edmonton_--_mayors> ;
+    skos:scopeNote "RT subdivision Mayors under names of communities"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#mentally_disabled> a skos:Concept ;
     skos:altLabel "Disabled"@en,
         "Handicapped"@en ;
@@ -30815,6 +30818,15 @@
     skos:prefLabel "Environmental policy"@en ;
     skos:related <paash#ecology>,
         <paash#pollution> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#ferries> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#ferries_--_employees> ;
+    skos:prefLabel "Ferries"@en ;
+    skos:related <paash#calgary_--_ferries>,
+        <paash#edmonton_--_ferries> ;
+    skos:scopeNote "RT subdivision Ferries under names of communities"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#food> a skos:Concept ;

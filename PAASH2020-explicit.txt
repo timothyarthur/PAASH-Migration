@@ -1385,7 +1385,7 @@ Buildings
 	NT Wooden
 	RT names of particular types of buildings, e.g., Archive buildings
 	RT Exhibition buildings
-	RT Farm Buildings
+	RT Farm buildings
 	RT Historic buildings
 	RT Legislative buildings
 	RT Log buildings
@@ -2705,6 +2705,7 @@ Corn
 
 Cornerstone laying
 	RT subdivision Laying of cornerstone under names of specific buildings
+	RT Legislative buildings -- Laying of cornerstone
 
 Coronations
 
@@ -4211,6 +4212,8 @@ Entertaining
 Entertainment
 	USE specific form of entertainment
 	USE Entertaining and entertainment subdivision under names of communities
+	USE Calgary -- Entertaining and entertainment
+	USE Edmonton -- Entertaining and entertainment
 
 Entrepreneurship
 
@@ -4469,6 +4472,8 @@ Fencing
 Ferries
 	NT Employees
 	RT subdivision Ferries under names of communities
+	RT Calgary -- Ferries
+	RT Edmonton -- Ferries
 
 Ferrotype
 	USE Photography -- Tintype
@@ -7035,6 +7040,8 @@ Mathematics
 
 Mayors
 	RT subdivision Mayors under names of communities
+	RT Calgary -- Mayors
+	RT Edmonton -- Mayors
 
 Measles
 	RT Rubella
