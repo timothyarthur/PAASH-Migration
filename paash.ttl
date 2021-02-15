@@ -11359,10 +11359,10 @@
     skos:prefLabel "Game laws"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#game_preserves> a skos:Concept ;
+<paash#game_reserves> a skos:Concept ;
+    skos:altLabel "Game preserves"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Game preserves"@en ;
-    skos:scopeNote "Use Game reserves"@en ;
+    skos:prefLabel "Game reserves"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#game_wardens> a skos:Concept ;
@@ -36263,7 +36263,7 @@
         <paash#game_farms>,
         <paash#game_fowl>,
         <paash#game_laws>,
-        <paash#game_preserves>,
+        <paash#game_reserves>,
         <paash#game_wardens>,
         <paash#games>,
         <paash#garage_sales>,

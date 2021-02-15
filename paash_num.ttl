@@ -11360,9 +11360,9 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002585> a skos:Concept ;
+    skos:altLabel "Game preserves"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Game preserves"@en ;
-    skos:scopeNote "Use Game reserves"@en ;
+    skos:prefLabel "Game reserves"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#sh002586> a skos:Concept ;

@@ -4962,7 +4962,7 @@ Game fowl
 Game laws
 
 Game preserves
-	Use Game reserves
+	USE Game reserves
 
 Game wardens
 

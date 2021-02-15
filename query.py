@@ -8,20 +8,20 @@ g = rdflib.Graph()
 g.parse("paash_num.ttl", format = 'turtle')
 g.bind('skos', SKOS)
 
-#
+#Labels
 # labels = g.query("""SELECT DISTINCT ?target ?targetLabel
 # 	WHERE{
 # 	?target skos:prefLabel ?targetLabel .
 # 	}"""
 # 	)
 
-
-results = g.query("""SELECT DISTINCT ?target ?targetLabel
-	WHERE{
-	?target skos:prefLabel ?targetLabel .
-	?pref skos:altLabel ?targetLabel .
-	}"""
-	)
+#Non-preferred terms with URIs
+# results = g.query("""SELECT DISTINCT ?target ?targetLabel
+# 	WHERE{
+# 	?target skos:prefLabel ?targetLabel .
+# 	?pref skos:altLabel ?targetLabel .
+# 	}"""
+# 	)
 
 #Items with USE and rt or nt
 #Do not remove rts
@@ -39,16 +39,23 @@ results = g.query("""SELECT DISTINCT ?target ?targetLabel
 # for result in results:
 # 	print(result)
 
-top_level_count = g.query("""SELECT (COUNT(?s) as ?num)
+# top_level_count = g.query("""SELECT (COUNT(?s) as ?num)
+# 	WHERE{
+# 	?s skos:topConceptOf ?o .
+# }"""
+# )
+# for item in top_level_count:
+# 	print(item)
+
+notes = g.query("""SELECT ?s ?label ?note
 	WHERE{
-	?s skos:topConceptOf ?o .
+	?s skos:prefLabel ?label .
+	?s skos:scopeNote ?note .
 }"""
 )
-for item in top_level_count:
-	print(item)
 
-with open('results.csv', 'w') as file:
+with open('notes.csv', 'w') as file:
 	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-	writer.writerow(['Item', 'Label'])
-	for row in results:
+	writer.writerow(['Item', 'Label', 'Note'])
+	for row in notes:
 		writer.writerow(row)

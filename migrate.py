@@ -23,6 +23,7 @@ g.add((scheme_uri, SKOS.prefLabel, Literal(scheme_label, lang='en')))
 concept_count = 0
 review_count = 0
 
+#Returns the URI for a given label, or None if none is yet assigned
 def get_uri(label):
 	uri = g.value(None, SKOS.prefLabel, Literal(label, lang='en'), any=False)
 	return uri
@@ -35,13 +36,14 @@ def gen_uri(label):
 		uri = paash[uri]
 	return uri
 
+#Generates a numeric URI through a simple count
 def gen_num_uri(uri):
 	global concept_count
 	concept_count += 1
 	uri = paash[f'sh{concept_count:06d}']
 	return uri
 
-# Returns the preferred label for URIs already in the graph
+# Returns the preferred label for URIs already in the graph, or None for URIs not in the graph
 def get_label(uri):
 	try:
 		label = g.preferredLabel(uri)[0][1]
@@ -49,6 +51,8 @@ def get_label(uri):
 		label = None
 	return label
 
+#Boolean function to determine if a line should be flagged for review
+#Takes item string and list of flags
 def flag_for_review(item, flags):
 	return any(substring in item.lower() for substring in flags) and not '~f' in item
 
@@ -61,7 +65,7 @@ def add_review(item_label, parent_label=None):
 		lines_to_review.append(f'{parent_label}\n\t{item_label}\n\n')
 	review_count +=1
 
-#Removes relational prefix from label
+#Removes relational prefix and flags from label
 def clean_label(label, note=False):
 	if "~f" in label:
 		label = label.replace('~f', '')
@@ -79,7 +83,7 @@ def clean_label(label, note=False):
 
 # Constructs heading nodes and adds to graph
 # Assigns basic properties possessed by all headings:
-# i.e. type, preferred label and membership in the overall PAASH scheme
+# i.e. type, preferred label and membership in the PAASH scheme
 def construct_heading_node(label):
 	uri = gen_uri(label)
 
@@ -90,7 +94,8 @@ def construct_heading_node(label):
 
 	return uri
 
-# Constructs subheading and adds to graph, by calling the constructor appropriate given its relation to its parent
+# Constructs subheading and adds to graph, by calling the function appropriate given its relation to its parent
+# Allows specifying flags for each case which will mark concepts that contain them for review
 def construct_subheading(item, parent, check_flags = True):
 	uri = None
 
@@ -168,7 +173,8 @@ def construct_use(item, parent):
 
 # Constructs subheadings with the RT relation
 # Applies the relation to and from the item and 'parent'
-# (The usage of 'parent' here indicates only the hierarchy specified in the input, the item and 'parent' need not be related hierarchically in the data structure as such)
+# (The usage of 'parent' here indicates only the hierarchy of the input document,
+# the item and 'parent' need not be related hierarchically in the data structure as such)
 def construct_rt(item, parent):
 	parent_label = get_label(parent)
 
@@ -210,10 +216,10 @@ def construct_note(item, parent):
 	parent_label = clean_label(parent_label, note='True')
 	g.add((parent, SKOS.scopeNote, Literal(item, lang='en')))
 
-#Loading and parsing plaintext input, then storing terms a nested dictionary data structure
+#Loading and parsing plaintext input, then storing terms in a nested dictionary
 #End result is a dictionary of dictionaries of lists
 if test:
-	file_name = 'PAASH2020-explicit.txt'
+	file_name = 'PAASH2020-test.txt'
 else:
 	file_name = 'PAASH2020-explicit.txt'
 
@@ -223,7 +229,8 @@ with open(file_name, 'r') as file:
 	text = file.read()
 
 lines = [line for line in text.split('\n')]
-print(f'{file_name} contains {len(lines)} lines')
+num_lines_of_text = len([line for line in lines if not line.strip()==''])
+print(f'{file_name} contains {num_lines_of_text} lines of text')
 
 #Generates a dictionary of dictionaries of lists as an intermediate hierarchical representation of the vocabulary, to be used to generate the graph
 #Strings for first order headings are keys for the below dictionary, whose values are a subdictionary whose keys are the second-order headings below them
@@ -253,7 +260,7 @@ while n < len(lines):
 
 #Iterating through data structure to generate URIs and construct the graph
 #To maintain the data structure during this process, we will generate nodes for non-preferred headings as well as preferred
-#The non-preferred will be removed in a later step
+#The non-preferred headings will be removed in a later step
 #Subheadings are assigned to a new dictionary for storage, using the newly-generated URIs for the parent headings as keys
 uri_dict = {}
 # try:
