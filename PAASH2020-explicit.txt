@@ -257,7 +257,7 @@ Alberta
 Alberta Bill of Rights
 
 Alberta Highway Patrol
-	USE Traffic police
+	USE Traffic -- Police
 
 Alberta, Northern
 
@@ -707,7 +707,8 @@ Assiniboine Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Assiniboine Nation -- Dwellings
@@ -832,6 +833,7 @@ Automobiles
 	NT Lighting
 	NT Maintenance and repair
 	NT Mechanics
+		USE Mechanics -- Automobiles
 	NT Parts
 	NT Racing
 	NT Registration and transfer
@@ -855,6 +857,7 @@ Aviation
 	NT Hijacking of aircraft
 	NT History
 	NT Mechanics
+		USE Mechanics -- Aviation
 	NT Pilots
 
 Aviation insurance
@@ -1125,7 +1128,8 @@ Birds
 Birth certificates
 
 Birth control
-	NT Religious aspects [Baptist Church, Catholic Church, etc.]
+	NT Religious aspects
+		NT [Name of religion or sect]
 	RT Contraception
 
 Birth defects
@@ -1691,7 +1695,7 @@ Camps
 
 Camps (Military)
 	USE Canada.  Armed Forces -- Installations
-	USE Military bases
+	USE Military -- Bases
 
 Campus police
 	USE Universities and colleges -- Security
@@ -1987,7 +1991,7 @@ Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
 	USE Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
 
 Canals
-	USE Irrigation canals and flumes
+	USE Irrigation -- Canals and flumes
 
 Cancer
 	NT Complications
@@ -2233,7 +2237,7 @@ Child welfare
 
 Childbirth
 	NT Home birth
-	NT Midwifery and midwives
+	RT Midwives and midwifery
 	NT Study and teaching
 
 Childcare
@@ -2348,13 +2352,13 @@ City councils
 City planning
 
 Civil court cases
-	USE Civil law -- Cases
+	USE Law -- Civil -- Cases
 
 Civil defence
 	NT Distant Early Warning Line
 
 Civil law
-	NT Cases
+	USE Law -- Civil
 
 Civil rights
 	RT Human rights
@@ -2362,6 +2366,7 @@ Civil rights
 Civil service
 	For specific departments USE [Name of department] -- Officials and employees
 	NT Alberta
+		USE Alberta -- Civil service
 	NT Canada
 
 Class and classism
@@ -2563,7 +2568,7 @@ Community pastures
 	USE Pastures
 
 Companies
-	USE Business enterprises
+	USE Business -- Enterprises
 
 Compensation for victims of crime
 	USE Reparation
@@ -2616,7 +2621,7 @@ Conscription, Military
 
 Conservation
 	USE Energy conservation
-	USE Water conservation
+	USE Water -- Conservation
 	USE Wildlife conservation
 
 Conservatories
@@ -2874,8 +2879,8 @@ Cree Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Teepees
 		USE Cree Nation -- Dwellings
 	NT Tobacco pipes
@@ -2959,7 +2964,8 @@ Cree Nation, Plains
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Cree Nation, Plains -- Dwellings
@@ -3044,7 +3050,8 @@ Cree Nation, Woodlands
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Cree Nation, Woodlands -- Dwellings
@@ -3282,7 +3289,8 @@ Dane-zaa Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Dane-zaa Nation -- Dwellings
@@ -3431,7 +3439,8 @@ Dene Suline Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Dene Suline Nation -- Dwellings
@@ -3517,7 +3526,8 @@ Dene Tha' Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Dene Tha' Nation -- Dwellings
@@ -3647,10 +3657,10 @@ Districts
 	USE Election districts (Provincial)
 	USE Health districts
 	USE Health units
-	USE Hospitals Districts
+	USE Hospitals -- Districts
 	USE Improvement Districts
 	USE Industrial districts
-	USE Irrigation districts
+	USE Irrigation -- Districts
 	USE Judicial districts
 	USE Local government
 	USE Local Improvement Districts
@@ -3658,7 +3668,7 @@ Districts
 	USE Municipal government
 	USE Municipal Nursing Services Districts
 	USE Registration districts
-	USE School Districts
+	USE Schools -- Districts
 	USE School Divisions
 	USE Special Areas
 
@@ -3723,7 +3733,7 @@ Doukhobors
 
 Doulas
 	RT Death
-	RT Midwifery
+	RT Midwives and midwifery
 
 Doves
 	RT Pigeons
@@ -4107,7 +4117,7 @@ Electric industries
 Electric lighting
 
 Electric lines
-	RT Telephone lines
+	RT Telephone -- Lines
 
 Electric motors
 
@@ -4116,6 +4126,7 @@ Electric power
 Electric power failures
 
 Electric power plants
+	USE Power plants, Electric
 
 Electrical supply stores
 	USE Stores, Retail -- Electric apparatus and appliances
@@ -4641,7 +4652,8 @@ First Nations
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE First Nations -- Dwellings
@@ -4964,6 +4976,7 @@ Game and game birds
 Game farms
 
 Game fowl
+	USE Fowl, Game
 
 Game laws
 
@@ -5010,7 +5023,6 @@ Gas conservation
 
 Gas wells
 	USE Natural gas -- Conservation
-	NT Taxation
 
 Gasoline
 	NT Law and legislation
@@ -5176,7 +5188,7 @@ Government property
 Government publications
 
 Government publicity
-	USE Government advertising
+	USE Government -- Advertising
 
 Government records
 
@@ -5233,6 +5245,7 @@ Grants, Federal
 Grants, Government
 
 Grants, Land
+	USE Land grants
 
 Grants, Provincial
 	USE Grants, Government
@@ -5638,6 +5651,7 @@ Horses
 	NT Racing
 	NT Riding
 	NT Riding clubs
+	NT Rustling
 	NT Training
 	NT Transportation
 
@@ -5748,7 +5762,7 @@ Hydraulic mining
 Hydraulic presses
 
 Hydroelectric power plants
-	RT Electric power plants
+	RT Power plants, Electric
 	RT Renewable energy
 
 Hydrology
@@ -5917,7 +5931,8 @@ Indigenous peoples
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Indigenous peoples -- Dwellings
@@ -6147,7 +6162,8 @@ Inuit
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Inuit -- Dwellings
@@ -6380,7 +6396,8 @@ Kainai Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Kainai Nation -- Dwellings
@@ -6523,7 +6540,8 @@ Kutenai Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Kutenai Nation -- Dwellings
@@ -6594,7 +6612,7 @@ Land sales
 Land settlement
 
 Land surveys
-	USE Surveying
+	USE Surveying and surveyors
 
 Land tax
 	USE Land value taxation
@@ -6641,12 +6659,13 @@ Latter-Day Saints
 
 Laundries
 	NT Machinery
-	NT Self-service laundries
+	NT Self-service
 	NT Workers
 
 Law
 	NT Cases
 	NT Civil
+		NT Cases
 	NT Corporate
 	NT Criminal
 	RT Actions and defenses
@@ -6673,7 +6692,7 @@ Lawn mowers
 
 Lawsuits
 	USE Law -- Actions and defenses
-	USE Civil law
+	USE Law -- Civil
 
 Lawyers
 	NT Ethics
@@ -6918,10 +6937,10 @@ Lumberjacks
 Lumber yards
 
 Lunar Eclipses
-	Subdivided by date, e.g. Lunar Eclipses -- 1866
+	USE Eclipses, Lunar
 
 Lunatic asylums
-	USE Psychiatric hospitals
+	USE Hospitals -- Psychiatric
 
 Lunatics
 	USE Mental health
@@ -6970,7 +6989,7 @@ Magicians
 Magistrates
 	USE Judges
 	USE Justices of the peace
-	USE Police magistrates
+	USE Police -- Magistrates
 
 Magnetic recorders and recording
 
@@ -7128,7 +7147,7 @@ Mental health
 	NT Treatment
 
 Mental hospitals
-	USE Psychiatric hospitals
+	USE Hospitals -- Psychiatric
 
 Mentally disabled
 	RT Physically disabled
@@ -7236,7 +7255,8 @@ Métis Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+
 	NT Study and teaching
 	NT Teepees
 		USE Métis Nation -- Dwellings
@@ -7508,7 +7528,7 @@ Muskox
 Muslims
 
 Mutual telephone companies
-	USE Telephone companies
+	USE Telephone -- Companies
 
 Nakawe Nation
 	UF Saulteaux Nation
@@ -7581,7 +7601,8 @@ Nakawe Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Nakawe Nation -- Dwellings
@@ -7667,7 +7688,8 @@ Nakoda Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Nakoda Nation -- Dwellings
@@ -7821,8 +7843,8 @@ Niitsitapi
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
-	NT Study and teaching
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Teepees
 		USE Niitsitapi -- Dwellings
 	NT Tobacco pipes
@@ -7998,6 +8020,7 @@ Oil pipelines
 	RT Petroleum -- Pipelines
 
 Oil refineries
+	USE Petroleum -- Refineries
 
 Oil sands
 	UF Athabasca Tar Sands
@@ -8100,7 +8123,8 @@ Ojibwa Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Ojibwa Nation -- Dwellings
@@ -8143,7 +8167,7 @@ Ophthalmologists
 Ophthalmology
 
 Opposition
-	USE Legislative Assembly -- Official Opposition
+	USE Legislative Assembly.  Official Opposition
 
 Optometry and optometrists
 	NT Eyeglasses
@@ -8359,7 +8383,7 @@ Pensions
 	RT Seniors
 
 Pensions, Military
-	USE Military pensions
+	USE Military -- Pensions
 
 Pentecostal Church
 	NT Buildings
@@ -8609,7 +8633,8 @@ Piikani Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Piikani Nation -- Dwellings
@@ -8795,6 +8820,7 @@ Postal service
 Posters
 
 Post-secondary education
+	USE Education, Postsecondary
 
 Potash industry and trade
 
@@ -8995,6 +9021,7 @@ Provincial mace
 Provincial parks and reserves
 
 Psychiatric hospitals
+	USE Hospitals -- Psychiatric
 
 Psychiatric nursing
 
@@ -9290,7 +9317,7 @@ Redemptorists
 Referendums
 
 Refineries
-	USE Petroleum refineries
+	USE Petroleum -- Refineries
 
 Reform Party of Alberta
 
@@ -9598,8 +9625,8 @@ Russian Orthodox Church
 	USE Orthodox Catholic Church, Russia
 
 Rustling
-	USE Cattle rustling
-	USE Horse rustling
+	USE Cattle -- Rustling
+	USE Horses -- Rustling
 
 Ruthenians
 
@@ -9992,7 +10019,8 @@ Siksika Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Siksika Nation -- Dwellings
@@ -10091,7 +10119,8 @@ Sioux Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Sioux Nation -- Dwellings
@@ -10861,7 +10890,7 @@ Tourism and tourists
 Tourist information centres
 
 Town councils
-	USE City councils
+	USE [Name of town].  Town council
 
 Town planning
 	USE City planning
@@ -11126,7 +11155,8 @@ Tsuu T'ina Nation
 	NT Schools
 	NT Social conditions
 	NT Social life and customs
-	NT Societies, etc. [Names of specific secret, fraternal, tribal societies]
+	NT Societies, etc.
+		NT [Name of specific secret, fraternal, or tribal society]
 	NT Study and teaching
 	NT Teepees
 		USE Tsuu T'ina Nation -- Dwellings
@@ -11201,10 +11231,10 @@ Unemployment insurance
 Unidentified flying objects
 
 Uniforms, Military
-	USE Military uniforms
+	USE Military -- Uniforms
 
 Uniforms, Sports
-	USE Sports uniforms
+	USE Sports -- Uniforms
 
 Union of Soviet Socialist Republics
 	UF Soviet Union
@@ -11394,7 +11424,7 @@ Vietnamese Canadians~f
 Vietnam War, 1961-1975
 
 Village councils
-	USE City councils
+	USE [Name of village].  Village council
 
 Villages
 	RT Municipal Affairs, Department of
@@ -11774,6 +11804,7 @@ Youth courts
 	USE Juvenile courts
 
 Youth hostels
+	USE Hostels -- Youth
 
 Zeppelins
 	USE Airships
