@@ -99,13 +99,15 @@ def construct_heading_node(label):
 def construct_subheading(item, parent, check_flags = True):
 	uri = None
 
-	review_flags = ['[', 'subdiv', 'under', 'name', 'specific', 'when']
-
-	if ('--' in item and not flag_for_review(item, review_flags)):
-		construct_precoordinated(item)
+	if '--' in item:
+		split_labels = item.rsplit(' -- ')
+		if not '[' in split_labels[0]:
+			construct_precoordinated(item)
+		else:
+			print(item)
 
 	if item.startswith('USE'):
-		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'RT', 'specific', 'when']
+		review_flags = []
 		if flag_for_review(item, review_flags) and check_flags and not get_uri(clean_label(item)):
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
@@ -113,7 +115,7 @@ def construct_subheading(item, parent, check_flags = True):
 			uri = construct_use(item, parent)
 
 	elif item.startswith('NT'):
-		review_flags = ['subdiv', 'under', 'name', 'RT', 'USE', 'specific']
+		review_flags = []
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
@@ -121,7 +123,7 @@ def construct_subheading(item, parent, check_flags = True):
 			uri = construct_nt(item, parent)
 
 	elif item.startswith('RT'):
-		review_flags = ['[', 'subdiv', 'under', 'name', 'NT', 'USE', 'specific', 'types']
+		review_flags = []
 		if flag_for_review(item, review_flags) and check_flags and not get_uri(clean_label(item)):
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
@@ -129,7 +131,7 @@ def construct_subheading(item, parent, check_flags = True):
 			uri = construct_rt(item, parent)
 
 	elif item.startswith('UF'):
-		review_flags = ['[', 'subdiv', 'under', 'name', 'RT', 'NT', 'specific']
+		review_flags = []
 		if flag_for_review(item, review_flags) and check_flags:
 			add_review(item, get_label(parent))
 			uri = construct_note(item, parent)
@@ -267,7 +269,7 @@ uri_dict = {}
 	# This loop generates the first level of headings, i.e. those not preceded by tabs in the input file
 for key in struct:
 	#Headings containing these flags as substrings will be written to review.txt for manual review
-	review_flags = ['[', 'subdivision', 'under', 'name']
+	review_flags = []
 	if flag_for_review(key, review_flags):
 		add_review(key)
 

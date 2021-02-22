@@ -251,8 +251,8 @@ Alberta
 		NT History
 		NT Membership
 	NT Study and teaching (Internship)
-	NT Relations (General) with [Name of foreign country]~f
-	NT Relations (Military) with [Name of foreign country]~f
+	NT Relations (General) with [Name of foreign country]
+	NT Relations (Military) with [Name of foreign country]
 
 Alberta Bill of Rights
 
@@ -683,7 +683,7 @@ Assiniboine Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Assiniboine Nation -- Folklore
@@ -962,12 +962,12 @@ Barns
 Barracks
 	RT [Name of army, etc.] -- Barracks and quarters
 	RT Canada.  Canadian Armed Forces -- Barracks and quarters
-	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters~f
+	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters
 	RT Canada.  Army -- Barracks and quarters
 	RT Canada.  Army.  Canadian Expeditionary Force -- Barracks and quarters
-	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Barracks and quarters~f
+	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Barracks and quarters
 	RT Canada.  Royal Canadian Air Force -- Barracks and quarters
-	RT Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Barracks and quarters~f
+	RT Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Barracks and quarters
 	RT Canada.  Royal Canadian Navy -- Barracks and quarters
 	RT Royal Canadian Mounted Police -- Barracks and quarters
 
@@ -2649,7 +2649,7 @@ Construction workers
 
 Consulates
 	USE Diplomatic and consular service
-	USE [Name of Country].  Consulate ([name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)~f
+	USE [Name of Country].  Consulate ([name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)
 
 Consultants
 
@@ -2662,9 +2662,9 @@ Consumer protection
 Containerization
 
 Contested elections
-	USE Elections (Federal, [date]) -- Contested~f
-	USE Elections (Local, [date]) -- Contested~f
-	USE Elections (Provincial, [date]) -- Contested~f
+	USE Elections (Federal, [date]) -- Contested
+	USE Elections (Local, [date]) -- Contested
+	USE Elections (Provincial, [date]) -- Contested
 
 Continuing education
 
@@ -2855,7 +2855,7 @@ Cree Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation -- Folklore
@@ -2940,7 +2940,7 @@ Cree Nation, Plains
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation, Plains -- Folklore
@@ -3026,7 +3026,7 @@ Cree Nation, Woodlands
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Cree Nation, Woodlands -- Folklore
@@ -3072,11 +3072,11 @@ Creeks
 
 Cremation
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking~f
+	RT Undertakers and undertaking
 
 Crematoriums
 	RT Funeral rites and ceremonies
-	RT Undertakers and undertaking~f
+	RT Undertakers and undertaking
 
 Cribs (Children's furniture)
 	RT Children's furniture
@@ -3265,7 +3265,7 @@ Dane-zaa Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Dane-zaa Nation -- Folklore
@@ -3415,7 +3415,7 @@ Dene Suline Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Dene Suline Nation -- Folklore
@@ -3502,7 +3502,7 @@ Dene Tha' Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Dene Tha' Nation -- Folklore
@@ -3767,13 +3767,13 @@ Dried Meat
 Drill (Agricultural implement)
 
 Drinking and traffic accidents
-	USE Driving under the influence~f
+	USE Driving under the influence
 
 Drinking customs
 
 Drive-in theatres
 
-Driving under the influence~f
+Driving under the influence
 
 Drop-in centres
 	USE Community centres
@@ -3801,7 +3801,7 @@ Drugstores
 Drum
 
 Drunk driving
-	USE Driving under the influence~f
+	USE Driving under the influence
 
 Drunkenness (Criminal law)
 
@@ -4628,7 +4628,7 @@ First Nations
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE First Nations -- Folklore
@@ -4919,7 +4919,7 @@ Fruit trade
 Fund raising
 
 Funeral homes
-	USE Undertakers and undertaking~f
+	USE Undertakers and undertaking
 
 Funeral rites and ceremonies
 
@@ -4995,7 +4995,7 @@ Garage sales
 
 Garages
 
-Garden ornaments and furniture~f
+Garden ornaments and furniture
 
 Garden tools
 
@@ -5907,7 +5907,7 @@ Indigenous peoples
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language, e.g., Cree language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Indigenous peoples -- Folklore
@@ -6138,7 +6138,7 @@ Inuit
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Inuit -- Folklore
@@ -6372,7 +6372,7 @@ Kainai Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Kainai Nation -- Folklore
@@ -6516,7 +6516,7 @@ Kutenai Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Kutenai Nation -- Folklore
@@ -7231,7 +7231,7 @@ Métis Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Métis Nation -- Folklore
@@ -7349,7 +7349,7 @@ Ministerial Orders
 	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
 
 Ministerial papers
-	USE [Name of Department], Minister of, e.g., Agriculture, Minister of~f
+	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
 
 Ministers of Religion
 	USE Clergy
@@ -7577,7 +7577,7 @@ Nakawe Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Nakawe Nation -- Folklore
@@ -7664,7 +7664,7 @@ Nakoda Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Nakoda Nation -- Folklore
@@ -7704,9 +7704,9 @@ Nakoda Nation
 	NT Writing
 	NT Youth
 
-Names, Geographical~f
+Names, Geographical
 
-Names, Personal~f
+Names, Personal
 
 Naphtha
 
@@ -7819,7 +7819,7 @@ Niitsitapi
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Niitsitapi -- Folklore
@@ -8099,7 +8099,7 @@ Ojibwa Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Ojibwa Nation -- Folklore
@@ -8345,7 +8345,7 @@ Pathology, Experimental
 Patronage, Political
 
 Pavement
-	NT Contracts and specifications~f
+	NT Contracts and specifications
 	NT Equipment and machinery
 	NT Frost damage
 	NT Maintenance and repair
@@ -8609,7 +8609,7 @@ Piikani Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Piikani Nation -- Folklore
@@ -8680,8 +8680,8 @@ Pistols
 
 Pitch
 
-Place-names~f
-	USE Names, Geographical~f
+Place-names
+	USE Names, Geographical
 
 Planetariums
 
@@ -9995,7 +9995,7 @@ Siksika Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Siksika Nation -- Folklore
@@ -10095,7 +10095,7 @@ Sioux Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Sioux Nation -- Folklore
@@ -10381,7 +10381,7 @@ Statistics
 Statues
 
 Statutes
-	USE Legislation ([Name of Act as titled in the Statutes of Alberta])~f
+	USE Legislation ([Name of Act as titled in the Statutes of Alberta])
 
 Stealing
 	USE Theft
@@ -10514,7 +10514,7 @@ Street cars
 
 Street cleaning
 
-Street names~f
+Street names
 
 Street railways
 	NT Design and construction
@@ -11131,7 +11131,7 @@ Tsuu T'ina Nation
 	NT Land tenure
 	NT Land transfers
 	NT Languages
-		RT name of language
+		RT [Name of specific language] language
 	NT Legal status, laws, etc.
 	NT Legends
 		USE Tsuu T'ina Nation -- Folklore
@@ -11213,9 +11213,9 @@ Ukrainians
 	RT Galicians
 	RT Ruthenians
 
-Underpasses~f
+Underpasses
 
-Undertakers and undertaking~f
+Undertakers and undertaking
 
 Undocumented immigrants
 	UF Aliens, Illegal
@@ -11306,7 +11306,7 @@ Universities and colleges
 	NT Taxation
 
 University of Alberta
-	NT [Academic department names]~f
+	NT [Academic department names]
 	NT Administration
 	NT Admission
 	NT Affiliations
@@ -11417,9 +11417,9 @@ Video tape recorders and recording
 Video tape/disc rentals
 	USE Stores, Retail -- Videotape/disc
 
-Vietnamese~f
+Vietnamese
 
-Vietnamese Canadians~f
+Vietnamese Canadians
 
 Vietnam War, 1961-1975
 
@@ -11551,7 +11551,7 @@ Water
 	NT Supply
 	NT Towers
 
-Water, Underground~f
+Water, Underground
 
 Water polo
 
