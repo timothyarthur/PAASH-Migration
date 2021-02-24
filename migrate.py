@@ -100,7 +100,7 @@ precoordinated_labels = []
 def construct_subheading(item, parent, check_flags = True):
 	uri = None
 
-	if '--' in item and (item.startswith('USE') or item.startswith('UF') or item.startswith('NT') or item.startswith('RT')):
+	if '--' in item and (item.startswith('USE') or item.startswith('UF') or item.startswith('RT')):
 		if '[' in item:
 			precoordinated_labels.append(item + '\n')
 		split_labels = item.rsplit(' -- ')
