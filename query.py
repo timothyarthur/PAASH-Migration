@@ -9,11 +9,11 @@ g.parse("paash_num.ttl", format = 'turtle')
 g.bind('skos', SKOS)
 
 #Labels
-# labels = g.query("""SELECT DISTINCT ?target ?targetLabel
-# 	WHERE{
-# 	?target skos:prefLabel ?targetLabel .
-# 	}"""
-# 	)
+labels = g.query("""SELECT DISTINCT ?target ?targetLabel
+	WHERE{
+	?target skos:prefLabel ?targetLabel .
+	}"""
+	)
 
 #Non-preferred terms with URIs
 # results = g.query("""SELECT DISTINCT ?target ?targetLabel
@@ -47,15 +47,15 @@ g.bind('skos', SKOS)
 # for item in top_level_count:
 # 	print(item)
 
-notes = g.query("""SELECT ?s ?label ?note
-	WHERE{
-	?s skos:prefLabel ?label .
-	?s skos:scopeNote ?note .
-}"""
-)
+# notes = g.query("""SELECT ?s ?label ?note
+# 	WHERE{
+# 	?s skos:prefLabel ?label .
+# 	?s skos:scopeNote ?note .
+# }"""
+# )
 
-with open('notes.csv', 'w') as file:
+with open('labels.csv', 'w') as file:
 	writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-	writer.writerow(['Item', 'Label', 'Note'])
-	for row in notes:
+	writer.writerow(['Item', 'Label'])
+	for row in labels:
 		writer.writerow(row)

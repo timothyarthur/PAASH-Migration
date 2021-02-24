@@ -94,17 +94,18 @@ def construct_heading_node(label):
 
 	return uri
 
+precoordinated_labels = []
 # Constructs subheading and adds to graph, by calling the function appropriate given its relation to its parent
 # Allows specifying flags for each case which will mark concepts that contain them for review
 def construct_subheading(item, parent, check_flags = True):
 	uri = None
 
-	if '--' in item:
+	if '--' in item and (item.startswith('USE') or item.startswith('UF') or item.startswith('NT') or item.startswith('RT')):
+		if '[' in item:
+			precoordinated_labels.append(item + '\n')
 		split_labels = item.rsplit(' -- ')
 		if not '[' in split_labels[0]:
 			construct_precoordinated(item)
-		else:
-			print(item)
 
 	if item.startswith('USE'):
 		review_flags = []
@@ -387,5 +388,8 @@ else:
 
 with open(review_file_name, 'w') as review_file:
 	review_file.writelines(lines_to_review)
+
+with open('precoordinated_labels.txt', 'w') as file:
+	file.writelines(precoordinated_labels)
 
 print(f'{review_count} concepts flagged for review and written to {review_file_name}')

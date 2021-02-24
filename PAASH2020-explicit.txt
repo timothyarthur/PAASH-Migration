@@ -139,7 +139,7 @@ Agriculture, Department of
 	NT Portraits, etc.
 	NT Reorganization
 	RT Agriculture, Department of.  [Name of division or branch]
-	RT [Name of board, corporation, etc.]
+	RT [Name of agricultural Board, Corporation, etc. ]
 
 Agriculture, Minister of
 
@@ -152,7 +152,7 @@ Air
 
 Air bases
 	USE Canada.  Royal Canadian Air Force -- Installations
-	USE Canada.  Armed Forces -- Installations
+	USE Canada.  Canadian Armed Forces -- Installations
 
 Air Cadets
 	RT Army Cadets
@@ -237,7 +237,7 @@ Alberta
 	NT Description and travel
 	NT Executive departments
 		Use only when dealing with government departments in general.
-		RT [Name of department, e.g. Agriculture], Department of
+		RT [Name of department], Department of
 	NT Foreign relations
 	NT Inaugural ceremonies
 	NT Officials and employees
@@ -379,7 +379,7 @@ All-terrain vehicles
 Almanacs
 
 Altars
-	USE [name of religion] -- Buildings -- Altars
+	USE [Name of religion] -- Buildings -- Altars
 
 Alternative religious movements
 	UF Cults
@@ -1561,7 +1561,7 @@ Calgary
 	NT Conventions
 	NT Convents
 	NT Correctional institutions
-	NT Court houses
+	NT Courthouses
 	NT Crime and criminals
 	NT Dairy plants
 	NT Demonstrations
@@ -1607,7 +1607,7 @@ Calgary
 	NT Law firms
 	NT Libraries
 	NT Lighting
-	NT Lumber-yards
+	NT Lumber yards
 	NT Machine shops
 	NT Manufactures
 	NT Markets
@@ -1664,7 +1664,7 @@ Calgary
 	NT Stores, shopping centres, etc.
 	NT Storm, [date]
 	NT Storms
-	NT Street-cleaning
+	NT Street cleaning
 	NT Streets
 	NT Synagogues
 	NT Taxation
@@ -1694,7 +1694,7 @@ Camps
 	NT Outfits, supplies, etc.
 
 Camps (Military)
-	USE Canada.  Armed Forces -- Installations
+	USE Canada.  Canadian Armed Forces -- Installations
 	USE Military -- Bases
 
 Campus police
@@ -1705,7 +1705,8 @@ Canada
 	NT Boundaries
 	NT Centennial celebrations, etc.
 	NT Climate
-	NT Commerce -- [Name of jurisdiction, e.g. United States, etc.]
+	NT Commerce -- [Name of country]
+	NT Commerce -- United States
 	NT Constitutional law
 		NT Amendments
 	NT Departments
@@ -2098,6 +2099,7 @@ Casinos
 	RT Gambling
 
 Cast-iron pipe
+	USE Pipe, Cast-iron
 
 Catalogues
 	USE [Specific type of object] -- Catalogues
@@ -2230,7 +2232,7 @@ Chickens
 
 Child abuse
 
-Child care workers
+Childcare workers
 
 Child welfare
 	RT Children -- Legal status, laws, etc.
@@ -2378,7 +2380,7 @@ Cleaning
 Clearing of land
 
 Clergy
-	When possible use specific sect, e.g. Catholic Church -- Clergy
+	When possible use specific sect or religion, e.g. Catholic Church -- Clergy
 
 Clerks
 
@@ -2649,7 +2651,7 @@ Construction workers
 
 Consulates
 	USE Diplomatic and consular service
-	USE [Name of Country].  Consulate ([name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)
+	USE [Name of Country].  Consulate ([Name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)
 
 Consultants
 
@@ -2738,7 +2740,7 @@ Corrals
 	USE Stockyards
 
 Correctional institutions
-	NT Correctional institutions -- Halfway houses
+	NT Halfway houses
 	NT Inmates
 	NT Juvenile detention homes
 	NT Reformatories
@@ -3323,10 +3325,10 @@ Data protection
 Dating (Social customs)
 
 Day care centres
-	USE Child care
+	USE Childcare
 
 Day nurseries
-	USE Child care
+	USE Childcare
 
 Daylight saving
 
@@ -3344,7 +3346,7 @@ Debt
 Decentralization
 
 Decorations of honour
-	RT Canada.  Armed Forces -- Medals, badges, decorations, etc.
+	RT Canada.  Canadian Armed Forces -- Medals, badges, decorations, etc.
 
 Deeds
 
@@ -3649,7 +3651,7 @@ Distress warrants
 	USE Distress (Law)
 
 District Agriculturalists
-	USE Agriculturalists
+	USE Agriculturists
 
 Districts
 	USE Election districts (Federal)
@@ -3936,7 +3938,7 @@ Edmonton
 	NT Conventions
 	NT Convents
 	NT Correctional institutions
-	NT Court houses
+	NT Courthouses
 	NT Crime and criminals
 	NT Dairy plants
 	NT Demonstrations
@@ -3982,7 +3984,7 @@ Edmonton
 	NT Law firms
 	NT Libraries
 	NT Lighting
-	NT Lumber-yards
+	NT Lumber yards
 	NT Machine shops
 	NT Manufactures
 	NT Markets
@@ -4039,7 +4041,7 @@ Edmonton
 	NT Stores, shopping centres, etc.
 	NT Storm, [date]
 	NT Storms
-	NT Street-cleaning
+	NT Street cleaning
 	NT Streets
 	NT Synagogues
 	NT Taxation
@@ -4335,7 +4337,7 @@ Explorers
 Explosions
 
 Explosives
-	RT Coal mines and mining -- Explosives
+	RT Coal -- Mines and mining -- Explosives
 	RT Dynamite
 
 Export marketing
@@ -5385,8 +5387,9 @@ Halls
 Ham radio
 	USE Radio -- Amateur radio stations
 
-Hamlets
-	RT Municipal Affairs, Department of Municipal government
+	Hamlets
+		RT Municipal Affairs, Department of
+		RT Municipal government
 
 Hand pumps
 	USE Pumping machinery
@@ -6655,7 +6658,7 @@ Lasers
 Latin language
 
 Latter-Day Saints
-	USE Church of Jesus Christ of Latter-Day Saints
+	USE Church of Jesus Christ of the Latter Day Saints
 
 Laundries
 	NT Machinery
@@ -6731,7 +6734,7 @@ Legislation ([Name of Act as titled in the Statutes of Alberta])
 Legislative Assembly
 	NT Bills
 	NT Committees
-		RT Name of specific committee (AACRII rule 24.21B)
+		RT Name of specific committee
 	NT Membership
 	NT Opening ceremonies
 	NT Private bills
@@ -7349,7 +7352,7 @@ Ministerial Orders
 	May be subdivided by department, e.g., Ministerial Orders -- Agriculture, Department of
 
 Ministerial papers
-	USE [Name of Department], Minister of, e.g., Agriculture, Minister of
+	USE [Name of department], Minister of
 
 Ministers of Religion
 	USE Clergy
@@ -7402,7 +7405,7 @@ Moravians
 Morgues
 
 Mormons
-	USE Church of Jesus Christ of Latter-Day Saints
+	USE Church of Jesus Christ of the Latter Day Saints
 
 Mortgage brokers
 
@@ -7500,7 +7503,7 @@ Music
 	NT Instruments
 	NT Performance
 	NT Teachers
-	NT Text books
+	NT Textbooks
 
 Music halls
 
@@ -7889,7 +7892,7 @@ Northwest Resistance, 1885
 	NT Scrip
 	NT Transportation
 	NT Veterans
-	RT Red River Resistance
+	RT Red River Resistance, 1869-1870
 
 Northwest Territories
 	Use for the area remaining as the NWT after the creation of Alberta and Saskatchewan in 1905
@@ -7941,7 +7944,7 @@ Nuns
 	When possible use specific sect or religion, e.g. Catholic Church -- Nuns
 
 Nurseries
-	RT Child care
+	RT Childcare
 
 Nurseries (Horticulture)
 
@@ -8662,7 +8665,7 @@ Pilots and pilotage
 Pinball machines
 
 Pioneers
-	RT Homesteading and homesteaders
+	RT Homesteads and homesteaders
 
 Pipe, Cast-iron
 
@@ -9834,6 +9837,7 @@ Self-defense
 Self-help industry
 
 Self-service laundries
+	USE Laundries -- Self-service
 
 Semaphore
 	USE Signals and signalling
@@ -9903,7 +9907,7 @@ Sheriffs
 Shipping
 
 Ships
-	For names of individual ships use [name of ship] (Ship), e.g. Nonesuch (Ship)
+	For names of individual ships use [Name of ship] (Ship), e.g. Nonesuch (Ship)
 	NT Cargo
 	NT Passenger lists
 
@@ -10266,7 +10270,7 @@ Solar energy
 	USE Renewable energy -- Solar
 
 Soldiers
-	RT Canada.  Armed Forces
+	RT Canada.  Canadian Armed Forces
 	RT Canada.  Army
 
 Songbooks
@@ -11431,7 +11435,7 @@ Villages
 	RT Municipal government
 
 Vintners
-	RT Wine and winemaking
+	RT Wine and wine making
 
 Violin
 
