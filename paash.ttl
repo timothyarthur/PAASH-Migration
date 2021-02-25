@@ -12,12 +12,6 @@
     skos:prefLabel "[Name of city] -- City Councillors"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#[name_of_city]_--_convents> a skos:Concept ;
-    skos:altLabel "Convents"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "[Name of city] -- Convents"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#[name_of_city]_--_wards> a skos:Concept ;
     skos:altLabel "Election districts (Cities)"@en ;
     skos:inScheme <paash#paash> ;
@@ -30,10 +24,10 @@
     skos:prefLabel "[Name of community] -- Entertaining and entertainment"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located]),_e.g.,_germany.__consulate_(edmonton,_alta.)> a skos:Concept ;
+<paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located])> a skos:Concept ;
     skos:altLabel "Consulates"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "[Name of Country].  Consulate ([Name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)"@en ;
+    skos:prefLabel "[Name of country].  Consulate ([Name of city where consulate is located])"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#[name_of_creek]> a skos:Concept ;
@@ -52,6 +46,12 @@
     skos:altLabel "Chambers of Commerce"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "[Name of individual Chamber of Commerce]"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#[name_of_municipality]_--_convents> a skos:Concept ;
+    skos:altLabel "Convents"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[Name of municipality] -- Convents"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#[name_of_particular_club]> a skos:Concept ;
@@ -272,12 +272,6 @@
     skos:prefLabel "Agricultural service board"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#agriculturalists> a skos:Concept ;
-    skos:altLabel "District Agriculturalists"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Agriculturalists"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#agriculture,_department_of_--_charts_and_diagrams> a skos:Concept ;
     skos:broader <paash#agriculture,_department_of> ;
     skos:inScheme <paash#paash> ;
@@ -384,6 +378,7 @@
     skos:prefLabel "Agriculture -- Workers"@en .
 
 <paash#agriculturists> a skos:Concept ;
+    skos:altLabel "District Agriculturalists"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Agriculturists"@en ;
     skos:topConceptOf <paash#paash> .
@@ -475,6 +470,11 @@
     skos:broader <paash#airports> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Airports -- Baggage handling"@en .
+
+<paash#airports_--_buildings> a skos:Concept ;
+    skos:broader <paash#airports> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Airports -- Buildings"@en .
 
 <paash#airports_--_runways> a skos:Concept ;
     skos:altLabel "Air strips"@en,
@@ -778,6 +778,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Alberta Provincial Police -- Appointments, promotions, salaries, etc."@en .
 
+<paash#alberta_provincial_police_--_buildings> a skos:Concept ;
+    skos:broader <paash#alberta_provincial_police> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Alberta Provincial Police -- Buildings"@en .
+
 <paash#alberta_provincial_police_--_charts,_diagrams,_etc.> a skos:Concept ;
     skos:broader <paash#alberta_provincial_police> ;
     skos:inScheme <paash#paash> ;
@@ -1012,6 +1017,11 @@
     skos:broader <paash#anglican_church_of_canada> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Anglican Church of Canada -- Baptism"@en .
+
+<paash#anglican_church_of_canada_--_buildings> a skos:Concept ;
+    skos:broader <paash#anglican_church_of_canada> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Anglican Church of Canada -- Buildings"@en .
 
 <paash#anglican_church_of_canada_--_clergy> a skos:Concept ;
     skos:broader <paash#anglican_church_of_canada> ;
@@ -1738,6 +1748,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Athabasca University -- Board of Governors"@en .
 
+<paash#athabasca_university_--_buildings> a skos:Concept ;
+    skos:broader <paash#athabasca_university> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Athabasca University -- Buildings"@en .
+
 <paash#athabasca_university_--_ceremonies,_honours_and_salutes> a skos:Concept ;
     skos:broader <paash#athabasca_university> ;
     skos:inScheme <paash#paash> ;
@@ -2073,6 +2088,11 @@
     skos:prefLabel "Bagpipes"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#baha'i_--_buildings> a skos:Concept ;
+    skos:broader <paash#baha'i> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Baha'i -- Buildings"@en .
+
 <paash#baha'i_--_ceremonies> a skos:Concept ;
     skos:broader <paash#baha'i> ;
     skos:inScheme <paash#paash> ;
@@ -2145,6 +2165,11 @@
     skos:broader <paash#baptist_church> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Baptist Church -- Baptism"@en .
+
+<paash#baptist_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#baptist_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Baptist Church -- Buildings"@en .
 
 <paash#baptist_church_--_clergy> a skos:Concept ;
     skos:broader <paash#baptist_church> ;
@@ -2809,6 +2834,11 @@
     skos:prefLabel "Broomball"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#buddhism_--_buildings> a skos:Concept ;
+    skos:broader <paash#buddhism> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Buddhism -- Buildings"@en .
+
 <paash#buddhism_--_ceremonies> a skos:Concept ;
     skos:broader <paash#buddhism> ;
     skos:inScheme <paash#paash> ;
@@ -3153,6 +3183,7 @@
     skos:prefLabel "Calgary -- Conventions"@en .
 
 <paash#calgary_--_convents> a skos:Concept ;
+    skos:altLabel "Convents"@en ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Convents"@en .
@@ -3162,10 +3193,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Correctional institutions"@en .
 
-<paash#calgary_--_court_houses> a skos:Concept ;
+<paash#calgary_--_courthouses> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Court houses"@en .
+    skos:prefLabel "Calgary -- Courthouses"@en .
 
 <paash#calgary_--_crime_and_criminals> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3378,10 +3409,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Long-term care facilities"@en .
 
-<paash#calgary_--_lumber-yards> a skos:Concept ;
+<paash#calgary_--_lumber_yards> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Lumber-yards"@en .
+    skos:prefLabel "Calgary -- Lumber yards"@en .
 
 <paash#calgary_--_machine_shops> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -3638,10 +3669,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Storms"@en .
 
-<paash#calgary_--_street-cleaning> a skos:Concept ;
+<paash#calgary_--_street_cleaning> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- Street-cleaning"@en .
+    skos:prefLabel "Calgary -- Street cleaning"@en .
 
 <paash#calgary_--_streets> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -4284,10 +4315,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Canadian Armed Forces -- Women"@en .
 
-<paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta> a skos:Concept ;
-    skos:altLabel "Canadian Forces Base, Namao [Penhold, Wainwright, etc.]"@en ;
+<paash#canada.__canadian_forces_base,_[name_of_location],_alberta> a skos:Concept ;
+    skos:altLabel "Canadian Forces Base, [Name of location in Alberta]"@en ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta"@en ;
+    skos:prefLabel "Canada.  Canadian Forces Base, [Name of location], Alberta"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__constitution_act_1982_--_constitutional_conventions> a skos:Concept ;
@@ -4682,10 +4713,15 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada -- Climate"@en .
 
-<paash#canada_--_commerce_--_[name_of_jurisdiction,_e.g._united_states,_etc.]> a skos:Concept ;
+<paash#canada_--_commerce_--_[name_of_country]> a skos:Concept ;
     skos:broader <paash#canada> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada -- Commerce -- [Name of jurisdiction, e.g. United States, etc.]"@en .
+    skos:prefLabel "Canada -- Commerce -- [Name of country]"@en .
+
+<paash#canada_--_commerce_--_united_states> a skos:Concept ;
+    skos:broader <paash#canada> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada -- Commerce -- United States"@en .
 
 <paash#canada_--_confederation,_1867> a skos:Concept ;
     skos:broader <paash#canada> ;
@@ -5386,6 +5422,11 @@
     skos:prefLabel "Church lands"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#church_of_jesus_christ_of_the_latter_day_saints_--_buildings> a skos:Concept ;
+    skos:broader <paash#church_of_jesus_christ_of_the_latter_day_saints> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Church of Jesus Christ of the Latter Day Saints -- Buildings"@en .
+
 <paash#church_of_jesus_christ_of_the_latter_day_saints_--_clergy> a skos:Concept ;
     skos:broader <paash#church_of_jesus_christ_of_the_latter_day_saints> ;
     skos:inScheme <paash#paash> ;
@@ -5653,11 +5694,6 @@
     skos:prefLabel "Comic books, strips, etc."@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#commerce_--_[name_of_jurisdiction,_e.g._united_states,_etc.]> a skos:Concept ;
-    skos:broader <paash#commerce> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Commerce -- [Name of jurisdiction, e.g. United States, etc.]"@en .
-
 <paash#commercial_catalogues> a skos:Concept ;
     skos:altLabel "Catalogues"@en ;
     skos:inScheme <paash#paash> ;
@@ -5682,7 +5718,7 @@
 <paash#committees> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Committees"@en ;
-    skos:scopeNote "For individual committees USE name of committee."@en,
+    skos:scopeNote "For individual committees USE [Name of committee]."@en,
         "Use only for collections containing material on several committees."@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -9191,6 +9227,7 @@
     skos:prefLabel "Edmonton -- Conventions"@en .
 
 <paash#edmonton_--_convents> a skos:Concept ;
+    skos:altLabel "Convents"@en ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Convents"@en .
@@ -9200,10 +9237,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Correctional institutions"@en .
 
-<paash#edmonton_--_court_houses> a skos:Concept ;
+<paash#edmonton_--_courthouses> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Court houses"@en .
+    skos:prefLabel "Edmonton -- Courthouses"@en .
 
 <paash#edmonton_--_crime_and_criminals> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9416,10 +9453,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Long-term care facilities"@en .
 
-<paash#edmonton_--_lumber-yards> a skos:Concept ;
+<paash#edmonton_--_lumber_yards> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Lumber-yards"@en .
+    skos:prefLabel "Edmonton -- Lumber yards"@en .
 
 <paash#edmonton_--_machine_shops> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -9676,10 +9713,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Storms"@en .
 
-<paash#edmonton_--_street-cleaning> a skos:Concept ;
+<paash#edmonton_--_street_cleaning> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- Street-cleaning"@en .
+    skos:prefLabel "Edmonton -- Street cleaning"@en .
 
 <paash#edmonton_--_streets> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -12040,6 +12077,11 @@
     skos:prefLabel "Hiking"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#hinduism_--_buildings> a skos:Concept ;
+    skos:broader <paash#hinduism> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Hinduism -- Buildings"@en .
+
 <paash#hinduism_--_clergy> a skos:Concept ;
     skos:broader <paash#hinduism> ;
     skos:inScheme <paash#paash> ;
@@ -13760,6 +13802,11 @@
     skos:prefLabel "Jazz"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#jehovah's_witnesses_--_buildings> a skos:Concept ;
+    skos:broader <paash#jehovah's_witnesses> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Jehovah's Witnesses -- Buildings"@en .
+
 <paash#jehovah's_witnesses_--_ceremonies_and_practices> a skos:Concept ;
     skos:broader <paash#jehovah's_witnesses> ;
     skos:inScheme <paash#paash> ;
@@ -13822,6 +13869,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Journalists and journalism -- Print"@en .
 
+<paash#judaism_--_buildings> a skos:Concept ;
+    skos:broader <paash#judaism> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Judaism -- Buildings"@en .
+
 <paash#judaism_--_ceremonies_and_practices> a skos:Concept ;
     skos:broader <paash#judaism> ;
     skos:inScheme <paash#paash> ;
@@ -13852,7 +13904,7 @@
     skos:altLabel "Districts"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Judicial districts"@en ;
-    skos:scopeNote "For names of particular districts use the following format: Lethbridge, Judicial District of"@en ;
+    skos:scopeNote "For names of particular districts use the following format: [Name of district], Judicial District of"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#judicial_statistics> a skos:Concept ;
@@ -15391,6 +15443,11 @@
     skos:prefLabel "Lumber yards"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#lutheran_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#lutheran_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Lutheran Church -- Buildings"@en .
+
 <paash#lutheran_church_--_ceremonies_and_practices> a skos:Concept ;
     skos:broader <paash#lutheran_church> ;
     skos:inScheme <paash#paash> ;
@@ -15647,11 +15704,6 @@
     skos:prefLabel "Medical examiners"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#medical_laboratories> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Medical laboratories"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#medical_laws_and_legislation> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Medical laws and legislation"@en ;
@@ -15775,6 +15827,11 @@
     skos:broader <paash#methodist_church> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Methodist Church -- Anniversaries, etc."@en .
+
+<paash#methodist_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#methodist_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Methodist Church -- Buildings"@en .
 
 <paash#methodist_church_--_clergy> a skos:Concept ;
     skos:broader <paash#methodist_church> ;
@@ -16106,6 +16163,11 @@
     skos:prefLabel "Moose hunting"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#moravian_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#moravian_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Moravian Church -- Buildings"@en .
+
 <paash#moravian_church_--_clergy> a skos:Concept ;
     skos:broader <paash#moravian_church> ;
     skos:inScheme <paash#paash> ;
@@ -16315,10 +16377,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Music -- Teachers"@en .
 
-<paash#music_--_text_books> a skos:Concept ;
+<paash#music_--_textbooks> a skos:Concept ;
     skos:broader <paash#music> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Music -- Text books"@en .
+    skos:prefLabel "Music -- Textbooks"@en .
 
 <paash#music_halls> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -18703,6 +18765,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Orphans -- Law and legislation"@en .
 
+<paash#orthodox_catholic_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#orthodox_catholic_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Orthodox Catholic Church -- Buildings"@en .
+
 <paash#orthodox_catholic_church_--_clergy> a skos:Concept ;
     skos:broader <paash#orthodox_catholic_church> ;
     skos:inScheme <paash#paash> ;
@@ -18990,6 +19057,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Penmanship"@en ;
     skos:topConceptOf <paash#paash> .
+
+<paash#pentecostal_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#pentecostal_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Pentecostal Church -- Buildings"@en .
 
 <paash#pentecostal_church_--_clergy> a skos:Concept ;
     skos:broader <paash#pentecostal_church> ;
@@ -19865,6 +19937,12 @@
     skos:prefLabel "Ports"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#postal_service_--_buildings> a skos:Concept ;
+    skos:altLabel "Post offices"@en ;
+    skos:broader <paash#postal_service> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Postal service -- Buildings"@en .
+
 <paash#postal_service_--_employees> a skos:Concept ;
     skos:broader <paash#postal_service> ;
     skos:inScheme <paash#paash> ;
@@ -20057,6 +20135,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Premiums (Retail trade)"@en ;
     skos:topConceptOf <paash#paash> .
+
+<paash#presbyterian_church_--_buildings> a skos:Concept ;
+    skos:broader <paash#presbyterian_church> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Presbyterian Church -- Buildings"@en .
 
 <paash#presbyterian_church_--_clergy> a skos:Concept ;
     skos:broader <paash#presbyterian_church> ;
@@ -20563,6 +20646,11 @@
     skos:broader <paash#railways> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Railways -- Bridges"@en .
+
+<paash#railways_--_buildings_and_structures> a skos:Concept ;
+    skos:broader <paash#railways> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Railways -- Buildings and structures"@en .
 
 <paash#railways_--_cars> a skos:Concept ;
     skos:broader <paash#railways> ;
@@ -21573,6 +21661,11 @@
     skos:broader <paash#schools> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Schools -- Boards"@en .
+
+<paash#schools_--_buildings> a skos:Concept ;
+    skos:broader <paash#schools> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Schools -- Buildings"@en .
 
 <paash#schools_--_districts> a skos:Concept ;
     skos:altLabel "Districts"@en ;
@@ -24857,6 +24950,11 @@
     skos:prefLabel "Unitarian Universalist churches"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#united_church_of_canada_--_buildings> a skos:Concept ;
+    skos:broader <paash#united_church_of_canada> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "United Church of Canada -- Buildings"@en .
+
 <paash#united_church_of_canada_--_clergy> a skos:Concept ;
     skos:broader <paash#united_church_of_canada> ;
     skos:inScheme <paash#paash> ;
@@ -24997,6 +25095,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Universities and colleges -- Administration"@en .
 
+<paash#universities_and_colleges_--_buildings> a skos:Concept ;
+    skos:altLabel "College buildings"@en ;
+    skos:broader <paash#universities_and_colleges> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Universities and colleges -- Buildings"@en .
+
 <paash#universities_and_colleges_--_curricula> a skos:Concept ;
     skos:broader <paash#universities_and_colleges> ;
     skos:inScheme <paash#paash> ;
@@ -25106,6 +25210,11 @@
     skos:broader <paash#university_of_alberta> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "University of Alberta -- Board of Governors"@en .
+
+<paash#university_of_alberta_--_buildings> a skos:Concept ;
+    skos:broader <paash#university_of_alberta> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "University of Alberta -- Buildings"@en .
 
 <paash#university_of_alberta_--_ceremonies,_honours_and_salutes> a skos:Concept ;
     skos:broader <paash#university_of_alberta> ;
@@ -25992,6 +26101,12 @@
     skos:prefLabel "Zoos"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#[name_of_agricultural_board,_corporation,_etc._]> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "[Name of agricultural Board, Corporation, etc. ]"@en ;
+    skos:related <paash#agriculture,_department_of> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#[name_of_airline]> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "[Name of airline]"@en ;
@@ -26008,12 +26123,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "[Name of army, etc.] -- Barracks and quarters"@en ;
     skos:related <paash#barracks> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#[name_of_board,_corporation,_etc.]> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "[Name of board, corporation, etc.]"@en ;
-    skos:related <paash#agriculture,_department_of> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#[name_of_community]_--_apartments> a skos:Concept ;
@@ -26173,17 +26282,11 @@
     skos:related <paash#cornerstone_laying> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#[name_of_specific_diocese]_(diocese)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "[Name of specific diocese] (Diocese)"@en ;
-    skos:related <paash#anglican_church_of_canada_--_dioceses> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#[name_of_specific_diocese]_(diocese)_--_history> a skos:Concept ;
+    skos:broader <paash#[name_of_specific_diocese]_(diocese)> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "[Name of specific diocese] (Diocese) -- History"@en ;
-    skos:related <paash#anglican_church_of_canada_--_history> ;
-    skos:topConceptOf <paash#paash> .
+    skos:related <paash#anglican_church_of_canada_--_history> .
 
 <paash#[name_of_specific_disaster]> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -26293,9 +26396,9 @@
     skos:related <paash#by-laws> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#[type_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.]> a skos:Concept ;
+<paash#[type_of_laboratories]> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "[Type of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.]"@en ;
+    skos:prefLabel "[Type of laboratories]"@en ;
     skos:related <paash#laboratories> ;
     skos:topConceptOf <paash#paash> .
 
@@ -26379,12 +26482,6 @@
     skos:prefLabel "Airplanes"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#airports_--_buildings> a skos:Concept ;
-    skos:broader <paash#airports> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Airports -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#alberta_--_executive_departments> a skos:Concept ;
     skos:altLabel "Government departments"@en ;
     skos:broader <paash#alberta> ;
@@ -26399,12 +26496,6 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#alberta_--_politics_and_government_--_study_and_teaching_(internship)> ;
     skos:prefLabel "Alberta -- Politics and government"@en .
-
-<paash#alberta_provincial_police_--_buildings> a skos:Concept ;
-    skos:broader <paash#alberta_provincial_police> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Alberta Provincial Police -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#alternative_religious_movements> a skos:Concept ;
     skos:altLabel "Cults"@en ;
@@ -26424,12 +26515,6 @@
     skos:prefLabel "Androphilia"@en ;
     skos:related <paash#gynephilia> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#anglican_church_of_canada_--_buildings> a skos:Concept ;
-    skos:broader <paash#anglican_church_of_canada> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Anglican Church of Canada -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#anglican_church_of_canada_--_dioceses> a skos:Concept ;
     skos:broader <paash#anglican_church_of_canada> ;
@@ -26523,35 +26608,17 @@
     skos:related <paash#retirement_homes> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#athabasca_university_--_buildings> a skos:Concept ;
-    skos:broader <paash#athabasca_university> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Athabasca University -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#avalanches> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Avalanches"@en ;
     skos:related <paash#landslides> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#baha'i_--_buildings> a skos:Concept ;
-    skos:broader <paash#baha'i> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Baha'i -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#balloons> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Balloons"@en ;
     skos:related <paash#hot_air_balloons> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#baptist_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#baptist_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Baptist Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#battles> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -26626,12 +26693,6 @@
     skos:related <paash#stonemasons> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#buddhism_--_buildings> a skos:Concept ;
-    skos:broader <paash#buddhism> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Buddhism -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#bulldozers> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Bulldozers"@en ;
@@ -26673,6 +26734,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Bridges"@en ;
     skos:related <paash#bridges> .
+
+<paash#calgary_--_buildings> a skos:Concept ;
+    skos:broader <paash#calgary> ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#calgary_--_buildings_--_conservation_and_restoration> ;
+    skos:prefLabel "Calgary -- Buildings"@en .
 
 <paash#calgary_--_by-laws> a skos:Concept ;
     skos:broader <paash#calgary> ;
@@ -26937,6 +27004,12 @@
     skos:related <paash#dairy_products> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#chemical_laboratories> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Chemical laboratories"@en ;
+    skos:related <paash#laboratories> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#childcare> a skos:Concept ;
     skos:altLabel "Babysitters"@en,
         "Babysitting"@en,
@@ -26971,12 +27044,6 @@
     skos:related <paash#greeting_cards> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#church_of_jesus_christ_of_the_latter_day_saints_--_buildings> a skos:Concept ;
-    skos:broader <paash#church_of_jesus_christ_of_the_latter_day_saints> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Church of Jesus Christ of the Latter Day Saints -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#civil_rights> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Civil rights"@en ;
@@ -26988,7 +27055,7 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#civil_service_--_canada> ;
     skos:prefLabel "Civil service"@en ;
-    skos:scopeNote "For specific departments USE [Name of department] -- Officials and employees"@en ;
+    skos:scopeNote "For specific departments USE [Name of department], Department of -- Officials and employees"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#clubs> a skos:Concept ;
@@ -27022,12 +27089,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Colleges of applied arts and technology"@en ;
     skos:related <paash#names_of_particular_institutions> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#commerce> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#commerce_--_[name_of_jurisdiction,_e.g._united_states,_etc.]> ;
-    skos:prefLabel "Commerce"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#concerts> a skos:Concept ;
@@ -27375,6 +27436,12 @@
     skos:prefLabel "Edmonton -- Bridges"@en ;
     skos:related <paash#bridges> .
 
+<paash#edmonton_--_buildings> a skos:Concept ;
+    skos:broader <paash#edmonton> ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#edmonton_--_buildings_--_conservation_and_restoration> ;
+    skos:prefLabel "Edmonton -- Buildings"@en .
+
 <paash#edmonton_--_by-laws> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -27443,7 +27510,7 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#election_districts_(federal)_--_census> ;
     skos:prefLabel "Election districts (Federal)"@en ;
-    skos:scopeNote "For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)"@en ;
+    skos:scopeNote "For proper names of federal electoral districts, USE [Name of district] Electoral District (Federal)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#election_districts_(provincial)> a skos:Concept ;
@@ -27451,7 +27518,7 @@
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#election_districts_(provincial)_--_census> ;
     skos:prefLabel "Election districts (Provincial)"@en ;
-    skos:scopeNote "For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)"@en ;
+    skos:scopeNote "For names of provincial electoral districts, USE [Name of district] Electoral District (Provincial)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#electric_lines> a skos:Concept ;
@@ -27811,7 +27878,7 @@
 <paash#hamlets> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Hamlets"@en ;
-    skos:related <paash#municipal_affairs,_department_of_municipal_government> ;
+    skos:related <paash#municipal_affairs,_department_of> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#hang-gliding> a skos:Concept ;
@@ -27916,12 +27983,6 @@
     skos:prefLabel "Hides and skins"@en ;
     skos:related <paash#fur> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#hinduism_--_buildings> a skos:Concept ;
-    skos:broader <paash#hinduism> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Hinduism -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#historic_sites> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -28143,29 +28204,23 @@
     skos:related <paash#poliomitis> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#islam_--_buildings> a skos:Concept ;
+    skos:broader <paash#islam> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Islam -- Buildings"@en ;
+    skos:related <paash#mosques> .
+
 <paash#japanese_canadians> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#japanese_canadians_--_internment,_1942-45> ;
     skos:prefLabel "Japanese Canadians"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#jehovah's_witnesses_--_buildings> a skos:Concept ;
-    skos:broader <paash#jehovah's_witnesses> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Jehovah's Witnesses -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#jogging> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Jogging"@en ;
     skos:related <paash#running> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#judaism_--_buildings> a skos:Concept ;
-    skos:broader <paash#judaism> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Judaism -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#kainai_nation_--_hunting> a skos:Concept ;
     skos:broader <paash#kainai_nation> ;
@@ -28321,12 +28376,6 @@
     skos:prefLabel "Lungs -- Diseases"@en ;
     skos:related <paash#pulmonary_fibrosis> .
 
-<paash#lutheran_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#lutheran_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Lutheran Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#marketing> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Marketing"@en ;
@@ -28351,17 +28400,17 @@
     skos:related <paash#packing_houses> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#medical_laboratories> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Medical laboratories"@en ;
+    skos:related <paash#laboratories> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#mennonites> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mennonites"@en ;
     skos:related <paash#agriculture_--_colonies> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#methodist_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#methodist_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Methodist Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#microwave_ovens> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -28407,12 +28456,6 @@
     skos:related <paash#numismatics> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#moravian_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#moravian_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Moravian Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#mosques> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mosques"@en ;
@@ -28437,12 +28480,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Mules"@en ;
     skos:related <paash#donkeys> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#municipal_affairs,_department_of_municipal_government> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Municipal Affairs, Department of Municipal government"@en ;
-    skos:related <paash#hamlets> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#municipal_buildings> a skos:Concept ;
@@ -28670,10 +28707,11 @@
     skos:related <paash#retirement_income> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#olympics> a skos:Concept ;
+<paash#olympic_games_([number_:_year_:_location])> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Olympics"@en ;
-    skos:related <paash#particular_name_of_olympic_games,_e.g.,_olympic_games_(21st_:_1976_:_montreal,_quebec)_and_winter_olympic_games_(15th_:_1988_:_calgary,_alberta)> ;
+    skos:prefLabel "Olympic Games ([Number : Year : Location])"@en ;
+    skos:related <paash#olympics> ;
+    skos:scopeNote "E.g. Olympic Games (21st : 1976: Montreal, Quebec)"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#orthodox_catholic_church,_greece> a skos:Concept ;
@@ -28711,12 +28749,6 @@
     skos:related <paash#orthodox_catholic_church> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#orthodox_catholic_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#orthodox_catholic_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Orthodox Catholic Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#packing_houses> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Packing houses"@en ;
@@ -28742,24 +28774,12 @@
     skos:related <paash#wood_pulp_industry> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#particular_name_of_olympic_games,_e.g.,_olympic_games_(21st_:_1976_:_montreal,_quebec)_and_winter_olympic_games_(15th_:_1988_:_calgary,_alberta)> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)"@en ;
-    skos:related <paash#olympics> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#peace_movements> a skos:Concept ;
     skos:altLabel "Antiwar movements"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Peace movements"@en ;
     skos:related <paash#nuclear_disarmament> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#pentecostal_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#pentecostal_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Pentecostal Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#pests_--_control> a skos:Concept ;
     skos:broader <paash#pests> ;
@@ -28883,13 +28903,6 @@
     skos:related <paash#bigamy> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#postal_service_--_buildings> a skos:Concept ;
-    skos:altLabel "Post offices"@en ;
-    skos:broader <paash#postal_service> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Postal service -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#potatoes_--_marketing> a skos:Concept ;
     skos:broader <paash#potatoes> ;
     skos:inScheme <paash#paash> ;
@@ -28914,12 +28927,6 @@
     skos:prefLabel "Power plants, Electric"@en ;
     skos:related <paash#hydroelectric_power_plants> ;
     skos:topConceptOf <paash#paash> .
-
-<paash#presbyterian_church_--_buildings> a skos:Concept ;
-    skos:broader <paash#presbyterian_church> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Presbyterian Church -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#prisoners_of_war> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -29004,12 +29011,6 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Railways -- Accidents"@en ;
     skos:related <paash#accidents> .
-
-<paash#railways_--_buildings_and_structures> a skos:Concept ;
-    skos:broader <paash#railways> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Railways -- Buildings and structures"@en ;
-    skos:related <paash#buildings> .
 
 <paash#rangelands> a skos:Concept ;
     skos:altLabel "Stock ranges"@en ;
@@ -29179,12 +29180,6 @@
     skos:related <paash#berries> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#schools_--_buildings> a skos:Concept ;
-    skos:broader <paash#schools> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Schools -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#scientology> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Scientology"@en ;
@@ -29253,7 +29248,7 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#slaughtering_and_slaughter-houses> a skos:Concept ;
-    skos:altLabel "ChildcareAbattoirs"@en ;
+    skos:altLabel "Abattoirs"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Slaughtering and slaughter-houses"@en ;
     skos:related <paash#butchery_and_butchers> ;
@@ -29560,25 +29555,6 @@
     skos:related <paash#galician_canadians> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#united_church_of_canada_--_buildings> a skos:Concept ;
-    skos:broader <paash#united_church_of_canada> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "United Church of Canada -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
-<paash#universities_and_colleges_--_buildings> a skos:Concept ;
-    skos:altLabel "College buildings"@en ;
-    skos:broader <paash#universities_and_colleges> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Universities and colleges -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
-<paash#university_of_alberta_--_buildings> a skos:Concept ;
-    skos:broader <paash#university_of_alberta> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "University of Alberta -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#valentine_cards> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Valentine cards"@en ;
@@ -29688,6 +29664,13 @@
     skos:related <paash#beverage_processing_plants> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#winter_olympic_games_([number_:_year_:_location])> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Winter Olympic Games ([Number : Year : Location])"@en ;
+    skos:related <paash#olympics> ;
+    skos:scopeNote "E.g. Winter Olympic Games (15th : 1988 : Calgary, Alberta)"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#wood_pulp_industry> a skos:Concept ;
     skos:altLabel "Pulp and paper industry"@en ;
     skos:inScheme <paash#paash> ;
@@ -29726,6 +29709,13 @@
     skos:prefLabel "[Name of governmental jurisdiction, association, etc.] -- Appropriations and expenditures"@en ;
     skos:related <paash#budget>,
         <paash#expenditures,_public> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#[name_of_specific_diocese]_(diocese)> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#[name_of_specific_diocese]_(diocese)_--_history> ;
+    skos:prefLabel "[Name of specific diocese] (Diocese)"@en ;
+    skos:related <paash#anglican_church_of_canada_--_dioceses> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#[names_of_indigenous_peoples]_--_residential_schools> a skos:Concept ;
@@ -29911,13 +29901,6 @@
     skos:related <paash#budget>,
         <paash#expenditures,_public> .
 
-<paash#calgary_--_buildings> a skos:Concept ;
-    skos:broader <paash#calgary> ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#calgary_--_buildings_--_conservation_and_restoration> ;
-    skos:prefLabel "Calgary -- Buildings"@en ;
-    skos:related <paash#buildings> .
-
 <paash#calgary_--_history> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -30035,7 +30018,7 @@
     skos:prefLabel "Counties"@en ;
     skos:related <paash#local_government>,
         <paash#municipal_affairs,_department_of> ;
-    skos:scopeNote "For names of particular counties use the following format:  Parkland, County of"@en ;
+    skos:scopeNote "For names of particular counties use the following format:  [Name of county], County of"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#creameries> a skos:Concept ;
@@ -30171,13 +30154,6 @@
     skos:prefLabel "Edmonton -- Appropriations and expenditures"@en ;
     skos:related <paash#budget>,
         <paash#expenditures,_public> .
-
-<paash#edmonton_--_buildings> a skos:Concept ;
-    skos:broader <paash#edmonton> ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#edmonton_--_buildings_--_conservation_and_restoration> ;
-    skos:prefLabel "Edmonton -- Buildings"@en ;
-    skos:related <paash#buildings> .
 
 <paash#edmonton_--_history> a skos:Concept ;
     skos:broader <paash#edmonton> ;
@@ -30366,13 +30342,6 @@
     skos:related <paash#residential_schools>,
         <paash#truth_and_reconciliation_commission> .
 
-<paash#islam_--_buildings> a skos:Concept ;
-    skos:broader <paash#islam> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Islam -- Buildings"@en ;
-    skos:related <paash#buildings>,
-        <paash#mosques> .
-
 <paash#itinerant_labour> a skos:Concept ;
     skos:altLabel "Transient labour"@en ;
     skos:inScheme <paash#paash> ;
@@ -30393,13 +30362,6 @@
     skos:prefLabel "Kindergartens"@en ;
     skos:related <paash#early_childhood_education>,
         <paash#education,_preschool> ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#laboratories> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Laboratories"@en ;
-    skos:related <paash#[name_of_community]_--_laboratories>,
-        <paash#[type_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.]> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#labour_relations> a skos:Concept ;
@@ -30534,14 +30496,6 @@
     skos:scopeNote "For proper names of Municipal Districts use the following format: Eagle, Municipal District of, No. 81"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#municipal_government> a skos:Concept ;
-    skos:altLabel "Districts"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Municipal government"@en ;
-    skos:related <paash#cities_and_towns>,
-        <paash#villages> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#métis_nation_--_residential_schools> a skos:Concept ;
     skos:broader <paash#métis_nation> ;
     skos:inScheme <paash#paash> ;
@@ -30612,6 +30566,13 @@
     skos:prefLabel "Ojibwa Nation -- Residential schools"@en ;
     skos:related <paash#residential_schools>,
         <paash#truth_and_reconciliation_commission> .
+
+<paash#olympics> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Olympics"@en ;
+    skos:related <paash#olympic_games_([number_:_year_:_location])>,
+        <paash#winter_olympic_games_([number_:_year_:_location])> ;
+    skos:topConceptOf <paash#paash> .
 
 <paash#optometry_and_optometrists> a skos:Concept ;
     skos:inScheme <paash#paash> ;
@@ -31262,6 +31223,15 @@
     skos:prefLabel "Moravian Church"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#municipal_government> a skos:Concept ;
+    skos:altLabel "Districts"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Municipal government"@en ;
+    skos:related <paash#cities_and_towns>,
+        <paash#municipal_affairs,_department_of>,
+        <paash#villages> ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#métis> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Métis"@en ;
@@ -31590,6 +31560,15 @@
         <paash#housing_--_social_aspects> ;
     skos:prefLabel "Housing"@en ;
     skos:related <paash#homeless_and_homelessness> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#laboratories> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Laboratories"@en ;
+    skos:related <paash#[name_of_community]_--_laboratories>,
+        <paash#[type_of_laboratories]>,
+        <paash#chemical_laboratories>,
+        <paash#medical_laboratories> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#men> a skos:Concept ;
@@ -32234,7 +32213,7 @@
         <paash#music_--_instruments>,
         <paash#music_--_performance>,
         <paash#music_--_teachers>,
-        <paash#music_--_text_books> ;
+        <paash#music_--_textbooks> ;
     skos:prefLabel "Music"@en ;
     skos:topConceptOf <paash#paash> .
 
@@ -32290,7 +32269,7 @@
         <paash#agriculture,_department_of_--_portraits,_etc.>,
         <paash#agriculture,_department_of_--_reorganization> ;
     skos:prefLabel "Agriculture, Department of"@en ;
-    skos:related <paash#[name_of_board,_corporation,_etc.]>,
+    skos:related <paash#[name_of_agricultural_board,_corporation,_etc._]>,
         <paash#agriculture,_department_of.__[name_of_division_or_branch]> ;
     skos:topConceptOf <paash#paash> .
 
@@ -32467,20 +32446,6 @@
         <paash#special_areas> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#municipal_affairs,_department_of> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Municipal Affairs, Department of"@en ;
-    skos:related <paash#cities_and_towns>,
-        <paash#counties>,
-        <paash#improvement_districts>,
-        <paash#local_government>,
-        <paash#local_improvement_districts>,
-        <paash#municipal_districts>,
-        <paash#rural_municipalities>,
-        <paash#special_areas>,
-        <paash#villages> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#natural_gas> a skos:Concept ;
     skos:altLabel "Gas, Natural"@en,
         "Sour gas"@en ;
@@ -32650,21 +32615,37 @@
         <paash#wheat_--_marketing> ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada> a skos:Concept ;
+<paash#municipal_affairs,_department_of> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada_--_anniversaries,_etc.>,
-        <paash#canada_--_boundaries>,
-        <paash#canada_--_centennial_celebrations,_etc.>,
-        <paash#canada_--_climate>,
-        <paash#canada_--_commerce_--_[name_of_jurisdiction,_e.g._united_states,_etc.]>,
-        <paash#canada_--_confederation,_1867>,
-        <paash#canada_--_constitutional_law>,
-        <paash#canada_--_description_and_travel>,
-        <paash#canada_--_economic_conditions>,
-        <paash#canada_--_government_publications>,
-        <paash#canada_--_history>,
-        <paash#canada_--_population> ;
-    skos:prefLabel "Canada"@en ;
+    skos:prefLabel "Municipal Affairs, Department of"@en ;
+    skos:related <paash#cities_and_towns>,
+        <paash#counties>,
+        <paash#hamlets>,
+        <paash#improvement_districts>,
+        <paash#local_government>,
+        <paash#local_improvement_districts>,
+        <paash#municipal_districts>,
+        <paash#municipal_government>,
+        <paash#rural_municipalities>,
+        <paash#special_areas>,
+        <paash#villages> ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#buildings> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#buildings_--_prefabricated>,
+        <paash#buildings_--_wooden> ;
+    skos:prefLabel "Buildings"@en ;
+    skos:related <paash#[name_of_particular_type_of_building]>,
+        <paash#[names_of_communities_and_institutions]_--_buildings>,
+        <paash#exhibition_buildings>,
+        <paash#farm_buildings>,
+        <paash#historic_buildings>,
+        <paash#legislative_buildings>,
+        <paash#log_buildings>,
+        <paash#municipal_buildings>,
+        <paash#office_buildings>,
+        <paash#public_buildings> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#cancer> a skos:Concept ;
@@ -32785,6 +32766,24 @@
         <paash#water_--_supply>,
         <paash#water_--_towers> ;
     skos:prefLabel "Water"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada_--_anniversaries,_etc.>,
+        <paash#canada_--_boundaries>,
+        <paash#canada_--_centennial_celebrations,_etc.>,
+        <paash#canada_--_climate>,
+        <paash#canada_--_commerce_--_[name_of_country]>,
+        <paash#canada_--_commerce_--_united_states>,
+        <paash#canada_--_confederation,_1867>,
+        <paash#canada_--_constitutional_law>,
+        <paash#canada_--_description_and_travel>,
+        <paash#canada_--_economic_conditions>,
+        <paash#canada_--_government_publications>,
+        <paash#canada_--_history>,
+        <paash#canada_--_population> ;
+    skos:prefLabel "Canada"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#lutheran_church> a skos:Concept ;
@@ -33573,49 +33572,6 @@
         <paash#stores,_retail_--_videotape/disc>,
         <paash#stores,_retail_--_wallpaper> ;
     skos:prefLabel "Stores, Retail"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#buildings> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#buildings_--_prefabricated>,
-        <paash#buildings_--_wooden> ;
-    skos:prefLabel "Buildings"@en ;
-    skos:related <paash#[name_of_particular_type_of_building]>,
-        <paash#[names_of_communities_and_institutions]_--_buildings>,
-        <paash#airports_--_buildings>,
-        <paash#alberta_provincial_police_--_buildings>,
-        <paash#anglican_church_of_canada_--_buildings>,
-        <paash#athabasca_university_--_buildings>,
-        <paash#baha'i_--_buildings>,
-        <paash#baptist_church_--_buildings>,
-        <paash#buddhism_--_buildings>,
-        <paash#calgary_--_buildings>,
-        <paash#church_of_jesus_christ_of_the_latter_day_saints_--_buildings>,
-        <paash#edmonton_--_buildings>,
-        <paash#exhibition_buildings>,
-        <paash#farm_buildings>,
-        <paash#hinduism_--_buildings>,
-        <paash#historic_buildings>,
-        <paash#islam_--_buildings>,
-        <paash#jehovah's_witnesses_--_buildings>,
-        <paash#judaism_--_buildings>,
-        <paash#legislative_buildings>,
-        <paash#log_buildings>,
-        <paash#lutheran_church_--_buildings>,
-        <paash#methodist_church_--_buildings>,
-        <paash#moravian_church_--_buildings>,
-        <paash#municipal_buildings>,
-        <paash#office_buildings>,
-        <paash#orthodox_catholic_church_--_buildings>,
-        <paash#pentecostal_church_--_buildings>,
-        <paash#postal_service_--_buildings>,
-        <paash#presbyterian_church_--_buildings>,
-        <paash#public_buildings>,
-        <paash#railways_--_buildings_and_structures>,
-        <paash#schools_--_buildings>,
-        <paash#united_church_of_canada_--_buildings>,
-        <paash#universities_and_colleges_--_buildings>,
-        <paash#university_of_alberta_--_buildings> ;
     skos:topConceptOf <paash#paash> .
 
 <paash#railways> a skos:Concept ;
@@ -35403,7 +35359,7 @@
         <paash#calgary_--_conventions>,
         <paash#calgary_--_convents>,
         <paash#calgary_--_correctional_institutions>,
-        <paash#calgary_--_court_houses>,
+        <paash#calgary_--_courthouses>,
         <paash#calgary_--_crime_and_criminals>,
         <paash#calgary_--_dairy_plants>,
         <paash#calgary_--_demonstrations>,
@@ -35449,7 +35405,7 @@
         <paash#calgary_--_lighting>,
         <paash#calgary_--_local_transit>,
         <paash#calgary_--_long-term_care_facilities>,
-        <paash#calgary_--_lumber-yards>,
+        <paash#calgary_--_lumber_yards>,
         <paash#calgary_--_machine_shops>,
         <paash#calgary_--_manufactures>,
         <paash#calgary_--_markets>,
@@ -35505,7 +35461,7 @@
         <paash#calgary_--_stores,_shopping_centres,_etc.>,
         <paash#calgary_--_storm,_[date]>,
         <paash#calgary_--_storms>,
-        <paash#calgary_--_street-cleaning>,
+        <paash#calgary_--_street_cleaning>,
         <paash#calgary_--_streets>,
         <paash#calgary_--_synagogues>,
         <paash#calgary_--_taxation>,
@@ -35571,7 +35527,7 @@
         <paash#edmonton_--_conventions>,
         <paash#edmonton_--_convents>,
         <paash#edmonton_--_correctional_institutions>,
-        <paash#edmonton_--_court_houses>,
+        <paash#edmonton_--_courthouses>,
         <paash#edmonton_--_crime_and_criminals>,
         <paash#edmonton_--_dairy_plants>,
         <paash#edmonton_--_demonstrations>,
@@ -35617,7 +35573,7 @@
         <paash#edmonton_--_lighting>,
         <paash#edmonton_--_local_transit>,
         <paash#edmonton_--_long-term_care_facilities>,
-        <paash#edmonton_--_lumber-yards>,
+        <paash#edmonton_--_lumber_yards>,
         <paash#edmonton_--_machine_shops>,
         <paash#edmonton_--_manufactures>,
         <paash#edmonton_--_markets>,
@@ -35673,7 +35629,7 @@
         <paash#edmonton_--_stores,_shopping_centres,_etc.>,
         <paash#edmonton_--_storm,_[date]>,
         <paash#edmonton_--_storms>,
-        <paash#edmonton_--_street-cleaning>,
+        <paash#edmonton_--_street_cleaning>,
         <paash#edmonton_--_streets>,
         <paash#edmonton_--_synagogues>,
         <paash#edmonton_--_taxation>,
@@ -35691,13 +35647,12 @@
 
 <paash#paash> a skos:ConceptScheme ;
     skos:hasTopConcept <paash#[name_of_administering_body]_--_residential_schools>,
+        <paash#[name_of_agricultural_board,_corporation,_etc._]>,
         <paash#[name_of_airline]>,
         <paash#[name_of_animal_or_group_of_animals]_--_diseases>,
         <paash#[name_of_army,_etc.]_--_barracks_and_quarters>,
-        <paash#[name_of_board,_corporation,_etc.]>,
         <paash#[name_of_city].__city_council>,
         <paash#[name_of_city]_--_city_councillors>,
-        <paash#[name_of_city]_--_convents>,
         <paash#[name_of_city]_--_wards>,
         <paash#[name_of_community]_--_apartments>,
         <paash#[name_of_community]_--_auditoriums,_convention_facilities,_etc.>,
@@ -35711,7 +35666,7 @@
         <paash#[name_of_community]_--_synagogues>,
         <paash#[name_of_corporate_body]_--_accounting>,
         <paash#[name_of_country,_community,_etc.]_--_exhibitions>,
-        <paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located]),_e.g.,_germany.__consulate_(edmonton,_alta.)>,
+        <paash#[name_of_country].__consulate_([name_of_city_where_consulate_is_located])>,
         <paash#[name_of_creek]>,
         <paash#[name_of_department],_department_of>,
         <paash#[name_of_department],_minister_of>,
@@ -35721,6 +35676,7 @@
         <paash#[name_of_individual_chamber_of_commerce]>,
         <paash#[name_of_individual_corporate_body]_--_by-laws>,
         <paash#[name_of_industry_or_topic]_--_accidents>,
+        <paash#[name_of_municipality]_--_convents>,
         <paash#[name_of_organization_or_person]_--_addresses,_essays,_lectures>,
         <paash#[name_of_particular_berry]>,
         <paash#[name_of_particular_bridge]>,
@@ -35741,7 +35697,6 @@
         <paash#[name_of_specific_commission]>,
         <paash#[name_of_specific_denomination]_--_hymns>,
         <paash#[name_of_specific_diocese]_(diocese)>,
-        <paash#[name_of_specific_diocese]_(diocese)_--_history>,
         <paash#[name_of_specific_disaster]>,
         <paash#[name_of_specific_disease]>,
         <paash#[name_of_specific_exhibition]>,
@@ -35770,7 +35725,7 @@
         <paash#[specific_type_of_object]_--_catalogues>,
         <paash#[type_of_commodity_or_product]_--_marketing>,
         <paash#[type_of_corporate_body]_--_by-laws>,
-        <paash#[type_of_laboratories,_e.g.,_chemical_laboratories,_medical_laboratories,_etc.]>,
+        <paash#[type_of_laboratories]>,
         <paash#[type_of_land_vehicle]_--_wheels>,
         <paash#abduction>,
         <paash#ableism>,
@@ -35800,7 +35755,6 @@
         <paash#agricultural_labourers>,
         <paash#agricultural_machinery>,
         <paash#agricultural_service_board>,
-        <paash#agriculturalists>,
         <paash#agriculture>,
         <paash#agriculture,_department_of>,
         <paash#agriculture,_department_of.__[name_of_division_or_branch]>,
@@ -36107,7 +36061,7 @@
         <paash#canada.__army.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army.__canadian_expeditionary_force>,
         <paash#canada.__canadian_armed_forces>,
-        <paash#canada.__canadian_forces_base,_namao,_[wainwright,_penhold,_etc.]_alberta>,
+        <paash#canada.__canadian_forces_base,_[name_of_location],_alberta>,
         <paash#canada.__constitution_act_1982>,
         <paash#canada.__department_of_[name_of_department]>,
         <paash#canada.__northern>,
@@ -36183,6 +36137,7 @@
         <paash#chefs>,
         <paash#chemical_apparatus>,
         <paash#chemical_industry>,
+        <paash#chemical_laboratories>,
         <paash#chemistry>,
         <paash#chess>,
         <paash#chests>,
@@ -36259,7 +36214,6 @@
         <paash#combines_(agricultural_machinery)>,
         <paash#comedy_programs>,
         <paash#comic_books,_strips,_etc.>,
-        <paash#commerce>,
         <paash#commercial_catalogues>,
         <paash#commercial_credit>,
         <paash#commissionaires>,
@@ -37365,7 +37319,6 @@
         <paash#multiple_sclerosis>,
         <paash#mumps>,
         <paash#municipal_affairs,_department_of>,
-        <paash#municipal_affairs,_department_of_municipal_government>,
         <paash#municipal_buildings>,
         <paash#municipal_charters>,
         <paash#municipal_districts>,
@@ -37479,6 +37432,7 @@
         <paash#ojibwa_nation>,
         <paash#old_age_assistance>,
         <paash#old_age_pensions>,
+        <paash#olympic_games_([number_:_year_:_location])>,
         <paash#olympics>,
         <paash#ombudsman>,
         <paash#onions>,
@@ -37541,7 +37495,6 @@
         <paash#parliament_buildings_(ottawa,_ont.)>,
         <paash#parliamentary_practice>,
         <paash#parole>,
-        <paash#particular_name_of_olympic_games,_e.g.,_olympic_games_(21st_:_1976_:_montreal,_quebec)_and_winter_olympic_games_(15th_:_1988_:_calgary,_alberta)>,
         <paash#partition,_territorial>,
         <paash#partnership>,
         <paash#partridges>,
@@ -38415,6 +38368,7 @@
         <paash#wine_and_wine_making>,
         <paash#wineries>,
         <paash#winter>,
+        <paash#winter_olympic_games_([number_:_year_:_location])>,
         <paash#winter_sports>,
         <paash#wolves>,
         <paash#women>,

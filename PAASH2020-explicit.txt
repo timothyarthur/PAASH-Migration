@@ -1398,32 +1398,6 @@ Buildings
 	RT Office buildings
 	RT Public buildings
 	RT [Names of communities and institutions] -- Buildings
-	RT Airports -- Buildings
-	RT Alberta Provincial Police -- Buildings
-	RT Anglican Church of Canada -- Buildings
-	RT Athabasca University -- Buildings
-	RT Baha'i -- Buildings
-	RT Baptist Church -- Buildings
-	RT Buddhism -- Buildings
-	RT Calgary -- Buildings
-	RT Church of Jesus Christ of the Latter Day Saints -- Buildings
-	RT Edmonton -- Buildings
-	RT Hinduism -- Buildings
-	RT Islam -- Buildings
-	RT Jehovah's Witnesses -- Buildings
-	RT Judaism -- Buildings
-	RT Lutheran Church -- Buildings
-	RT Methodist Church -- Buildings
-	RT Moravian Church -- Buildings
-	RT Orthodox Catholic Church -- Buildings
-	RT Pentecostal Church -- Buildings
-	RT Postal service -- Buildings
-	RT Presbyterian Church -- Buildings
-	RT Railways -- Buildings and structures
-	RT Schools -- Buildings
-	RT United Church of Canada -- Buildings
-	RT Universities and colleges -- Buildings
-	RT University of Alberta -- Buildings
 
 Bulldozers
 
@@ -1868,7 +1842,7 @@ Canada.  Army.  [Name of unit, regiment, etc.]
 	NT Uniforms
 	NT Women
 
-Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
+Canada.  Canadian Forces Base, [Name of location], Alberta
 
 Canada.  Constitution Act 1982
 	RT Canada -- Constitutional law -- Amendments
@@ -1988,8 +1962,8 @@ Canada, Western
 
 Canada Day
 
-Canadian Forces Base, Namao [Penhold, Wainwright, etc.]
-	USE Canada.  Canadian Forces Base, Namao, [Wainwright, Penhold, etc.] Alberta
+Canadian Forces Base, [Name of location in Alberta]
+	USE Canada.  Canadian Forces Base, [Name of location], Alberta
 
 Canals
 	USE Irrigation -- Canals and flumes
@@ -2366,7 +2340,7 @@ Civil rights
 	RT Human rights
 
 Civil service
-	For specific departments USE [Name of department] -- Officials and employees
+	For specific departments USE [Name of department], Department of -- Officials and employees
 	NT Alberta
 		USE Alberta -- Civil service
 	NT Canada
@@ -2514,7 +2488,7 @@ Commissions (of inquiry)
 
 Committees
 	Use only for collections containing material on several committees.
-	For individual committees USE name of committee.
+	For individual committees USE [Name of committee].
 
 Committees of the Legislature
 	USE Legislative Assembly -- Committees
@@ -2651,7 +2625,7 @@ Construction workers
 
 Consulates
 	USE Diplomatic and consular service
-	USE [Name of Country].  Consulate ([Name of city where consulate is located]), e.g., Germany.  Consulate (Edmonton, Alta.)
+	USE [Name of country].  Consulate ([Name of city where consulate is located])
 
 Consultants
 
@@ -2680,7 +2654,9 @@ Conventions
 
 Convents
 	USE [Name of religion or sect] -- Convents
-	USE [Name of city] -- Convents
+	USE [Name of municipality] -- Convents
+	USE Calgary -- Convents
+	USE Edmonton -- Convents
 
 Conveyor belts
 	RT Belt conveyors
@@ -2765,7 +2741,7 @@ Counterfeits and counterfeiting
 Counties
 	RT Local government
 	RT Municipal Affairs, Department of
-	For names of particular counties use the following format:  Parkland, County of
+	For names of particular counties use the following format:  [Name of county], County of
 
 Country clubs
 
@@ -4091,10 +4067,10 @@ Election districts (Cities)
 	USE Edmonton -- Wards
 
 Election districts (Federal)
-	For proper names of federal electoral districts use, e.g., Edmonton East Electoral District (Federal)
+	For proper names of federal electoral districts, USE [Name of district] Electoral District (Federal)
 
 Election districts (Provincial)
-	For names of provincial electoral districts, use, e.g., Olds-Didsbury Electoral District (Provincial)
+	For names of provincial electoral districts, USE [Name of district] Electoral District (Provincial)
 
 Elections (Federal, [date])
 	NT Contested
@@ -6307,7 +6283,7 @@ Judaism
 Judges
 
 Judicial districts
-	For names of particular districts use the following format: Lethbridge, Judicial District of
+	For names of particular districts use the following format: [Name of district], Judicial District of
 
 Judicial statistics
 
@@ -6561,7 +6537,9 @@ Kutenai Nation
 
 Laboratories
 	RT [Name of community] -- Laboratories
-	RT [Type of laboratories, e.g., Chemical laboratories, Medical laboratories, etc.]
+	RT [Type of laboratories]
+	RT Chemical laboratories
+	RT Medical laboratories
 
 Laboratory animals
 
@@ -8151,7 +8129,10 @@ Old-age homes
 Old age pensions
 
 Olympics
-	RT particular name of Olympic games, e.g., Olympic Games (21st : 1976 : Montreal, Quebec) and Winter Olympic Games (15th : 1988 : Calgary, Alberta)
+	RT Olympic Games ([Number : Year : Location])
+		E.g. Olympic Games (21st : 1976: Montreal, Quebec)
+	RT Winter Olympic Games ([Number : Year : Location])
+		E.g. Winter Olympic Games (15th : 1988 : Calgary, Alberta)
 
 Ombudsman
 

@@ -104,7 +104,8 @@ def construct_subheading(item, parent, check_flags = True):
 		if '[' in item:
 			precoordinated_labels.append(item + '\n')
 		split_labels = item.rsplit(' -- ')
-		if not '[' in split_labels[0]:
+		clean_parent_label = clean_label(split_labels[0])
+		if (not '[' in clean_parent_label) or get_uri(clean_parent_label):
 			construct_precoordinated(item)
 
 	if item.startswith('USE'):
