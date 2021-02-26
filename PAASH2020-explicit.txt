@@ -139,7 +139,7 @@ Agriculture, Department of
 	NT Portraits, etc.
 	NT Reorganization
 	RT Agriculture, Department of.  [Name of division or branch]
-	RT [Name of agricultural Board, Corporation, etc. ]
+	RT [Name of agricultural Board, Corporation, etc.]
 
 Agriculture, Minister of
 
@@ -724,7 +724,7 @@ Assiniboine Nation
 	NT Youth
 
 Associations, institutions, etc.
-	RT [Name of specific association]
+	RT [Name of specific association, institution, etc.]
 	RT Clubs
 
 Astronauts
@@ -1190,7 +1190,7 @@ Blood Nation
 Boarding houses
 
 Boards of trade
-	When possible use name of Board, e.g., Edmonton Chamber of commerce, Calgary Board of Trade
+	When possible use name of Board, e.g., Edmonton Chamber of Commerce, Calgary Board of Trade
 
 Boatbuilding
 
@@ -1443,7 +1443,7 @@ By-laws
 	RT Edmonton -- By-laws
 	RT Calgary -- By-laws
 
-By-Laws, Municipals
+By-Laws, Municipal
 	USE Ordinances, Municipal
 
 Cabbage
@@ -1689,7 +1689,7 @@ Canada
 	NT Economic conditions
 	NT Government publications
 	NT History
-	NT Confederation, 1867
+		NT Confederation, 1867
 	NT Militia
 		USE Canada.  Canadian Armed Forces -- Reserves
 		USE Canada.  Army -- Reserves
@@ -2142,6 +2142,8 @@ Census
 Centennial celebrations
 	USE Alberta -- Centennial celebrations, etc.
 	USE Canada -- Centennial celebrations, etc.
+	USE Calgary -- Centennial celebrations, etc.
+	USE Edmonton -- Centennial celebrations, etc.
 
 Ceramic industries
 
@@ -2459,7 +2461,7 @@ Colleges
 	USE Universities and colleges
 
 Colleges of applied arts and technology
-	RT names of particular institutions
+	RT [Name of particular college of applied arts and technology]
 
 Colon (Anatomy)
 
@@ -2484,7 +2486,7 @@ Commissioners for Oaths
 
 Commissions (of inquiry)
 	USE Governmental investigations
-	USE [Name of specific commission]
+	USE [Name of specific commission of inquiry]
 
 Committees
 	Use only for collections containing material on several committees.
@@ -2587,7 +2589,9 @@ Congenital defects
 	UF Abnormalities, Human
 	UF Birth defects
 
-Congregationalists, Finnish [German, etc.]
+Congregationalists, [Name of nationality]
+	RT Congregationalists, Finnish
+	RT Congregationalists, German
 
 Congress
 	USE Conferences and conventions
@@ -4724,7 +4728,10 @@ Folk art
 
 Folk dancing
 
-Folk dancing, [Ukrainian, French, German, etc.]
+Folk dancing, [Name of nationality]
+	RT Folk dancing, Ukrainian
+	RT Folk dancing, French
+	RT Folk dancing, German
 
 Folk festivals
 
@@ -4901,7 +4908,7 @@ Funeral homes
 
 Funeral rites and ceremonies
 
-Funeral rites and ceremonies, [Class of persons or Ethnic group]
+Funeral rites and ceremonies, [Class of persons or ethnic group]
 
 Funerals
 	USE Funeral rites and ceremonies
@@ -4949,7 +4956,7 @@ Gambling
 	RT Casinos
 
 Game and game birds
-	RT [Name of specific animal or bird]
+	RT [Name of specific game animal or bird]
 
 Game farms
 
@@ -5037,7 +5044,7 @@ Geography
 
 Geological surveys
 	RT Surveys
-	RT Surveyors
+	RT Surveying and surveyors
 
 Geologists
 
@@ -6712,7 +6719,7 @@ Legislation ([Name of Act as titled in the Statutes of Alberta])
 Legislative Assembly
 	NT Bills
 	NT Committees
-		RT Name of specific committee
+		RT [Name of specific legislative committee]
 	NT Membership
 	NT Opening ceremonies
 	NT Private bills
@@ -6948,7 +6955,9 @@ Lutheran Church
 	NT Sunday schools
 	NT Synod
 
-Lutherans, Danish [Swedish, etc.]
+Lutherans, [Name of nationality]
+	RT Lutherans, Danish
+	RT Lutherans, Swedish
 
 Lynx
 
@@ -7927,7 +7936,7 @@ Nurseries
 Nurseries (Horticulture)
 
 Nurses
-	RT Public health nurses
+	RT Public health nursing and nurses
 
 Nurses' aides
 
@@ -8269,7 +8278,7 @@ Paper industry
 
 Paper recycling
 	USE Waste paper
-	USE Recycling
+	USE Recycling (Waste, etc.)
 
 Parachutes
 
@@ -9374,7 +9383,7 @@ Report cards
 	USE Grading and marking (Students)
 
 Reporters and reporting
-	USE Journalism
+	USE Journalists and journalism
 
 Representative government and representation
 
@@ -9403,6 +9412,7 @@ Residential schools
 	RT Dane-zaa Nation -- Residential schools
 	RT Dene Suline Nation -- Residential schools
 	RT Dene Tha' Nation -- Residential schools
+	RT First Nations -- Residential Schools
 	RT Indigenous peoples -- Residential schools
 	RT Inuit -- Residential schools
 	RT Kainai Nation -- Residential schools
@@ -9474,7 +9484,7 @@ Right of entry arbitration
 	RT Surface Rights Board
 	RT Land tenure -- Law and legislation
 
-Ringette (game)
+Ringette (Game)
 
 Riots
 
@@ -10447,7 +10457,7 @@ Storage and moving trade
 	RT Moving, Household
 
 Stores, Resale
-	USE Pawnbroking
+	USE Pawnbroking and pawnbrokers
 	USE Rummage sales
 	USE Thrift shops
 
@@ -10959,7 +10969,7 @@ Transit systems
 Transplantation of organs, tissues, etc.
 
 Transport companies
-	USE Trucking
+	USE Trucks and trucking
 
 Transportation
 
@@ -10969,7 +10979,7 @@ Transsexual
 Trappers and trapping
 	UF Animal traps
 	RT Fur trade
-	RT Hunting
+	RT Hunting and hunters
 
 Traplines
 
@@ -11054,6 +11064,7 @@ Truth and Reconciliation Commission
 	RT Dane-zaa Nation -- Residential schools
 	RT Dene Suline Nation -- Residential schools
 	RT Dene Tha' Nation -- Residential schools
+	RT First Nations -- Residential Schools
 	RT Indigenous peoples -- Residential schools
 	RT Inuit -- Residential schools
 	RT Kainai Nation -- Residential schools
@@ -11272,7 +11283,7 @@ United States of America.  Marine Corps
 United States of America.  Navy
 
 Universities and colleges
-	RT Names of specific colleges, universities
+	RT [Name of specific college or university]
 	NT Administration
 	NT Buildings
 	NT Curricula
@@ -11357,7 +11368,7 @@ Vandalism
 Variety shows (Television programs)
 
 Variety shows (Theatre)
-	USE Music halls (variety theatres, cabarets, etc).
+	USE Music halls (Variety theatres, cabarets, etc).
 
 Vaulting
 	USE Gymnastics
