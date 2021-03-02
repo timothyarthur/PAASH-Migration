@@ -20,6 +20,7 @@ Accident Insurance
 	USE Insurance, Accident
 
 Accident Investigation
+	USE Accidents -- Investigation
 
 Accidents
 	RT Industrial accidents
@@ -40,7 +41,7 @@ Accounting
 	RT [Name of corporate body] -- Accounting
 
 Acid precipitation
-	USE Weather -- Acid rain
+	USE Weather -- Acid precipitation
 
 Acquired immunodeficiency syndrome (AIDS)
 	NT Social aspects
@@ -50,6 +51,7 @@ Acrobatics
 Acrobats
 
 Actions and defenses
+	USE Law -- Actions and defenses
 
 Activated carbons
 	USE Carbon, Activated
@@ -962,7 +964,7 @@ Barns
 Barracks
 	RT [Name of army, etc.] -- Barracks and quarters
 	RT Canada.  Canadian Armed Forces -- Barracks and quarters
-	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters
+	RT Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters
 	RT Canada.  Army -- Barracks and quarters
 	RT Canada.  Army.  Canadian Expeditionary Force -- Barracks and quarters
 	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Barracks and quarters
@@ -1523,6 +1525,7 @@ Calgary
 	NT Churches
 	NT City Hall
 	NT City Council
+		USE Calgary.  City council
 	NT City Councillors
 	NT City planning
 	NT Civic improvement
@@ -1705,7 +1708,7 @@ Canada.  Canadian Armed Forces
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1726,7 +1729,7 @@ Canada.  Canadian Armed Forces
 	NT Uniforms
 	NT Women
 
-Canada.  Armed Forces.  [Name of unit, regiment, etc.]
+Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.]
 	Use after 1968
 	NT Appointments and retirements
 	NT Barracks and quarters
@@ -1734,7 +1737,7 @@ Canada.  Armed Forces.  [Name of unit, regiment, etc.]
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1763,7 +1766,7 @@ Canada.  Army
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1792,7 +1795,7 @@ Canada.  Army.  Canadian Expeditionary Force
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1821,7 +1824,7 @@ Canada.  Army.  [Name of unit, regiment, etc.]
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1877,7 +1880,7 @@ Canada.  Royal Canadian Air Force
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1906,7 +1909,7 @@ Canada.  Royal Canadian Air Force.  [Name of squadron, etc.]
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -1935,7 +1938,7 @@ Canada.  Royal Canadian Navy
 	NT Demobilization
 	NT Deployment
 	NT Discharge certificates
-		USE Military discharges
+		USE Military -- Discharge
 	NT Enlisted men
 	NT History
 	NT Inspection
@@ -2369,7 +2372,7 @@ Climate change
 Clinics
 	USE Medical clinics
 
-Clocks and watch making
+Clock and watch making
 
 Clocks and watches
 
@@ -3906,6 +3909,7 @@ Edmonton
 	NT Churches
 	NT City Hall
 	NT City Council
+		USE Edmonton.  City council
 	NT City Councillors
 	NT City planning
 	NT Civic improvement
@@ -5630,6 +5634,8 @@ Hops
 Hormones in animal nutrition
 	USE Food -- Additives
 
+Horse rustling
+
 Horses
 	NT Breeding
 	NT Diseases
@@ -5637,7 +5643,6 @@ Horses
 	NT Racing
 	NT Riding
 	NT Riding clubs
-	NT Rustling
 	NT Training
 	NT Transportation
 
@@ -6070,7 +6075,7 @@ Interns
 Internship programmes
 
 Interpleader
-	USE Actions and defenses
+	USE Law -- Actions and defenses
 
 Interprovincial conferences
 
@@ -6656,7 +6661,7 @@ Law
 		NT Cases
 	NT Corporate
 	NT Criminal
-	RT Actions and defenses
+	NT Actions and defenses
 
 Law enforcement
 	NT Field sobriety tests
@@ -6892,6 +6897,7 @@ Locusts
 Log buildings
 
 Log transportation
+	USE Lumber -- Transportation
 
 Logging and loggers
 
@@ -7105,8 +7111,7 @@ Medicare
 Medicine
 
 Meetings
-	USE Conventions
-	USE Congresses and conventions
+	USE Conferences and conventions
 
 Melons
 
@@ -8010,7 +8015,6 @@ Oil pipelines
 	RT Petroleum -- Pipelines
 
 Oil refineries
-	USE Petroleum -- Refineries
 
 Oil sands
 	UF Athabasca Tar Sands
@@ -8173,7 +8177,7 @@ Orchestra
 	RT [Names of colleges and universities, communities, etc.] -- Orchestras and bands
 	RT Calgary -- Orchestras and bands
 	RT Canada.  Canadian Armed Forces -- Orchestras and bands
-	RT Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands
+	RT Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands
 	RT Canada.  Army -- Orchestras and bands
 	RT Canada.  Army.  Canadian Expeditionary Force -- Orchestras and bands
 	RT Canada.  Army.  [Name of unit, regiment, etc.] -- Orchestras and bands
@@ -8472,10 +8476,10 @@ Phonograph
 	USE Sound recordings -- Players
 
 Phonograph records
-	USE Sound recordings
+	USE Sound recordings -- Phonograph records
 
 Phono records
-	USE Sound recordings
+	USE Sound recordings -- Phonograph records
 
 Phonotapes
 	USE Sound recordings
@@ -9284,7 +9288,7 @@ Record stores
 	USE Stores, Retail -- Sound recordings
 
 Records, Phonograph
-	USE Sound recordings
+	USE Sound recordings -- Phonograph records
 
 Records management
 	USE Records -- Management
@@ -9620,7 +9624,7 @@ Russian Orthodox Church
 
 Rustling
 	USE Cattle -- Rustling
-	USE Horses -- Rustling
+	USE Horse rustling
 
 Ruthenians
 

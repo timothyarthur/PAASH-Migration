@@ -161,12 +161,8 @@
     skos:prefLabel "Abortion"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#accident_investigation> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Accident Investigation"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#accidents_--_investigation> a skos:Concept ;
+    skos:altLabel "Accident Investigation"@en ;
     skos:broader <paash#accidents> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Accidents -- Investigation"@en .
@@ -2970,6 +2966,12 @@
     skos:prefLabel "Calendars"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#calgary.__city_council> a skos:Concept ;
+    skos:altLabel "Calgary -- City Council"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Calgary.  City council"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#calgary_--_airports> a skos:Concept ;
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
@@ -3121,11 +3123,6 @@
     skos:broader <paash#calgary> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Calgary -- Churches"@en .
-
-<paash#calgary_--_city_council> a skos:Concept ;
-    skos:broader <paash#calgary> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Calgary -- City Council"@en .
 
 <paash#calgary_--_city_councillors> a skos:Concept ;
     skos:altLabel "Aldermen"@en ;
@@ -3767,116 +3764,6 @@
     skos:prefLabel "Canada. [Short title of Act]"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Appointments and retirements"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Biography"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Demobilization"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Deployment"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Enlisted men"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_history> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- History"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Inspection"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Installations"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Manoeuvres"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Medals, badges, decorations, etc."@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Military life"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Officers"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Parades"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Pay, allowances, etc."@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Peacekeeping missions"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Recruiting, enlistment, etc."@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Reserves"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Songs and music"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Sports"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Transportation"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Uniforms"@en .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Women"@en .
-
 <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
@@ -4207,6 +4094,116 @@
     skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Army -- Women"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Appointments and retirements"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Biography"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Demobilization"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Deployment"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Enlisted men"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_history> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- History"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Inspection"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Installations"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Manoeuvres"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Medals, badges, decorations, etc."@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Military life"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Officers"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Parades"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Pay, allowances, etc."@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Peacekeeping missions"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Recruiting, enlistment, etc."@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Reserves"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Songs and music"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Sports"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Transportation"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Uniforms"@en .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Women"@en .
 
 <paash#canada.__canadian_armed_forces_--_appointments_and_retirements> a skos:Concept ;
     skos:broader <paash#canada.__canadian_armed_forces> ;
@@ -5544,9 +5541,9 @@
     skos:prefLabel "Climate change"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#clocks_and_watch_making> a skos:Concept ;
+<paash#clock_and_watch_making> a skos:Concept ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Clocks and watch making"@en ;
+    skos:prefLabel "Clock and watch making"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#clocks_and_watches> a skos:Concept ;
@@ -5861,7 +5858,8 @@
 
 <paash#conferences_and_conventions> a skos:Concept ;
     skos:altLabel "Congress"@en,
-        "Conventions"@en ;
+        "Conventions"@en,
+        "Meetings"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Conferences and conventions"@en ;
     skos:topConceptOf <paash#paash> .
@@ -5871,12 +5869,6 @@
         "Birth defects"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Congenital defects"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#congresses_and_conventions> a skos:Concept ;
-    skos:altLabel "Meetings"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Congresses and conventions"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#construction_equipment_industry> a skos:Concept ;
@@ -9005,6 +8997,12 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Economics -- Research"@en .
 
+<paash#edmonton.__city_council> a skos:Concept ;
+    skos:altLabel "Edmonton -- City Council"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Edmonton.  City council"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#edmonton_--_airports> a skos:Concept ;
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
@@ -9156,11 +9154,6 @@
     skos:broader <paash#edmonton> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Edmonton -- Churches"@en .
-
-<paash#edmonton_--_city_council> a skos:Concept ;
-    skos:broader <paash#edmonton> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Edmonton -- City Council"@en .
 
 <paash#edmonton_--_city_councillors> a skos:Concept ;
     skos:altLabel "Aldermen"@en ;
@@ -12187,6 +12180,12 @@
     skos:prefLabel "Hops"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#horse_rustling> a skos:Concept ;
+    skos:altLabel "Rustling"@en ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Horse rustling"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#horsemanship> a skos:Concept ;
     skos:altLabel "Riding"@en ;
     skos:inScheme <paash#paash> ;
@@ -12218,12 +12217,6 @@
     skos:broader <paash#horses> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Horses -- Riding clubs"@en .
-
-<paash#horses_--_rustling> a skos:Concept ;
-    skos:altLabel "Rustling"@en ;
-    skos:broader <paash#horses> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Horses -- Rustling"@en .
 
 <paash#horses_--_training> a skos:Concept ;
     skos:broader <paash#horses> ;
@@ -14915,7 +14908,9 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#law_--_actions_and_defenses> a skos:Concept ;
-    skos:altLabel "Lawsuits"@en,
+    skos:altLabel "Actions and defenses"@en,
+        "Interpleader"@en,
+        "Lawsuits"@en,
         "Litigation"@en ;
     skos:broader <paash#law> ;
     skos:inScheme <paash#paash> ;
@@ -15352,11 +15347,6 @@
     skos:prefLabel "Log cabins"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#log_transportation> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Log transportation"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#logging_and_loggers> a skos:Concept ;
     skos:altLabel "Lumberjacks"@en ;
     skos:inScheme <paash#paash> ;
@@ -15400,6 +15390,7 @@
     skos:prefLabel "Lumber -- Storage"@en .
 
 <paash#lumber_--_transportation> a skos:Concept ;
+    skos:altLabel "Log transportation"@en ;
     skos:broader <paash#lumber> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Lumber -- Transportation"@en .
@@ -15871,6 +15862,14 @@
     skos:prefLabel "Military -- Ceremonies, honours and salutes"@en .
 
 <paash#military_--_discharge> a skos:Concept ;
+    skos:altLabel "Canada.  Army -- Discharge certificates"@en,
+        "Canada.  Army.  Canadian Expeditionary Force -- Discharge certificates"@en,
+        "Canada.  Army.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
+        "Canada.  Canadian Armed Forces -- Discharge certificates"@en,
+        "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
+        "Canada.  Royal Canadian Air Force -- Discharge certificates"@en,
+        "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Discharge certificates"@en,
+        "Canada.  Royal Canadian Navy -- Discharge certificates"@en ;
     skos:broader <paash#military> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Military -- Discharge"@en .
@@ -15901,19 +15900,6 @@
     skos:altLabel "Foreign aid program"@en ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Military Assistance, Foreign"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#military_discharges> a skos:Concept ;
-    skos:altLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
-        "Canada.  Army -- Discharge certificates"@en,
-        "Canada.  Army.  Canadian Expeditionary Force -- Discharge certificates"@en,
-        "Canada.  Army.  [Name of unit, regiment, etc.] -- Discharge certificates"@en,
-        "Canada.  Canadian Armed Forces -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Air Force -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Air Force.  [Name of squadron, etc.] -- Discharge certificates"@en,
-        "Canada.  Royal Canadian Navy -- Discharge certificates"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Military discharges"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#military_service,_compulsory> a skos:Concept ;
@@ -18205,6 +18191,11 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Oil fields -- Valuation"@en .
 
+<paash#oil_refineries> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Oil refineries"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#oil_sands_extraction_plants> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Oil sands extraction plants"@en ;
@@ -19106,8 +19097,7 @@
     skos:prefLabel "Petroleum -- Pumping stations"@en .
 
 <paash#petroleum_--_refineries> a skos:Concept ;
-    skos:altLabel "Oil refineries"@en,
-        "Refineries"@en ;
+    skos:altLabel "Refineries"@en ;
     skos:broader <paash#petroleum> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Petroleum -- Refineries"@en .
@@ -23014,7 +23004,10 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#sound_recordings_--_phonograph_records> a skos:Concept ;
-    skos:altLabel "Gramophone records"@en ;
+    skos:altLabel "Gramophone records"@en,
+        "Phono records"@en,
+        "Phonograph records"@en,
+        "Records, Phonograph"@en ;
     skos:broader <paash#sound_recordings> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Sound recordings -- Phonograph records"@en .
@@ -25609,15 +25602,10 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#weather_--_acid_precipitation> a skos:Concept ;
-    skos:broader <paash#weather> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Weather -- Acid precipitation"@en .
-
-<paash#weather_--_acid_rain> a skos:Concept ;
     skos:altLabel "Acid precipitation"@en ;
     skos:broader <paash#weather> ;
     skos:inScheme <paash#paash> ;
-    skos:prefLabel "Weather -- Acid rain"@en .
+    skos:prefLabel "Weather -- Acid precipitation"@en .
 
 <paash#weather_--_control> a skos:Concept ;
     skos:broader <paash#weather> ;
@@ -26382,13 +26370,6 @@
     skos:prefLabel "Acquired immunodeficiency syndrome (AIDS)"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#actions_and_defenses> a skos:Concept ;
-    skos:altLabel "Interpleader"@en ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Actions and defenses"@en ;
-    skos:related <paash#law> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#administrative_agencies> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#administrative_agencies_--_reorganization> ;
@@ -26770,18 +26751,6 @@
     skos:prefLabel "Camps"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters"@en ;
-    skos:related <paash#barracks> .
-
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands> a skos:Concept ;
-    skos:broader <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> ;
-    skos:inScheme <paash#paash> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands"@en ;
-    skos:related <paash#orchestra> .
-
 <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters> a skos:Concept ;
     skos:broader <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> ;
     skos:inScheme <paash#paash> ;
@@ -26816,6 +26785,18 @@
     skos:broader <paash#canada.__army> ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Canada.  Army -- Orchestras and bands"@en ;
+    skos:related <paash#orchestra> .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Barracks and quarters"@en ;
+    skos:related <paash#barracks> .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands> a skos:Concept ;
+    skos:broader <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> ;
+    skos:inScheme <paash#paash> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.] -- Orchestras and bands"@en ;
     skos:related <paash#orchestra> .
 
 <paash#canada.__canadian_armed_forces_--_barracks_and_quarters> a skos:Concept ;
@@ -30748,10 +30729,7 @@
     skos:topConceptOf <paash#paash> .
 
 <paash#sound_recordings> a skos:Concept ;
-    skos:altLabel "Phono records"@en,
-        "Phonograph records"@en,
-        "Phonotapes"@en,
-        "Records, Phonograph"@en,
+    skos:altLabel "Phonotapes"@en,
         "Tape recordings (Sound reproductions)"@en ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#sound_recordings_--_phonograph_records>,
@@ -31379,6 +31357,14 @@
         <paash#elections_(provincial,_[date])> ;
     skos:topConceptOf <paash#paash> .
 
+<paash#weather> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#weather_--_acid_precipitation>,
+        <paash#weather_--_control>,
+        <paash#weather_--_forecasting> ;
+    skos:prefLabel "Weather"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#accounting> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Accounting"@en ;
@@ -31702,15 +31688,6 @@
     skos:prefLabel "Teachers"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#weather> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#weather_--_acid_precipitation>,
-        <paash#weather_--_acid_rain>,
-        <paash#weather_--_control>,
-        <paash#weather_--_forecasting> ;
-    skos:prefLabel "Weather"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#youth> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#youth_--_dwellings>,
@@ -32023,6 +32000,16 @@
     skos:prefLabel "Judaism"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#law> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#law_--_actions_and_defenses>,
+        <paash#law_--_cases>,
+        <paash#law_--_civil>,
+        <paash#law_--_corporate>,
+        <paash#law_--_criminal> ;
+    skos:prefLabel "Law"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#legislative_buildings> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#legislative_buildings_--_design_and_construction>,
@@ -32208,17 +32195,6 @@
     skos:prefLabel "Irrigation"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#law> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#law_--_actions_and_defenses>,
-        <paash#law_--_cases>,
-        <paash#law_--_civil>,
-        <paash#law_--_corporate>,
-        <paash#law_--_criminal> ;
-    skos:prefLabel "Law"@en ;
-    skos:related <paash#actions_and_defenses> ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#music> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#music_--_handbooks,_manuals,_etc.>,
@@ -32377,6 +32353,19 @@
     skos:prefLabel "Cattle"@en ;
     skos:topConceptOf <paash#paash> .
 
+<paash#horses> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#horses_--_breeding>,
+        <paash#horses_--_diseases>,
+        <paash#horses_--_feeding_and_feeds>,
+        <paash#horses_--_racing>,
+        <paash#horses_--_riding>,
+        <paash#horses_--_riding_clubs>,
+        <paash#horses_--_training>,
+        <paash#horses_--_transportation> ;
+    skos:prefLabel "Horses"@en ;
+    skos:topConceptOf <paash#paash> .
+
 <paash#legislative_assembly> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#legislative_assembly_--_bills>,
@@ -32414,20 +32403,6 @@
         <paash#women_--_societies_and_clubs>,
         <paash#women_--_suffrage> ;
     skos:prefLabel "Women"@en ;
-    skos:topConceptOf <paash#paash> .
-
-<paash#horses> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#horses_--_breeding>,
-        <paash#horses_--_diseases>,
-        <paash#horses_--_feeding_and_feeds>,
-        <paash#horses_--_racing>,
-        <paash#horses_--_riding>,
-        <paash#horses_--_riding_clubs>,
-        <paash#horses_--_rustling>,
-        <paash#horses_--_training>,
-        <paash#horses_--_transportation> ;
-    skos:prefLabel "Horses"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#insurance> a skos:Concept ;
@@ -32525,10 +32500,10 @@
     skos:inScheme <paash#paash> ;
     skos:prefLabel "Barracks"@en ;
     skos:related <paash#[name_of_army,_etc.]_--_barracks_and_quarters>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
         <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
         <paash#canada.__army.__canadian_expeditionary_force_--_barracks_and_quarters>,
         <paash#canada.__army_--_barracks_and_quarters>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
         <paash#canada.__canadian_armed_forces_--_barracks_and_quarters>,
         <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_barracks_and_quarters>,
         <paash#canada.__royal_canadian_air_force_--_barracks_and_quarters>,
@@ -32769,10 +32744,10 @@
     skos:prefLabel "Orchestra"@en ;
     skos:related <paash#[names_of_colleges_and_universities,_communities,_etc.]_--_orchestras_and_bands>,
         <paash#calgary_--_orchestras_and_bands>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
         <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
         <paash#canada.__army.__canadian_expeditionary_force_--_orchestras_and_bands>,
         <paash#canada.__army_--_orchestras_and_bands>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
         <paash#canada.__canadian_armed_forces_--_orchestras_and_bands>,
         <paash#canada.__royal_canadian_air_force.__[name_of_squadron,_etc.]_--_orchestras_and_bands>,
         <paash#canada.__royal_canadian_air_force_--_orchestras_and_bands>,
@@ -33177,36 +33152,6 @@
     skos:prefLabel "University of Alberta"@en ;
     skos:topConceptOf <paash#paash> .
 
-<paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
-    skos:inScheme <paash#paash> ;
-    skos:narrower <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_history>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> ;
-    skos:prefLabel "Canada.  Armed Forces.  [Name of unit, regiment, etc.]"@en ;
-    skos:scopeNote "Use after 1968"@en ;
-    skos:topConceptOf <paash#paash> .
-
 <paash#canada.__army.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
     skos:inScheme <paash#paash> ;
     skos:narrower <paash#canada.__army.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements>,
@@ -33265,6 +33210,36 @@
         <paash#canada.__army.__canadian_expeditionary_force_--_women> ;
     skos:prefLabel "Canada.  Army.  Canadian Expeditionary Force"@en ;
     skos:scopeNote "Established Aug. 1914 and ceased to exist November, 1918"@en ;
+    skos:topConceptOf <paash#paash> .
+
+<paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]> a skos:Concept ;
+    skos:inScheme <paash#paash> ;
+    skos:narrower <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_appointments_and_retirements>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_barracks_and_quarters>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_biography>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_demobilization>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_deployment>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_enlisted_men>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_history>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_inspection>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_installations>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_manoeuvres>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_medals,_badges,_decorations,_etc.>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_military_life>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_officers>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_orchestras_and_bands>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_parades>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_pay,_allowances,_etc.>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_peacekeeping_missions>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_recruiting,_enlistment,_etc.>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_reserves>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_songs_and_music>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_sports>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_transportation>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_uniforms>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]_--_women> ;
+    skos:prefLabel "Canada.  Canadian Armed Forces.  [Name of unit, regiment, etc.]"@en ;
+    skos:scopeNote "Use after 1968"@en ;
     skos:topConceptOf <paash#paash> .
 
 <paash#canada.__royal_canadian_air_force> a skos:Concept ;
@@ -35359,7 +35334,6 @@
         <paash#calgary_--_charters,_grants,_privileges>,
         <paash#calgary_--_choirs_(music)>,
         <paash#calgary_--_churches>,
-        <paash#calgary_--_city_council>,
         <paash#calgary_--_city_councillors>,
         <paash#calgary_--_city_hall>,
         <paash#calgary_--_city_planning>,
@@ -35527,7 +35501,6 @@
         <paash#edmonton_--_charters,_grants,_privileges>,
         <paash#edmonton_--_choirs_(music)>,
         <paash#edmonton_--_churches>,
-        <paash#edmonton_--_city_council>,
         <paash#edmonton_--_city_councillors>,
         <paash#edmonton_--_city_hall>,
         <paash#edmonton_--_city_planning>,
@@ -35747,14 +35720,12 @@
         <paash#abduction>,
         <paash#ableism>,
         <paash#abortion>,
-        <paash#accident_investigation>,
         <paash#accidents>,
         <paash#accountants>,
         <paash#accounting>,
         <paash#acquired_immunodeficiency_syndrome_(aids)>,
         <paash#acrobatics>,
         <paash#acrobats>,
-        <paash#actions_and_defenses>,
         <paash#activism_and_activists>,
         <paash#actors>,
         <paash#administration_of_estates>,
@@ -36065,6 +36036,7 @@
         <paash#cake>,
         <paash#calendars>,
         <paash#calgary>,
+        <paash#calgary.__city_council>,
         <paash#camels>,
         <paash#cameras>,
         <paash#camp_sites,_facilities,_etc.>,
@@ -36073,11 +36045,11 @@
         <paash#canada>,
         <paash#canada,_western>,
         <paash#canada._[short_title_of_act]>,
-        <paash#canada.__armed_forces.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army>,
         <paash#canada.__army.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__army.__canadian_expeditionary_force>,
         <paash#canada.__canadian_armed_forces>,
+        <paash#canada.__canadian_armed_forces.__[name_of_unit,_regiment,_etc.]>,
         <paash#canada.__canadian_forces_base,_[name_of_location],_alberta>,
         <paash#canada.__constitution_act_1982>,
         <paash#canada.__department_of_[name_of_department]>,
@@ -36208,7 +36180,7 @@
         <paash#clerks_of_court>,
         <paash#climate>,
         <paash#climate_change>,
-        <paash#clocks_and_watch_making>,
+        <paash#clock_and_watch_making>,
         <paash#clocks_and_watches>,
         <paash#clothing_and_dress>,
         <paash#clouds>,
@@ -36262,7 +36234,6 @@
         <paash#congregationalists,_[name_of_nationality]>,
         <paash#congregationalists,_finnish>,
         <paash#congregationalists,_german>,
-        <paash#congresses_and_conventions>,
         <paash#conservatories_of_music>,
         <paash#constitutional_conventions>,
         <paash#construction_equipment>,
@@ -36468,6 +36439,7 @@
         <paash#economic_conditions>,
         <paash#economics>,
         <paash#edmonton>,
+        <paash#edmonton.__city_council>,
         <paash#education>,
         <paash#education,_elementary>,
         <paash#education,_postsecondary>,
@@ -36910,6 +36882,7 @@
         <paash#hoodoos>,
         <paash#hops>,
         <paash#horse-racing>,
+        <paash#horse_rustling>,
         <paash#horsemanship>,
         <paash#horses>,
         <paash#horseshoe_pitching>,
@@ -37197,7 +37170,6 @@
         <paash#locusts>,
         <paash#log_buildings>,
         <paash#log_cabins>,
-        <paash#log_transportation>,
         <paash#logging_and_loggers>,
         <paash#long-term_care_facilities>,
         <paash#lotteries>,
@@ -37280,7 +37252,6 @@
         <paash#migration,_internal>,
         <paash#military>,
         <paash#military_assistance,_foreign>,
-        <paash#military_discharges>,
         <paash#military_service,_compulsory>,
         <paash#milk>,
         <paash#millinery>,
@@ -37437,6 +37408,7 @@
         <paash#oil_fields>,
         <paash#oil_industry_and_trade>,
         <paash#oil_pipelines>,
+        <paash#oil_refineries>,
         <paash#oil_sands>,
         <paash#oil_sands_extraction_plants>,
         <paash#oil_sands_industry>,
