@@ -592,7 +592,7 @@ Arrowheads
 Arson
 
 Art
-	Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc.
+	Specify when possible, e.g. Graphic arts, Performing arts, Literature, Poetry and poets, Sculpture, etc.
 	NT Catalogues
 	NT Education
 	NT Galleries
@@ -828,7 +828,7 @@ Automobiles
 	NT Industry and trade
 	NT Inspection
 	NT Insurance
-		USE Insurance -- Automobile
+		USE Insurance, Automobile
 	NT Law and legislation
 	NT Licensing
 	NT License plates
@@ -1049,6 +1049,7 @@ Bees
 Beet sugar
 
 Beet sugar industry
+	USE Sugar beet industry
 
 Beets
 
@@ -1445,7 +1446,7 @@ By-laws
 	RT Edmonton -- By-laws
 	RT Calgary -- By-laws
 
-By-Laws, Municipal
+By-laws, Municipal
 	USE Ordinances, Municipal
 
 Cabbage
@@ -2232,6 +2233,7 @@ Children
 	NT Employment
 	NT Health
 	NT Hospitals
+		USE Hospitals -- Children
 	NT Institutional care
 	NT Legal status, laws, etc.
 	NT Music
@@ -2357,6 +2359,7 @@ Clay industries
 Cleaning
 
 Clearing of land
+	USE Land clearing
 
 Clergy
 	When possible use specific sect or religion, e.g. Catholic Church -- Clergy
@@ -6017,10 +6020,14 @@ Insurance
 	NT Adjustment of claims
 	NT Agents
 	NT Agriculture
+		USE Insurance, Agricultural
+	NT Automobile
+		USE Insurance, Automobile
 	NT Policies
 	NT Rates and tables
 	NT Statistics
 	NT Surety and fidelity
+		USE Insurance, Surety and fidelity
 
 Insurance, Accident
 
@@ -7288,6 +7295,7 @@ Military
 	NT Ceremonies, honours and salutes
 	NT Discharge
 	NT Hospitals
+		USE Hospitals -- Military
 	NT Pensions
 	NT Service
 	NT Uniforms
@@ -10455,7 +10463,7 @@ Stonemasons
 Stookers
 
 Stopping houses
-	USE Hotels, taverns, etc.
+	USE Hotels
 
 Storage and moving trade
 	RT Moving, Household
@@ -10882,7 +10890,7 @@ Tornadoes
 
 Totem poles
 
-Tour guides
+Tour guides (Persons)
 
 Tourism and tourists
 
@@ -11372,7 +11380,7 @@ Vandalism
 Variety shows (Television programs)
 
 Variety shows (Theatre)
-	USE Music halls (Variety theatres, cabarets, etc).
+	USE Music halls
 
 Vaulting
 	USE Gymnastics

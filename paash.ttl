@@ -2402,11 +2402,6 @@
     skos:prefLabel "Beet sugar"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
-<http://archivesalberta.org/doc/paash.rdf#beet_sugar_industry> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Beet sugar industry"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
 <http://archivesalberta.org/doc/paash.rdf#beets> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Beets"@en ;
@@ -5273,11 +5268,6 @@
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Children -- Health"@en .
 
-<http://archivesalberta.org/doc/paash.rdf#children_--_hospitals> a skos:Concept ;
-    skos:broader <http://archivesalberta.org/doc/paash.rdf#children> ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Children -- Hospitals"@en .
-
 <http://archivesalberta.org/doc/paash.rdf#children_--_institutional_care> a skos:Concept ;
     skos:broader <http://archivesalberta.org/doc/paash.rdf#children> ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
@@ -5507,11 +5497,6 @@
 <http://archivesalberta.org/doc/paash.rdf#cleaning> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Cleaning"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#clearing_of_land> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Clearing of land"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#clergy> a skos:Concept ;
@@ -12250,6 +12235,7 @@
     skos:prefLabel "Hospitals -- Administration"@en .
 
 <http://archivesalberta.org/doc/paash.rdf#hospitals_--_children> a skos:Concept ;
+    skos:altLabel "Children -- Hospitals"@en ;
     skos:broader <http://archivesalberta.org/doc/paash.rdf#hospitals> ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Hospitals -- Children"@en .
@@ -12287,6 +12273,7 @@
     skos:prefLabel "Hospitals -- Furniture, equipment, etc."@en .
 
 <http://archivesalberta.org/doc/paash.rdf#hospitals_--_military> a skos:Concept ;
+    skos:altLabel "Military -- Hospitals"@en ;
     skos:broader <http://archivesalberta.org/doc/paash.rdf#hospitals> ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Hospitals -- Military"@en .
@@ -12326,14 +12313,9 @@
     skos:prefLabel "Hostels -- Youth"@en .
 
 <http://archivesalberta.org/doc/paash.rdf#hotels> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Hotels"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#hotels,_taverns,_etc.> a skos:Concept ;
     skos:altLabel "Stopping houses"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Hotels, taverns, etc."@en ;
+    skos:prefLabel "Hotels"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#houseboats> a skos:Concept ;
@@ -13028,11 +13010,14 @@
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#insurance,_agricultural> a skos:Concept ;
+    skos:altLabel "Insurance -- Agriculture"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Insurance, Agricultural"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#insurance,_automobile> a skos:Concept ;
+    skos:altLabel "Automobiles -- Insurance"@en,
+        "Insurance -- Automobile"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Insurance, Automobile"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
@@ -13106,6 +13091,12 @@
     skos:prefLabel "Insurance, Property"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
+<http://archivesalberta.org/doc/paash.rdf#insurance,_surety_and_fidelity> a skos:Concept ;
+    skos:altLabel "Insurance -- Surety and fidelity"@en ;
+    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
+    skos:prefLabel "Insurance, Surety and fidelity"@en ;
+    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
+
 <http://archivesalberta.org/doc/paash.rdf#insurance,_unemployment> a skos:Concept ;
     skos:altLabel "Unemployment insurance"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
@@ -13127,18 +13118,6 @@
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Insurance -- Agents"@en .
 
-<http://archivesalberta.org/doc/paash.rdf#insurance_--_agriculture> a skos:Concept ;
-    skos:altLabel "Agricultural insurance"@en ;
-    skos:broader <http://archivesalberta.org/doc/paash.rdf#insurance> ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Insurance -- Agriculture"@en .
-
-<http://archivesalberta.org/doc/paash.rdf#insurance_--_automobile> a skos:Concept ;
-    skos:altLabel "Automobiles -- Insurance"@en ;
-    skos:broader <http://archivesalberta.org/doc/paash.rdf#insurance> ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Insurance -- Automobile"@en .
-
 <http://archivesalberta.org/doc/paash.rdf#insurance_--_policies> a skos:Concept ;
     skos:broader <http://archivesalberta.org/doc/paash.rdf#insurance> ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
@@ -13153,13 +13132,6 @@
     skos:broader <http://archivesalberta.org/doc/paash.rdf#insurance> ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Insurance -- Statistics"@en .
-
-<http://archivesalberta.org/doc/paash.rdf#insurance_--_surety_and_fidelity> a skos:Concept ;
-    skos:altLabel "Bonding of employees"@en,
-        "Surety and fidelity insurance"@en ;
-    skos:broader <http://archivesalberta.org/doc/paash.rdf#insurance> ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Insurance -- Surety and fidelity"@en .
 
 <http://archivesalberta.org/doc/paash.rdf#insurance_companies> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
@@ -14796,6 +14768,7 @@
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#land_clearing> a skos:Concept ;
+    skos:altLabel "Clearing of land"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Land clearing"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
@@ -15874,11 +15847,6 @@
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Military -- Discharge"@en .
 
-<http://archivesalberta.org/doc/paash.rdf#military_--_hospitals> a skos:Concept ;
-    skos:broader <http://archivesalberta.org/doc/paash.rdf#military> ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Military -- Hospitals"@en .
-
 <http://archivesalberta.org/doc/paash.rdf#military_--_pensions> a skos:Concept ;
     skos:altLabel "Pensions, Military"@en ;
     skos:broader <http://archivesalberta.org/doc/paash.rdf#military> ;
@@ -16340,14 +16308,9 @@
     skos:prefLabel "Music -- Textbooks"@en .
 
 <http://archivesalberta.org/doc/paash.rdf#music_halls> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Music halls"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#music_halls_(variety_theatres,_cabarets,_etc).> a skos:Concept ;
     skos:altLabel "Variety shows (Theatre)"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Music halls (Variety theatres, cabarets, etc)."@en ;
+    skos:prefLabel "Music halls"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#music_in_education> a skos:Concept ;
@@ -18687,7 +18650,7 @@
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#ordinances,_municipal> a skos:Concept ;
-    skos:altLabel "By-Laws, Municipal"@en ;
+    skos:altLabel "By-laws, Municipal"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Ordinances, Municipal"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
@@ -23606,6 +23569,7 @@
     skos:prefLabel "Sugar -- Workers"@en .
 
 <http://archivesalberta.org/doc/paash.rdf#sugar_beet_industry> a skos:Concept ;
+    skos:altLabel "Beet sugar industry"@en ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Sugar beet industry"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
@@ -24213,11 +24177,6 @@
 <http://archivesalberta.org/doc/paash.rdf#totem_poles> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Totem poles"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#tour_guides> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:prefLabel "Tour guides"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#tour_guides_(persons)> a skos:Concept ;
@@ -31808,7 +31767,7 @@
         <http://archivesalberta.org/doc/paash.rdf#art_--_private_collections>,
         <http://archivesalberta.org/doc/paash.rdf#art_--_studios> ;
     skos:prefLabel "Art"@en ;
-    skos:scopeNote "Specify when possible, e.g. Graphic arts, Performing arts, Literary arts, Sculpture, etc."@en ;
+    skos:scopeNote "Specify when possible, e.g. Graphic arts, Performing arts, Literature, Poetry and poets, Sculpture, etc."@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#birds> a skos:Concept ;
@@ -32184,6 +32143,17 @@
         <http://archivesalberta.org/doc/paash.rdf#government_spending_policy> ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
+<http://archivesalberta.org/doc/paash.rdf#insurance> a skos:Concept ;
+    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
+    skos:narrower <http://archivesalberta.org/doc/paash.rdf#insurance_--_accounting>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance_--_adjustment_of_claims>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance_--_agents>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance_--_policies>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance_--_rates_and_tables>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance_--_statistics> ;
+    skos:prefLabel "Insurance"@en ;
+    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
+
 <http://archivesalberta.org/doc/paash.rdf#irrigation> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:narrower <http://archivesalberta.org/doc/paash.rdf#irrigation_--_canals_and_flumes>,
@@ -32193,6 +32163,17 @@
         <http://archivesalberta.org/doc/paash.rdf#irrigation_--_laws>,
         <http://archivesalberta.org/doc/paash.rdf#irrigation_--_research> ;
     skos:prefLabel "Irrigation"@en ;
+    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
+
+<http://archivesalberta.org/doc/paash.rdf#military> a skos:Concept ;
+    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
+    skos:narrower <http://archivesalberta.org/doc/paash.rdf#military_--_bases>,
+        <http://archivesalberta.org/doc/paash.rdf#military_--_ceremonies,_honours_and_salutes>,
+        <http://archivesalberta.org/doc/paash.rdf#military_--_discharge>,
+        <http://archivesalberta.org/doc/paash.rdf#military_--_pensions>,
+        <http://archivesalberta.org/doc/paash.rdf#military_--_service>,
+        <http://archivesalberta.org/doc/paash.rdf#military_--_uniforms> ;
+    skos:prefLabel "Military"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#music> a skos:Concept ;
@@ -32288,18 +32269,6 @@
     skos:prefLabel "Mental health"@en ;
     skos:related <http://archivesalberta.org/doc/paash.rdf#psychiatric_patients>,
         <http://archivesalberta.org/doc/paash.rdf#suicide> ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#military> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:narrower <http://archivesalberta.org/doc/paash.rdf#military_--_bases>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_ceremonies,_honours_and_salutes>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_discharge>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_hospitals>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_pensions>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_service>,
-        <http://archivesalberta.org/doc/paash.rdf#military_--_uniforms> ;
-    skos:prefLabel "Military"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#numbered_treaties> a skos:Concept ;
@@ -32403,20 +32372,6 @@
         <http://archivesalberta.org/doc/paash.rdf#women_--_societies_and_clubs>,
         <http://archivesalberta.org/doc/paash.rdf#women_--_suffrage> ;
     skos:prefLabel "Women"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#insurance> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:narrower <http://archivesalberta.org/doc/paash.rdf#insurance_--_accounting>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_adjustment_of_claims>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_agents>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_agriculture>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_automobile>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_policies>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_rates_and_tables>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_statistics>,
-        <http://archivesalberta.org/doc/paash.rdf#insurance_--_surety_and_fidelity> ;
-    skos:prefLabel "Insurance"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#local_government> a skos:Concept ;
@@ -32587,6 +32542,22 @@
     skos:prefLabel "Telephone"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
+<http://archivesalberta.org/doc/paash.rdf#children> a skos:Concept ;
+    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
+    skos:narrower <http://archivesalberta.org/doc/paash.rdf#children_--_art>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_biography>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_clothing>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_diseases>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_employment>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_health>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_institutional_care>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_legal_status,_laws,_etc.>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_music>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_nutrition>,
+        <http://archivesalberta.org/doc/paash.rdf#children_--_societies_and_clubs> ;
+    skos:prefLabel "Children"@en ;
+    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
+
 <http://archivesalberta.org/doc/paash.rdf#export_marketing> a skos:Concept ;
     skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
     skos:prefLabel "Export marketing"@en ;
@@ -32686,23 +32657,6 @@
         <http://archivesalberta.org/doc/paash.rdf#catholic_church_--_sermons>,
         <http://archivesalberta.org/doc/paash.rdf#catholic_church_--_societies,_etc.> ;
     skos:prefLabel "Catholic Church"@en ;
-    skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
-
-<http://archivesalberta.org/doc/paash.rdf#children> a skos:Concept ;
-    skos:inScheme <http://archivesalberta.org/doc/paash.rdf#paash> ;
-    skos:narrower <http://archivesalberta.org/doc/paash.rdf#children_--_art>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_biography>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_clothing>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_diseases>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_employment>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_health>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_hospitals>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_institutional_care>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_legal_status,_laws,_etc.>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_music>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_nutrition>,
-        <http://archivesalberta.org/doc/paash.rdf#children_--_societies_and_clubs> ;
-    skos:prefLabel "Children"@en ;
     skos:topConceptOf <http://archivesalberta.org/doc/paash.rdf#paash> .
 
 <http://archivesalberta.org/doc/paash.rdf#grain> a skos:Concept ;
@@ -35934,7 +35888,6 @@
         <http://archivesalberta.org/doc/paash.rdf#beer>,
         <http://archivesalberta.org/doc/paash.rdf#bees>,
         <http://archivesalberta.org/doc/paash.rdf#beet_sugar>,
-        <http://archivesalberta.org/doc/paash.rdf#beet_sugar_industry>,
         <http://archivesalberta.org/doc/paash.rdf#beets>,
         <http://archivesalberta.org/doc/paash.rdf#belgian_canadians>,
         <http://archivesalberta.org/doc/paash.rdf#belgians>,
@@ -36174,7 +36127,6 @@
         <http://archivesalberta.org/doc/paash.rdf#class_and_classism>,
         <http://archivesalberta.org/doc/paash.rdf#clay_industries>,
         <http://archivesalberta.org/doc/paash.rdf#cleaning>,
-        <http://archivesalberta.org/doc/paash.rdf#clearing_of_land>,
         <http://archivesalberta.org/doc/paash.rdf#clergy>,
         <http://archivesalberta.org/doc/paash.rdf#clerks>,
         <http://archivesalberta.org/doc/paash.rdf#clerks_of_court>,
@@ -36894,7 +36846,6 @@
         <http://archivesalberta.org/doc/paash.rdf#hot_air_balloons>,
         <http://archivesalberta.org/doc/paash.rdf#hot_springs>,
         <http://archivesalberta.org/doc/paash.rdf#hotels>,
-        <http://archivesalberta.org/doc/paash.rdf#hotels,_taverns,_etc.>,
         <http://archivesalberta.org/doc/paash.rdf#houseboats>,
         <http://archivesalberta.org/doc/paash.rdf#housing>,
         <http://archivesalberta.org/doc/paash.rdf#hudson's_bay_company>,
@@ -36982,6 +36933,7 @@
         <http://archivesalberta.org/doc/paash.rdf#insurance,_life>,
         <http://archivesalberta.org/doc/paash.rdf#insurance,_nuclear_hazards>,
         <http://archivesalberta.org/doc/paash.rdf#insurance,_property>,
+        <http://archivesalberta.org/doc/paash.rdf#insurance,_surety_and_fidelity>,
         <http://archivesalberta.org/doc/paash.rdf#insurance,_unemployment>,
         <http://archivesalberta.org/doc/paash.rdf#insurance,_uninsured_motorist>,
         <http://archivesalberta.org/doc/paash.rdf#insurance_companies>,
@@ -37324,7 +37276,6 @@
         <http://archivesalberta.org/doc/paash.rdf#mushrooms>,
         <http://archivesalberta.org/doc/paash.rdf#music>,
         <http://archivesalberta.org/doc/paash.rdf#music_halls>,
-        <http://archivesalberta.org/doc/paash.rdf#music_halls_(variety_theatres,_cabarets,_etc).>,
         <http://archivesalberta.org/doc/paash.rdf#music_in_education>,
         <http://archivesalberta.org/doc/paash.rdf#musical_groups>,
         <http://archivesalberta.org/doc/paash.rdf#musical_revues>,
@@ -38164,7 +38115,6 @@
         <http://archivesalberta.org/doc/paash.rdf#tools>,
         <http://archivesalberta.org/doc/paash.rdf#tornadoes>,
         <http://archivesalberta.org/doc/paash.rdf#totem_poles>,
-        <http://archivesalberta.org/doc/paash.rdf#tour_guides>,
         <http://archivesalberta.org/doc/paash.rdf#tour_guides_(persons)>,
         <http://archivesalberta.org/doc/paash.rdf#tourism_and_tourists>,
         <http://archivesalberta.org/doc/paash.rdf#tourist_information_centres>,
