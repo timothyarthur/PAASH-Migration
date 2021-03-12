@@ -2331,6 +2331,8 @@ City Council members
 
 City councils
 	USE [Name of city].  City council
+	USE Calgary.  City council
+	USE Edmonton.  City council
 
 City planning
 
@@ -4280,6 +4282,13 @@ Euthanasia
 Evangelists
 	USE Missions and missionaries
 	USE [Name of specific religion or sect] -- Missions and missionaries
+	USE Anglican Church of Canada -- Missions and missionaries
+	USE Baptist Church -- Missions and missionaries
+	USE Christianity -- Missions and missionaries
+	USE Church of Jesus Christ of the Latter Day Saints -- Missions and missionaries
+	USE Jehovah's Witnesses -- Missions and missionaries
+	USE Lutheran Church -- Missions and missionaries
+	USE Presbyterian Church -- Missions and missionaries
 
 Excavating machinery
 
@@ -5628,6 +5637,8 @@ Honey
 
 Honourary degrees
 	USE [Name of university] -- Degrees (Honourary)
+	USE Athabasca University -- Degrees (Honourary)
+	USE University of Alberta -- Degrees (Honourary)
 	RT Degrees, Academic
 
 Hoodoos

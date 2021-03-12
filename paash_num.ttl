@@ -1046,6 +1046,7 @@
     skos:prefLabel "Anglican Church of Canada -- Members"@en .
 
 <http://purl.org/paash#sh000303> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh000293> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Anglican Church of Canada -- Missions and missionaries"@en .
@@ -1770,6 +1771,7 @@
     skos:prefLabel "Athabasca University -- Degrees"@en .
 
 <http://purl.org/paash#sh000468> a skos:Concept ;
+    skos:altLabel "Honourary degrees"@en ;
     skos:broader <http://purl.org/paash#sh000456> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Athabasca University -- Degrees (Honourary)"@en .
@@ -2198,6 +2200,7 @@
     skos:prefLabel "Baptist Church -- Members"@en .
 
 <http://purl.org/paash#sh000560> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh000551> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Baptist Church -- Missions and missionaries"@en .
@@ -2962,7 +2965,8 @@
     skos:topConceptOf <http://purl.org/paash#paash> .
 
 <http://purl.org/paash#sh000744> a skos:Concept ;
-    skos:altLabel "Calgary -- City Council"@en ;
+    skos:altLabel "Calgary -- City Council"@en,
+        "City councils"@en ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Calgary.  City council"@en ;
     skos:topConceptOf <http://purl.org/paash#paash> .
@@ -5356,6 +5360,7 @@
     skos:prefLabel "Christianity -- Holidays"@en .
 
 <http://purl.org/paash#sh001292> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh001288> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Christianity -- Missions and missionaries"@en .
@@ -5416,6 +5421,7 @@
     skos:prefLabel "Church of Jesus Christ of the Latter Day Saints -- Clergy"@en .
 
 <http://purl.org/paash#sh001307> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh001304> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Church of Jesus Christ of the Latter Day Saints -- Missions and missionaries"@en .
@@ -8983,7 +8989,8 @@
     skos:prefLabel "Economics -- Research"@en .
 
 <http://purl.org/paash#sh002118> a skos:Concept ;
-    skos:altLabel "Edmonton -- City Council"@en ;
+    skos:altLabel "City councils"@en,
+        "Edmonton -- City Council"@en ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Edmonton.  City council"@en ;
     skos:topConceptOf <http://purl.org/paash#paash> .
@@ -13765,6 +13772,7 @@
     skos:prefLabel "Jehovah's Witnesses -- Clergy"@en .
 
 <http://purl.org/paash#sh003244> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh003240> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Jehovah's Witnesses -- Missions and missionaries"@en .
@@ -15424,6 +15432,7 @@
     skos:prefLabel "Lutheran Church -- Membership"@en .
 
 <http://purl.org/paash#sh003614> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh003605> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Lutheran Church -- Missions and missionaries"@en .
@@ -20076,6 +20085,7 @@
     skos:prefLabel "Presbyterian Church -- Finance"@en .
 
 <http://purl.org/paash#sh004677> a skos:Concept ;
+    skos:altLabel "Evangelists"@en ;
     skos:broader <http://purl.org/paash#sh004672> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "Presbyterian Church -- Missions and missionaries"@en .
@@ -25139,6 +25149,7 @@
     skos:prefLabel "University of Alberta -- Degrees"@en .
 
 <http://purl.org/paash#sh005821> a skos:Concept ;
+    skos:altLabel "Honourary degrees"@en ;
     skos:broader <http://purl.org/paash#sh005809> ;
     skos:inScheme <http://purl.org/paash#paash> ;
     skos:prefLabel "University of Alberta -- Degrees (Honourary)"@en .
