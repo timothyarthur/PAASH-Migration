@@ -370,8 +370,8 @@ if test:
 	rdf_file_xml = 'paash_test.rdf'
 
 else:
-	rdf_file = 'paash.ttl'
-	rdf_file_xml = 'paash.rdf'
+	rdf_file = 'paash_1.0.ttl'
+	rdf_file_xml = 'paash_1.0.rdf'
 
 numerical.serialize(destination=rdf_file, format='ttl')
 numerical.serialize(destination=rdf_file_xml, format='xml')
