@@ -367,19 +367,16 @@ for s, p, o in g:
 #Writing the output to the indicated file, in the indicated RDF serialization format
 if test:
 	rdf_file = 'paash_test.ttl'
-	num_rdf_file = 'paash_num_test.ttl'
-	num_rdf_file_xml = 'paash_num_test.xml'
+	rdf_file_xml = 'paash_test.rdf'
 
 else:
 	rdf_file = 'paash.ttl'
-	num_rdf_file = 'paash_num.ttl'
-	num_rdf_file_xml = 'paash_num.xml'
+	rdf_file_xml = 'paash.rdf'
 
-g.serialize(destination=rdf_file, format='ttl')
-numerical.serialize(destination=num_rdf_file, format='ttl')
-numerical.serialize(destination=num_rdf_file_xml, format='xml')
+numerical.serialize(destination=rdf_file, format='ttl')
+numerical.serialize(destination=rdf_file_xml, format='xml')
 
-print(f'Graph containing {len(concepts)} concepts successfully written to {num_rdf_file} and {num_rdf_file_xml}')
+print(f'Graph containing {len(concepts)} concepts successfully written to {rdf_file} and {rdf_file_xml}')
 
 #Writing lines for review to the indicated file in human-readable format
 if test:
